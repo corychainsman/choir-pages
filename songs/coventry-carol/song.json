@@ -1,0 +1,2405 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "35f0d5dad073441d0ae34ba438cb4ca9d2f79561e74274c9fd6bb0c42e466d73",
+  "id": "coventry-carol",
+  "title": "Coventry Carol",
+  "durationMs": 46450,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/coventry-carol/song.cscore",
+  "displayScore": "/songs/coventry-carol/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 18,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 20
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 18,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 20
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 18,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 20
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 18,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 20
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "Public domain",
+  "sequenceCredit": "Public-domain LilyPond edition by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 2,
+      "lyricTrack": 6,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 8064,
+          "text": "Lul",
+          "order": 0,
+          "timeMs": 14000,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "lay,",
+          "order": 1,
+          "timeMs": 14667,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Thou",
+          "order": 2,
+          "timeMs": 15333,
+          "word": "thou",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "lit",
+          "order": 3,
+          "timeMs": 16000,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "tle",
+          "order": 4,
+          "timeMs": 17333,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "ti",
+          "order": 5,
+          "timeMs": 18000,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "ny",
+          "order": 6,
+          "timeMs": 19333,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "Child,",
+          "order": 7,
+          "timeMs": 20000,
+          "word": "child",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12672,
+          "text": "By,",
+          "order": 8,
+          "timeMs": 22000,
+          "word": "by",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "by,",
+          "order": 9,
+          "timeMs": 22667,
+          "word": "by",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "lul",
+          "order": 10,
+          "timeMs": 23333,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "ly,",
+          "order": 11,
+          "timeMs": 24000,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "lul",
+          "order": 12,
+          "timeMs": 25333,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "lay;",
+          "order": 13,
+          "timeMs": 26000,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "Lul",
+          "order": 14,
+          "timeMs": 29333,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "lay,",
+          "order": 15,
+          "timeMs": 30000,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "Thou",
+          "order": 16,
+          "timeMs": 31333,
+          "word": "thou",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18432,
+          "text": "lit",
+          "order": 17,
+          "timeMs": 32000,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "tle",
+          "order": 18,
+          "timeMs": 33333,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "ti",
+          "order": 19,
+          "timeMs": 34000,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20352,
+          "text": "ny",
+          "order": 20,
+          "timeMs": 35333,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "child,",
+          "order": 21,
+          "timeMs": 36000,
+          "word": "child",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21888,
+          "text": "By,",
+          "order": 22,
+          "timeMs": 38000,
+          "word": "by",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22272,
+          "text": "by,",
+          "order": 23,
+          "timeMs": 38667,
+          "word": "by",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22656,
+          "text": "lul",
+          "order": 24,
+          "timeMs": 39333,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "ly,",
+          "order": 25,
+          "timeMs": 40000,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "lul",
+          "order": 26,
+          "timeMs": 41333,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24192,
+          "text": "lay.",
+          "order": 27,
+          "timeMs": 42000,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 667,
+          "note": 55
+        },
+        {
+          "startMs": 667,
+          "endMs": 1333,
+          "note": 55
+        },
+        {
+          "startMs": 1333,
+          "endMs": 2000,
+          "note": 50
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3333,
+          "note": 55
+        },
+        {
+          "startMs": 3333,
+          "endMs": 4000,
+          "note": 55
+        },
+        {
+          "startMs": 4000,
+          "endMs": 5333,
+          "note": 53
+        },
+        {
+          "startMs": 5333,
+          "endMs": 6000,
+          "note": 55
+        },
+        {
+          "startMs": 6000,
+          "endMs": 8000,
+          "note": 50
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8667,
+          "note": 55
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9333,
+          "note": 50
+        },
+        {
+          "startMs": 9333,
+          "endMs": 10000,
+          "note": 51
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11333,
+          "note": 48
+        },
+        {
+          "startMs": 11333,
+          "endMs": 12000,
+          "note": 50
+        },
+        {
+          "startMs": 12000,
+          "endMs": 14000,
+          "note": 43
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14667,
+          "note": 55
+        },
+        {
+          "startMs": 14667,
+          "endMs": 15333,
+          "note": 55
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 50
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17333,
+          "note": 55
+        },
+        {
+          "startMs": 17333,
+          "endMs": 18000,
+          "note": 55
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19333,
+          "note": 53
+        },
+        {
+          "startMs": 19333,
+          "endMs": 20000,
+          "note": 55
+        },
+        {
+          "startMs": 20000,
+          "endMs": 22000,
+          "note": 50
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22667,
+          "note": 55
+        },
+        {
+          "startMs": 22667,
+          "endMs": 23333,
+          "note": 54
+        },
+        {
+          "startMs": 23333,
+          "endMs": 24000,
+          "note": 55
+        },
+        {
+          "startMs": 24000,
+          "endMs": 25333,
+          "note": 48
+        },
+        {
+          "startMs": 25333,
+          "endMs": 26000,
+          "note": 50
+        },
+        {
+          "startMs": 26000,
+          "endMs": 29333,
+          "note": 55
+        },
+        {
+          "startMs": 29333,
+          "endMs": 30000,
+          "note": 46
+        },
+        {
+          "startMs": 30000,
+          "endMs": 31333,
+          "note": 53
+        },
+        {
+          "startMs": 31333,
+          "endMs": 32000,
+          "note": 50
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33333,
+          "note": 53
+        },
+        {
+          "startMs": 33333,
+          "endMs": 34000,
+          "note": 46
+        },
+        {
+          "startMs": 34000,
+          "endMs": 35333,
+          "note": 48
+        },
+        {
+          "startMs": 35333,
+          "endMs": 36000,
+          "note": 51
+        },
+        {
+          "startMs": 36000,
+          "endMs": 38000,
+          "note": 50
+        },
+        {
+          "startMs": 38000,
+          "endMs": 38667,
+          "note": 55
+        },
+        {
+          "startMs": 38667,
+          "endMs": 39333,
+          "note": 50
+        },
+        {
+          "startMs": 39333,
+          "endMs": 40000,
+          "note": 51
+        },
+        {
+          "startMs": 40000,
+          "endMs": 41333,
+          "note": 48
+        },
+        {
+          "startMs": 41333,
+          "endMs": 42000,
+          "note": 50
+        },
+        {
+          "startMs": 42000,
+          "endMs": 46000,
+          "note": 43
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 2,
+      "lyricTrack": 6,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 8064,
+          "text": "Lul",
+          "order": 0,
+          "timeMs": 14000,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "lay,",
+          "order": 1,
+          "timeMs": 14667,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Thou",
+          "order": 2,
+          "timeMs": 15333,
+          "word": "thou",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "lit",
+          "order": 3,
+          "timeMs": 16000,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "tle",
+          "order": 4,
+          "timeMs": 17333,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "ti",
+          "order": 5,
+          "timeMs": 18000,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "ny",
+          "order": 6,
+          "timeMs": 19333,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "Child,",
+          "order": 7,
+          "timeMs": 20000,
+          "word": "child",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12672,
+          "text": "By,",
+          "order": 8,
+          "timeMs": 22000,
+          "word": "by",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "by,",
+          "order": 9,
+          "timeMs": 22667,
+          "word": "by",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "lul",
+          "order": 10,
+          "timeMs": 23333,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "ly,",
+          "order": 11,
+          "timeMs": 24000,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "lul",
+          "order": 12,
+          "timeMs": 25333,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "lay;",
+          "order": 13,
+          "timeMs": 26000,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "Lul",
+          "order": 14,
+          "timeMs": 29333,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "lay,",
+          "order": 15,
+          "timeMs": 30000,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "Thou",
+          "order": 16,
+          "timeMs": 31333,
+          "word": "thou",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18432,
+          "text": "lit",
+          "order": 17,
+          "timeMs": 32000,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "tle",
+          "order": 18,
+          "timeMs": 33333,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "ti",
+          "order": 19,
+          "timeMs": 34000,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20352,
+          "text": "ny",
+          "order": 20,
+          "timeMs": 35333,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "child,",
+          "order": 21,
+          "timeMs": 36000,
+          "word": "child",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21888,
+          "text": "By,",
+          "order": 22,
+          "timeMs": 38000,
+          "word": "by",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22272,
+          "text": "by,",
+          "order": 23,
+          "timeMs": 38667,
+          "word": "by",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22656,
+          "text": "lul",
+          "order": 24,
+          "timeMs": 39333,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "ly,",
+          "order": 25,
+          "timeMs": 40000,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "lul",
+          "order": 26,
+          "timeMs": 41333,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24192,
+          "text": "lay.",
+          "order": 27,
+          "timeMs": 42000,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 667,
+          "note": 58
+        },
+        {
+          "startMs": 667,
+          "endMs": 1333,
+          "note": 58
+        },
+        {
+          "startMs": 1333,
+          "endMs": 2000,
+          "note": 57
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3333,
+          "note": 58
+        },
+        {
+          "startMs": 3333,
+          "endMs": 4000,
+          "note": 58
+        },
+        {
+          "startMs": 4000,
+          "endMs": 5333,
+          "note": 60
+        },
+        {
+          "startMs": 5333,
+          "endMs": 6000,
+          "note": 58
+        },
+        {
+          "startMs": 6000,
+          "endMs": 8000,
+          "note": 57
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8667,
+          "note": 58
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9333,
+          "note": 57
+        },
+        {
+          "startMs": 9333,
+          "endMs": 10000,
+          "note": 55
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11333,
+          "note": 55
+        },
+        {
+          "startMs": 11333,
+          "endMs": 12000,
+          "note": 54
+        },
+        {
+          "startMs": 12000,
+          "endMs": 14000,
+          "note": 55
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14667,
+          "note": 58
+        },
+        {
+          "startMs": 14667,
+          "endMs": 15333,
+          "note": 58
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 57
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17333,
+          "note": 58
+        },
+        {
+          "startMs": 17333,
+          "endMs": 18000,
+          "note": 58
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19333,
+          "note": 60
+        },
+        {
+          "startMs": 19333,
+          "endMs": 20000,
+          "note": 58
+        },
+        {
+          "startMs": 20000,
+          "endMs": 22000,
+          "note": 57
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22667,
+          "note": 58
+        },
+        {
+          "startMs": 22667,
+          "endMs": 23333,
+          "note": 57
+        },
+        {
+          "startMs": 24000,
+          "endMs": 25333,
+          "note": 55
+        },
+        {
+          "startMs": 25333,
+          "endMs": 26000,
+          "note": 54
+        },
+        {
+          "startMs": 26000,
+          "endMs": 29333,
+          "note": 58
+        },
+        {
+          "startMs": 29333,
+          "endMs": 30000,
+          "note": 58
+        },
+        {
+          "startMs": 30000,
+          "endMs": 31333,
+          "note": 57
+        },
+        {
+          "startMs": 31333,
+          "endMs": 32000,
+          "note": 58
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33333,
+          "note": 60
+        },
+        {
+          "startMs": 33333,
+          "endMs": 34000,
+          "note": 62
+        },
+        {
+          "startMs": 34000,
+          "endMs": 35333,
+          "note": 60
+        },
+        {
+          "startMs": 35333,
+          "endMs": 36000,
+          "note": 55
+        },
+        {
+          "startMs": 36000,
+          "endMs": 38000,
+          "note": 57
+        },
+        {
+          "startMs": 38000,
+          "endMs": 38667,
+          "note": 58
+        },
+        {
+          "startMs": 38667,
+          "endMs": 39333,
+          "note": 57
+        },
+        {
+          "startMs": 39333,
+          "endMs": 40000,
+          "note": 55
+        },
+        {
+          "startMs": 40000,
+          "endMs": 41333,
+          "note": 55
+        },
+        {
+          "startMs": 41333,
+          "endMs": 42000,
+          "note": 54
+        },
+        {
+          "startMs": 42000,
+          "endMs": 46000,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": 6,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 8064,
+          "text": "Lul",
+          "order": 0,
+          "timeMs": 14000,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "lay,",
+          "order": 1,
+          "timeMs": 14667,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Thou",
+          "order": 2,
+          "timeMs": 15333,
+          "word": "thou",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "lit",
+          "order": 3,
+          "timeMs": 16000,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "tle",
+          "order": 4,
+          "timeMs": 17333,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "ti",
+          "order": 5,
+          "timeMs": 18000,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "ny",
+          "order": 6,
+          "timeMs": 19333,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "Child,",
+          "order": 7,
+          "timeMs": 20000,
+          "word": "child",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12672,
+          "text": "By,",
+          "order": 8,
+          "timeMs": 22000,
+          "word": "by",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "by,",
+          "order": 9,
+          "timeMs": 22667,
+          "word": "by",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "lul",
+          "order": 10,
+          "timeMs": 23333,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "ly,",
+          "order": 11,
+          "timeMs": 24000,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "lul",
+          "order": 12,
+          "timeMs": 25333,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "lay;",
+          "order": 13,
+          "timeMs": 26000,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "Lul",
+          "order": 14,
+          "timeMs": 29333,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "lay,",
+          "order": 15,
+          "timeMs": 30000,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "Thou",
+          "order": 16,
+          "timeMs": 31333,
+          "word": "thou",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18432,
+          "text": "lit",
+          "order": 17,
+          "timeMs": 32000,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "tle",
+          "order": 18,
+          "timeMs": 33333,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "ti",
+          "order": 19,
+          "timeMs": 34000,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20352,
+          "text": "ny",
+          "order": 20,
+          "timeMs": 35333,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "child,",
+          "order": 21,
+          "timeMs": 36000,
+          "word": "child",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21888,
+          "text": "By,",
+          "order": 22,
+          "timeMs": 38000,
+          "word": "by",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22272,
+          "text": "by,",
+          "order": 23,
+          "timeMs": 38667,
+          "word": "by",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22656,
+          "text": "lul",
+          "order": 24,
+          "timeMs": 39333,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "ly,",
+          "order": 25,
+          "timeMs": 40000,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "lul",
+          "order": 26,
+          "timeMs": 41333,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24192,
+          "text": "lay.",
+          "order": 27,
+          "timeMs": 42000,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 667,
+          "note": 62
+        },
+        {
+          "startMs": 667,
+          "endMs": 1333,
+          "note": 62
+        },
+        {
+          "startMs": 1333,
+          "endMs": 2000,
+          "note": 62
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3333,
+          "note": 62
+        },
+        {
+          "startMs": 3333,
+          "endMs": 4000,
+          "note": 62
+        },
+        {
+          "startMs": 4000,
+          "endMs": 5333,
+          "note": 65
+        },
+        {
+          "startMs": 5333,
+          "endMs": 6000,
+          "note": 62
+        },
+        {
+          "startMs": 6000,
+          "endMs": 8000,
+          "note": 62
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8667,
+          "note": 62
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9333,
+          "note": 62
+        },
+        {
+          "startMs": 9333,
+          "endMs": 10000,
+          "note": 58
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11333,
+          "note": 63
+        },
+        {
+          "startMs": 11333,
+          "endMs": 12000,
+          "note": 62
+        },
+        {
+          "startMs": 12000,
+          "endMs": 14000,
+          "note": 62
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14667,
+          "note": 62
+        },
+        {
+          "startMs": 14667,
+          "endMs": 15333,
+          "note": 62
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 62
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17333,
+          "note": 62
+        },
+        {
+          "startMs": 17333,
+          "endMs": 18000,
+          "note": 62
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19333,
+          "note": 65
+        },
+        {
+          "startMs": 19333,
+          "endMs": 20000,
+          "note": 62
+        },
+        {
+          "startMs": 20000,
+          "endMs": 22000,
+          "note": 62
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22667,
+          "note": 62
+        },
+        {
+          "startMs": 22667,
+          "endMs": 23333,
+          "note": 62
+        },
+        {
+          "startMs": 23333,
+          "endMs": 24000,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 25333,
+          "note": 63
+        },
+        {
+          "startMs": 25333,
+          "endMs": 26000,
+          "note": 62
+        },
+        {
+          "startMs": 26000,
+          "endMs": 29333,
+          "note": 62
+        },
+        {
+          "startMs": 29333,
+          "endMs": 30000,
+          "note": 65
+        },
+        {
+          "startMs": 30000,
+          "endMs": 31333,
+          "note": 65
+        },
+        {
+          "startMs": 31333,
+          "endMs": 32000,
+          "note": 65
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33333,
+          "note": 65
+        },
+        {
+          "startMs": 33333,
+          "endMs": 34000,
+          "note": 67
+        },
+        {
+          "startMs": 34000,
+          "endMs": 35333,
+          "note": 63
+        },
+        {
+          "startMs": 35333,
+          "endMs": 36000,
+          "note": 60
+        },
+        {
+          "startMs": 36000,
+          "endMs": 38000,
+          "note": 62
+        },
+        {
+          "startMs": 38000,
+          "endMs": 38667,
+          "note": 62
+        },
+        {
+          "startMs": 38667,
+          "endMs": 39333,
+          "note": 62
+        },
+        {
+          "startMs": 39333,
+          "endMs": 40000,
+          "note": 58
+        },
+        {
+          "startMs": 40000,
+          "endMs": 41333,
+          "note": 63
+        },
+        {
+          "startMs": 41333,
+          "endMs": 42000,
+          "note": 62
+        },
+        {
+          "startMs": 42000,
+          "endMs": 46000,
+          "note": 62
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": 6,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 8064,
+          "text": "Lul",
+          "order": 0,
+          "timeMs": 14000,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "lay,",
+          "order": 1,
+          "timeMs": 14667,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Thou",
+          "order": 2,
+          "timeMs": 15333,
+          "word": "thou",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "lit",
+          "order": 3,
+          "timeMs": 16000,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "tle",
+          "order": 4,
+          "timeMs": 17333,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "ti",
+          "order": 5,
+          "timeMs": 18000,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "ny",
+          "order": 6,
+          "timeMs": 19333,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "Child,",
+          "order": 7,
+          "timeMs": 20000,
+          "word": "child",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12672,
+          "text": "By,",
+          "order": 8,
+          "timeMs": 22000,
+          "word": "by",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "by,",
+          "order": 9,
+          "timeMs": 22667,
+          "word": "by",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "lul",
+          "order": 10,
+          "timeMs": 23333,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "ly,",
+          "order": 11,
+          "timeMs": 24000,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "lul",
+          "order": 12,
+          "timeMs": 25333,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "lay;",
+          "order": 13,
+          "timeMs": 26000,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "Lul",
+          "order": 14,
+          "timeMs": 29333,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "lay,",
+          "order": 15,
+          "timeMs": 30000,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "Thou",
+          "order": 16,
+          "timeMs": 31333,
+          "word": "thou",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18432,
+          "text": "lit",
+          "order": 17,
+          "timeMs": 32000,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "tle",
+          "order": 18,
+          "timeMs": 33333,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "ti",
+          "order": 19,
+          "timeMs": 34000,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20352,
+          "text": "ny",
+          "order": 20,
+          "timeMs": 35333,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "child,",
+          "order": 21,
+          "timeMs": 36000,
+          "word": "child",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21888,
+          "text": "By,",
+          "order": 22,
+          "timeMs": 38000,
+          "word": "by",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22272,
+          "text": "by,",
+          "order": 23,
+          "timeMs": 38667,
+          "word": "by",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22656,
+          "text": "lul",
+          "order": 24,
+          "timeMs": 39333,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "ly,",
+          "order": 25,
+          "timeMs": 40000,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "lul",
+          "order": 26,
+          "timeMs": 41333,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24192,
+          "text": "lay.",
+          "order": 27,
+          "timeMs": 42000,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 667,
+          "note": 67
+        },
+        {
+          "startMs": 667,
+          "endMs": 1333,
+          "note": 67
+        },
+        {
+          "startMs": 1333,
+          "endMs": 2000,
+          "note": 66
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3333,
+          "note": 67
+        },
+        {
+          "startMs": 3333,
+          "endMs": 4000,
+          "note": 70
+        },
+        {
+          "startMs": 4000,
+          "endMs": 5333,
+          "note": 69
+        },
+        {
+          "startMs": 5333,
+          "endMs": 6000,
+          "note": 67
+        },
+        {
+          "startMs": 6000,
+          "endMs": 8000,
+          "note": 66
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8667,
+          "note": 67
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9333,
+          "note": 66
+        },
+        {
+          "startMs": 9333,
+          "endMs": 10000,
+          "note": 67
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11333,
+          "note": 72
+        },
+        {
+          "startMs": 11333,
+          "endMs": 12000,
+          "note": 69
+        },
+        {
+          "startMs": 12000,
+          "endMs": 14000,
+          "note": 71
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14667,
+          "note": 67
+        },
+        {
+          "startMs": 14667,
+          "endMs": 15333,
+          "note": 67
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 66
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17333,
+          "note": 67
+        },
+        {
+          "startMs": 17333,
+          "endMs": 18000,
+          "note": 70
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19333,
+          "note": 69
+        },
+        {
+          "startMs": 19333,
+          "endMs": 20000,
+          "note": 67
+        },
+        {
+          "startMs": 20000,
+          "endMs": 22000,
+          "note": 66
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22667,
+          "note": 67
+        },
+        {
+          "startMs": 22667,
+          "endMs": 23333,
+          "note": 69
+        },
+        {
+          "startMs": 23333,
+          "endMs": 24000,
+          "note": 70
+        },
+        {
+          "startMs": 24000,
+          "endMs": 25333,
+          "note": 72
+        },
+        {
+          "startMs": 25333,
+          "endMs": 26000,
+          "note": 69
+        },
+        {
+          "startMs": 26000,
+          "endMs": 29333,
+          "note": 67
+        },
+        {
+          "startMs": 29333,
+          "endMs": 30000,
+          "note": 74
+        },
+        {
+          "startMs": 30000,
+          "endMs": 31333,
+          "note": 72
+        },
+        {
+          "startMs": 31333,
+          "endMs": 32000,
+          "note": 70
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33333,
+          "note": 69
+        },
+        {
+          "startMs": 33333,
+          "endMs": 34000,
+          "note": 70
+        },
+        {
+          "startMs": 34000,
+          "endMs": 35333,
+          "note": 69
+        },
+        {
+          "startMs": 35333,
+          "endMs": 36000,
+          "note": 67
+        },
+        {
+          "startMs": 36000,
+          "endMs": 38000,
+          "note": 66
+        },
+        {
+          "startMs": 38000,
+          "endMs": 38667,
+          "note": 67
+        },
+        {
+          "startMs": 38667,
+          "endMs": 39333,
+          "note": 66
+        },
+        {
+          "startMs": 39333,
+          "endMs": 40000,
+          "note": 67
+        },
+        {
+          "startMs": 40000,
+          "endMs": 41333,
+          "note": 72
+        },
+        {
+          "startMs": 41333,
+          "endMs": 42000,
+          "note": 69
+        },
+        {
+          "startMs": 42000,
+          "endMs": 46000,
+          "note": 71
+        }
+      ]
+    }
+  ]
+}

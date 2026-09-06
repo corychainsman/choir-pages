@@ -1,0 +1,6633 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "4bfb404dcaf972c6111ecf1ad6cb01c11e63b0a87f380d27d3bfed26c54fa488",
+  "id": "sicut-cervus",
+  "title": "Sicut cervus",
+  "durationMs": 116450,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/sicut-cervus/song.cscore",
+  "displayScore": "/songs/sicut-cervus/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "la",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "la",
+        "syllables": 79,
+        "words": 35,
+        "unresolved": 0,
+        "sources": {
+          "lexicon": 73,
+          "sung-form": 6
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "la",
+        "syllables": 61,
+        "words": 27,
+        "unresolved": 0,
+        "sources": {
+          "lexicon": 57,
+          "sung-form": 4
+        }
+      },
+      {
+        "role": "alto",
+        "language": "la",
+        "syllables": 78,
+        "words": 37,
+        "unresolved": 0,
+        "sources": {
+          "lexicon": 70,
+          "sung-form": 8
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "la",
+        "syllables": 90,
+        "words": 39,
+        "unresolved": 0,
+        "sources": {
+          "lexicon": 84,
+          "sung-form": 6
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://stcpress.org/pieces/sicut_cervus",
+  "license": "CC BY 4.0",
+  "sequenceCredit": "",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 4,
+      "lyricTrack": 8,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 16896,
+          "text": "Sic",
+          "order": 0,
+          "timeMs": 11000,
+          "word": "sicut",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "ut",
+          "order": 1,
+          "timeMs": 13000,
+          "word": "sicut",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kʊt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21504,
+          "text": "cer",
+          "order": 2,
+          "timeMs": 14000,
+          "word": "cervus",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈɛrw",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "vus",
+          "order": 3,
+          "timeMs": 15000,
+          "word": "cervus",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "de",
+          "order": 4,
+          "timeMs": 15500,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24576,
+          "text": "si",
+          "order": 5,
+          "timeMs": 16000,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25728,
+          "text": "de",
+          "order": 6,
+          "timeMs": 16750,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26112,
+          "text": "rat",
+          "order": 7,
+          "timeMs": 17000,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ad",
+          "order": 8,
+          "timeMs": 17500,
+          "word": "ad",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "fon",
+          "order": 9,
+          "timeMs": 18000,
+          "word": "fontes",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29184,
+          "text": "tes",
+          "order": 10,
+          "timeMs": 19000,
+          "word": "fontes",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29952,
+          "text": "a",
+          "order": 11,
+          "timeMs": 19500,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "qua",
+          "order": 12,
+          "timeMs": 20000,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 32256,
+          "text": "rum,",
+          "order": 13,
+          "timeMs": 21000,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "Sic",
+          "order": 14,
+          "timeMs": 24000,
+          "word": "sicut",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39936,
+          "text": "ut",
+          "order": 15,
+          "timeMs": 26000,
+          "word": "sicut",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kʊt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41472,
+          "text": "cer",
+          "order": 16,
+          "timeMs": 27000,
+          "word": "cervus",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈɛrw",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 43008,
+          "text": "vus",
+          "order": 17,
+          "timeMs": 28000,
+          "word": "cervus",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44544,
+          "text": "de",
+          "order": 18,
+          "timeMs": 29000,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46080,
+          "text": "si",
+          "order": 19,
+          "timeMs": 30000,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47232,
+          "text": "de",
+          "order": 20,
+          "timeMs": 30750,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47616,
+          "text": "rat",
+          "order": 21,
+          "timeMs": 31000,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48384,
+          "text": "ad",
+          "order": 22,
+          "timeMs": 31500,
+          "word": "ad",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49152,
+          "text": "fon",
+          "order": 23,
+          "timeMs": 32000,
+          "word": "fontes",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 50688,
+          "text": "tes,",
+          "order": 24,
+          "timeMs": 33000,
+          "word": "fontes",
+          "wordIndex": 23,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 52992,
+          "text": "de",
+          "order": 25,
+          "timeMs": 34500,
+          "word": "desiderat",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 53760,
+          "text": "si",
+          "order": 26,
+          "timeMs": 35000,
+          "word": "desiderat",
+          "wordIndex": 25,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54528,
+          "text": "de",
+          "order": 27,
+          "timeMs": 35500,
+          "word": "desiderat",
+          "wordIndex": 25,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55296,
+          "text": "rat",
+          "order": 28,
+          "timeMs": 36000,
+          "word": "desiderat",
+          "wordIndex": 25,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 58368,
+          "text": "ad",
+          "order": 29,
+          "timeMs": 38000,
+          "word": "ad",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59904,
+          "text": "fon",
+          "order": 30,
+          "timeMs": 39000,
+          "word": "fontes",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 61440,
+          "text": "tes,",
+          "order": 31,
+          "timeMs": 40000,
+          "word": "fontes",
+          "wordIndex": 30,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62208,
+          "text": "a",
+          "order": 32,
+          "timeMs": 40500,
+          "word": "aquarum",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62976,
+          "text": "qua",
+          "order": 33,
+          "timeMs": 41000,
+          "word": "aquarum",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64512,
+          "text": "rum,",
+          "order": 34,
+          "timeMs": 42000,
+          "word": "aquarum",
+          "wordIndex": 32,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 69120,
+          "text": "I",
+          "order": 35,
+          "timeMs": 45000,
+          "word": "ita",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72192,
+          "text": "ta",
+          "order": 36,
+          "timeMs": 47000,
+          "word": "ita",
+          "wordIndex": 35,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 73728,
+          "text": "de",
+          "order": 37,
+          "timeMs": 48000,
+          "word": "desiderat",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 77568,
+          "text": "si",
+          "order": 38,
+          "timeMs": 50500,
+          "word": "desiderat",
+          "wordIndex": 37,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 85248,
+          "text": "de",
+          "order": 39,
+          "timeMs": 55500,
+          "word": "desiderat",
+          "wordIndex": 37,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 86016,
+          "text": "rat,",
+          "order": 40,
+          "timeMs": 56000,
+          "word": "desiderat",
+          "wordIndex": 37,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 93696,
+          "text": "I",
+          "order": 41,
+          "timeMs": 61000,
+          "word": "ita",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 96768,
+          "text": "ta",
+          "order": 42,
+          "timeMs": 63000,
+          "word": "ita",
+          "wordIndex": 41,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 98304,
+          "text": "de",
+          "order": 43,
+          "timeMs": 64000,
+          "word": "desiderat",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 100608,
+          "text": "si",
+          "order": 44,
+          "timeMs": 65500,
+          "word": "desiderat",
+          "wordIndex": 43,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 105984,
+          "text": "de",
+          "order": 45,
+          "timeMs": 69000,
+          "word": "desiderat",
+          "wordIndex": 43,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 107520,
+          "text": "rat,",
+          "order": 46,
+          "timeMs": 70000,
+          "word": "desiderat",
+          "wordIndex": 43,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 116736,
+          "text": "I",
+          "order": 47,
+          "timeMs": 76000,
+          "word": "ita",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 119808,
+          "text": "ta",
+          "order": 48,
+          "timeMs": 78000,
+          "word": "ita",
+          "wordIndex": 47,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 121344,
+          "text": "de",
+          "order": 49,
+          "timeMs": 79000,
+          "word": "desiderat",
+          "wordIndex": 49,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 122880,
+          "text": "si",
+          "order": 50,
+          "timeMs": 80000,
+          "word": "desiderat",
+          "wordIndex": 49,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 125184,
+          "text": "de",
+          "order": 51,
+          "timeMs": 81500,
+          "word": "desiderat",
+          "wordIndex": 49,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 125952,
+          "text": "rat,",
+          "order": 52,
+          "timeMs": 82000,
+          "word": "desiderat",
+          "wordIndex": 49,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 128256,
+          "text": "de",
+          "order": 53,
+          "timeMs": 83500,
+          "word": "desiderat",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 129024,
+          "text": "si",
+          "order": 54,
+          "timeMs": 84000,
+          "word": "desiderat",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 129792,
+          "text": "de",
+          "order": 55,
+          "timeMs": 84500,
+          "word": "desiderat",
+          "wordIndex": 53,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 130560,
+          "text": "rat.",
+          "order": 56,
+          "timeMs": 85000,
+          "word": "desiderat",
+          "wordIndex": 53,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 135936,
+          "text": "A",
+          "order": 57,
+          "timeMs": 88500,
+          "word": "anima",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 137472,
+          "text": "ni",
+          "order": 58,
+          "timeMs": 89500,
+          "word": "anima",
+          "wordIndex": 57,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 138240,
+          "text": "ma",
+          "order": 59,
+          "timeMs": 90000,
+          "word": "anima",
+          "wordIndex": 57,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ma",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 139776,
+          "text": "me",
+          "order": 60,
+          "timeMs": 91000,
+          "word": "mea",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 141312,
+          "text": "a",
+          "order": 61,
+          "timeMs": 92000,
+          "word": "mea",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "a",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 142848,
+          "text": "ad",
+          "order": 62,
+          "timeMs": 93000,
+          "word": "ad",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 144384,
+          "text": "te",
+          "order": 63,
+          "timeMs": 94000,
+          "word": "te",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 145152,
+          "text": "De",
+          "order": 64,
+          "timeMs": 94500,
+          "word": "deus",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 148992,
+          "text": "us,",
+          "order": 65,
+          "timeMs": 97000,
+          "word": "deus",
+          "wordIndex": 64,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 150528,
+          "text": "a",
+          "order": 66,
+          "timeMs": 98000,
+          "word": "anima",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 152064,
+          "text": "ni",
+          "order": 67,
+          "timeMs": 99000,
+          "word": "anima",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 152832,
+          "text": "ma",
+          "order": 68,
+          "timeMs": 99500,
+          "word": "anima",
+          "wordIndex": 66,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ma",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 153600,
+          "text": "me",
+          "order": 69,
+          "timeMs": 100000,
+          "word": "mea",
+          "wordIndex": 69,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 155136,
+          "text": "a",
+          "order": 70,
+          "timeMs": 101000,
+          "word": "mea",
+          "wordIndex": 69,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "a",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 156672,
+          "text": "ad",
+          "order": 71,
+          "timeMs": 102000,
+          "word": "ad",
+          "wordIndex": 71,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 158208,
+          "text": "te",
+          "order": 72,
+          "timeMs": 103000,
+          "word": "te",
+          "wordIndex": 72,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 161280,
+          "text": "De",
+          "order": 73,
+          "timeMs": 105000,
+          "word": "deus",
+          "wordIndex": 73,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 164352,
+          "text": "us,",
+          "order": 74,
+          "timeMs": 107000,
+          "word": "deus",
+          "wordIndex": 73,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 165120,
+          "text": "ad",
+          "order": 75,
+          "timeMs": 107500,
+          "word": "ad",
+          "wordIndex": 75,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 165888,
+          "text": "te",
+          "order": 76,
+          "timeMs": 108000,
+          "word": "te",
+          "wordIndex": 76,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 166656,
+          "text": "De",
+          "order": 77,
+          "timeMs": 108500,
+          "word": "deus",
+          "wordIndex": 77,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 175104,
+          "text": "us.",
+          "order": 78,
+          "timeMs": 114000,
+          "word": "deus",
+          "wordIndex": 77,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 11000,
+          "endMs": 13000,
+          "note": 53
+        },
+        {
+          "startMs": 13000,
+          "endMs": 14000,
+          "note": 53
+        },
+        {
+          "startMs": 14000,
+          "endMs": 15000,
+          "note": 55
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15500,
+          "note": 53
+        },
+        {
+          "startMs": 15500,
+          "endMs": 16000,
+          "note": 48
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16750,
+          "note": 53
+        },
+        {
+          "startMs": 16750,
+          "endMs": 17000,
+          "note": 55
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17500,
+          "note": 57
+        },
+        {
+          "startMs": 17500,
+          "endMs": 18000,
+          "note": 57
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19000,
+          "note": 58
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19500,
+          "note": 57
+        },
+        {
+          "startMs": 19500,
+          "endMs": 20000,
+          "note": 57
+        },
+        {
+          "startMs": 20000,
+          "endMs": 21000,
+          "note": 53
+        },
+        {
+          "startMs": 21000,
+          "endMs": 22000,
+          "note": 53
+        },
+        {
+          "startMs": 24000,
+          "endMs": 26000,
+          "note": 53
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27000,
+          "note": 53
+        },
+        {
+          "startMs": 27000,
+          "endMs": 28000,
+          "note": 55
+        },
+        {
+          "startMs": 28000,
+          "endMs": 29000,
+          "note": 53
+        },
+        {
+          "startMs": 29000,
+          "endMs": 30000,
+          "note": 46
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30750,
+          "note": 53
+        },
+        {
+          "startMs": 30750,
+          "endMs": 31000,
+          "note": 52
+        },
+        {
+          "startMs": 31000,
+          "endMs": 31500,
+          "note": 50
+        },
+        {
+          "startMs": 31500,
+          "endMs": 32000,
+          "note": 50
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33000,
+          "note": 48
+        },
+        {
+          "startMs": 33000,
+          "endMs": 34000,
+          "note": 41
+        },
+        {
+          "startMs": 34500,
+          "endMs": 35000,
+          "note": 53
+        },
+        {
+          "startMs": 35000,
+          "endMs": 35500,
+          "note": 53
+        },
+        {
+          "startMs": 35500,
+          "endMs": 36000,
+          "note": 53
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36250,
+          "note": 46
+        },
+        {
+          "startMs": 36250,
+          "endMs": 36500,
+          "note": 48
+        },
+        {
+          "startMs": 36500,
+          "endMs": 36750,
+          "note": 50
+        },
+        {
+          "startMs": 36750,
+          "endMs": 37000,
+          "note": 52
+        },
+        {
+          "startMs": 37000,
+          "endMs": 38000,
+          "note": 53
+        },
+        {
+          "startMs": 38000,
+          "endMs": 39000,
+          "note": 53
+        },
+        {
+          "startMs": 39000,
+          "endMs": 40000,
+          "note": 46
+        },
+        {
+          "startMs": 40000,
+          "endMs": 40500,
+          "note": 48
+        },
+        {
+          "startMs": 40500,
+          "endMs": 41000,
+          "note": 48
+        },
+        {
+          "startMs": 41000,
+          "endMs": 41500,
+          "note": 50
+        },
+        {
+          "startMs": 41500,
+          "endMs": 42000,
+          "note": 46
+        },
+        {
+          "startMs": 42000,
+          "endMs": 44000,
+          "note": 48
+        },
+        {
+          "startMs": 45000,
+          "endMs": 47000,
+          "note": 53
+        },
+        {
+          "startMs": 47000,
+          "endMs": 48000,
+          "note": 52
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48750,
+          "note": 50
+        },
+        {
+          "startMs": 48750,
+          "endMs": 49000,
+          "note": 52
+        },
+        {
+          "startMs": 49000,
+          "endMs": 49500,
+          "note": 53
+        },
+        {
+          "startMs": 49500,
+          "endMs": 50000,
+          "note": 50
+        },
+        {
+          "startMs": 50000,
+          "endMs": 50500,
+          "note": 52
+        },
+        {
+          "startMs": 50500,
+          "endMs": 51250,
+          "note": 53
+        },
+        {
+          "startMs": 51250,
+          "endMs": 51500,
+          "note": 52
+        },
+        {
+          "startMs": 51500,
+          "endMs": 51750,
+          "note": 50
+        },
+        {
+          "startMs": 51750,
+          "endMs": 52000,
+          "note": 48
+        },
+        {
+          "startMs": 52000,
+          "endMs": 53000,
+          "note": 50
+        },
+        {
+          "startMs": 53000,
+          "endMs": 54000,
+          "note": 48
+        },
+        {
+          "startMs": 54000,
+          "endMs": 54750,
+          "note": 46
+        },
+        {
+          "startMs": 54750,
+          "endMs": 55000,
+          "note": 48
+        },
+        {
+          "startMs": 55000,
+          "endMs": 55500,
+          "note": 50
+        },
+        {
+          "startMs": 55500,
+          "endMs": 56000,
+          "note": 52
+        },
+        {
+          "startMs": 56000,
+          "endMs": 57000,
+          "note": 53
+        },
+        {
+          "startMs": 57000,
+          "endMs": 58000,
+          "note": 48
+        },
+        {
+          "startMs": 61000,
+          "endMs": 63000,
+          "note": 53
+        },
+        {
+          "startMs": 63000,
+          "endMs": 64000,
+          "note": 52
+        },
+        {
+          "startMs": 64000,
+          "endMs": 64750,
+          "note": 50
+        },
+        {
+          "startMs": 64750,
+          "endMs": 65000,
+          "note": 52
+        },
+        {
+          "startMs": 65000,
+          "endMs": 65500,
+          "note": 53
+        },
+        {
+          "startMs": 65500,
+          "endMs": 66250,
+          "note": 55
+        },
+        {
+          "startMs": 66250,
+          "endMs": 66500,
+          "note": 53
+        },
+        {
+          "startMs": 66500,
+          "endMs": 67500,
+          "note": 53
+        },
+        {
+          "startMs": 67500,
+          "endMs": 67750,
+          "note": 52
+        },
+        {
+          "startMs": 67750,
+          "endMs": 68000,
+          "note": 50
+        },
+        {
+          "startMs": 68000,
+          "endMs": 69000,
+          "note": 52
+        },
+        {
+          "startMs": 69000,
+          "endMs": 70000,
+          "note": 53
+        },
+        {
+          "startMs": 70000,
+          "endMs": 72000,
+          "note": 48
+        },
+        {
+          "startMs": 76000,
+          "endMs": 78000,
+          "note": 46
+        },
+        {
+          "startMs": 78000,
+          "endMs": 79000,
+          "note": 45
+        },
+        {
+          "startMs": 79000,
+          "endMs": 80000,
+          "note": 43
+        },
+        {
+          "startMs": 80000,
+          "endMs": 80750,
+          "note": 50
+        },
+        {
+          "startMs": 80750,
+          "endMs": 81000,
+          "note": 52
+        },
+        {
+          "startMs": 81000,
+          "endMs": 81500,
+          "note": 53
+        },
+        {
+          "startMs": 81500,
+          "endMs": 82000,
+          "note": 53
+        },
+        {
+          "startMs": 82000,
+          "endMs": 83500,
+          "note": 48
+        },
+        {
+          "startMs": 83500,
+          "endMs": 84000,
+          "note": 48
+        },
+        {
+          "startMs": 84000,
+          "endMs": 84500,
+          "note": 50
+        },
+        {
+          "startMs": 84500,
+          "endMs": 85000,
+          "note": 46
+        },
+        {
+          "startMs": 85000,
+          "endMs": 87000,
+          "note": 53
+        },
+        {
+          "startMs": 88500,
+          "endMs": 89500,
+          "note": 53
+        },
+        {
+          "startMs": 89500,
+          "endMs": 90000,
+          "note": 52
+        },
+        {
+          "startMs": 90000,
+          "endMs": 91000,
+          "note": 52
+        },
+        {
+          "startMs": 91000,
+          "endMs": 92000,
+          "note": 50
+        },
+        {
+          "startMs": 92000,
+          "endMs": 93000,
+          "note": 48
+        },
+        {
+          "startMs": 93000,
+          "endMs": 94000,
+          "note": 48
+        },
+        {
+          "startMs": 94000,
+          "endMs": 94500,
+          "note": 50
+        },
+        {
+          "startMs": 94500,
+          "endMs": 95500,
+          "note": 46
+        },
+        {
+          "startMs": 95500,
+          "endMs": 96000,
+          "note": 45
+        },
+        {
+          "startMs": 96000,
+          "endMs": 97000,
+          "note": 43
+        },
+        {
+          "startMs": 97000,
+          "endMs": 98000,
+          "note": 41
+        },
+        {
+          "startMs": 98000,
+          "endMs": 99000,
+          "note": 53
+        },
+        {
+          "startMs": 99000,
+          "endMs": 99500,
+          "note": 48
+        },
+        {
+          "startMs": 99500,
+          "endMs": 100000,
+          "note": 48
+        },
+        {
+          "startMs": 100000,
+          "endMs": 101000,
+          "note": 55
+        },
+        {
+          "startMs": 101000,
+          "endMs": 102000,
+          "note": 50
+        },
+        {
+          "startMs": 102000,
+          "endMs": 103000,
+          "note": 50
+        },
+        {
+          "startMs": 103000,
+          "endMs": 103750,
+          "note": 43
+        },
+        {
+          "startMs": 103750,
+          "endMs": 104000,
+          "note": 45
+        },
+        {
+          "startMs": 104000,
+          "endMs": 104250,
+          "note": 46
+        },
+        {
+          "startMs": 104250,
+          "endMs": 104500,
+          "note": 48
+        },
+        {
+          "startMs": 104500,
+          "endMs": 105000,
+          "note": 50
+        },
+        {
+          "startMs": 105000,
+          "endMs": 105750,
+          "note": 43
+        },
+        {
+          "startMs": 105750,
+          "endMs": 106000,
+          "note": 45
+        },
+        {
+          "startMs": 106000,
+          "endMs": 106500,
+          "note": 46
+        },
+        {
+          "startMs": 106500,
+          "endMs": 107000,
+          "note": 41
+        },
+        {
+          "startMs": 107000,
+          "endMs": 107500,
+          "note": 48
+        },
+        {
+          "startMs": 107500,
+          "endMs": 108000,
+          "note": 48
+        },
+        {
+          "startMs": 108000,
+          "endMs": 108500,
+          "note": 50
+        },
+        {
+          "startMs": 108500,
+          "endMs": 109250,
+          "note": 53
+        },
+        {
+          "startMs": 109250,
+          "endMs": 109500,
+          "note": 52
+        },
+        {
+          "startMs": 109500,
+          "endMs": 109750,
+          "note": 50
+        },
+        {
+          "startMs": 109750,
+          "endMs": 110000,
+          "note": 48
+        },
+        {
+          "startMs": 110000,
+          "endMs": 111500,
+          "note": 46
+        },
+        {
+          "startMs": 111500,
+          "endMs": 112000,
+          "note": 45
+        },
+        {
+          "startMs": 112000,
+          "endMs": 114000,
+          "note": 46
+        },
+        {
+          "startMs": 114000,
+          "endMs": 116000,
+          "note": 41
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 3,
+      "lyricTrack": 7,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 10752,
+          "text": "Sic",
+          "order": 0,
+          "timeMs": 7000,
+          "word": "sicut",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "ut",
+          "order": 1,
+          "timeMs": 9000,
+          "word": "sicut",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kʊt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "cer",
+          "order": 2,
+          "timeMs": 10000,
+          "word": "cervus",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈɛrw",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "vus",
+          "order": 3,
+          "timeMs": 11000,
+          "word": "cervus",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "de",
+          "order": 4,
+          "timeMs": 11500,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "si",
+          "order": 5,
+          "timeMs": 12000,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "de",
+          "order": 6,
+          "timeMs": 12750,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "rat",
+          "order": 7,
+          "timeMs": 13000,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "ad",
+          "order": 8,
+          "timeMs": 13500,
+          "word": "ad",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21504,
+          "text": "fon",
+          "order": 9,
+          "timeMs": 14000,
+          "word": "fontes",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "tes",
+          "order": 10,
+          "timeMs": 15000,
+          "word": "fontes",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "a",
+          "order": 11,
+          "timeMs": 15500,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24576,
+          "text": "qua",
+          "order": 12,
+          "timeMs": 16000,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29184,
+          "text": "rum,",
+          "order": 13,
+          "timeMs": 19000,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "a",
+          "order": 14,
+          "timeMs": 20000,
+          "word": "aquarum",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36096,
+          "text": "qua",
+          "order": 15,
+          "timeMs": 23500,
+          "word": "aquarum",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "rum,",
+          "order": 16,
+          "timeMs": 24000,
+          "word": "aquarum",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44544,
+          "text": "sic",
+          "order": 17,
+          "timeMs": 29000,
+          "word": "sicut",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47616,
+          "text": "ut",
+          "order": 18,
+          "timeMs": 31000,
+          "word": "sicut",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kʊt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49152,
+          "text": "cer",
+          "order": 19,
+          "timeMs": 32000,
+          "word": "cervus",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈɛrw",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 50688,
+          "text": "vus",
+          "order": 20,
+          "timeMs": 33000,
+          "word": "cervus",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 51456,
+          "text": "de",
+          "order": 21,
+          "timeMs": 33500,
+          "word": "desiderat",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 52224,
+          "text": "si",
+          "order": 22,
+          "timeMs": 34000,
+          "word": "desiderat",
+          "wordIndex": 21,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 53376,
+          "text": "de",
+          "order": 23,
+          "timeMs": 34750,
+          "word": "desiderat",
+          "wordIndex": 21,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 53760,
+          "text": "rat",
+          "order": 24,
+          "timeMs": 35000,
+          "word": "desiderat",
+          "wordIndex": 21,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54528,
+          "text": "ad",
+          "order": 25,
+          "timeMs": 35500,
+          "word": "ad",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55296,
+          "text": "fon",
+          "order": 26,
+          "timeMs": 36000,
+          "word": "fontes",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56832,
+          "text": "tes",
+          "order": 27,
+          "timeMs": 37000,
+          "word": "fontes",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57600,
+          "text": "a",
+          "order": 28,
+          "timeMs": 37500,
+          "word": "aquarum",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62208,
+          "text": "qua",
+          "order": 29,
+          "timeMs": 40500,
+          "word": "aquarum",
+          "wordIndex": 28,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67584,
+          "text": "rum,",
+          "order": 30,
+          "timeMs": 44000,
+          "word": "aquarum",
+          "wordIndex": 28,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 78336,
+          "text": "I",
+          "order": 31,
+          "timeMs": 51000,
+          "word": "ita",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 81408,
+          "text": "ta",
+          "order": 32,
+          "timeMs": 53000,
+          "word": "ita",
+          "wordIndex": 31,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 82944,
+          "text": "de",
+          "order": 33,
+          "timeMs": 54000,
+          "word": "desiderat",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 85248,
+          "text": "si",
+          "order": 34,
+          "timeMs": 55500,
+          "word": "desiderat",
+          "wordIndex": 33,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 91392,
+          "text": "de",
+          "order": 35,
+          "timeMs": 59500,
+          "word": "desiderat",
+          "wordIndex": 33,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 92160,
+          "text": "rat,",
+          "order": 36,
+          "timeMs": 60000,
+          "word": "desiderat",
+          "wordIndex": 33,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 102912,
+          "text": "I",
+          "order": 37,
+          "timeMs": 67000,
+          "word": "ita",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 105984,
+          "text": "ta",
+          "order": 38,
+          "timeMs": 69000,
+          "word": "ita",
+          "wordIndex": 37,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 107520,
+          "text": "de",
+          "order": 39,
+          "timeMs": 70000,
+          "word": "desiderat",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 109824,
+          "text": "si",
+          "order": 40,
+          "timeMs": 71500,
+          "word": "desiderat",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 111360,
+          "text": "de",
+          "order": 41,
+          "timeMs": 72500,
+          "word": "desiderat",
+          "wordIndex": 39,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 112128,
+          "text": "rat.",
+          "order": 42,
+          "timeMs": 73000,
+          "word": "desiderat",
+          "wordIndex": 39,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 121344,
+          "text": "A",
+          "order": 43,
+          "timeMs": 79000,
+          "word": "anima",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 123648,
+          "text": "ni",
+          "order": 44,
+          "timeMs": 80500,
+          "word": "anima",
+          "wordIndex": 43,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 124416,
+          "text": "ma",
+          "order": 45,
+          "timeMs": 81000,
+          "word": "anima",
+          "wordIndex": 43,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ma",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 125952,
+          "text": "me",
+          "order": 46,
+          "timeMs": 82000,
+          "word": "mea",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 129024,
+          "text": "a",
+          "order": 47,
+          "timeMs": 84000,
+          "word": "mea",
+          "wordIndex": 46,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "a",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 132864,
+          "text": "ad",
+          "order": 48,
+          "timeMs": 86500,
+          "word": "ad",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 133632,
+          "text": "te",
+          "order": 49,
+          "timeMs": 87000,
+          "word": "te",
+          "wordIndex": 49,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 134400,
+          "text": "De",
+          "order": 50,
+          "timeMs": 87500,
+          "word": "deus",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 139776,
+          "text": "us,",
+          "order": 51,
+          "timeMs": 91000,
+          "word": "deus",
+          "wordIndex": 50,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 147456,
+          "text": "a",
+          "order": 52,
+          "timeMs": 96000,
+          "word": "anima",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 149760,
+          "text": "ni",
+          "order": 53,
+          "timeMs": 97500,
+          "word": "anima",
+          "wordIndex": 52,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 150528,
+          "text": "ma",
+          "order": 54,
+          "timeMs": 98000,
+          "word": "anima",
+          "wordIndex": 52,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ma",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 152064,
+          "text": "me",
+          "order": 55,
+          "timeMs": 99000,
+          "word": "mea",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 155136,
+          "text": "a",
+          "order": 56,
+          "timeMs": 101000,
+          "word": "mea",
+          "wordIndex": 55,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "a",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 157440,
+          "text": "ad",
+          "order": 57,
+          "timeMs": 102500,
+          "word": "ad",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 158208,
+          "text": "te",
+          "order": 58,
+          "timeMs": 103000,
+          "word": "te",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 158976,
+          "text": "De",
+          "order": 59,
+          "timeMs": 103500,
+          "word": "deus",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 165888,
+          "text": "us.",
+          "order": 60,
+          "timeMs": 108000,
+          "word": "deus",
+          "wordIndex": 59,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 2000,
+          "note": 53
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3000,
+          "note": 53
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4000,
+          "note": 55
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 53
+        },
+        {
+          "startMs": 4500,
+          "endMs": 5000,
+          "note": 48
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5750,
+          "note": 53
+        },
+        {
+          "startMs": 5750,
+          "endMs": 6000,
+          "note": 55
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6500,
+          "note": 57
+        },
+        {
+          "startMs": 6500,
+          "endMs": 7000,
+          "note": 57
+        },
+        {
+          "startMs": 7000,
+          "endMs": 8000,
+          "note": 58
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8500,
+          "note": 57
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 53
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9750,
+          "note": 58
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10000,
+          "note": 57
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10500,
+          "note": 58
+        },
+        {
+          "startMs": 10500,
+          "endMs": 11000,
+          "note": 60
+        },
+        {
+          "startMs": 11000,
+          "endMs": 13000,
+          "note": 57
+        },
+        {
+          "startMs": 15000,
+          "endMs": 17000,
+          "note": 60
+        },
+        {
+          "startMs": 17000,
+          "endMs": 18000,
+          "note": 60
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19000,
+          "note": 62
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19500,
+          "note": 60
+        },
+        {
+          "startMs": 19500,
+          "endMs": 20000,
+          "note": 53
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20750,
+          "note": 57
+        },
+        {
+          "startMs": 20750,
+          "endMs": 21000,
+          "note": 58
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21500,
+          "note": 60
+        },
+        {
+          "startMs": 21500,
+          "endMs": 22000,
+          "note": 60
+        },
+        {
+          "startMs": 22000,
+          "endMs": 23000,
+          "note": 62
+        },
+        {
+          "startMs": 23000,
+          "endMs": 24000,
+          "note": 60
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24750,
+          "note": 57
+        },
+        {
+          "startMs": 24750,
+          "endMs": 25000,
+          "note": 58
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25500,
+          "note": 60
+        },
+        {
+          "startMs": 25500,
+          "endMs": 26000,
+          "note": 53
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27000,
+          "note": 57
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27750,
+          "note": 58
+        },
+        {
+          "startMs": 27750,
+          "endMs": 28000,
+          "note": 60
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28500,
+          "note": 62
+        },
+        {
+          "startMs": 28500,
+          "endMs": 29000,
+          "note": 60
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29250,
+          "note": 60
+        },
+        {
+          "startMs": 29250,
+          "endMs": 29500,
+          "note": 58
+        },
+        {
+          "startMs": 29500,
+          "endMs": 30500,
+          "note": 58
+        },
+        {
+          "startMs": 30500,
+          "endMs": 30750,
+          "note": 57
+        },
+        {
+          "startMs": 30750,
+          "endMs": 31000,
+          "note": 55
+        },
+        {
+          "startMs": 31000,
+          "endMs": 31500,
+          "note": 57
+        },
+        {
+          "startMs": 31500,
+          "endMs": 32500,
+          "note": 53
+        },
+        {
+          "startMs": 32500,
+          "endMs": 33000,
+          "note": 52
+        },
+        {
+          "startMs": 33000,
+          "endMs": 35000,
+          "note": 53
+        },
+        {
+          "startMs": 36500,
+          "endMs": 37000,
+          "note": 53
+        },
+        {
+          "startMs": 37000,
+          "endMs": 37750,
+          "note": 57
+        },
+        {
+          "startMs": 37750,
+          "endMs": 38000,
+          "note": 58
+        },
+        {
+          "startMs": 38000,
+          "endMs": 38500,
+          "note": 60
+        },
+        {
+          "startMs": 38500,
+          "endMs": 39000,
+          "note": 60
+        },
+        {
+          "startMs": 39000,
+          "endMs": 40000,
+          "note": 62
+        },
+        {
+          "startMs": 40000,
+          "endMs": 40750,
+          "note": 60
+        },
+        {
+          "startMs": 40750,
+          "endMs": 41000,
+          "note": 58
+        },
+        {
+          "startMs": 41000,
+          "endMs": 41500,
+          "note": 57
+        },
+        {
+          "startMs": 41500,
+          "endMs": 42000,
+          "note": 58
+        },
+        {
+          "startMs": 42000,
+          "endMs": 44000,
+          "note": 55
+        },
+        {
+          "startMs": 44000,
+          "endMs": 45000,
+          "note": 53
+        },
+        {
+          "startMs": 46000,
+          "endMs": 48000,
+          "note": 60
+        },
+        {
+          "startMs": 48000,
+          "endMs": 49000,
+          "note": 58
+        },
+        {
+          "startMs": 49000,
+          "endMs": 49750,
+          "note": 57
+        },
+        {
+          "startMs": 49750,
+          "endMs": 50000,
+          "note": 58
+        },
+        {
+          "startMs": 50000,
+          "endMs": 50500,
+          "note": 60
+        },
+        {
+          "startMs": 50500,
+          "endMs": 51250,
+          "note": 62
+        },
+        {
+          "startMs": 51250,
+          "endMs": 51500,
+          "note": 60
+        },
+        {
+          "startMs": 51500,
+          "endMs": 52500,
+          "note": 60
+        },
+        {
+          "startMs": 52500,
+          "endMs": 53000,
+          "note": 59
+        },
+        {
+          "startMs": 53000,
+          "endMs": 54000,
+          "note": 60
+        },
+        {
+          "startMs": 54000,
+          "endMs": 55000,
+          "note": 53
+        },
+        {
+          "startMs": 57500,
+          "endMs": 58000,
+          "note": 55
+        },
+        {
+          "startMs": 58000,
+          "endMs": 58500,
+          "note": 55
+        },
+        {
+          "startMs": 58500,
+          "endMs": 59000,
+          "note": 57
+        },
+        {
+          "startMs": 59000,
+          "endMs": 59500,
+          "note": 58
+        },
+        {
+          "startMs": 59500,
+          "endMs": 60000,
+          "note": 58
+        },
+        {
+          "startMs": 60000,
+          "endMs": 61000,
+          "note": 53
+        },
+        {
+          "startMs": 62000,
+          "endMs": 64000,
+          "note": 60
+        },
+        {
+          "startMs": 64000,
+          "endMs": 65000,
+          "note": 58
+        },
+        {
+          "startMs": 65000,
+          "endMs": 65500,
+          "note": 57
+        },
+        {
+          "startMs": 65500,
+          "endMs": 66250,
+          "note": 58
+        },
+        {
+          "startMs": 66250,
+          "endMs": 66500,
+          "note": 57
+        },
+        {
+          "startMs": 66500,
+          "endMs": 67000,
+          "note": 57
+        },
+        {
+          "startMs": 67000,
+          "endMs": 67500,
+          "note": 55
+        },
+        {
+          "startMs": 67500,
+          "endMs": 68000,
+          "note": 55
+        },
+        {
+          "startMs": 68000,
+          "endMs": 68500,
+          "note": 48
+        },
+        {
+          "startMs": 68500,
+          "endMs": 69000,
+          "note": 55
+        },
+        {
+          "startMs": 69000,
+          "endMs": 69500,
+          "note": 57
+        },
+        {
+          "startMs": 69500,
+          "endMs": 70000,
+          "note": 57
+        },
+        {
+          "startMs": 70000,
+          "endMs": 71000,
+          "note": 55
+        },
+        {
+          "startMs": 73000,
+          "endMs": 75000,
+          "note": 53
+        },
+        {
+          "startMs": 75000,
+          "endMs": 76000,
+          "note": 52
+        },
+        {
+          "startMs": 76000,
+          "endMs": 76750,
+          "note": 50
+        },
+        {
+          "startMs": 76750,
+          "endMs": 77000,
+          "note": 52
+        },
+        {
+          "startMs": 77000,
+          "endMs": 77500,
+          "note": 53
+        },
+        {
+          "startMs": 77500,
+          "endMs": 78000,
+          "note": 55
+        },
+        {
+          "startMs": 78000,
+          "endMs": 78250,
+          "note": 55
+        },
+        {
+          "startMs": 78250,
+          "endMs": 78500,
+          "note": 53
+        },
+        {
+          "startMs": 78500,
+          "endMs": 79500,
+          "note": 53
+        },
+        {
+          "startMs": 79500,
+          "endMs": 80000,
+          "note": 52
+        },
+        {
+          "startMs": 80000,
+          "endMs": 80750,
+          "note": 53
+        },
+        {
+          "startMs": 80750,
+          "endMs": 81000,
+          "note": 55
+        },
+        {
+          "startMs": 81000,
+          "endMs": 81750,
+          "note": 57
+        },
+        {
+          "startMs": 81750,
+          "endMs": 82000,
+          "note": 58
+        },
+        {
+          "startMs": 82000,
+          "endMs": 83000,
+          "note": 60
+        },
+        {
+          "startMs": 84500,
+          "endMs": 85500,
+          "note": 58
+        },
+        {
+          "startMs": 85500,
+          "endMs": 86000,
+          "note": 57
+        },
+        {
+          "startMs": 86000,
+          "endMs": 87000,
+          "note": 57
+        },
+        {
+          "startMs": 87000,
+          "endMs": 88000,
+          "note": 55
+        },
+        {
+          "startMs": 88000,
+          "endMs": 89000,
+          "note": 53
+        },
+        {
+          "startMs": 89000,
+          "endMs": 90500,
+          "note": 48
+        },
+        {
+          "startMs": 90500,
+          "endMs": 91000,
+          "note": 55
+        },
+        {
+          "startMs": 91000,
+          "endMs": 91500,
+          "note": 57
+        },
+        {
+          "startMs": 91500,
+          "endMs": 92000,
+          "note": 58
+        },
+        {
+          "startMs": 92000,
+          "endMs": 92500,
+          "note": 60
+        },
+        {
+          "startMs": 92500,
+          "endMs": 92750,
+          "note": 48
+        },
+        {
+          "startMs": 92750,
+          "endMs": 93000,
+          "note": 50
+        },
+        {
+          "startMs": 93000,
+          "endMs": 93250,
+          "note": 52
+        },
+        {
+          "startMs": 93250,
+          "endMs": 93500,
+          "note": 53
+        },
+        {
+          "startMs": 93500,
+          "endMs": 93750,
+          "note": 55
+        },
+        {
+          "startMs": 93750,
+          "endMs": 94000,
+          "note": 52
+        },
+        {
+          "startMs": 94000,
+          "endMs": 94500,
+          "note": 53
+        },
+        {
+          "startMs": 94500,
+          "endMs": 95250,
+          "note": 55
+        },
+        {
+          "startMs": 95250,
+          "endMs": 95500,
+          "note": 53
+        },
+        {
+          "startMs": 95500,
+          "endMs": 96500,
+          "note": 53
+        },
+        {
+          "startMs": 96500,
+          "endMs": 97000,
+          "note": 52
+        },
+        {
+          "startMs": 97000,
+          "endMs": 98000,
+          "note": 53
+        },
+        {
+          "startMs": 100500,
+          "endMs": 101500,
+          "note": 58
+        },
+        {
+          "startMs": 101500,
+          "endMs": 102000,
+          "note": 57
+        },
+        {
+          "startMs": 102000,
+          "endMs": 103000,
+          "note": 57
+        },
+        {
+          "startMs": 103000,
+          "endMs": 104000,
+          "note": 55
+        },
+        {
+          "startMs": 104000,
+          "endMs": 104500,
+          "note": 53
+        },
+        {
+          "startMs": 104500,
+          "endMs": 105000,
+          "note": 53
+        },
+        {
+          "startMs": 105000,
+          "endMs": 105500,
+          "note": 55
+        },
+        {
+          "startMs": 105500,
+          "endMs": 106500,
+          "note": 58
+        },
+        {
+          "startMs": 106500,
+          "endMs": 107000,
+          "note": 57
+        },
+        {
+          "startMs": 107000,
+          "endMs": 108000,
+          "note": 55
+        },
+        {
+          "startMs": 108000,
+          "endMs": 109000,
+          "note": 53
+        },
+        {
+          "startMs": 109500,
+          "endMs": 110000,
+          "note": 57
+        },
+        {
+          "startMs": 110000,
+          "endMs": 110500,
+          "note": 58
+        },
+        {
+          "startMs": 110500,
+          "endMs": 111500,
+          "note": 62
+        },
+        {
+          "startMs": 111500,
+          "endMs": 112000,
+          "note": 60
+        },
+        {
+          "startMs": 112000,
+          "endMs": 114000,
+          "note": 58
+        },
+        {
+          "startMs": 114000,
+          "endMs": 116000,
+          "note": 57
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 2,
+      "lyricTrack": 6,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 6144,
+          "text": "Sic",
+          "order": 0,
+          "timeMs": 4000,
+          "word": "sicut",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "ut",
+          "order": 1,
+          "timeMs": 6000,
+          "word": "sicut",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kʊt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "cer",
+          "order": 2,
+          "timeMs": 7000,
+          "word": "cervus",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈɛrw",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "vus",
+          "order": 3,
+          "timeMs": 8000,
+          "word": "cervus",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "de",
+          "order": 4,
+          "timeMs": 8500,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "si",
+          "order": 5,
+          "timeMs": 9000,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "de",
+          "order": 6,
+          "timeMs": 9750,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "rat",
+          "order": 7,
+          "timeMs": 10000,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "ad",
+          "order": 8,
+          "timeMs": 10500,
+          "word": "ad",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "fon",
+          "order": 9,
+          "timeMs": 11000,
+          "word": "fontes",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "tes",
+          "order": 10,
+          "timeMs": 12000,
+          "word": "fontes",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "a",
+          "order": 11,
+          "timeMs": 13000,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "qua",
+          "order": 12,
+          "timeMs": 13500,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26112,
+          "text": "rum,",
+          "order": 13,
+          "timeMs": 17000,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "sic",
+          "order": 14,
+          "timeMs": 20000,
+          "word": "sicut",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33792,
+          "text": "ut",
+          "order": 15,
+          "timeMs": 22000,
+          "word": "sicut",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kʊt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35328,
+          "text": "cer",
+          "order": 16,
+          "timeMs": 23000,
+          "word": "cervus",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈɛrw",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "vus",
+          "order": 17,
+          "timeMs": 24000,
+          "word": "cervus",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37632,
+          "text": "de",
+          "order": 18,
+          "timeMs": 24500,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "si",
+          "order": 19,
+          "timeMs": 25000,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39552,
+          "text": "de",
+          "order": 20,
+          "timeMs": 25750,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39936,
+          "text": "rat",
+          "order": 21,
+          "timeMs": 26000,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40704,
+          "text": "ad",
+          "order": 22,
+          "timeMs": 26500,
+          "word": "ad",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44544,
+          "text": "fon",
+          "order": 23,
+          "timeMs": 29000,
+          "word": "fontes",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46080,
+          "text": "tes",
+          "order": 24,
+          "timeMs": 30000,
+          "word": "fontes",
+          "wordIndex": 23,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46848,
+          "text": "a",
+          "order": 25,
+          "timeMs": 30500,
+          "word": "aquarum",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47616,
+          "text": "qua",
+          "order": 26,
+          "timeMs": 31000,
+          "word": "aquarum",
+          "wordIndex": 25,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49152,
+          "text": "rum,",
+          "order": 27,
+          "timeMs": 32000,
+          "word": "aquarum",
+          "wordIndex": 25,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 51456,
+          "text": "de",
+          "order": 28,
+          "timeMs": 33500,
+          "word": "desiderat",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 52224,
+          "text": "si",
+          "order": 29,
+          "timeMs": 34000,
+          "word": "desiderat",
+          "wordIndex": 28,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 53376,
+          "text": "de",
+          "order": 30,
+          "timeMs": 34750,
+          "word": "desiderat",
+          "wordIndex": 28,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 53760,
+          "text": "rat",
+          "order": 31,
+          "timeMs": 35000,
+          "word": "desiderat",
+          "wordIndex": 28,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54528,
+          "text": "ad",
+          "order": 32,
+          "timeMs": 35500,
+          "word": "ad",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55296,
+          "text": "fon",
+          "order": 33,
+          "timeMs": 36000,
+          "word": "fontes",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56832,
+          "text": "tes",
+          "order": 34,
+          "timeMs": 37000,
+          "word": "fontes",
+          "wordIndex": 33,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 58368,
+          "text": "a",
+          "order": 35,
+          "timeMs": 38000,
+          "word": "aquarum",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59904,
+          "text": "qua",
+          "order": 36,
+          "timeMs": 39000,
+          "word": "aquarum",
+          "wordIndex": 35,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 73728,
+          "text": "rum,",
+          "order": 37,
+          "timeMs": 48000,
+          "word": "aquarum",
+          "wordIndex": 35,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 82944,
+          "text": "I",
+          "order": 38,
+          "timeMs": 54000,
+          "word": "ita",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 86016,
+          "text": "ta",
+          "order": 39,
+          "timeMs": 56000,
+          "word": "ita",
+          "wordIndex": 38,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 87552,
+          "text": "de",
+          "order": 40,
+          "timeMs": 57000,
+          "word": "desiderat",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 89856,
+          "text": "si",
+          "order": 41,
+          "timeMs": 58500,
+          "word": "desiderat",
+          "wordIndex": 40,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 96000,
+          "text": "de",
+          "order": 42,
+          "timeMs": 62500,
+          "word": "desiderat",
+          "wordIndex": 40,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 96768,
+          "text": "rat,",
+          "order": 43,
+          "timeMs": 63000,
+          "word": "desiderat",
+          "wordIndex": 40,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 98304,
+          "text": "I",
+          "order": 44,
+          "timeMs": 64000,
+          "word": "ita",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 102912,
+          "text": "ta,",
+          "order": 45,
+          "timeMs": 67000,
+          "word": "ita",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 107520,
+          "text": "I",
+          "order": 46,
+          "timeMs": 70000,
+          "word": "ita",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 110592,
+          "text": "ta",
+          "order": 47,
+          "timeMs": 72000,
+          "word": "ita",
+          "wordIndex": 46,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 112128,
+          "text": "de",
+          "order": 48,
+          "timeMs": 73000,
+          "word": "desiderat",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 114432,
+          "text": "si",
+          "order": 49,
+          "timeMs": 74500,
+          "word": "desiderat",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 115968,
+          "text": "de",
+          "order": 50,
+          "timeMs": 75500,
+          "word": "desiderat",
+          "wordIndex": 48,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 116736,
+          "text": "rat.",
+          "order": 51,
+          "timeMs": 76000,
+          "word": "desiderat",
+          "wordIndex": 48,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 124416,
+          "text": "A",
+          "order": 52,
+          "timeMs": 81000,
+          "word": "anima",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 126720,
+          "text": "ni",
+          "order": 53,
+          "timeMs": 82500,
+          "word": "anima",
+          "wordIndex": 52,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 127488,
+          "text": "ma",
+          "order": 54,
+          "timeMs": 83000,
+          "word": "anima",
+          "wordIndex": 52,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ma",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 129024,
+          "text": "me",
+          "order": 55,
+          "timeMs": 84000,
+          "word": "mea",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 130560,
+          "text": "a",
+          "order": 56,
+          "timeMs": 85000,
+          "word": "mea",
+          "wordIndex": 55,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "a",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 133632,
+          "text": "ad",
+          "order": 57,
+          "timeMs": 87000,
+          "word": "ad",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 135936,
+          "text": "te",
+          "order": 58,
+          "timeMs": 88500,
+          "word": "te",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 136704,
+          "text": "De",
+          "order": 59,
+          "timeMs": 89000,
+          "word": "deus",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 138240,
+          "text": "us,",
+          "order": 60,
+          "timeMs": 90000,
+          "word": "deus",
+          "wordIndex": 59,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 140544,
+          "text": "A",
+          "order": 61,
+          "timeMs": 91500,
+          "word": "anima",
+          "wordIndex": 61,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 142080,
+          "text": "ni",
+          "order": 62,
+          "timeMs": 92500,
+          "word": "anima",
+          "wordIndex": 61,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 142848,
+          "text": "ma",
+          "order": 63,
+          "timeMs": 93000,
+          "word": "anima",
+          "wordIndex": 61,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ma",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 144384,
+          "text": "me",
+          "order": 64,
+          "timeMs": 94000,
+          "word": "mea",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 145920,
+          "text": "a",
+          "order": 65,
+          "timeMs": 95000,
+          "word": "mea",
+          "wordIndex": 64,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "a",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 147456,
+          "text": "ad",
+          "order": 66,
+          "timeMs": 96000,
+          "word": "ad",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 149760,
+          "text": "te",
+          "order": 67,
+          "timeMs": 97500,
+          "word": "te",
+          "wordIndex": 67,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 151296,
+          "text": "De",
+          "order": 68,
+          "timeMs": 98500,
+          "word": "deus",
+          "wordIndex": 68,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 153600,
+          "text": "us,",
+          "order": 69,
+          "timeMs": 100000,
+          "word": "deus",
+          "wordIndex": 68,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 158208,
+          "text": "ad",
+          "order": 70,
+          "timeMs": 103000,
+          "word": "ad",
+          "wordIndex": 70,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 161280,
+          "text": "te",
+          "order": 71,
+          "timeMs": 105000,
+          "word": "te",
+          "wordIndex": 71,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 162048,
+          "text": "De",
+          "order": 72,
+          "timeMs": 105500,
+          "word": "deus",
+          "wordIndex": 72,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 164352,
+          "text": "us,",
+          "order": 73,
+          "timeMs": 107000,
+          "word": "deus",
+          "wordIndex": 72,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 166656,
+          "text": "ad",
+          "order": 74,
+          "timeMs": 108500,
+          "word": "ad",
+          "wordIndex": 74,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 167424,
+          "text": "te",
+          "order": 75,
+          "timeMs": 109000,
+          "word": "te",
+          "wordIndex": 75,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 168192,
+          "text": "De",
+          "order": 76,
+          "timeMs": 109500,
+          "word": "deus",
+          "wordIndex": 76,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 175104,
+          "text": "us.",
+          "order": 77,
+          "timeMs": 114000,
+          "word": "deus",
+          "wordIndex": 76,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 4000,
+          "endMs": 6000,
+          "note": 60
+        },
+        {
+          "startMs": 6000,
+          "endMs": 7000,
+          "note": 60
+        },
+        {
+          "startMs": 7000,
+          "endMs": 8000,
+          "note": 62
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8500,
+          "note": 60
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 57
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9750,
+          "note": 62
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10000,
+          "note": 60
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10500,
+          "note": 62
+        },
+        {
+          "startMs": 10500,
+          "endMs": 11000,
+          "note": 64
+        },
+        {
+          "startMs": 11000,
+          "endMs": 12000,
+          "note": 65
+        },
+        {
+          "startMs": 12000,
+          "endMs": 13000,
+          "note": 60
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13500,
+          "note": 60
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14250,
+          "note": 62
+        },
+        {
+          "startMs": 14250,
+          "endMs": 14500,
+          "note": 60
+        },
+        {
+          "startMs": 14500,
+          "endMs": 14750,
+          "note": 62
+        },
+        {
+          "startMs": 14750,
+          "endMs": 15000,
+          "note": 64
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15500,
+          "note": 65
+        },
+        {
+          "startMs": 15500,
+          "endMs": 16000,
+          "note": 64
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17000,
+          "note": 65
+        },
+        {
+          "startMs": 17000,
+          "endMs": 18000,
+          "note": 64
+        },
+        {
+          "startMs": 20000,
+          "endMs": 22000,
+          "note": 65
+        },
+        {
+          "startMs": 22000,
+          "endMs": 23000,
+          "note": 65
+        },
+        {
+          "startMs": 23000,
+          "endMs": 24000,
+          "note": 67
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24500,
+          "note": 65
+        },
+        {
+          "startMs": 24500,
+          "endMs": 25000,
+          "note": 53
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25750,
+          "note": 57
+        },
+        {
+          "startMs": 25750,
+          "endMs": 26000,
+          "note": 58
+        },
+        {
+          "startMs": 26000,
+          "endMs": 26500,
+          "note": 60
+        },
+        {
+          "startMs": 26500,
+          "endMs": 27000,
+          "note": 62
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27250,
+          "note": 62
+        },
+        {
+          "startMs": 27250,
+          "endMs": 27500,
+          "note": 60
+        },
+        {
+          "startMs": 27500,
+          "endMs": 28250,
+          "note": 58
+        },
+        {
+          "startMs": 28250,
+          "endMs": 28500,
+          "note": 57
+        },
+        {
+          "startMs": 28500,
+          "endMs": 29000,
+          "note": 57
+        },
+        {
+          "startMs": 29000,
+          "endMs": 30000,
+          "note": 62
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30500,
+          "note": 60
+        },
+        {
+          "startMs": 30500,
+          "endMs": 31000,
+          "note": 60
+        },
+        {
+          "startMs": 31000,
+          "endMs": 32000,
+          "note": 53
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33500,
+          "note": 60
+        },
+        {
+          "startMs": 33500,
+          "endMs": 34000,
+          "note": 57
+        },
+        {
+          "startMs": 34000,
+          "endMs": 34750,
+          "note": 57
+        },
+        {
+          "startMs": 34750,
+          "endMs": 35000,
+          "note": 58
+        },
+        {
+          "startMs": 35000,
+          "endMs": 35500,
+          "note": 60
+        },
+        {
+          "startMs": 35500,
+          "endMs": 36000,
+          "note": 60
+        },
+        {
+          "startMs": 36000,
+          "endMs": 37000,
+          "note": 62
+        },
+        {
+          "startMs": 37000,
+          "endMs": 38000,
+          "note": 60
+        },
+        {
+          "startMs": 38000,
+          "endMs": 39000,
+          "note": 65
+        },
+        {
+          "startMs": 39000,
+          "endMs": 40500,
+          "note": 65
+        },
+        {
+          "startMs": 40500,
+          "endMs": 41000,
+          "note": 64
+        },
+        {
+          "startMs": 41000,
+          "endMs": 42000,
+          "note": 62
+        },
+        {
+          "startMs": 42000,
+          "endMs": 44000,
+          "note": 60
+        },
+        {
+          "startMs": 44000,
+          "endMs": 44750,
+          "note": 57
+        },
+        {
+          "startMs": 44750,
+          "endMs": 45000,
+          "note": 55
+        },
+        {
+          "startMs": 45000,
+          "endMs": 45250,
+          "note": 57
+        },
+        {
+          "startMs": 45250,
+          "endMs": 45500,
+          "note": 58
+        },
+        {
+          "startMs": 45500,
+          "endMs": 46500,
+          "note": 57
+        },
+        {
+          "startMs": 46500,
+          "endMs": 46750,
+          "note": 55
+        },
+        {
+          "startMs": 46750,
+          "endMs": 47000,
+          "note": 53
+        },
+        {
+          "startMs": 47000,
+          "endMs": 48000,
+          "note": 55
+        },
+        {
+          "startMs": 48000,
+          "endMs": 50000,
+          "note": 53
+        },
+        {
+          "startMs": 54000,
+          "endMs": 56000,
+          "note": 58
+        },
+        {
+          "startMs": 56000,
+          "endMs": 57000,
+          "note": 57
+        },
+        {
+          "startMs": 57000,
+          "endMs": 57750,
+          "note": 55
+        },
+        {
+          "startMs": 57750,
+          "endMs": 58000,
+          "note": 57
+        },
+        {
+          "startMs": 58000,
+          "endMs": 58500,
+          "note": 58
+        },
+        {
+          "startMs": 58500,
+          "endMs": 59250,
+          "note": 60
+        },
+        {
+          "startMs": 59250,
+          "endMs": 59500,
+          "note": 58
+        },
+        {
+          "startMs": 59500,
+          "endMs": 60500,
+          "note": 58
+        },
+        {
+          "startMs": 60500,
+          "endMs": 60750,
+          "note": 57
+        },
+        {
+          "startMs": 60750,
+          "endMs": 61000,
+          "note": 55
+        },
+        {
+          "startMs": 61000,
+          "endMs": 62500,
+          "note": 57
+        },
+        {
+          "startMs": 62500,
+          "endMs": 63000,
+          "note": 57
+        },
+        {
+          "startMs": 63000,
+          "endMs": 64000,
+          "note": 55
+        },
+        {
+          "startMs": 64000,
+          "endMs": 67000,
+          "note": 62
+        },
+        {
+          "startMs": 67000,
+          "endMs": 69000,
+          "note": 60
+        },
+        {
+          "startMs": 70000,
+          "endMs": 72000,
+          "note": 60
+        },
+        {
+          "startMs": 72000,
+          "endMs": 73000,
+          "note": 58
+        },
+        {
+          "startMs": 73000,
+          "endMs": 73750,
+          "note": 57
+        },
+        {
+          "startMs": 73750,
+          "endMs": 74000,
+          "note": 58
+        },
+        {
+          "startMs": 74000,
+          "endMs": 74500,
+          "note": 60
+        },
+        {
+          "startMs": 74500,
+          "endMs": 75500,
+          "note": 62
+        },
+        {
+          "startMs": 75500,
+          "endMs": 76000,
+          "note": 60
+        },
+        {
+          "startMs": 76000,
+          "endMs": 77500,
+          "note": 62
+        },
+        {
+          "startMs": 77500,
+          "endMs": 77750,
+          "note": 60
+        },
+        {
+          "startMs": 77750,
+          "endMs": 78000,
+          "note": 58
+        },
+        {
+          "startMs": 78000,
+          "endMs": 79000,
+          "note": 60
+        },
+        {
+          "startMs": 79000,
+          "endMs": 80000,
+          "note": 58
+        },
+        {
+          "startMs": 81000,
+          "endMs": 82500,
+          "note": 65
+        },
+        {
+          "startMs": 82500,
+          "endMs": 83000,
+          "note": 64
+        },
+        {
+          "startMs": 83000,
+          "endMs": 84000,
+          "note": 64
+        },
+        {
+          "startMs": 84000,
+          "endMs": 85000,
+          "note": 62
+        },
+        {
+          "startMs": 85000,
+          "endMs": 87000,
+          "note": 60
+        },
+        {
+          "startMs": 87000,
+          "endMs": 87750,
+          "note": 58
+        },
+        {
+          "startMs": 87750,
+          "endMs": 88000,
+          "note": 60
+        },
+        {
+          "startMs": 88000,
+          "endMs": 88500,
+          "note": 62
+        },
+        {
+          "startMs": 88500,
+          "endMs": 89000,
+          "note": 60
+        },
+        {
+          "startMs": 89000,
+          "endMs": 90000,
+          "note": 60
+        },
+        {
+          "startMs": 90000,
+          "endMs": 91000,
+          "note": 60
+        },
+        {
+          "startMs": 91500,
+          "endMs": 92500,
+          "note": 65
+        },
+        {
+          "startMs": 92500,
+          "endMs": 93000,
+          "note": 64
+        },
+        {
+          "startMs": 93000,
+          "endMs": 94000,
+          "note": 64
+        },
+        {
+          "startMs": 94000,
+          "endMs": 95000,
+          "note": 62
+        },
+        {
+          "startMs": 95000,
+          "endMs": 96000,
+          "note": 60
+        },
+        {
+          "startMs": 96000,
+          "endMs": 96750,
+          "note": 58
+        },
+        {
+          "startMs": 96750,
+          "endMs": 97000,
+          "note": 60
+        },
+        {
+          "startMs": 97000,
+          "endMs": 97500,
+          "note": 62
+        },
+        {
+          "startMs": 97500,
+          "endMs": 98500,
+          "note": 60
+        },
+        {
+          "startMs": 98500,
+          "endMs": 99500,
+          "note": 65
+        },
+        {
+          "startMs": 99500,
+          "endMs": 100000,
+          "note": 64
+        },
+        {
+          "startMs": 100000,
+          "endMs": 103000,
+          "note": 62
+        },
+        {
+          "startMs": 103000,
+          "endMs": 103750,
+          "note": 58
+        },
+        {
+          "startMs": 103750,
+          "endMs": 104000,
+          "note": 60
+        },
+        {
+          "startMs": 104000,
+          "endMs": 105000,
+          "note": 62
+        },
+        {
+          "startMs": 105000,
+          "endMs": 105500,
+          "note": 58
+        },
+        {
+          "startMs": 105500,
+          "endMs": 106500,
+          "note": 62
+        },
+        {
+          "startMs": 106500,
+          "endMs": 107000,
+          "note": 60
+        },
+        {
+          "startMs": 107000,
+          "endMs": 108000,
+          "note": 60
+        },
+        {
+          "startMs": 108500,
+          "endMs": 109000,
+          "note": 60
+        },
+        {
+          "startMs": 109000,
+          "endMs": 109500,
+          "note": 62
+        },
+        {
+          "startMs": 109500,
+          "endMs": 110250,
+          "note": 65
+        },
+        {
+          "startMs": 110250,
+          "endMs": 110500,
+          "note": 64
+        },
+        {
+          "startMs": 110500,
+          "endMs": 110750,
+          "note": 62
+        },
+        {
+          "startMs": 110750,
+          "endMs": 111000,
+          "note": 60
+        },
+        {
+          "startMs": 111000,
+          "endMs": 111500,
+          "note": 58
+        },
+        {
+          "startMs": 111500,
+          "endMs": 112000,
+          "note": 60
+        },
+        {
+          "startMs": 112000,
+          "endMs": 114000,
+          "note": 62
+        },
+        {
+          "startMs": 114000,
+          "endMs": 116000,
+          "note": 60
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": 5,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Sic",
+          "order": 0,
+          "timeMs": 0,
+          "word": "sicut",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "ut",
+          "order": 1,
+          "timeMs": 2000,
+          "word": "sicut",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kʊt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "cer",
+          "order": 2,
+          "timeMs": 3000,
+          "word": "cervus",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈɛrw",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6144,
+          "text": "vus",
+          "order": 3,
+          "timeMs": 4000,
+          "word": "cervus",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "de",
+          "order": 4,
+          "timeMs": 4500,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "si",
+          "order": 5,
+          "timeMs": 5000,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "de",
+          "order": 6,
+          "timeMs": 5750,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "rat",
+          "order": 7,
+          "timeMs": 6000,
+          "word": "desiderat",
+          "wordIndex": 4,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "ad",
+          "order": 8,
+          "timeMs": 6500,
+          "word": "ad",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "fon",
+          "order": 9,
+          "timeMs": 7000,
+          "word": "fontes",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "tes",
+          "order": 10,
+          "timeMs": 8000,
+          "word": "fontes",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "a",
+          "order": 11,
+          "timeMs": 8500,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "qua",
+          "order": 12,
+          "timeMs": 9000,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "rum,",
+          "order": 13,
+          "timeMs": 11000,
+          "word": "aquarum",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "Sic",
+          "order": 14,
+          "timeMs": 15000,
+          "word": "sicut",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26112,
+          "text": "ut",
+          "order": 15,
+          "timeMs": 17000,
+          "word": "sicut",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kʊt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "cer",
+          "order": 16,
+          "timeMs": 18000,
+          "word": "cervus",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈɛrw",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29184,
+          "text": "vus",
+          "order": 17,
+          "timeMs": 19000,
+          "word": "cervus",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29952,
+          "text": "de",
+          "order": 18,
+          "timeMs": 19500,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "si",
+          "order": 19,
+          "timeMs": 20000,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31872,
+          "text": "de",
+          "order": 20,
+          "timeMs": 20750,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 32256,
+          "text": "rat",
+          "order": 21,
+          "timeMs": 21000,
+          "word": "desiderat",
+          "wordIndex": 18,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33024,
+          "text": "ad",
+          "order": 22,
+          "timeMs": 21500,
+          "word": "ad",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33792,
+          "text": "fon",
+          "order": 23,
+          "timeMs": 22000,
+          "word": "fontes",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35328,
+          "text": "tes",
+          "order": 24,
+          "timeMs": 23000,
+          "word": "fontes",
+          "wordIndex": 23,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "a",
+          "order": 25,
+          "timeMs": 24000,
+          "word": "aquarum",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39936,
+          "text": "qua",
+          "order": 26,
+          "timeMs": 26000,
+          "word": "aquarum",
+          "wordIndex": 25,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 50688,
+          "text": "rum,",
+          "order": 27,
+          "timeMs": 33000,
+          "word": "aquarum",
+          "wordIndex": 25,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56064,
+          "text": "De",
+          "order": 28,
+          "timeMs": 36500,
+          "word": "desiderat",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56832,
+          "text": "si",
+          "order": 29,
+          "timeMs": 37000,
+          "word": "desiderat",
+          "wordIndex": 28,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57984,
+          "text": "de",
+          "order": 30,
+          "timeMs": 37750,
+          "word": "desiderat",
+          "wordIndex": 28,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 58368,
+          "text": "rat",
+          "order": 31,
+          "timeMs": 38000,
+          "word": "desiderat",
+          "wordIndex": 28,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59136,
+          "text": "ad",
+          "order": 32,
+          "timeMs": 38500,
+          "word": "ad",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59904,
+          "text": "fon",
+          "order": 33,
+          "timeMs": 39000,
+          "word": "fontes",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 61440,
+          "text": "tes",
+          "order": 34,
+          "timeMs": 40000,
+          "word": "fontes",
+          "wordIndex": 33,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63744,
+          "text": "a",
+          "order": 35,
+          "timeMs": 41500,
+          "word": "aquarum",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64512,
+          "text": "qua",
+          "order": 36,
+          "timeMs": 42000,
+          "word": "aquarum",
+          "wordIndex": 35,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kwa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67584,
+          "text": "rum,",
+          "order": 37,
+          "timeMs": 44000,
+          "word": "aquarum",
+          "wordIndex": 35,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 70656,
+          "text": "I",
+          "order": 38,
+          "timeMs": 46000,
+          "word": "ita",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 73728,
+          "text": "ta",
+          "order": 39,
+          "timeMs": 48000,
+          "word": "ita",
+          "wordIndex": 38,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 75264,
+          "text": "de",
+          "order": 40,
+          "timeMs": 49000,
+          "word": "desiderat",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 77568,
+          "text": "si",
+          "order": 41,
+          "timeMs": 50500,
+          "word": "desiderat",
+          "wordIndex": 40,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 80640,
+          "text": "de",
+          "order": 42,
+          "timeMs": 52500,
+          "word": "desiderat",
+          "wordIndex": 40,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 81408,
+          "text": "rat,",
+          "order": 43,
+          "timeMs": 53000,
+          "word": "desiderat",
+          "wordIndex": 40,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 88320,
+          "text": "I",
+          "order": 44,
+          "timeMs": 57500,
+          "word": "ita",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 89088,
+          "text": "ta",
+          "order": 45,
+          "timeMs": 58000,
+          "word": "ita",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 89856,
+          "text": "de",
+          "order": 46,
+          "timeMs": 58500,
+          "word": "desiderat",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 90624,
+          "text": "si",
+          "order": 47,
+          "timeMs": 59000,
+          "word": "desiderat",
+          "wordIndex": 46,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 91392,
+          "text": "de",
+          "order": 48,
+          "timeMs": 59500,
+          "word": "desiderat",
+          "wordIndex": 46,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 92160,
+          "text": "rat,",
+          "order": 49,
+          "timeMs": 60000,
+          "word": "desiderat",
+          "wordIndex": 46,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 95232,
+          "text": "I",
+          "order": 50,
+          "timeMs": 62000,
+          "word": "ita",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 98304,
+          "text": "ta",
+          "order": 51,
+          "timeMs": 64000,
+          "word": "ita",
+          "wordIndex": 50,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 99840,
+          "text": "de",
+          "order": 52,
+          "timeMs": 65000,
+          "word": "desiderat",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 100608,
+          "text": "si",
+          "order": 53,
+          "timeMs": 65500,
+          "word": "desiderat",
+          "wordIndex": 52,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 102144,
+          "text": "de",
+          "order": 54,
+          "timeMs": 66500,
+          "word": "desiderat",
+          "wordIndex": 52,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 102912,
+          "text": "rat,",
+          "order": 55,
+          "timeMs": 67000,
+          "word": "desiderat",
+          "wordIndex": 52,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 103680,
+          "text": "I",
+          "order": 56,
+          "timeMs": 67500,
+          "word": "ita",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 104448,
+          "text": "ta",
+          "order": 57,
+          "timeMs": 68000,
+          "word": "ita",
+          "wordIndex": 56,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 105216,
+          "text": "de",
+          "order": 58,
+          "timeMs": 68500,
+          "word": "desiderat",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 105984,
+          "text": "si",
+          "order": 59,
+          "timeMs": 69000,
+          "word": "desiderat",
+          "wordIndex": 58,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 106752,
+          "text": "de",
+          "order": 60,
+          "timeMs": 69500,
+          "word": "desiderat",
+          "wordIndex": 58,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 107520,
+          "text": "rat,",
+          "order": 61,
+          "timeMs": 70000,
+          "word": "desiderat",
+          "wordIndex": 58,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 112128,
+          "text": "I",
+          "order": 62,
+          "timeMs": 73000,
+          "word": "ita",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 115200,
+          "text": "ta",
+          "order": 63,
+          "timeMs": 75000,
+          "word": "ita",
+          "wordIndex": 62,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 116736,
+          "text": "de",
+          "order": 64,
+          "timeMs": 76000,
+          "word": "desiderat",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 119040,
+          "text": "si",
+          "order": 65,
+          "timeMs": 77500,
+          "word": "desiderat",
+          "wordIndex": 64,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "sˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 122112,
+          "text": "de",
+          "order": 66,
+          "timeMs": 79500,
+          "word": "desiderat",
+          "wordIndex": 64,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 122880,
+          "text": "rat.",
+          "order": 67,
+          "timeMs": 80000,
+          "word": "desiderat",
+          "wordIndex": 64,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "rat",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 129792,
+          "text": "A",
+          "order": 68,
+          "timeMs": 84500,
+          "word": "anima",
+          "wordIndex": 68,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 131328,
+          "text": "ni",
+          "order": 69,
+          "timeMs": 85500,
+          "word": "anima",
+          "wordIndex": 68,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 132096,
+          "text": "ma",
+          "order": 70,
+          "timeMs": 86000,
+          "word": "anima",
+          "wordIndex": 68,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ma",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 133632,
+          "text": "me",
+          "order": 71,
+          "timeMs": 87000,
+          "word": "mea",
+          "wordIndex": 71,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 136704,
+          "text": "a",
+          "order": 72,
+          "timeMs": 89000,
+          "word": "mea",
+          "wordIndex": 71,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "a",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 139008,
+          "text": "ad",
+          "order": 73,
+          "timeMs": 90500,
+          "word": "ad",
+          "wordIndex": 73,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 139776,
+          "text": "te",
+          "order": 74,
+          "timeMs": 91000,
+          "word": "te",
+          "wordIndex": 74,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 142080,
+          "text": "De",
+          "order": 75,
+          "timeMs": 92500,
+          "word": "deus",
+          "wordIndex": 75,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 148992,
+          "text": "us,",
+          "order": 76,
+          "timeMs": 97000,
+          "word": "deus",
+          "wordIndex": 75,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 154368,
+          "text": "a",
+          "order": 77,
+          "timeMs": 100500,
+          "word": "anima",
+          "wordIndex": 77,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 155904,
+          "text": "ni",
+          "order": 78,
+          "timeMs": 101500,
+          "word": "anima",
+          "wordIndex": 77,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 156672,
+          "text": "ma",
+          "order": 79,
+          "timeMs": 102000,
+          "word": "anima",
+          "wordIndex": 77,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ma",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 158208,
+          "text": "me",
+          "order": 80,
+          "timeMs": 103000,
+          "word": "mea",
+          "wordIndex": 80,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 159744,
+          "text": "a",
+          "order": 81,
+          "timeMs": 104000,
+          "word": "mea",
+          "wordIndex": 80,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "a",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 160512,
+          "text": "ad",
+          "order": 82,
+          "timeMs": 104500,
+          "word": "ad",
+          "wordIndex": 82,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 161280,
+          "text": "te",
+          "order": 83,
+          "timeMs": 105000,
+          "word": "te",
+          "wordIndex": 83,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 162048,
+          "text": "De",
+          "order": 84,
+          "timeMs": 105500,
+          "word": "deus",
+          "wordIndex": 84,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 165888,
+          "text": "us,",
+          "order": 85,
+          "timeMs": 108000,
+          "word": "deus",
+          "wordIndex": 84,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 168192,
+          "text": "ad",
+          "order": 86,
+          "timeMs": 109500,
+          "word": "ad",
+          "wordIndex": 86,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈad",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 168960,
+          "text": "te",
+          "order": 87,
+          "timeMs": 110000,
+          "word": "te",
+          "wordIndex": 87,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 169728,
+          "text": "De",
+          "order": 88,
+          "timeMs": 110500,
+          "word": "deus",
+          "wordIndex": 88,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 175104,
+          "text": "us.",
+          "order": 89,
+          "timeMs": 114000,
+          "word": "deus",
+          "wordIndex": 88,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʊs",
+          "language": "la",
+          "pronunciationSource": "sung-form"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 7000,
+          "endMs": 9000,
+          "note": 65
+        },
+        {
+          "startMs": 9000,
+          "endMs": 10000,
+          "note": 65
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11000,
+          "note": 67
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11500,
+          "note": 65
+        },
+        {
+          "startMs": 11500,
+          "endMs": 12000,
+          "note": 60
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12750,
+          "note": 65
+        },
+        {
+          "startMs": 12750,
+          "endMs": 13000,
+          "note": 67
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13500,
+          "note": 69
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14000,
+          "note": 69
+        },
+        {
+          "startMs": 14000,
+          "endMs": 15000,
+          "note": 70
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15500,
+          "note": 69
+        },
+        {
+          "startMs": 15500,
+          "endMs": 16000,
+          "note": 67
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 69
+        },
+        {
+          "startMs": 16500,
+          "endMs": 17250,
+          "note": 72
+        },
+        {
+          "startMs": 17250,
+          "endMs": 17500,
+          "note": 72
+        },
+        {
+          "startMs": 17500,
+          "endMs": 18500,
+          "note": 69
+        },
+        {
+          "startMs": 18500,
+          "endMs": 19000,
+          "note": 67
+        },
+        {
+          "startMs": 19000,
+          "endMs": 20000,
+          "note": 69
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20750,
+          "note": 72
+        },
+        {
+          "startMs": 20750,
+          "endMs": 21000,
+          "note": 70
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21250,
+          "note": 69
+        },
+        {
+          "startMs": 21250,
+          "endMs": 21500,
+          "note": 67
+        },
+        {
+          "startMs": 21500,
+          "endMs": 22250,
+          "note": 69
+        },
+        {
+          "startMs": 22250,
+          "endMs": 22500,
+          "note": 67
+        },
+        {
+          "startMs": 22500,
+          "endMs": 23500,
+          "note": 65
+        },
+        {
+          "startMs": 23500,
+          "endMs": 24000,
+          "note": 64
+        },
+        {
+          "startMs": 24000,
+          "endMs": 26000,
+          "note": 65
+        },
+        {
+          "startMs": 29000,
+          "endMs": 31000,
+          "note": 65
+        },
+        {
+          "startMs": 31000,
+          "endMs": 32000,
+          "note": 65
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33000,
+          "note": 67
+        },
+        {
+          "startMs": 33000,
+          "endMs": 33500,
+          "note": 65
+        },
+        {
+          "startMs": 33500,
+          "endMs": 34000,
+          "note": 60
+        },
+        {
+          "startMs": 34000,
+          "endMs": 34750,
+          "note": 65
+        },
+        {
+          "startMs": 34750,
+          "endMs": 35000,
+          "note": 67
+        },
+        {
+          "startMs": 35000,
+          "endMs": 35500,
+          "note": 69
+        },
+        {
+          "startMs": 35500,
+          "endMs": 36000,
+          "note": 69
+        },
+        {
+          "startMs": 36000,
+          "endMs": 37000,
+          "note": 70
+        },
+        {
+          "startMs": 37000,
+          "endMs": 37500,
+          "note": 69
+        },
+        {
+          "startMs": 37500,
+          "endMs": 37750,
+          "note": 65
+        },
+        {
+          "startMs": 37750,
+          "endMs": 38000,
+          "note": 67
+        },
+        {
+          "startMs": 38000,
+          "endMs": 38250,
+          "note": 69
+        },
+        {
+          "startMs": 38250,
+          "endMs": 38500,
+          "note": 70
+        },
+        {
+          "startMs": 38500,
+          "endMs": 38750,
+          "note": 72
+        },
+        {
+          "startMs": 38750,
+          "endMs": 39000,
+          "note": 69
+        },
+        {
+          "startMs": 39000,
+          "endMs": 40000,
+          "note": 70
+        },
+        {
+          "startMs": 40000,
+          "endMs": 40500,
+          "note": 69
+        },
+        {
+          "startMs": 40500,
+          "endMs": 41250,
+          "note": 67
+        },
+        {
+          "startMs": 41250,
+          "endMs": 41500,
+          "note": 65
+        },
+        {
+          "startMs": 41500,
+          "endMs": 42500,
+          "note": 65
+        },
+        {
+          "startMs": 42500,
+          "endMs": 42750,
+          "note": 64
+        },
+        {
+          "startMs": 42750,
+          "endMs": 43000,
+          "note": 62
+        },
+        {
+          "startMs": 43000,
+          "endMs": 44000,
+          "note": 64
+        },
+        {
+          "startMs": 44000,
+          "endMs": 46000,
+          "note": 65
+        },
+        {
+          "startMs": 51000,
+          "endMs": 53000,
+          "note": 65
+        },
+        {
+          "startMs": 53000,
+          "endMs": 54000,
+          "note": 64
+        },
+        {
+          "startMs": 54000,
+          "endMs": 54750,
+          "note": 62
+        },
+        {
+          "startMs": 54750,
+          "endMs": 55000,
+          "note": 64
+        },
+        {
+          "startMs": 55000,
+          "endMs": 55500,
+          "note": 65
+        },
+        {
+          "startMs": 55500,
+          "endMs": 56250,
+          "note": 67
+        },
+        {
+          "startMs": 56250,
+          "endMs": 56500,
+          "note": 65
+        },
+        {
+          "startMs": 56500,
+          "endMs": 57500,
+          "note": 65
+        },
+        {
+          "startMs": 57500,
+          "endMs": 58000,
+          "note": 64
+        },
+        {
+          "startMs": 58000,
+          "endMs": 58500,
+          "note": 62
+        },
+        {
+          "startMs": 58500,
+          "endMs": 59000,
+          "note": 60
+        },
+        {
+          "startMs": 59000,
+          "endMs": 59500,
+          "note": 62
+        },
+        {
+          "startMs": 59500,
+          "endMs": 60000,
+          "note": 62
+        },
+        {
+          "startMs": 60000,
+          "endMs": 62000,
+          "note": 60
+        },
+        {
+          "startMs": 67000,
+          "endMs": 69000,
+          "note": 67
+        },
+        {
+          "startMs": 69000,
+          "endMs": 70000,
+          "note": 65
+        },
+        {
+          "startMs": 70000,
+          "endMs": 70750,
+          "note": 64
+        },
+        {
+          "startMs": 70750,
+          "endMs": 71000,
+          "note": 65
+        },
+        {
+          "startMs": 71000,
+          "endMs": 71500,
+          "note": 67
+        },
+        {
+          "startMs": 71500,
+          "endMs": 72500,
+          "note": 69
+        },
+        {
+          "startMs": 72500,
+          "endMs": 73000,
+          "note": 67
+        },
+        {
+          "startMs": 73000,
+          "endMs": 74500,
+          "note": 69
+        },
+        {
+          "startMs": 74500,
+          "endMs": 74750,
+          "note": 67
+        },
+        {
+          "startMs": 74750,
+          "endMs": 75000,
+          "note": 65
+        },
+        {
+          "startMs": 75000,
+          "endMs": 76000,
+          "note": 67
+        },
+        {
+          "startMs": 76000,
+          "endMs": 76750,
+          "note": 65
+        },
+        {
+          "startMs": 76750,
+          "endMs": 77000,
+          "note": 64
+        },
+        {
+          "startMs": 77000,
+          "endMs": 78000,
+          "note": 62
+        },
+        {
+          "startMs": 79000,
+          "endMs": 80500,
+          "note": 70
+        },
+        {
+          "startMs": 80500,
+          "endMs": 81000,
+          "note": 69
+        },
+        {
+          "startMs": 81000,
+          "endMs": 82000,
+          "note": 69
+        },
+        {
+          "startMs": 82000,
+          "endMs": 84000,
+          "note": 67
+        },
+        {
+          "startMs": 84000,
+          "endMs": 86000,
+          "note": 65
+        },
+        {
+          "startMs": 86500,
+          "endMs": 87000,
+          "note": 65
+        },
+        {
+          "startMs": 87000,
+          "endMs": 87500,
+          "note": 67
+        },
+        {
+          "startMs": 87500,
+          "endMs": 88500,
+          "note": 70
+        },
+        {
+          "startMs": 88500,
+          "endMs": 89000,
+          "note": 69
+        },
+        {
+          "startMs": 89000,
+          "endMs": 91000,
+          "note": 67
+        },
+        {
+          "startMs": 91000,
+          "endMs": 91750,
+          "note": 65
+        },
+        {
+          "startMs": 91750,
+          "endMs": 92000,
+          "note": 67
+        },
+        {
+          "startMs": 92000,
+          "endMs": 92500,
+          "note": 69
+        },
+        {
+          "startMs": 92500,
+          "endMs": 92750,
+          "note": 67
+        },
+        {
+          "startMs": 92750,
+          "endMs": 93000,
+          "note": 65
+        },
+        {
+          "startMs": 93000,
+          "endMs": 94000,
+          "note": 67
+        },
+        {
+          "startMs": 96000,
+          "endMs": 97500,
+          "note": 70
+        },
+        {
+          "startMs": 97500,
+          "endMs": 98000,
+          "note": 69
+        },
+        {
+          "startMs": 98000,
+          "endMs": 99000,
+          "note": 69
+        },
+        {
+          "startMs": 99000,
+          "endMs": 101000,
+          "note": 67
+        },
+        {
+          "startMs": 101000,
+          "endMs": 102000,
+          "note": 65
+        },
+        {
+          "startMs": 102500,
+          "endMs": 103000,
+          "note": 65
+        },
+        {
+          "startMs": 103000,
+          "endMs": 103500,
+          "note": 67
+        },
+        {
+          "startMs": 103500,
+          "endMs": 104500,
+          "note": 70
+        },
+        {
+          "startMs": 104500,
+          "endMs": 105000,
+          "note": 69
+        },
+        {
+          "startMs": 105000,
+          "endMs": 105750,
+          "note": 67
+        },
+        {
+          "startMs": 105750,
+          "endMs": 106000,
+          "note": 65
+        },
+        {
+          "startMs": 106000,
+          "endMs": 106250,
+          "note": 62
+        },
+        {
+          "startMs": 106250,
+          "endMs": 106500,
+          "note": 64
+        },
+        {
+          "startMs": 106500,
+          "endMs": 107500,
+          "note": 65
+        },
+        {
+          "startMs": 107500,
+          "endMs": 108000,
+          "note": 64
+        },
+        {
+          "startMs": 108000,
+          "endMs": 116000,
+          "note": 65
+        }
+      ]
+    }
+  ]
+}

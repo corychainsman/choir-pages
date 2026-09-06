@@ -1,0 +1,1842 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "b4c53a132b97d8a9ab5898f5f4e785beaa27fe6b5fcf1450eaf4d2b211790bec",
+  "id": "test-fricatives",
+  "title": "Test · Fricatives",
+  "durationMs": 28950,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/test-fricatives/song.cscore",
+  "displayScore": "/songs/test-fricatives/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-us",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 21,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 15,
+          "lexicon": 9
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 21,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 15,
+          "lexicon": 9
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 21,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 15,
+          "lexicon": 9
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 21,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 15,
+          "lexicon": 9
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://choir.chainsman.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 1,
+      "lyricTrack": 1,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "fa",
+          "order": 0,
+          "timeMs": 0,
+          "word": "fa",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "ha",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "ha",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "sa",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "sasha",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "sha",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "sasha",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "tha",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "tha",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "va",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "va",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "za",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "za",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "fra",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "fra",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "fa",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "fa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "ha",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "ha",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "sa",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "sasha",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "sha",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "sasha",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "tha",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "tha",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "va",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "va",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "za",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "za",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "fra",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "fra",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "fa",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "fa",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16320,
+          "text": "ha",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "ha",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "sa",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "sasha",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "sha",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "sasha",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "tha",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "tha",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "va",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "va",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "za",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "za",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22080,
+          "text": "fra",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "fra",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 48
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 50
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 52
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 50
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 48
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 50
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 47
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 48
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 48
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 50
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 52
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 50
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 48
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 50
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 47
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 48
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 48
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 50
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 52
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 50
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 48
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 50
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 47
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 48
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 2,
+      "lyricTrack": 2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "fa",
+          "order": 0,
+          "timeMs": 0,
+          "word": "fa",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "ha",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "ha",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "sa",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "sasha",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "sha",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "sasha",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "tha",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "tha",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "va",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "va",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "za",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "za",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "fra",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "fra",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "fa",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "fa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "ha",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "ha",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "sa",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "sasha",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "sha",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "sasha",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "tha",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "tha",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "va",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "va",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "za",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "za",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "fra",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "fra",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "fa",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "fa",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16320,
+          "text": "ha",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "ha",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "sa",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "sasha",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "sha",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "sasha",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "tha",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "tha",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "va",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "va",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "za",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "za",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22080,
+          "text": "fra",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "fra",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 55
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 57
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 59
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 57
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 55
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 57
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 54
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 55
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 55
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 57
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 59
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 57
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 55
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 57
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 54
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 55
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 55
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 57
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 59
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 57
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 55
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 57
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 54
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 3,
+      "lyricTrack": 3,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "fa",
+          "order": 0,
+          "timeMs": 0,
+          "word": "fa",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "ha",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "ha",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "sa",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "sasha",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "sha",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "sasha",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "tha",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "tha",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "va",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "va",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "za",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "za",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "fra",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "fra",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "fa",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "fa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "ha",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "ha",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "sa",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "sasha",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "sha",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "sasha",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "tha",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "tha",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "va",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "va",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "za",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "za",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "fra",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "fra",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "fa",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "fa",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16320,
+          "text": "ha",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "ha",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "sa",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "sasha",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "sha",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "sasha",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "tha",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "tha",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "va",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "va",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "za",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "za",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22080,
+          "text": "fra",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "fra",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 60
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 62
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 64
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 62
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 60
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 62
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 59
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 60
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 60
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 62
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 64
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 62
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 60
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 62
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 59
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 60
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 60
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 62
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 64
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 60
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 62
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 59
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 60
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 4,
+      "lyricTrack": 4,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "fa",
+          "order": 0,
+          "timeMs": 0,
+          "word": "fa",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "ha",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "ha",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "sa",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "sasha",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "sha",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "sasha",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "tha",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "tha",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "va",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "va",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "za",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "za",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "fra",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "fra",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "fa",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "fa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "ha",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "ha",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "sa",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "sasha",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "sha",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "sasha",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "tha",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "tha",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "va",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "va",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "za",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "za",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "fra",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "fra",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "fa",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "fa",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16320,
+          "text": "ha",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "ha",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "sa",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "sasha",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "sha",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "sasha",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "tha",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "tha",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "θˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "va",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "va",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "vˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "za",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "za",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22080,
+          "text": "fra",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "fra",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 67
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 69
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 71
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 69
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 67
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 69
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 66
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 67
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 67
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 69
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 71
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 69
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 67
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 69
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 66
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 67
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 67
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 69
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 71
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 69
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 67
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 69
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 66
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 67
+        }
+      ]
+    }
+  ]
+}

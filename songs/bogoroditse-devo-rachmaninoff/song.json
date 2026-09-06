@@ -1,0 +1,4993 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "dbdfd021cb20a234f06441186d26381e49fe9df07df37fb7611eefa71b0b8022",
+  "id": "bogoroditse-devo-rachmaninoff",
+  "title": "Bogoroditse Devo (Rachmaninoff)",
+  "durationMs": 130078,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/bogoroditse-devo-rachmaninoff/song.cscore",
+  "displayScore": "/songs/bogoroditse-devo-rachmaninoff/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "ru",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "ru",
+        "syllables": 42,
+        "words": 16,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 42
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "ru",
+        "syllables": 55,
+        "words": 20,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 55
+        }
+      },
+      {
+        "role": "alto",
+        "language": "ru",
+        "syllables": 61,
+        "words": 24,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 61
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "ru",
+        "syllables": 48,
+        "words": 17,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 48
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://musescore.com/score/2800571",
+  "license": "Public-domain composition; user-supplied MuseScore transcription, redistribution rights not independently established",
+  "sequenceCredit": "User-supplied four-staff MIDI cross-checked against the matching MuseScore MusicXML and MSCZ; explicit Russian Church Slavonic sung underlay",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 3,
+      "lyricTrack": -2,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Bo",
+          "word": "bogoroditse",
+          "ipa": "bo",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "go",
+          "word": "bogoroditse",
+          "ipa": "ɡo",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 480,
+          "timeMs": 1000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "ro",
+          "word": "bogoroditse",
+          "ipa": "ro",
+          "wordIndex": 0,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 960,
+          "timeMs": 2000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "di",
+          "word": "bogoroditse",
+          "ipa": "dʲi",
+          "wordIndex": 0,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 1680,
+          "timeMs": 3500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "tse",
+          "word": "bogoroditse",
+          "ipa": "t͡sɛ",
+          "wordIndex": 0,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 2400,
+          "timeMs": 5000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "De",
+          "word": "devo",
+          "ipa": "dʲe",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2880,
+          "timeMs": 6000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "vo",
+          "word": "devo",
+          "ipa": "vo",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3600,
+          "timeMs": 7500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "ra",
+          "word": "raduysya",
+          "ipa": "ra",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 4800,
+          "timeMs": 10000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "dui",
+          "word": "raduysya",
+          "ipa": "duj",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 5040,
+          "timeMs": 10500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "sya",
+          "word": "raduysya",
+          "ipa": "sʲa",
+          "wordIndex": 2,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 6720,
+          "timeMs": 14000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "Bla",
+          "word": "blagodatnaya",
+          "ipa": "bla",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 7680,
+          "timeMs": 16000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "go",
+          "word": "blagodatnaya",
+          "ipa": "ɡo",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 8160,
+          "timeMs": 17000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "dat",
+          "word": "blagodatnaya",
+          "ipa": "dat",
+          "wordIndex": 3,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 8640,
+          "timeMs": 18000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "na",
+          "word": "blagodatnaya",
+          "ipa": "na",
+          "wordIndex": 3,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 10080,
+          "timeMs": 21000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "ya",
+          "word": "blagodatnaya",
+          "ipa": "ja",
+          "wordIndex": 3,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 10560,
+          "timeMs": 22000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "Ma",
+          "word": "marie",
+          "ipa": "ma",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 11520,
+          "timeMs": 24000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "ri",
+          "word": "marie",
+          "ipa": "rʲi",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 12480,
+          "timeMs": 26000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "e",
+          "word": "marie",
+          "ipa": "je",
+          "wordIndex": 4,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 14400,
+          "timeMs": 30000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "Go",
+          "word": "gospod",
+          "ipa": "ɡo",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 15360,
+          "timeMs": 32300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "spod",
+          "word": "gospod",
+          "ipa": "spodʲ",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 16320,
+          "timeMs": 34300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "sTo",
+          "word": "s-toboyu",
+          "ipa": "sto",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 17040,
+          "timeMs": 35800,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "bo",
+          "word": "s-toboyu",
+          "ipa": "bo",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 18240,
+          "timeMs": 38300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "you",
+          "word": "s-toboyu",
+          "ipa": "ju",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 24000,
+          "timeMs": 50300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "ya",
+          "word": "yako",
+          "ipa": "ja",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 37920,
+          "timeMs": 79523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "ko",
+          "word": "yako",
+          "ipa": "ko",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 38400,
+          "timeMs": 80523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "Spa",
+          "word": "spasa",
+          "ipa": "spa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 39360,
+          "timeMs": 82523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "sa",
+          "word": "spasa",
+          "ipa": "sa",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 39600,
+          "timeMs": 83023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "ro",
+          "word": "rodila",
+          "ipa": "ro",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 41280,
+          "timeMs": 86523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "di",
+          "word": "rodila",
+          "ipa": "dʲi",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 42000,
+          "timeMs": 88023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "la",
+          "word": "rodila",
+          "ipa": "la",
+          "wordIndex": 9,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 42240,
+          "timeMs": 88523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "ya",
+          "word": "yako",
+          "ipa": "ja",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 44160,
+          "timeMs": 92523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "ko",
+          "word": "yako",
+          "ipa": "ko",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 45120,
+          "timeMs": 94523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "Spa",
+          "word": "spasa",
+          "ipa": "spa",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 45600,
+          "timeMs": 95523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "sa",
+          "word": "spasa",
+          "ipa": "sa",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 46080,
+          "timeMs": 96523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "ro",
+          "word": "rodila",
+          "ipa": "ro",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 47040,
+          "timeMs": 98523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "di",
+          "word": "rodila",
+          "ipa": "dʲi",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 48960,
+          "timeMs": 102818,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "la",
+          "word": "rodila",
+          "ipa": "la",
+          "wordIndex": 12,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 49920,
+          "timeMs": 105000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "e",
+          "word": "esi",
+          "ipa": "je",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 50880,
+          "timeMs": 109286,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "si",
+          "word": "esi",
+          "ipa": "si",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 51840,
+          "timeMs": 111508,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "dush",
+          "word": "dush",
+          "ipa": "duʃ",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 52800,
+          "timeMs": 113730,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "na",
+          "word": "nashikh",
+          "ipa": "na",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 54720,
+          "timeMs": 119196,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "shikh",
+          "word": "nashikh",
+          "ipa": "ʃix",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 56640,
+          "timeMs": 124413,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 998,
+          "note": 53
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1998,
+          "note": 53
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3498,
+          "note": 53
+        },
+        {
+          "startMs": 3500,
+          "endMs": 3998,
+          "note": 48
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4998,
+          "note": 50
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5998,
+          "note": 45
+        },
+        {
+          "startMs": 6000,
+          "endMs": 7498,
+          "note": 48
+        },
+        {
+          "startMs": 7500,
+          "endMs": 7998,
+          "note": 50
+        },
+        {
+          "startMs": 8000,
+          "endMs": 9998,
+          "note": 48
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10498,
+          "note": 53
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10998,
+          "note": 48
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11498,
+          "note": 50
+        },
+        {
+          "startMs": 11500,
+          "endMs": 11998,
+          "note": 45
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12498,
+          "note": 46
+        },
+        {
+          "startMs": 12500,
+          "endMs": 12998,
+          "note": 50
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13998,
+          "note": 48
+        },
+        {
+          "startMs": 14000,
+          "endMs": 15998,
+          "note": 53
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16998,
+          "note": 53
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17998,
+          "note": 52
+        },
+        {
+          "startMs": 18000,
+          "endMs": 20998,
+          "note": 50
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21998,
+          "note": 48
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22998,
+          "note": 50
+        },
+        {
+          "startMs": 23000,
+          "endMs": 23998,
+          "note": 48
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24498,
+          "note": 46
+        },
+        {
+          "startMs": 24500,
+          "endMs": 24998,
+          "note": 45
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25998,
+          "note": 43
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27498,
+          "note": 50
+        },
+        {
+          "startMs": 27500,
+          "endMs": 27998,
+          "note": 45
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28498,
+          "note": 46
+        },
+        {
+          "startMs": 28500,
+          "endMs": 28998,
+          "note": 50
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29998,
+          "note": 48
+        },
+        {
+          "startMs": 30000,
+          "endMs": 32298,
+          "note": 53
+        },
+        {
+          "startMs": 32300,
+          "endMs": 33298,
+          "note": 53
+        },
+        {
+          "startMs": 33300,
+          "endMs": 34298,
+          "note": 50
+        },
+        {
+          "startMs": 34300,
+          "endMs": 35798,
+          "note": 48
+        },
+        {
+          "startMs": 35800,
+          "endMs": 36298,
+          "note": 50
+        },
+        {
+          "startMs": 36300,
+          "endMs": 37298,
+          "note": 48
+        },
+        {
+          "startMs": 37300,
+          "endMs": 38298,
+          "note": 46
+        },
+        {
+          "startMs": 38300,
+          "endMs": 41298,
+          "note": 45
+        },
+        {
+          "startMs": 41300,
+          "endMs": 42298,
+          "note": 43
+        },
+        {
+          "startMs": 42300,
+          "endMs": 43298,
+          "note": 45
+        },
+        {
+          "startMs": 43300,
+          "endMs": 45298,
+          "note": 46
+        },
+        {
+          "startMs": 45300,
+          "endMs": 46298,
+          "note": 48
+        },
+        {
+          "startMs": 46300,
+          "endMs": 46798,
+          "note": 53
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47298,
+          "note": 48
+        },
+        {
+          "startMs": 47300,
+          "endMs": 47798,
+          "note": 50
+        },
+        {
+          "startMs": 47800,
+          "endMs": 48298,
+          "note": 45
+        },
+        {
+          "startMs": 48300,
+          "endMs": 48798,
+          "note": 46
+        },
+        {
+          "startMs": 48800,
+          "endMs": 49298,
+          "note": 50
+        },
+        {
+          "startMs": 49300,
+          "endMs": 50298,
+          "note": 48
+        },
+        {
+          "startMs": 50300,
+          "endMs": 54298,
+          "note": 53
+        },
+        {
+          "startMs": 79523,
+          "endMs": 80020,
+          "note": 57
+        },
+        {
+          "startMs": 80023,
+          "endMs": 80520,
+          "note": 58
+        },
+        {
+          "startMs": 80523,
+          "endMs": 82020,
+          "note": 60
+        },
+        {
+          "startMs": 82023,
+          "endMs": 82520,
+          "note": 60
+        },
+        {
+          "startMs": 82523,
+          "endMs": 83020,
+          "note": 60
+        },
+        {
+          "startMs": 83023,
+          "endMs": 83520,
+          "note": 58
+        },
+        {
+          "startMs": 83523,
+          "endMs": 84020,
+          "note": 57
+        },
+        {
+          "startMs": 84023,
+          "endMs": 84520,
+          "note": 60
+        },
+        {
+          "startMs": 84523,
+          "endMs": 85020,
+          "note": 58
+        },
+        {
+          "startMs": 85023,
+          "endMs": 85520,
+          "note": 57
+        },
+        {
+          "startMs": 85523,
+          "endMs": 86520,
+          "note": 58
+        },
+        {
+          "startMs": 86523,
+          "endMs": 87520,
+          "note": 58
+        },
+        {
+          "startMs": 87523,
+          "endMs": 88020,
+          "note": 58
+        },
+        {
+          "startMs": 88023,
+          "endMs": 88520,
+          "note": 58
+        },
+        {
+          "startMs": 88523,
+          "endMs": 89020,
+          "note": 58
+        },
+        {
+          "startMs": 89023,
+          "endMs": 89520,
+          "note": 57
+        },
+        {
+          "startMs": 89523,
+          "endMs": 90020,
+          "note": 55
+        },
+        {
+          "startMs": 90023,
+          "endMs": 90520,
+          "note": 58
+        },
+        {
+          "startMs": 90523,
+          "endMs": 91020,
+          "note": 57
+        },
+        {
+          "startMs": 91023,
+          "endMs": 91520,
+          "note": 53
+        },
+        {
+          "startMs": 91523,
+          "endMs": 92520,
+          "note": 55
+        },
+        {
+          "startMs": 92523,
+          "endMs": 93520,
+          "note": 57
+        },
+        {
+          "startMs": 93523,
+          "endMs": 94520,
+          "note": 55
+        },
+        {
+          "startMs": 94523,
+          "endMs": 95520,
+          "note": 53
+        },
+        {
+          "startMs": 95523,
+          "endMs": 96520,
+          "note": 52
+        },
+        {
+          "startMs": 96523,
+          "endMs": 97520,
+          "note": 50
+        },
+        {
+          "startMs": 97523,
+          "endMs": 98520,
+          "note": 48
+        },
+        {
+          "startMs": 98523,
+          "endMs": 99592,
+          "note": 53
+        },
+        {
+          "startMs": 99594,
+          "endMs": 100663,
+          "note": 52
+        },
+        {
+          "startMs": 100665,
+          "endMs": 101735,
+          "note": 50
+        },
+        {
+          "startMs": 101737,
+          "endMs": 102816,
+          "note": 52
+        },
+        {
+          "startMs": 102818,
+          "endMs": 103907,
+          "note": 50
+        },
+        {
+          "startMs": 103909,
+          "endMs": 104998,
+          "note": 48
+        },
+        {
+          "startMs": 105000,
+          "endMs": 108210,
+          "note": 53
+        },
+        {
+          "startMs": 109286,
+          "endMs": 110394,
+          "note": 53
+        },
+        {
+          "startMs": 110397,
+          "endMs": 111505,
+          "note": 52
+        },
+        {
+          "startMs": 111508,
+          "endMs": 112617,
+          "note": 50
+        },
+        {
+          "startMs": 112619,
+          "endMs": 113728,
+          "note": 48
+        },
+        {
+          "startMs": 113730,
+          "endMs": 116336,
+          "note": 46
+        },
+        {
+          "startMs": 116339,
+          "endMs": 119193,
+          "note": 45
+        },
+        {
+          "startMs": 119196,
+          "endMs": 123106,
+          "note": 43
+        },
+        {
+          "startMs": 123109,
+          "endMs": 124411,
+          "note": 48
+        },
+        {
+          "startMs": 124413,
+          "endMs": 129628,
+          "note": 48
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 2,
+      "lyricTrack": -2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Bo",
+          "word": "bogoroditse",
+          "ipa": "bo",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "go",
+          "word": "bogoroditse",
+          "ipa": "ɡo",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 480,
+          "timeMs": 1000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "ro",
+          "word": "bogoroditse",
+          "ipa": "ro",
+          "wordIndex": 0,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 960,
+          "timeMs": 2000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "di",
+          "word": "bogoroditse",
+          "ipa": "dʲi",
+          "wordIndex": 0,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 1920,
+          "timeMs": 4000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "tse",
+          "word": "bogoroditse",
+          "ipa": "t͡sɛ",
+          "wordIndex": 0,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 2400,
+          "timeMs": 5000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "De",
+          "word": "devo",
+          "ipa": "dʲe",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2880,
+          "timeMs": 6000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "vo",
+          "word": "devo",
+          "ipa": "vo",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3600,
+          "timeMs": 7500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "ra",
+          "word": "raduysya",
+          "ipa": "ra",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 4800,
+          "timeMs": 10000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "dui",
+          "word": "raduysya",
+          "ipa": "duj",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 5280,
+          "timeMs": 11000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "sya",
+          "word": "raduysya",
+          "ipa": "sʲa",
+          "wordIndex": 2,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 6720,
+          "timeMs": 14000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "Bla",
+          "word": "blagodatnaya",
+          "ipa": "bla",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 7680,
+          "timeMs": 16000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "go",
+          "word": "blagodatnaya",
+          "ipa": "ɡo",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 8160,
+          "timeMs": 17000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "dat",
+          "word": "blagodatnaya",
+          "ipa": "dat",
+          "wordIndex": 3,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 8640,
+          "timeMs": 18000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "na",
+          "word": "blagodatnaya",
+          "ipa": "na",
+          "wordIndex": 3,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 9120,
+          "timeMs": 19000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "ya",
+          "word": "blagodatnaya",
+          "ipa": "ja",
+          "wordIndex": 3,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 10560,
+          "timeMs": 22000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "Ma",
+          "word": "marie",
+          "ipa": "ma",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 11040,
+          "timeMs": 23000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "ri",
+          "word": "marie",
+          "ipa": "rʲi",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 12480,
+          "timeMs": 26000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "e",
+          "word": "marie",
+          "ipa": "je",
+          "wordIndex": 4,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 14400,
+          "timeMs": 30000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "Go",
+          "word": "gospod",
+          "ipa": "ɡo",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 15360,
+          "timeMs": 32300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "spod",
+          "word": "gospod",
+          "ipa": "spodʲ",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 16320,
+          "timeMs": 34300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "sTo",
+          "word": "s-toboyu",
+          "ipa": "sto",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 17760,
+          "timeMs": 37300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "bo",
+          "word": "s-toboyu",
+          "ipa": "bo",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 18240,
+          "timeMs": 38300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "you",
+          "word": "s-toboyu",
+          "ipa": "ju",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 24000,
+          "timeMs": 50300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "Bo",
+          "word": "bogoroditse",
+          "ipa": "bo",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 25920,
+          "timeMs": 54300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "go",
+          "word": "bogoroditse",
+          "ipa": "ɡo",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 27360,
+          "timeMs": 57300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "ro",
+          "word": "bogoroditse",
+          "ipa": "ro",
+          "wordIndex": 7,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 27840,
+          "timeMs": 58300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "di",
+          "word": "bogoroditse",
+          "ipa": "dʲi",
+          "wordIndex": 7,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 28320,
+          "timeMs": 59300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "tse",
+          "word": "bogoroditse",
+          "ipa": "t͡sɛ",
+          "wordIndex": 7,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 29760,
+          "timeMs": 62300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "De",
+          "word": "devo",
+          "ipa": "dʲe",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 33600,
+          "timeMs": 70300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "vo",
+          "word": "devo",
+          "ipa": "vo",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 34560,
+          "timeMs": 72300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "ra",
+          "word": "raduysya",
+          "ipa": "ra",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 35520,
+          "timeMs": 74523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "dui",
+          "word": "raduysya",
+          "ipa": "duj",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 36000,
+          "timeMs": 75523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "sya",
+          "word": "raduysya",
+          "ipa": "sʲa",
+          "wordIndex": 9,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 37440,
+          "timeMs": 78523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "ra",
+          "word": "raduysya",
+          "ipa": "ra",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 38400,
+          "timeMs": 80523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "dui",
+          "word": "raduysya",
+          "ipa": "duj",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 40320,
+          "timeMs": 84523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "sya",
+          "word": "raduysya",
+          "ipa": "sʲa",
+          "wordIndex": 10,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 41280,
+          "timeMs": 86523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "ya",
+          "word": "yako",
+          "ipa": "ja",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 42240,
+          "timeMs": 88523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "ko",
+          "word": "yako",
+          "ipa": "ko",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 43680,
+          "timeMs": 91523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "Spa",
+          "word": "spasa",
+          "ipa": "spa",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 44160,
+          "timeMs": 92523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "sa",
+          "word": "spasa",
+          "ipa": "sa",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 44640,
+          "timeMs": 93523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "ro",
+          "word": "rodila",
+          "ipa": "ro",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 45600,
+          "timeMs": 95523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "di",
+          "word": "rodila",
+          "ipa": "dʲi",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 46320,
+          "timeMs": 97023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "la",
+          "word": "rodila",
+          "ipa": "la",
+          "wordIndex": 13,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 47040,
+          "timeMs": 98523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "ya",
+          "word": "yako",
+          "ipa": "ja",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 47520,
+          "timeMs": 99594,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "ko",
+          "word": "yako",
+          "ipa": "ko",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 47760,
+          "timeMs": 100130,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "Spa",
+          "word": "spasa",
+          "ipa": "spa",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 48000,
+          "timeMs": 100665,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 46,
+          "text": "sa",
+          "word": "spasa",
+          "ipa": "sa",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 48240,
+          "timeMs": 101201,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 47,
+          "text": "ro",
+          "word": "rodila",
+          "ipa": "ro",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 48720,
+          "timeMs": 102273,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 48,
+          "text": "di",
+          "word": "rodila",
+          "ipa": "dʲi",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 49200,
+          "timeMs": 103363,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 49,
+          "text": "la",
+          "word": "rodila",
+          "ipa": "la",
+          "wordIndex": 16,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 49920,
+          "timeMs": 105000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 50,
+          "text": "e",
+          "word": "esi",
+          "ipa": "je",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 50880,
+          "timeMs": 109286,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 51,
+          "text": "si",
+          "word": "esi",
+          "ipa": "si",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 51840,
+          "timeMs": 111508,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 52,
+          "text": "dush",
+          "word": "dush",
+          "ipa": "duʃ",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 52800,
+          "timeMs": 113730,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 53,
+          "text": "na",
+          "word": "nashikh",
+          "ipa": "na",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 54720,
+          "timeMs": 119196,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 54,
+          "text": "shikh",
+          "word": "nashikh",
+          "ipa": "ʃix",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 56640,
+          "timeMs": 124413,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 998,
+          "note": 60
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1998,
+          "note": 60
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3998,
+          "note": 60
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4998,
+          "note": 57
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5998,
+          "note": 60
+        },
+        {
+          "startMs": 6000,
+          "endMs": 7498,
+          "note": 60
+        },
+        {
+          "startMs": 7500,
+          "endMs": 7998,
+          "note": 57
+        },
+        {
+          "startMs": 8000,
+          "endMs": 9998,
+          "note": 60
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10998,
+          "note": 60
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11498,
+          "note": 57
+        },
+        {
+          "startMs": 11500,
+          "endMs": 11998,
+          "note": 60
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12498,
+          "note": 62
+        },
+        {
+          "startMs": 12500,
+          "endMs": 12998,
+          "note": 57
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13998,
+          "note": 60
+        },
+        {
+          "startMs": 14000,
+          "endMs": 15998,
+          "note": 60
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16998,
+          "note": 60
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17998,
+          "note": 60
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18998,
+          "note": 62
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19998,
+          "note": 60
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20998,
+          "note": 58
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21998,
+          "note": 57
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22998,
+          "note": 58
+        },
+        {
+          "startMs": 23000,
+          "endMs": 23998,
+          "note": 57
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24498,
+          "note": 55
+        },
+        {
+          "startMs": 24500,
+          "endMs": 24998,
+          "note": 57
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25998,
+          "note": 58
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27498,
+          "note": 57
+        },
+        {
+          "startMs": 27500,
+          "endMs": 27998,
+          "note": 60
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28498,
+          "note": 62
+        },
+        {
+          "startMs": 28500,
+          "endMs": 28998,
+          "note": 57
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29998,
+          "note": 60
+        },
+        {
+          "startMs": 30000,
+          "endMs": 32298,
+          "note": 60
+        },
+        {
+          "startMs": 32300,
+          "endMs": 34298,
+          "note": 60
+        },
+        {
+          "startMs": 34300,
+          "endMs": 37298,
+          "note": 57
+        },
+        {
+          "startMs": 37300,
+          "endMs": 38298,
+          "note": 55
+        },
+        {
+          "startMs": 38300,
+          "endMs": 39798,
+          "note": 52
+        },
+        {
+          "startMs": 39800,
+          "endMs": 40298,
+          "note": 53
+        },
+        {
+          "startMs": 40300,
+          "endMs": 41298,
+          "note": 52
+        },
+        {
+          "startMs": 41300,
+          "endMs": 42298,
+          "note": 50
+        },
+        {
+          "startMs": 42300,
+          "endMs": 43798,
+          "note": 52
+        },
+        {
+          "startMs": 43800,
+          "endMs": 44298,
+          "note": 53
+        },
+        {
+          "startMs": 44300,
+          "endMs": 44798,
+          "note": 55
+        },
+        {
+          "startMs": 44800,
+          "endMs": 45298,
+          "note": 57
+        },
+        {
+          "startMs": 45300,
+          "endMs": 46298,
+          "note": 58
+        },
+        {
+          "startMs": 46300,
+          "endMs": 47298,
+          "note": 60
+        },
+        {
+          "startMs": 47300,
+          "endMs": 47798,
+          "note": 57
+        },
+        {
+          "startMs": 47800,
+          "endMs": 48298,
+          "note": 60
+        },
+        {
+          "startMs": 48300,
+          "endMs": 48798,
+          "note": 62
+        },
+        {
+          "startMs": 48800,
+          "endMs": 49298,
+          "note": 57
+        },
+        {
+          "startMs": 49300,
+          "endMs": 50298,
+          "note": 60
+        },
+        {
+          "startMs": 50300,
+          "endMs": 54298,
+          "note": 60
+        },
+        {
+          "startMs": 54300,
+          "endMs": 57298,
+          "note": 60
+        },
+        {
+          "startMs": 57300,
+          "endMs": 57798,
+          "note": 57
+        },
+        {
+          "startMs": 57800,
+          "endMs": 58298,
+          "note": 58
+        },
+        {
+          "startMs": 58300,
+          "endMs": 59298,
+          "note": 60
+        },
+        {
+          "startMs": 59300,
+          "endMs": 61298,
+          "note": 62
+        },
+        {
+          "startMs": 61300,
+          "endMs": 62298,
+          "note": 60
+        },
+        {
+          "startMs": 62300,
+          "endMs": 63298,
+          "note": 57
+        },
+        {
+          "startMs": 63300,
+          "endMs": 65298,
+          "note": 60
+        },
+        {
+          "startMs": 65300,
+          "endMs": 66298,
+          "note": 64
+        },
+        {
+          "startMs": 66300,
+          "endMs": 70298,
+          "note": 62
+        },
+        {
+          "startMs": 70300,
+          "endMs": 72298,
+          "note": 62
+        },
+        {
+          "startMs": 72300,
+          "endMs": 73369,
+          "note": 62
+        },
+        {
+          "startMs": 73371,
+          "endMs": 73905,
+          "note": 60
+        },
+        {
+          "startMs": 73907,
+          "endMs": 74520,
+          "note": 58
+        },
+        {
+          "startMs": 74523,
+          "endMs": 75520,
+          "note": 60
+        },
+        {
+          "startMs": 75523,
+          "endMs": 77520,
+          "note": 62
+        },
+        {
+          "startMs": 77523,
+          "endMs": 78520,
+          "note": 60
+        },
+        {
+          "startMs": 78523,
+          "endMs": 79020,
+          "note": 62
+        },
+        {
+          "startMs": 79023,
+          "endMs": 79520,
+          "note": 64
+        },
+        {
+          "startMs": 79523,
+          "endMs": 80520,
+          "note": 65
+        },
+        {
+          "startMs": 80523,
+          "endMs": 84520,
+          "note": 64
+        },
+        {
+          "startMs": 84523,
+          "endMs": 85520,
+          "note": 65
+        },
+        {
+          "startMs": 85523,
+          "endMs": 86520,
+          "note": 64
+        },
+        {
+          "startMs": 86523,
+          "endMs": 87520,
+          "note": 65
+        },
+        {
+          "startMs": 87523,
+          "endMs": 88520,
+          "note": 64
+        },
+        {
+          "startMs": 88523,
+          "endMs": 89020,
+          "note": 62
+        },
+        {
+          "startMs": 89023,
+          "endMs": 89520,
+          "note": 65
+        },
+        {
+          "startMs": 89523,
+          "endMs": 91520,
+          "note": 64
+        },
+        {
+          "startMs": 91523,
+          "endMs": 92520,
+          "note": 62
+        },
+        {
+          "startMs": 92523,
+          "endMs": 93523,
+          "note": 60
+        },
+        {
+          "startMs": 93523,
+          "endMs": 94520,
+          "note": 64
+        },
+        {
+          "startMs": 94523,
+          "endMs": 95023,
+          "note": 62
+        },
+        {
+          "startMs": 95023,
+          "endMs": 95520,
+          "note": 58
+        },
+        {
+          "startMs": 95523,
+          "endMs": 96520,
+          "note": 57
+        },
+        {
+          "startMs": 96523,
+          "endMs": 97020,
+          "note": 58
+        },
+        {
+          "startMs": 97023,
+          "endMs": 97520,
+          "note": 57
+        },
+        {
+          "startMs": 97523,
+          "endMs": 98520,
+          "note": 58
+        },
+        {
+          "startMs": 98523,
+          "endMs": 99592,
+          "note": 60
+        },
+        {
+          "startMs": 99594,
+          "endMs": 100127,
+          "note": 60
+        },
+        {
+          "startMs": 100130,
+          "endMs": 100663,
+          "note": 60
+        },
+        {
+          "startMs": 100665,
+          "endMs": 101199,
+          "note": 60
+        },
+        {
+          "startMs": 101201,
+          "endMs": 101735,
+          "note": 58
+        },
+        {
+          "startMs": 101737,
+          "endMs": 102270,
+          "note": 57
+        },
+        {
+          "startMs": 102273,
+          "endMs": 102816,
+          "note": 60
+        },
+        {
+          "startMs": 102818,
+          "endMs": 103361,
+          "note": 58
+        },
+        {
+          "startMs": 103363,
+          "endMs": 103907,
+          "note": 57
+        },
+        {
+          "startMs": 103909,
+          "endMs": 104998,
+          "note": 58
+        },
+        {
+          "startMs": 105000,
+          "endMs": 108210,
+          "note": 60
+        },
+        {
+          "startMs": 109286,
+          "endMs": 110397,
+          "note": 60
+        },
+        {
+          "startMs": 110397,
+          "endMs": 111505,
+          "note": 55
+        },
+        {
+          "startMs": 111508,
+          "endMs": 113728,
+          "note": 57
+        },
+        {
+          "startMs": 113730,
+          "endMs": 116336,
+          "note": 55
+        },
+        {
+          "startMs": 116339,
+          "endMs": 117764,
+          "note": 53
+        },
+        {
+          "startMs": 117767,
+          "endMs": 119193,
+          "note": 52
+        },
+        {
+          "startMs": 119196,
+          "endMs": 123106,
+          "note": 50
+        },
+        {
+          "startMs": 123109,
+          "endMs": 124411,
+          "note": 48
+        },
+        {
+          "startMs": 124413,
+          "endMs": 129628,
+          "note": 53
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": -2,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Bo",
+          "word": "bogoroditse",
+          "ipa": "bo",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "go",
+          "word": "bogoroditse",
+          "ipa": "ɡo",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 480,
+          "timeMs": 1000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "ro",
+          "word": "bogoroditse",
+          "ipa": "ro",
+          "wordIndex": 0,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 960,
+          "timeMs": 2000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "di",
+          "word": "bogoroditse",
+          "ipa": "dʲi",
+          "wordIndex": 0,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 1680,
+          "timeMs": 3500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "tse",
+          "word": "bogoroditse",
+          "ipa": "t͡sɛ",
+          "wordIndex": 0,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 2400,
+          "timeMs": 5000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "De",
+          "word": "devo",
+          "ipa": "dʲe",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2880,
+          "timeMs": 6000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "vo",
+          "word": "devo",
+          "ipa": "vo",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3600,
+          "timeMs": 7500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "ra",
+          "word": "raduysya",
+          "ipa": "ra",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 4800,
+          "timeMs": 10000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "dui",
+          "word": "raduysya",
+          "ipa": "duj",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 5040,
+          "timeMs": 10500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "sya",
+          "word": "raduysya",
+          "ipa": "sʲa",
+          "wordIndex": 2,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 6720,
+          "timeMs": 14000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "Bla",
+          "word": "blagodatnaya",
+          "ipa": "bla",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 7680,
+          "timeMs": 16000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "go",
+          "word": "blagodatnaya",
+          "ipa": "ɡo",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 8160,
+          "timeMs": 17000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "dat",
+          "word": "blagodatnaya",
+          "ipa": "dat",
+          "wordIndex": 3,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 8640,
+          "timeMs": 18000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "na",
+          "word": "blagodatnaya",
+          "ipa": "na",
+          "wordIndex": 3,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 10080,
+          "timeMs": 21000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "ya",
+          "word": "blagodatnaya",
+          "ipa": "ja",
+          "wordIndex": 3,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 10560,
+          "timeMs": 22000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "Ma",
+          "word": "marie",
+          "ipa": "ma",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 11040,
+          "timeMs": 23000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "ri",
+          "word": "marie",
+          "ipa": "rʲi",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 12480,
+          "timeMs": 26000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "e",
+          "word": "marie",
+          "ipa": "je",
+          "wordIndex": 4,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 14400,
+          "timeMs": 30000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "Go",
+          "word": "gospod",
+          "ipa": "ɡo",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 15360,
+          "timeMs": 32300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "spod",
+          "word": "gospod",
+          "ipa": "spodʲ",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 16320,
+          "timeMs": 34300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "sTo",
+          "word": "s-toboyu",
+          "ipa": "sto",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 17040,
+          "timeMs": 35800,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "bo",
+          "word": "s-toboyu",
+          "ipa": "bo",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 18240,
+          "timeMs": 38300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "you",
+          "word": "s-toboyu",
+          "ipa": "ju",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 24000,
+          "timeMs": 50300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "Bla",
+          "word": "blagoslovenna",
+          "ipa": "bla",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 24480,
+          "timeMs": 51300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "go",
+          "word": "blagoslovenna",
+          "ipa": "ɡo",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 24960,
+          "timeMs": 52300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "slo",
+          "word": "blagoslovenna",
+          "ipa": "slo",
+          "wordIndex": 7,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 25440,
+          "timeMs": 53300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ve",
+          "word": "blagoslovenna",
+          "ipa": "vʲe",
+          "wordIndex": 7,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 25920,
+          "timeMs": 54300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "na",
+          "word": "blagoslovenna",
+          "ipa": "na",
+          "wordIndex": 7,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 27840,
+          "timeMs": 58300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "Ty",
+          "word": "ty",
+          "ipa": "tɨ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 28800,
+          "timeMs": 60300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "vzhe",
+          "word": "v-zhenakh",
+          "ipa": "vʐɛ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 29760,
+          "timeMs": 62300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "nakh",
+          "word": "v-zhenakh",
+          "ipa": "nax",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 30720,
+          "timeMs": 64300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "i",
+          "word": "i",
+          "ipa": "i",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 32160,
+          "timeMs": 67300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "bla",
+          "word": "blagosloven",
+          "ipa": "bla",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "tick": 32640,
+          "timeMs": 68300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "go",
+          "word": "blagosloven",
+          "ipa": "ɡo",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "tick": 33120,
+          "timeMs": 69300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "slo",
+          "word": "blagosloven",
+          "ipa": "slo",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "tick": 33360,
+          "timeMs": 69800,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "ven",
+          "word": "blagosloven",
+          "ipa": "vʲen",
+          "wordIndex": 11,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "tick": 33600,
+          "timeMs": 70300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "plod",
+          "word": "plod",
+          "ipa": "plod",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 34560,
+          "timeMs": 72300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "chre",
+          "word": "chreva",
+          "ipa": "t͡ʃrʲe",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 35520,
+          "timeMs": 74523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "va",
+          "word": "chreva",
+          "ipa": "va",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 36000,
+          "timeMs": 75523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "Tvo",
+          "word": "tvoyego",
+          "ipa": "tvo",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 36480,
+          "timeMs": 76523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "je",
+          "word": "tvoyego",
+          "ipa": "jɛ",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 36960,
+          "timeMs": 77523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "go",
+          "word": "tvoyego",
+          "ipa": "ɡo",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 37440,
+          "timeMs": 78523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "ya",
+          "word": "yako",
+          "ipa": "ja",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 37680,
+          "timeMs": 79023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "ko",
+          "word": "yako",
+          "ipa": "ko",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 38400,
+          "timeMs": 80523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "Spa",
+          "word": "spasa",
+          "ipa": "spa",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 39360,
+          "timeMs": 82523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "sa",
+          "word": "spasa",
+          "ipa": "sa",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 39600,
+          "timeMs": 83023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 46,
+          "text": "ro",
+          "word": "rodila",
+          "ipa": "ro",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 41280,
+          "timeMs": 86523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 47,
+          "text": "di",
+          "word": "rodila",
+          "ipa": "dʲi",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 42000,
+          "timeMs": 88023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 48,
+          "text": "la",
+          "word": "rodila",
+          "ipa": "la",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 42240,
+          "timeMs": 88523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 49,
+          "text": "ya",
+          "word": "yako",
+          "ipa": "ja",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 44160,
+          "timeMs": 92523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 50,
+          "text": "ko",
+          "word": "yako",
+          "ipa": "ko",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 44880,
+          "timeMs": 94023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 51,
+          "text": "Spa",
+          "word": "spasa",
+          "ipa": "spa",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 45120,
+          "timeMs": 94523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 52,
+          "text": "sa",
+          "word": "spasa",
+          "ipa": "sa",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 45360,
+          "timeMs": 95023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 53,
+          "text": "ro",
+          "word": "rodila",
+          "ipa": "ro",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 45840,
+          "timeMs": 96023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 54,
+          "text": "di",
+          "word": "rodila",
+          "ipa": "dʲi",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 46320,
+          "timeMs": 97023,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 55,
+          "text": "la",
+          "word": "rodila",
+          "ipa": "la",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 47040,
+          "timeMs": 98523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 56,
+          "text": "e",
+          "word": "esi",
+          "ipa": "je",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 49920,
+          "timeMs": 105000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 57,
+          "text": "si",
+          "word": "esi",
+          "ipa": "si",
+          "wordIndex": 21,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 51360,
+          "timeMs": 110397,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 58,
+          "text": "dush",
+          "word": "dush",
+          "ipa": "duʃ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 52800,
+          "timeMs": 113730,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 59,
+          "text": "na",
+          "word": "nashikh",
+          "ipa": "na",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 54720,
+          "timeMs": 119196,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 60,
+          "text": "shikh",
+          "word": "nashikh",
+          "ipa": "ʃix",
+          "wordIndex": 23,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 56640,
+          "timeMs": 124413,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 998,
+          "note": 65
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1998,
+          "note": 65
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3498,
+          "note": 65
+        },
+        {
+          "startMs": 3500,
+          "endMs": 3998,
+          "note": 64
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4998,
+          "note": 62
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5998,
+          "note": 65
+        },
+        {
+          "startMs": 6000,
+          "endMs": 7498,
+          "note": 64
+        },
+        {
+          "startMs": 7500,
+          "endMs": 7998,
+          "note": 62
+        },
+        {
+          "startMs": 8000,
+          "endMs": 9998,
+          "note": 64
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10498,
+          "note": 65
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10998,
+          "note": 64
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11498,
+          "note": 62
+        },
+        {
+          "startMs": 11500,
+          "endMs": 11998,
+          "note": 65
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12498,
+          "note": 65
+        },
+        {
+          "startMs": 12500,
+          "endMs": 12998,
+          "note": 62
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13998,
+          "note": 64
+        },
+        {
+          "startMs": 14000,
+          "endMs": 15998,
+          "note": 65
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16998,
+          "note": 65
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17998,
+          "note": 65
+        },
+        {
+          "startMs": 18000,
+          "endMs": 20998,
+          "note": 65
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21498,
+          "note": 62
+        },
+        {
+          "startMs": 21500,
+          "endMs": 21998,
+          "note": 64
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22998,
+          "note": 65
+        },
+        {
+          "startMs": 23000,
+          "endMs": 23998,
+          "note": 64
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24498,
+          "note": 62
+        },
+        {
+          "startMs": 24500,
+          "endMs": 24998,
+          "note": 60
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25498,
+          "note": 62
+        },
+        {
+          "startMs": 25500,
+          "endMs": 25998,
+          "note": 64
+        },
+        {
+          "startMs": 26000,
+          "endMs": 26498,
+          "note": 65
+        },
+        {
+          "startMs": 26500,
+          "endMs": 26998,
+          "note": 64
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27498,
+          "note": 62
+        },
+        {
+          "startMs": 27500,
+          "endMs": 27998,
+          "note": 65
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28498,
+          "note": 65
+        },
+        {
+          "startMs": 28500,
+          "endMs": 28998,
+          "note": 62
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29998,
+          "note": 64
+        },
+        {
+          "startMs": 30000,
+          "endMs": 32298,
+          "note": 65
+        },
+        {
+          "startMs": 32300,
+          "endMs": 34298,
+          "note": 65
+        },
+        {
+          "startMs": 34300,
+          "endMs": 35798,
+          "note": 64
+        },
+        {
+          "startMs": 35800,
+          "endMs": 36298,
+          "note": 65
+        },
+        {
+          "startMs": 36300,
+          "endMs": 37298,
+          "note": 64
+        },
+        {
+          "startMs": 37300,
+          "endMs": 38298,
+          "note": 62
+        },
+        {
+          "startMs": 38300,
+          "endMs": 39798,
+          "note": 60
+        },
+        {
+          "startMs": 39800,
+          "endMs": 40298,
+          "note": 62
+        },
+        {
+          "startMs": 40300,
+          "endMs": 41298,
+          "note": 60
+        },
+        {
+          "startMs": 41300,
+          "endMs": 42298,
+          "note": 58
+        },
+        {
+          "startMs": 42300,
+          "endMs": 43298,
+          "note": 60
+        },
+        {
+          "startMs": 43300,
+          "endMs": 45298,
+          "note": 62
+        },
+        {
+          "startMs": 45300,
+          "endMs": 46298,
+          "note": 64
+        },
+        {
+          "startMs": 46300,
+          "endMs": 46798,
+          "note": 65
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47298,
+          "note": 64
+        },
+        {
+          "startMs": 47300,
+          "endMs": 47798,
+          "note": 62
+        },
+        {
+          "startMs": 47800,
+          "endMs": 48298,
+          "note": 65
+        },
+        {
+          "startMs": 48300,
+          "endMs": 48798,
+          "note": 65
+        },
+        {
+          "startMs": 48800,
+          "endMs": 49298,
+          "note": 62
+        },
+        {
+          "startMs": 49300,
+          "endMs": 50298,
+          "note": 64
+        },
+        {
+          "startMs": 50300,
+          "endMs": 51298,
+          "note": 65
+        },
+        {
+          "startMs": 51300,
+          "endMs": 52298,
+          "note": 65
+        },
+        {
+          "startMs": 52300,
+          "endMs": 53298,
+          "note": 65
+        },
+        {
+          "startMs": 53300,
+          "endMs": 54298,
+          "note": 65
+        },
+        {
+          "startMs": 54300,
+          "endMs": 54798,
+          "note": 65
+        },
+        {
+          "startMs": 54800,
+          "endMs": 55298,
+          "note": 64
+        },
+        {
+          "startMs": 55300,
+          "endMs": 55798,
+          "note": 65
+        },
+        {
+          "startMs": 55800,
+          "endMs": 56298,
+          "note": 65
+        },
+        {
+          "startMs": 56300,
+          "endMs": 56798,
+          "note": 64
+        },
+        {
+          "startMs": 56800,
+          "endMs": 57298,
+          "note": 65
+        },
+        {
+          "startMs": 57300,
+          "endMs": 58298,
+          "note": 64
+        },
+        {
+          "startMs": 58300,
+          "endMs": 60298,
+          "note": 65
+        },
+        {
+          "startMs": 60300,
+          "endMs": 60798,
+          "note": 65
+        },
+        {
+          "startMs": 60800,
+          "endMs": 61298,
+          "note": 64
+        },
+        {
+          "startMs": 61300,
+          "endMs": 61798,
+          "note": 65
+        },
+        {
+          "startMs": 61800,
+          "endMs": 62298,
+          "note": 65
+        },
+        {
+          "startMs": 62300,
+          "endMs": 62798,
+          "note": 64
+        },
+        {
+          "startMs": 62800,
+          "endMs": 63298,
+          "note": 65
+        },
+        {
+          "startMs": 63300,
+          "endMs": 64298,
+          "note": 64
+        },
+        {
+          "startMs": 64300,
+          "endMs": 66298,
+          "note": 65
+        },
+        {
+          "startMs": 66300,
+          "endMs": 67298,
+          "note": 65
+        },
+        {
+          "startMs": 67300,
+          "endMs": 67798,
+          "note": 64
+        },
+        {
+          "startMs": 67800,
+          "endMs": 68298,
+          "note": 65
+        },
+        {
+          "startMs": 68300,
+          "endMs": 69298,
+          "note": 67
+        },
+        {
+          "startMs": 69300,
+          "endMs": 69798,
+          "note": 67
+        },
+        {
+          "startMs": 69800,
+          "endMs": 70298,
+          "note": 67
+        },
+        {
+          "startMs": 70300,
+          "endMs": 70798,
+          "note": 67
+        },
+        {
+          "startMs": 70800,
+          "endMs": 71298,
+          "note": 69
+        },
+        {
+          "startMs": 71300,
+          "endMs": 71798,
+          "note": 67
+        },
+        {
+          "startMs": 71800,
+          "endMs": 72298,
+          "note": 67
+        },
+        {
+          "startMs": 72300,
+          "endMs": 72833,
+          "note": 69
+        },
+        {
+          "startMs": 72835,
+          "endMs": 73369,
+          "note": 67
+        },
+        {
+          "startMs": 73371,
+          "endMs": 74520,
+          "note": 69
+        },
+        {
+          "startMs": 74523,
+          "endMs": 75520,
+          "note": 69
+        },
+        {
+          "startMs": 75523,
+          "endMs": 76020,
+          "note": 67
+        },
+        {
+          "startMs": 76023,
+          "endMs": 76520,
+          "note": 69
+        },
+        {
+          "startMs": 76523,
+          "endMs": 77020,
+          "note": 70
+        },
+        {
+          "startMs": 77023,
+          "endMs": 77520,
+          "note": 69
+        },
+        {
+          "startMs": 77523,
+          "endMs": 78020,
+          "note": 67
+        },
+        {
+          "startMs": 78023,
+          "endMs": 78520,
+          "note": 67
+        },
+        {
+          "startMs": 78523,
+          "endMs": 79020,
+          "note": 69
+        },
+        {
+          "startMs": 79023,
+          "endMs": 79520,
+          "note": 67
+        },
+        {
+          "startMs": 79523,
+          "endMs": 80020,
+          "note": 69
+        },
+        {
+          "startMs": 80023,
+          "endMs": 80520,
+          "note": 70
+        },
+        {
+          "startMs": 80523,
+          "endMs": 82020,
+          "note": 72
+        },
+        {
+          "startMs": 82023,
+          "endMs": 82520,
+          "note": 72
+        },
+        {
+          "startMs": 82523,
+          "endMs": 83020,
+          "note": 72
+        },
+        {
+          "startMs": 83023,
+          "endMs": 83520,
+          "note": 70
+        },
+        {
+          "startMs": 83523,
+          "endMs": 84020,
+          "note": 69
+        },
+        {
+          "startMs": 84023,
+          "endMs": 84520,
+          "note": 72
+        },
+        {
+          "startMs": 84523,
+          "endMs": 85020,
+          "note": 70
+        },
+        {
+          "startMs": 85023,
+          "endMs": 85520,
+          "note": 69
+        },
+        {
+          "startMs": 85523,
+          "endMs": 86520,
+          "note": 70
+        },
+        {
+          "startMs": 86523,
+          "endMs": 87520,
+          "note": 70
+        },
+        {
+          "startMs": 87523,
+          "endMs": 88020,
+          "note": 70
+        },
+        {
+          "startMs": 88023,
+          "endMs": 88520,
+          "note": 70
+        },
+        {
+          "startMs": 88523,
+          "endMs": 89020,
+          "note": 70
+        },
+        {
+          "startMs": 89023,
+          "endMs": 89520,
+          "note": 69
+        },
+        {
+          "startMs": 89523,
+          "endMs": 90020,
+          "note": 67
+        },
+        {
+          "startMs": 90023,
+          "endMs": 90520,
+          "note": 70
+        },
+        {
+          "startMs": 90523,
+          "endMs": 91020,
+          "note": 69
+        },
+        {
+          "startMs": 91023,
+          "endMs": 91520,
+          "note": 65
+        },
+        {
+          "startMs": 91523,
+          "endMs": 92520,
+          "note": 67
+        },
+        {
+          "startMs": 92523,
+          "endMs": 93520,
+          "note": 69
+        },
+        {
+          "startMs": 93523,
+          "endMs": 94020,
+          "note": 69
+        },
+        {
+          "startMs": 94023,
+          "endMs": 94520,
+          "note": 69
+        },
+        {
+          "startMs": 94523,
+          "endMs": 95020,
+          "note": 69
+        },
+        {
+          "startMs": 95023,
+          "endMs": 95520,
+          "note": 67
+        },
+        {
+          "startMs": 95523,
+          "endMs": 96020,
+          "note": 65
+        },
+        {
+          "startMs": 96023,
+          "endMs": 96520,
+          "note": 69
+        },
+        {
+          "startMs": 96523,
+          "endMs": 97020,
+          "note": 67
+        },
+        {
+          "startMs": 97023,
+          "endMs": 97520,
+          "note": 65
+        },
+        {
+          "startMs": 97523,
+          "endMs": 98520,
+          "note": 67
+        },
+        {
+          "startMs": 98523,
+          "endMs": 100663,
+          "note": 69
+        },
+        {
+          "startMs": 100665,
+          "endMs": 101199,
+          "note": 69
+        },
+        {
+          "startMs": 101201,
+          "endMs": 101735,
+          "note": 67
+        },
+        {
+          "startMs": 101737,
+          "endMs": 102270,
+          "note": 65
+        },
+        {
+          "startMs": 102273,
+          "endMs": 102816,
+          "note": 69
+        },
+        {
+          "startMs": 102818,
+          "endMs": 103361,
+          "note": 67
+        },
+        {
+          "startMs": 103363,
+          "endMs": 103907,
+          "note": 65
+        },
+        {
+          "startMs": 103909,
+          "endMs": 104998,
+          "note": 67
+        },
+        {
+          "startMs": 105000,
+          "endMs": 108210,
+          "note": 69
+        },
+        {
+          "startMs": 109286,
+          "endMs": 110394,
+          "note": 65
+        },
+        {
+          "startMs": 110397,
+          "endMs": 111505,
+          "note": 64
+        },
+        {
+          "startMs": 111508,
+          "endMs": 112617,
+          "note": 62
+        },
+        {
+          "startMs": 112619,
+          "endMs": 113728,
+          "note": 64
+        },
+        {
+          "startMs": 113730,
+          "endMs": 116336,
+          "note": 62
+        },
+        {
+          "startMs": 116339,
+          "endMs": 119193,
+          "note": 60
+        },
+        {
+          "startMs": 119196,
+          "endMs": 124411,
+          "note": 58
+        },
+        {
+          "startMs": 124413,
+          "endMs": 129628,
+          "note": 57
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 0,
+      "lyricTrack": -2,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Bo",
+          "word": "bogoroditse",
+          "ipa": "bo",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "go",
+          "word": "bogoroditse",
+          "ipa": "ɡo",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 480,
+          "timeMs": 1000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "ro",
+          "word": "bogoroditse",
+          "ipa": "ro",
+          "wordIndex": 0,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 960,
+          "timeMs": 2000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "di",
+          "word": "bogoroditse",
+          "ipa": "dʲi",
+          "wordIndex": 0,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 1680,
+          "timeMs": 3500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "tse",
+          "word": "bogoroditse",
+          "ipa": "t͡sɛ",
+          "wordIndex": 0,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 2400,
+          "timeMs": 5000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "De",
+          "word": "devo",
+          "ipa": "dʲe",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2880,
+          "timeMs": 6000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "vo",
+          "word": "devo",
+          "ipa": "vo",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3600,
+          "timeMs": 7500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "ra",
+          "word": "raduysya",
+          "ipa": "ra",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 4800,
+          "timeMs": 10000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "dui",
+          "word": "raduysya",
+          "ipa": "duj",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 5040,
+          "timeMs": 10500,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "sya",
+          "word": "raduysya",
+          "ipa": "sʲa",
+          "wordIndex": 2,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 6720,
+          "timeMs": 14000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "Bla",
+          "word": "blagodatnaya",
+          "ipa": "bla",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 7680,
+          "timeMs": 16000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "go",
+          "word": "blagodatnaya",
+          "ipa": "ɡo",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 8160,
+          "timeMs": 17000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "dat",
+          "word": "blagodatnaya",
+          "ipa": "dat",
+          "wordIndex": 3,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 8640,
+          "timeMs": 18000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "na",
+          "word": "blagodatnaya",
+          "ipa": "na",
+          "wordIndex": 3,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 9120,
+          "timeMs": 19000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "ya",
+          "word": "blagodatnaya",
+          "ipa": "ja",
+          "wordIndex": 3,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 10560,
+          "timeMs": 22000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "Ma",
+          "word": "marie",
+          "ipa": "ma",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 11520,
+          "timeMs": 24000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "ri",
+          "word": "marie",
+          "ipa": "rʲi",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 12480,
+          "timeMs": 26000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "e",
+          "word": "marie",
+          "ipa": "je",
+          "wordIndex": 4,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 14400,
+          "timeMs": 30000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "Go",
+          "word": "gospod",
+          "ipa": "ɡo",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 15360,
+          "timeMs": 32300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "spod",
+          "word": "gospod",
+          "ipa": "spodʲ",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 16320,
+          "timeMs": 34300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "sTo",
+          "word": "s-toboyu",
+          "ipa": "sto",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 17760,
+          "timeMs": 37300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "bo",
+          "word": "s-toboyu",
+          "ipa": "bo",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 18240,
+          "timeMs": 38300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "you",
+          "word": "s-toboyu",
+          "ipa": "ju",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 24000,
+          "timeMs": 50300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "Bo",
+          "word": "bogoroditse",
+          "ipa": "bo",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 5,
+          "tick": 25920,
+          "timeMs": 54300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "go",
+          "word": "bogoroditse",
+          "ipa": "ɡo",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 5,
+          "tick": 27360,
+          "timeMs": 57300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "ro",
+          "word": "bogoroditse",
+          "ipa": "ro",
+          "wordIndex": 7,
+          "syllableIndex": 2,
+          "syllableCount": 5,
+          "tick": 27840,
+          "timeMs": 58300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "di",
+          "word": "bogoroditse",
+          "ipa": "dʲi",
+          "wordIndex": 7,
+          "syllableIndex": 3,
+          "syllableCount": 5,
+          "tick": 28320,
+          "timeMs": 59300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "tse",
+          "word": "bogoroditse",
+          "ipa": "t͡sɛ",
+          "wordIndex": 7,
+          "syllableIndex": 4,
+          "syllableCount": 5,
+          "tick": 29760,
+          "timeMs": 62300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "De",
+          "word": "devo",
+          "ipa": "dʲe",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 33600,
+          "timeMs": 70300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "vo",
+          "word": "devo",
+          "ipa": "vo",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 34560,
+          "timeMs": 72300,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "ra",
+          "word": "raduysya",
+          "ipa": "ra",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 35520,
+          "timeMs": 74523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "dui",
+          "word": "raduysya",
+          "ipa": "duj",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 36000,
+          "timeMs": 75523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "sya",
+          "word": "raduysya",
+          "ipa": "sʲa",
+          "wordIndex": 9,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 37440,
+          "timeMs": 78523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "ra",
+          "word": "raduysya",
+          "ipa": "ra",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 38400,
+          "timeMs": 80523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "dui",
+          "word": "raduysya",
+          "ipa": "duj",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 40320,
+          "timeMs": 84523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "sya",
+          "word": "raduysya",
+          "ipa": "sʲa",
+          "wordIndex": 10,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 41280,
+          "timeMs": 86523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "ya",
+          "word": "yako",
+          "ipa": "ja",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 42240,
+          "timeMs": 88523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "ko",
+          "word": "yako",
+          "ipa": "ko",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 43680,
+          "timeMs": 91523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "Spa",
+          "word": "spasa",
+          "ipa": "spa",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 44160,
+          "timeMs": 92523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "sa",
+          "word": "spasa",
+          "ipa": "sa",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 46080,
+          "timeMs": 96523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "ro",
+          "word": "rodila",
+          "ipa": "ro",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 47040,
+          "timeMs": 98523,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "di",
+          "word": "rodila",
+          "ipa": "dʲi",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 48960,
+          "timeMs": 102818,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "la",
+          "word": "rodila",
+          "ipa": "la",
+          "wordIndex": 13,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 49920,
+          "timeMs": 105000,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "e",
+          "word": "esi",
+          "ipa": "je",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 50880,
+          "timeMs": 109286,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "si",
+          "word": "esi",
+          "ipa": "si",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 51360,
+          "timeMs": 110397,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "dush",
+          "word": "dush",
+          "ipa": "duʃ",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 52800,
+          "timeMs": 113730,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 46,
+          "text": "na",
+          "word": "nashikh",
+          "ipa": "na",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 54720,
+          "timeMs": 119196,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 47,
+          "text": "shikh",
+          "word": "nashikh",
+          "ipa": "ʃix",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 56640,
+          "timeMs": 124413,
+          "language": "ru",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 998,
+          "note": 69
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1998,
+          "note": 69
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3498,
+          "note": 69
+        },
+        {
+          "startMs": 3500,
+          "endMs": 3998,
+          "note": 67
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4998,
+          "note": 65
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5998,
+          "note": 69
+        },
+        {
+          "startMs": 6000,
+          "endMs": 7498,
+          "note": 67
+        },
+        {
+          "startMs": 7500,
+          "endMs": 7998,
+          "note": 65
+        },
+        {
+          "startMs": 8000,
+          "endMs": 9998,
+          "note": 67
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10498,
+          "note": 69
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10998,
+          "note": 67
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11498,
+          "note": 65
+        },
+        {
+          "startMs": 11500,
+          "endMs": 11998,
+          "note": 69
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12498,
+          "note": 67
+        },
+        {
+          "startMs": 12500,
+          "endMs": 12998,
+          "note": 65
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13998,
+          "note": 67
+        },
+        {
+          "startMs": 14000,
+          "endMs": 15998,
+          "note": 69
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16998,
+          "note": 69
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17498,
+          "note": 67
+        },
+        {
+          "startMs": 17500,
+          "endMs": 17998,
+          "note": 69
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18998,
+          "note": 70
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19998,
+          "note": 69
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20998,
+          "note": 67
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21498,
+          "note": 65
+        },
+        {
+          "startMs": 21500,
+          "endMs": 21998,
+          "note": 69
+        },
+        {
+          "startMs": 22000,
+          "endMs": 23998,
+          "note": 67
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24498,
+          "note": 67
+        },
+        {
+          "startMs": 24500,
+          "endMs": 24998,
+          "note": 64
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25498,
+          "note": 65
+        },
+        {
+          "startMs": 25500,
+          "endMs": 25998,
+          "note": 67
+        },
+        {
+          "startMs": 26000,
+          "endMs": 26498,
+          "note": 69
+        },
+        {
+          "startMs": 26500,
+          "endMs": 26998,
+          "note": 67
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27498,
+          "note": 65
+        },
+        {
+          "startMs": 27500,
+          "endMs": 27998,
+          "note": 69
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28498,
+          "note": 67
+        },
+        {
+          "startMs": 28500,
+          "endMs": 28998,
+          "note": 65
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29998,
+          "note": 67
+        },
+        {
+          "startMs": 30000,
+          "endMs": 32298,
+          "note": 69
+        },
+        {
+          "startMs": 32300,
+          "endMs": 34298,
+          "note": 69
+        },
+        {
+          "startMs": 34300,
+          "endMs": 37298,
+          "note": 69
+        },
+        {
+          "startMs": 37300,
+          "endMs": 38298,
+          "note": 67
+        },
+        {
+          "startMs": 38300,
+          "endMs": 42298,
+          "note": 69
+        },
+        {
+          "startMs": 42300,
+          "endMs": 45298,
+          "note": 69
+        },
+        {
+          "startMs": 45300,
+          "endMs": 46298,
+          "note": 67
+        },
+        {
+          "startMs": 46300,
+          "endMs": 46798,
+          "note": 69
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47298,
+          "note": 67
+        },
+        {
+          "startMs": 47300,
+          "endMs": 47798,
+          "note": 65
+        },
+        {
+          "startMs": 47800,
+          "endMs": 48298,
+          "note": 69
+        },
+        {
+          "startMs": 48300,
+          "endMs": 48798,
+          "note": 67
+        },
+        {
+          "startMs": 48800,
+          "endMs": 49298,
+          "note": 65
+        },
+        {
+          "startMs": 49300,
+          "endMs": 50298,
+          "note": 67
+        },
+        {
+          "startMs": 50300,
+          "endMs": 54298,
+          "note": 69
+        },
+        {
+          "startMs": 54300,
+          "endMs": 57298,
+          "note": 72
+        },
+        {
+          "startMs": 57300,
+          "endMs": 57798,
+          "note": 69
+        },
+        {
+          "startMs": 57800,
+          "endMs": 58298,
+          "note": 70
+        },
+        {
+          "startMs": 58300,
+          "endMs": 59298,
+          "note": 72
+        },
+        {
+          "startMs": 59300,
+          "endMs": 61298,
+          "note": 74
+        },
+        {
+          "startMs": 61300,
+          "endMs": 62298,
+          "note": 72
+        },
+        {
+          "startMs": 62300,
+          "endMs": 63298,
+          "note": 69
+        },
+        {
+          "startMs": 63300,
+          "endMs": 65298,
+          "note": 72
+        },
+        {
+          "startMs": 65300,
+          "endMs": 66298,
+          "note": 76
+        },
+        {
+          "startMs": 66300,
+          "endMs": 70298,
+          "note": 74
+        },
+        {
+          "startMs": 70300,
+          "endMs": 72298,
+          "note": 74
+        },
+        {
+          "startMs": 72300,
+          "endMs": 73369,
+          "note": 74
+        },
+        {
+          "startMs": 73371,
+          "endMs": 73905,
+          "note": 72
+        },
+        {
+          "startMs": 73907,
+          "endMs": 74520,
+          "note": 70
+        },
+        {
+          "startMs": 74523,
+          "endMs": 75520,
+          "note": 72
+        },
+        {
+          "startMs": 75523,
+          "endMs": 77520,
+          "note": 74
+        },
+        {
+          "startMs": 77523,
+          "endMs": 78520,
+          "note": 72
+        },
+        {
+          "startMs": 78523,
+          "endMs": 79020,
+          "note": 74
+        },
+        {
+          "startMs": 79023,
+          "endMs": 79520,
+          "note": 76
+        },
+        {
+          "startMs": 79523,
+          "endMs": 80520,
+          "note": 77
+        },
+        {
+          "startMs": 80523,
+          "endMs": 84520,
+          "note": 76
+        },
+        {
+          "startMs": 84523,
+          "endMs": 85520,
+          "note": 77
+        },
+        {
+          "startMs": 85523,
+          "endMs": 86520,
+          "note": 76
+        },
+        {
+          "startMs": 86523,
+          "endMs": 87520,
+          "note": 77
+        },
+        {
+          "startMs": 87523,
+          "endMs": 88520,
+          "note": 76
+        },
+        {
+          "startMs": 88523,
+          "endMs": 89020,
+          "note": 74
+        },
+        {
+          "startMs": 89023,
+          "endMs": 89520,
+          "note": 77
+        },
+        {
+          "startMs": 89523,
+          "endMs": 91520,
+          "note": 76
+        },
+        {
+          "startMs": 91523,
+          "endMs": 92520,
+          "note": 74
+        },
+        {
+          "startMs": 92523,
+          "endMs": 96520,
+          "note": 72
+        },
+        {
+          "startMs": 96523,
+          "endMs": 98520,
+          "note": 72
+        },
+        {
+          "startMs": 98523,
+          "endMs": 102816,
+          "note": 72
+        },
+        {
+          "startMs": 102818,
+          "endMs": 104998,
+          "note": 72
+        },
+        {
+          "startMs": 105000,
+          "endMs": 108210,
+          "note": 72
+        },
+        {
+          "startMs": 109286,
+          "endMs": 110394,
+          "note": 69
+        },
+        {
+          "startMs": 110397,
+          "endMs": 111505,
+          "note": 67
+        },
+        {
+          "startMs": 111508,
+          "endMs": 112617,
+          "note": 65
+        },
+        {
+          "startMs": 112619,
+          "endMs": 113728,
+          "note": 69
+        },
+        {
+          "startMs": 113730,
+          "endMs": 116336,
+          "note": 67
+        },
+        {
+          "startMs": 116339,
+          "endMs": 119193,
+          "note": 65
+        },
+        {
+          "startMs": 119196,
+          "endMs": 124411,
+          "note": 67
+        },
+        {
+          "startMs": 124413,
+          "endMs": 129628,
+          "note": 65
+        }
+      ]
+    }
+  ]
+}

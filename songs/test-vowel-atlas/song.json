@@ -1,0 +1,3358 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "8af336288cf25a70074d375cfc9259a13225f7d63490e190a55d659b56187f15",
+  "id": "test-vowel-atlas",
+  "title": "Test · Vowel atlas",
+  "durationMs": 54150,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/test-vowel-atlas/song.cscore",
+  "displayScore": "/songs/test-vowel-atlas/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-us",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-us",
+        "syllables": 45,
+        "words": 45,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 24,
+          "lexicon": 18,
+          "sung-form": 3
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-us",
+        "syllables": 45,
+        "words": 45,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 24,
+          "lexicon": 18,
+          "sung-form": 3
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-us",
+        "syllables": 45,
+        "words": 45,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 24,
+          "lexicon": 18,
+          "sung-form": 3
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-us",
+        "syllables": 45,
+        "words": 45,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 24,
+          "lexicon": 18,
+          "sung-form": 3
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://choir.chainsman.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 1,
+      "lyricTrack": 1,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "are",
+          "order": 0,
+          "timeMs": 0,
+          "word": "are",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "i",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "i",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "and",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "and",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "the",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "the",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "or",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "or",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4800,
+          "text": "boy",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "boy",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "hol",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "hol",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "of",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "of",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "oo",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "oo",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "sing",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "sing",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "deer",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "deer",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10560,
+          "text": "they",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "they",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "bears",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "bears",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12480,
+          "text": "full",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "full",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "mm",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "mm",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 14400,
+          "text": "are",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "are",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "i",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "i",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "and",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "and",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "the",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "the",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "or",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "or",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "boy",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "boy",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "hol",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "hol",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "of",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "of",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "oo",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "oo",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23040,
+          "text": "sing",
+          "order": 48,
+          "timeMs": 28800,
+          "word": "sing",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24000,
+          "text": "deer",
+          "order": 50,
+          "timeMs": 30000,
+          "word": "deer",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24960,
+          "text": "they",
+          "order": 52,
+          "timeMs": 31200,
+          "word": "they",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25920,
+          "text": "bears",
+          "order": 54,
+          "timeMs": 32400,
+          "word": "bears",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "full",
+          "order": 56,
+          "timeMs": 33600,
+          "word": "full",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 27840,
+          "text": "mm",
+          "order": 58,
+          "timeMs": 34800,
+          "word": "mm",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 28800,
+          "text": "are",
+          "order": 60,
+          "timeMs": 36000,
+          "word": "are",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 29760,
+          "text": "i",
+          "order": 62,
+          "timeMs": 37200,
+          "word": "i",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "and",
+          "order": 64,
+          "timeMs": 38400,
+          "word": "and",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31680,
+          "text": "the",
+          "order": 66,
+          "timeMs": 39600,
+          "word": "the",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 32640,
+          "text": "or",
+          "order": 68,
+          "timeMs": 40800,
+          "word": "or",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33600,
+          "text": "boy",
+          "order": 70,
+          "timeMs": 42000,
+          "word": "boy",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 34560,
+          "text": "hol",
+          "order": 72,
+          "timeMs": 43200,
+          "word": "hol",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 35520,
+          "text": "of",
+          "order": 74,
+          "timeMs": 44400,
+          "word": "of",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36480,
+          "text": "oo",
+          "order": 76,
+          "timeMs": 45600,
+          "word": "oo",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 37440,
+          "text": "sing",
+          "order": 78,
+          "timeMs": 46800,
+          "word": "sing",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 38400,
+          "text": "deer",
+          "order": 80,
+          "timeMs": 48000,
+          "word": "deer",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 39360,
+          "text": "they",
+          "order": 82,
+          "timeMs": 49200,
+          "word": "they",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 40320,
+          "text": "bears",
+          "order": 84,
+          "timeMs": 50400,
+          "word": "bears",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41280,
+          "text": "full",
+          "order": 86,
+          "timeMs": 51600,
+          "word": "full",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 42240,
+          "text": "mm",
+          "order": 88,
+          "timeMs": 52800,
+          "word": "mm",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 48
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 50
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 52
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 50
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 48
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 50
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 47
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 48
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 48
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 50
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 52
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 50
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 48
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 50
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 47
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 48
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 48
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 50
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 52
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 50
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 48
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 50
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 47
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 48
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29700,
+          "note": 48
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30900,
+          "note": 50
+        },
+        {
+          "startMs": 31200,
+          "endMs": 32100,
+          "note": 52
+        },
+        {
+          "startMs": 32400,
+          "endMs": 33300,
+          "note": 50
+        },
+        {
+          "startMs": 33600,
+          "endMs": 34500,
+          "note": 48
+        },
+        {
+          "startMs": 34800,
+          "endMs": 35700,
+          "note": 50
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36900,
+          "note": 47
+        },
+        {
+          "startMs": 37200,
+          "endMs": 38100,
+          "note": 48
+        },
+        {
+          "startMs": 38400,
+          "endMs": 39300,
+          "note": 48
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40500,
+          "note": 50
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41700,
+          "note": 52
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42900,
+          "note": 50
+        },
+        {
+          "startMs": 43200,
+          "endMs": 44100,
+          "note": 48
+        },
+        {
+          "startMs": 44400,
+          "endMs": 45300,
+          "note": 50
+        },
+        {
+          "startMs": 45600,
+          "endMs": 46500,
+          "note": 47
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47700,
+          "note": 48
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48900,
+          "note": 48
+        },
+        {
+          "startMs": 49200,
+          "endMs": 50100,
+          "note": 50
+        },
+        {
+          "startMs": 50400,
+          "endMs": 51300,
+          "note": 52
+        },
+        {
+          "startMs": 51600,
+          "endMs": 52500,
+          "note": 50
+        },
+        {
+          "startMs": 52800,
+          "endMs": 53700,
+          "note": 48
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 2,
+      "lyricTrack": 2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "are",
+          "order": 0,
+          "timeMs": 0,
+          "word": "are",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "i",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "i",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "and",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "and",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "the",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "the",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "or",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "or",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4800,
+          "text": "boy",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "boy",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "hol",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "hol",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "of",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "of",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "oo",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "oo",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "sing",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "sing",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "deer",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "deer",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10560,
+          "text": "they",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "they",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "bears",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "bears",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12480,
+          "text": "full",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "full",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "mm",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "mm",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 14400,
+          "text": "are",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "are",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "i",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "i",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "and",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "and",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "the",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "the",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "or",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "or",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "boy",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "boy",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "hol",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "hol",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "of",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "of",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "oo",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "oo",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23040,
+          "text": "sing",
+          "order": 48,
+          "timeMs": 28800,
+          "word": "sing",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24000,
+          "text": "deer",
+          "order": 50,
+          "timeMs": 30000,
+          "word": "deer",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24960,
+          "text": "they",
+          "order": 52,
+          "timeMs": 31200,
+          "word": "they",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25920,
+          "text": "bears",
+          "order": 54,
+          "timeMs": 32400,
+          "word": "bears",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "full",
+          "order": 56,
+          "timeMs": 33600,
+          "word": "full",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 27840,
+          "text": "mm",
+          "order": 58,
+          "timeMs": 34800,
+          "word": "mm",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 28800,
+          "text": "are",
+          "order": 60,
+          "timeMs": 36000,
+          "word": "are",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 29760,
+          "text": "i",
+          "order": 62,
+          "timeMs": 37200,
+          "word": "i",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "and",
+          "order": 64,
+          "timeMs": 38400,
+          "word": "and",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31680,
+          "text": "the",
+          "order": 66,
+          "timeMs": 39600,
+          "word": "the",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 32640,
+          "text": "or",
+          "order": 68,
+          "timeMs": 40800,
+          "word": "or",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33600,
+          "text": "boy",
+          "order": 70,
+          "timeMs": 42000,
+          "word": "boy",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 34560,
+          "text": "hol",
+          "order": 72,
+          "timeMs": 43200,
+          "word": "hol",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 35520,
+          "text": "of",
+          "order": 74,
+          "timeMs": 44400,
+          "word": "of",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36480,
+          "text": "oo",
+          "order": 76,
+          "timeMs": 45600,
+          "word": "oo",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 37440,
+          "text": "sing",
+          "order": 78,
+          "timeMs": 46800,
+          "word": "sing",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 38400,
+          "text": "deer",
+          "order": 80,
+          "timeMs": 48000,
+          "word": "deer",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 39360,
+          "text": "they",
+          "order": 82,
+          "timeMs": 49200,
+          "word": "they",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 40320,
+          "text": "bears",
+          "order": 84,
+          "timeMs": 50400,
+          "word": "bears",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41280,
+          "text": "full",
+          "order": 86,
+          "timeMs": 51600,
+          "word": "full",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 42240,
+          "text": "mm",
+          "order": 88,
+          "timeMs": 52800,
+          "word": "mm",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 55
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 57
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 59
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 57
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 55
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 57
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 54
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 55
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 55
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 57
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 59
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 57
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 55
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 57
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 54
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 55
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 55
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 57
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 59
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 57
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 55
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 57
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 54
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 55
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29700,
+          "note": 55
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30900,
+          "note": 57
+        },
+        {
+          "startMs": 31200,
+          "endMs": 32100,
+          "note": 59
+        },
+        {
+          "startMs": 32400,
+          "endMs": 33300,
+          "note": 57
+        },
+        {
+          "startMs": 33600,
+          "endMs": 34500,
+          "note": 55
+        },
+        {
+          "startMs": 34800,
+          "endMs": 35700,
+          "note": 57
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36900,
+          "note": 54
+        },
+        {
+          "startMs": 37200,
+          "endMs": 38100,
+          "note": 55
+        },
+        {
+          "startMs": 38400,
+          "endMs": 39300,
+          "note": 55
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40500,
+          "note": 57
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41700,
+          "note": 59
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42900,
+          "note": 57
+        },
+        {
+          "startMs": 43200,
+          "endMs": 44100,
+          "note": 55
+        },
+        {
+          "startMs": 44400,
+          "endMs": 45300,
+          "note": 57
+        },
+        {
+          "startMs": 45600,
+          "endMs": 46500,
+          "note": 54
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47700,
+          "note": 55
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48900,
+          "note": 55
+        },
+        {
+          "startMs": 49200,
+          "endMs": 50100,
+          "note": 57
+        },
+        {
+          "startMs": 50400,
+          "endMs": 51300,
+          "note": 59
+        },
+        {
+          "startMs": 51600,
+          "endMs": 52500,
+          "note": 57
+        },
+        {
+          "startMs": 52800,
+          "endMs": 53700,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 3,
+      "lyricTrack": 3,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "are",
+          "order": 0,
+          "timeMs": 0,
+          "word": "are",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "i",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "i",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "and",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "and",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "the",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "the",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "or",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "or",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4800,
+          "text": "boy",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "boy",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "hol",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "hol",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "of",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "of",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "oo",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "oo",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "sing",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "sing",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "deer",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "deer",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10560,
+          "text": "they",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "they",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "bears",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "bears",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12480,
+          "text": "full",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "full",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "mm",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "mm",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 14400,
+          "text": "are",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "are",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "i",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "i",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "and",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "and",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "the",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "the",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "or",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "or",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "boy",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "boy",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "hol",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "hol",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "of",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "of",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "oo",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "oo",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23040,
+          "text": "sing",
+          "order": 48,
+          "timeMs": 28800,
+          "word": "sing",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24000,
+          "text": "deer",
+          "order": 50,
+          "timeMs": 30000,
+          "word": "deer",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24960,
+          "text": "they",
+          "order": 52,
+          "timeMs": 31200,
+          "word": "they",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25920,
+          "text": "bears",
+          "order": 54,
+          "timeMs": 32400,
+          "word": "bears",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "full",
+          "order": 56,
+          "timeMs": 33600,
+          "word": "full",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 27840,
+          "text": "mm",
+          "order": 58,
+          "timeMs": 34800,
+          "word": "mm",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 28800,
+          "text": "are",
+          "order": 60,
+          "timeMs": 36000,
+          "word": "are",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 29760,
+          "text": "i",
+          "order": 62,
+          "timeMs": 37200,
+          "word": "i",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "and",
+          "order": 64,
+          "timeMs": 38400,
+          "word": "and",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31680,
+          "text": "the",
+          "order": 66,
+          "timeMs": 39600,
+          "word": "the",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 32640,
+          "text": "or",
+          "order": 68,
+          "timeMs": 40800,
+          "word": "or",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33600,
+          "text": "boy",
+          "order": 70,
+          "timeMs": 42000,
+          "word": "boy",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 34560,
+          "text": "hol",
+          "order": 72,
+          "timeMs": 43200,
+          "word": "hol",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 35520,
+          "text": "of",
+          "order": 74,
+          "timeMs": 44400,
+          "word": "of",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36480,
+          "text": "oo",
+          "order": 76,
+          "timeMs": 45600,
+          "word": "oo",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 37440,
+          "text": "sing",
+          "order": 78,
+          "timeMs": 46800,
+          "word": "sing",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 38400,
+          "text": "deer",
+          "order": 80,
+          "timeMs": 48000,
+          "word": "deer",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 39360,
+          "text": "they",
+          "order": 82,
+          "timeMs": 49200,
+          "word": "they",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 40320,
+          "text": "bears",
+          "order": 84,
+          "timeMs": 50400,
+          "word": "bears",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41280,
+          "text": "full",
+          "order": 86,
+          "timeMs": 51600,
+          "word": "full",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 42240,
+          "text": "mm",
+          "order": 88,
+          "timeMs": 52800,
+          "word": "mm",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 60
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 62
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 64
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 62
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 60
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 62
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 59
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 60
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 60
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 62
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 64
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 62
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 60
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 62
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 59
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 60
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 60
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 62
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 64
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 60
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 62
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 59
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 60
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29700,
+          "note": 60
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30900,
+          "note": 62
+        },
+        {
+          "startMs": 31200,
+          "endMs": 32100,
+          "note": 64
+        },
+        {
+          "startMs": 32400,
+          "endMs": 33300,
+          "note": 62
+        },
+        {
+          "startMs": 33600,
+          "endMs": 34500,
+          "note": 60
+        },
+        {
+          "startMs": 34800,
+          "endMs": 35700,
+          "note": 62
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36900,
+          "note": 59
+        },
+        {
+          "startMs": 37200,
+          "endMs": 38100,
+          "note": 60
+        },
+        {
+          "startMs": 38400,
+          "endMs": 39300,
+          "note": 60
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40500,
+          "note": 62
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41700,
+          "note": 64
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42900,
+          "note": 62
+        },
+        {
+          "startMs": 43200,
+          "endMs": 44100,
+          "note": 60
+        },
+        {
+          "startMs": 44400,
+          "endMs": 45300,
+          "note": 62
+        },
+        {
+          "startMs": 45600,
+          "endMs": 46500,
+          "note": 59
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47700,
+          "note": 60
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48900,
+          "note": 60
+        },
+        {
+          "startMs": 49200,
+          "endMs": 50100,
+          "note": 62
+        },
+        {
+          "startMs": 50400,
+          "endMs": 51300,
+          "note": 64
+        },
+        {
+          "startMs": 51600,
+          "endMs": 52500,
+          "note": 62
+        },
+        {
+          "startMs": 52800,
+          "endMs": 53700,
+          "note": 60
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 4,
+      "lyricTrack": 4,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "are",
+          "order": 0,
+          "timeMs": 0,
+          "word": "are",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "i",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "i",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "and",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "and",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "the",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "the",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "or",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "or",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4800,
+          "text": "boy",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "boy",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "hol",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "hol",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "of",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "of",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "oo",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "oo",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "sing",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "sing",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "deer",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "deer",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10560,
+          "text": "they",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "they",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "bears",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "bears",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12480,
+          "text": "full",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "full",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "mm",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "mm",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 14400,
+          "text": "are",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "are",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "i",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "i",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "and",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "and",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "the",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "the",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "or",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "or",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "boy",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "boy",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "hol",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "hol",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "of",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "of",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "oo",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "oo",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23040,
+          "text": "sing",
+          "order": 48,
+          "timeMs": 28800,
+          "word": "sing",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24000,
+          "text": "deer",
+          "order": 50,
+          "timeMs": 30000,
+          "word": "deer",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24960,
+          "text": "they",
+          "order": 52,
+          "timeMs": 31200,
+          "word": "they",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25920,
+          "text": "bears",
+          "order": 54,
+          "timeMs": 32400,
+          "word": "bears",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "full",
+          "order": 56,
+          "timeMs": 33600,
+          "word": "full",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 27840,
+          "text": "mm",
+          "order": 58,
+          "timeMs": 34800,
+          "word": "mm",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 28800,
+          "text": "are",
+          "order": 60,
+          "timeMs": 36000,
+          "word": "are",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɑː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 29760,
+          "text": "i",
+          "order": 62,
+          "timeMs": 37200,
+          "word": "i",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "and",
+          "order": 64,
+          "timeMs": 38400,
+          "word": "and",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈænd",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31680,
+          "text": "the",
+          "order": 66,
+          "timeMs": 39600,
+          "word": "the",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 32640,
+          "text": "or",
+          "order": 68,
+          "timeMs": 40800,
+          "word": "or",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔː‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33600,
+          "text": "boy",
+          "order": 70,
+          "timeMs": 42000,
+          "word": "boy",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɔ‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 34560,
+          "text": "hol",
+          "order": 72,
+          "timeMs": 43200,
+          "word": "hol",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɑːl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 35520,
+          "text": "of",
+          "order": 74,
+          "timeMs": 44400,
+          "word": "of",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌv",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36480,
+          "text": "oo",
+          "order": 76,
+          "timeMs": 45600,
+          "word": "oo",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 37440,
+          "text": "sing",
+          "order": 78,
+          "timeMs": 46800,
+          "word": "sing",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 38400,
+          "text": "deer",
+          "order": 80,
+          "timeMs": 48000,
+          "word": "deer",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɪ‍ɹ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 39360,
+          "text": "they",
+          "order": 82,
+          "timeMs": 49200,
+          "word": "they",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ɪ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 40320,
+          "text": "bears",
+          "order": 84,
+          "timeMs": 50400,
+          "word": "bears",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛ‍ɹz",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41280,
+          "text": "full",
+          "order": 86,
+          "timeMs": 51600,
+          "word": "full",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈʊl",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 42240,
+          "text": "mm",
+          "order": 88,
+          "timeMs": 52800,
+          "word": "mm",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "əm",
+          "language": "en-us",
+          "pronunciationSource": "sung-form"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 67
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 69
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 71
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 69
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 67
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 69
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 66
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 67
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 67
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 69
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 71
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 69
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 67
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 69
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 66
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 67
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 67
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 69
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 71
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 69
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 67
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 69
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 66
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 67
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29700,
+          "note": 67
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30900,
+          "note": 69
+        },
+        {
+          "startMs": 31200,
+          "endMs": 32100,
+          "note": 71
+        },
+        {
+          "startMs": 32400,
+          "endMs": 33300,
+          "note": 69
+        },
+        {
+          "startMs": 33600,
+          "endMs": 34500,
+          "note": 67
+        },
+        {
+          "startMs": 34800,
+          "endMs": 35700,
+          "note": 69
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36900,
+          "note": 66
+        },
+        {
+          "startMs": 37200,
+          "endMs": 38100,
+          "note": 67
+        },
+        {
+          "startMs": 38400,
+          "endMs": 39300,
+          "note": 67
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40500,
+          "note": 69
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41700,
+          "note": 71
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42900,
+          "note": 69
+        },
+        {
+          "startMs": 43200,
+          "endMs": 44100,
+          "note": 67
+        },
+        {
+          "startMs": 44400,
+          "endMs": 45300,
+          "note": 69
+        },
+        {
+          "startMs": 45600,
+          "endMs": 46500,
+          "note": 66
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47700,
+          "note": 67
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48900,
+          "note": 67
+        },
+        {
+          "startMs": 49200,
+          "endMs": 50100,
+          "note": 69
+        },
+        {
+          "startMs": 50400,
+          "endMs": 51300,
+          "note": 71
+        },
+        {
+          "startMs": 51600,
+          "endMs": 52500,
+          "note": 69
+        },
+        {
+          "startMs": 52800,
+          "endMs": 53700,
+          "note": 67
+        }
+      ]
+    }
+  ]
+}

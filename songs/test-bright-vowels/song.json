@@ -1,0 +1,1838 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "1dbdfc371ca05e05df794ede77ecabcc4a3a017721c3ed9665d83d576d12507a",
+  "id": "test-bright-vowels",
+  "title": "Test · Bright vowels",
+  "durationMs": 28950,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/test-bright-vowels/song.cscore",
+  "displayScore": "/songs/test-bright-vowels/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-us",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 24,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 24
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 24,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 24
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 24,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 24
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 24,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 24
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://choir.chainsman.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 1,
+      "lyricTrack": 1,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "ee",
+          "order": 0,
+          "timeMs": 0,
+          "word": "ee",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "sing",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "sing",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "ee",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "ee",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2880,
+          "text": "sing",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "sing",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3840,
+          "text": "ee",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "ee",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "sing",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "sing",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "ee",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "ee",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "sing",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "sing",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "ee",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "ee",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "sing",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "sing",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "ee",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "ee",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10560,
+          "text": "sing",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "sing",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "ee",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "ee",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "sing",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "sing",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "ee",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "ee",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "sing",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "sing",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "ee",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "ee",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16320,
+          "text": "sing",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "sing",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "ee",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "ee",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18240,
+          "text": "sing",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "sing",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19200,
+          "text": "ee",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "ee",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "sing",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "sing",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "ee",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "ee",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22080,
+          "text": "sing",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "sing",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 48
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 50
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 52
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 50
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 48
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 50
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 47
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 48
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 48
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 50
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 52
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 50
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 48
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 50
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 47
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 48
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 48
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 50
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 52
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 50
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 48
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 50
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 47
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 48
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 2,
+      "lyricTrack": 2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "ee",
+          "order": 0,
+          "timeMs": 0,
+          "word": "ee",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "sing",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "sing",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "ee",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "ee",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2880,
+          "text": "sing",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "sing",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3840,
+          "text": "ee",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "ee",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "sing",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "sing",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "ee",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "ee",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "sing",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "sing",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "ee",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "ee",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "sing",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "sing",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "ee",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "ee",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10560,
+          "text": "sing",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "sing",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "ee",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "ee",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "sing",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "sing",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "ee",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "ee",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "sing",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "sing",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "ee",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "ee",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16320,
+          "text": "sing",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "sing",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "ee",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "ee",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18240,
+          "text": "sing",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "sing",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19200,
+          "text": "ee",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "ee",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "sing",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "sing",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "ee",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "ee",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22080,
+          "text": "sing",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "sing",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 55
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 57
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 59
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 57
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 55
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 57
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 54
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 55
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 55
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 57
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 59
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 57
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 55
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 57
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 54
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 55
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 55
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 57
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 59
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 57
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 55
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 57
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 54
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 3,
+      "lyricTrack": 3,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "ee",
+          "order": 0,
+          "timeMs": 0,
+          "word": "ee",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "sing",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "sing",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "ee",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "ee",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2880,
+          "text": "sing",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "sing",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3840,
+          "text": "ee",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "ee",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "sing",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "sing",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "ee",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "ee",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "sing",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "sing",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "ee",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "ee",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "sing",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "sing",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "ee",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "ee",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10560,
+          "text": "sing",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "sing",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "ee",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "ee",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "sing",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "sing",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "ee",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "ee",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "sing",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "sing",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "ee",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "ee",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16320,
+          "text": "sing",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "sing",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "ee",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "ee",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18240,
+          "text": "sing",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "sing",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19200,
+          "text": "ee",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "ee",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "sing",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "sing",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "ee",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "ee",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22080,
+          "text": "sing",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "sing",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 60
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 62
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 64
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 62
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 60
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 62
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 59
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 60
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 60
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 62
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 64
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 62
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 60
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 62
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 59
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 60
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 60
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 62
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 64
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 60
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 62
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 59
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 60
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 4,
+      "lyricTrack": 4,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "ee",
+          "order": 0,
+          "timeMs": 0,
+          "word": "ee",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 960,
+          "text": "sing",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "sing",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "ee",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "ee",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2880,
+          "text": "sing",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "sing",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3840,
+          "text": "ee",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "ee",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "sing",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "sing",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "ee",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "ee",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6720,
+          "text": "sing",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "sing",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "ee",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "ee",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8640,
+          "text": "sing",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "sing",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "ee",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "ee",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10560,
+          "text": "sing",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "sing",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "ee",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "ee",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "sing",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "sing",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "ee",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "ee",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "sing",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "sing",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "ee",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "ee",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16320,
+          "text": "sing",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "sing",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "ee",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "ee",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18240,
+          "text": "sing",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "sing",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19200,
+          "text": "ee",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "ee",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "sing",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "sing",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "ee",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "ee",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22080,
+          "text": "sing",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "sing",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 67
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 69
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 71
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 69
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 67
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 69
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 66
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 67
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 67
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 69
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 71
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 69
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 67
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 69
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 66
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 67
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 67
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 69
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 71
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 69
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 67
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 69
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 66
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 67
+        }
+      ]
+    }
+  ]
+}

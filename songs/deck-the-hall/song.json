@@ -1,0 +1,4998 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "16a924e8698fd1eb68242173cc95ec61a42de06ef29ec2c818044cb134f9accf",
+  "id": "deck-the-hall",
+  "title": "Deck the Hall",
+  "durationMs": 21783,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/deck-the-hall/song.cscore",
+  "displayScore": "/songs/deck-the-hall/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 40,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 15,
+          "lexicon": 41,
+          "morphology": 9,
+          "orthographic-elision": 3
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 40,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 15,
+          "lexicon": 41,
+          "morphology": 9,
+          "orthographic-elision": 3
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 40,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 15,
+          "lexicon": 41,
+          "morphology": 9,
+          "orthographic-elision": 3
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 40,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 15,
+          "lexicon": 41,
+          "morphology": 9,
+          "orthographic-elision": 3
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "CC0 LilyPond edition and MIDI by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 5,
+      "lyricTrack": 4,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Deck",
+          "order": 0,
+          "timeMs": 0,
+          "word": "deck",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛk",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 576,
+          "text": "the",
+          "order": 1,
+          "timeMs": 500,
+          "word": "the",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "hall",
+          "order": 2,
+          "timeMs": 667,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 6,
+          "ipa": "hˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1152,
+          "text": "with",
+          "order": 3,
+          "timeMs": 1000,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 6,
+          "ipa": "wɪð",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1536,
+          "text": "boughs",
+          "order": 4,
+          "timeMs": 1333,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 2,
+          "syllableCount": 6,
+          "ipa": "bˌa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1920,
+          "text": "of",
+          "order": 5,
+          "timeMs": 1667,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 3,
+          "syllableCount": 6,
+          "ipa": "səf",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 2304,
+          "text": "hol",
+          "order": 6,
+          "timeMs": 2000,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 4,
+          "syllableCount": 6,
+          "ipa": "hˌɒ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 2688,
+          "text": "ly,",
+          "order": 7,
+          "timeMs": 2333,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 5,
+          "syllableCount": 6,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 3072,
+          "text": "Fa",
+          "order": 8,
+          "timeMs": 2667,
+          "word": "fa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3264,
+          "text": "la",
+          "order": 9,
+          "timeMs": 2833,
+          "word": "lala",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "la",
+          "order": 10,
+          "timeMs": 3000,
+          "word": "lala",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3648,
+          "text": "la",
+          "order": 11,
+          "timeMs": 3167,
+          "word": "lala",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "la,",
+          "order": 12,
+          "timeMs": 3333,
+          "word": "lala",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4416,
+          "text": "la",
+          "order": 13,
+          "timeMs": 3833,
+          "word": "lala",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "la",
+          "order": 14,
+          "timeMs": 4000,
+          "word": "lala",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4992,
+          "text": "la",
+          "order": 15,
+          "timeMs": 4333,
+          "word": "lala",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "la.",
+          "order": 16,
+          "timeMs": 4667,
+          "word": "lala",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6144,
+          "text": "’Tis",
+          "order": 17,
+          "timeMs": 5333,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "tˈɪs",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 6720,
+          "text": "the",
+          "order": 18,
+          "timeMs": 5833,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "θɪ",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 6912,
+          "text": "sea",
+          "order": 19,
+          "timeMs": 6000,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "sˌi‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 7296,
+          "text": "son",
+          "order": 20,
+          "timeMs": 6333,
+          "word": "son",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈʌn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "to",
+          "order": 21,
+          "timeMs": 6667,
+          "word": "to",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "be",
+          "order": 22,
+          "timeMs": 7000,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "bɪ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 8448,
+          "text": "jol",
+          "order": 23,
+          "timeMs": 7333,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "d‍ʒˈɒ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 8832,
+          "text": "ly,",
+          "order": 24,
+          "timeMs": 7667,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 9216,
+          "text": "Fa",
+          "order": 25,
+          "timeMs": 8000,
+          "word": "fa",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9408,
+          "text": "la",
+          "order": 26,
+          "timeMs": 8167,
+          "word": "lala",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "la",
+          "order": 27,
+          "timeMs": 8333,
+          "word": "lala",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9792,
+          "text": "la",
+          "order": 28,
+          "timeMs": 8500,
+          "word": "lala",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "la,",
+          "order": 29,
+          "timeMs": 8667,
+          "word": "lala",
+          "wordIndex": 28,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "la",
+          "order": 30,
+          "timeMs": 9167,
+          "word": "lala",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "la",
+          "order": 31,
+          "timeMs": 9333,
+          "word": "lala",
+          "wordIndex": 30,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "la",
+          "order": 32,
+          "timeMs": 9667,
+          "word": "lala",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "la.",
+          "order": 33,
+          "timeMs": 10000,
+          "word": "lala",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "Don",
+          "order": 34,
+          "timeMs": 10667,
+          "word": "don",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12864,
+          "text": "we",
+          "order": 35,
+          "timeMs": 11167,
+          "word": "we",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "now",
+          "order": 36,
+          "timeMs": 11333,
+          "word": "now",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "our",
+          "order": 37,
+          "timeMs": 11667,
+          "word": "our",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ʊə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "gay",
+          "order": 38,
+          "timeMs": 12000,
+          "word": "gay",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "ap",
+          "order": 39,
+          "timeMs": 12500,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɐ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "par",
+          "order": 40,
+          "timeMs": 12667,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "pˈa",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "el;",
+          "order": 41,
+          "timeMs": 13000,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ɹə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "Fa",
+          "order": 42,
+          "timeMs": 13333,
+          "word": "fa",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15552,
+          "text": "la",
+          "order": 43,
+          "timeMs": 13500,
+          "word": "lala",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "la,",
+          "order": 44,
+          "timeMs": 13667,
+          "word": "lala",
+          "wordIndex": 43,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "la",
+          "order": 45,
+          "timeMs": 14000,
+          "word": "lala",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "la",
+          "order": 46,
+          "timeMs": 14167,
+          "word": "lala",
+          "wordIndex": 45,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "la,",
+          "order": 47,
+          "timeMs": 14333,
+          "word": "la",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈa",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16896,
+          "text": "la",
+          "order": 48,
+          "timeMs": 14667,
+          "word": "lala",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "la",
+          "order": 49,
+          "timeMs": 15000,
+          "word": "lala",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "la.",
+          "order": 50,
+          "timeMs": 15333,
+          "word": "la",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈa",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18432,
+          "text": "Troll",
+          "order": 51,
+          "timeMs": 16000,
+          "word": "troll",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈə‍ʊl",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19008,
+          "text": "the",
+          "order": 52,
+          "timeMs": 16500,
+          "word": "the",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "an",
+          "order": 53,
+          "timeMs": 16667,
+          "word": "ancient",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "cient",
+          "order": 54,
+          "timeMs": 17000,
+          "word": "ancient",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃənt",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "Yule",
+          "order": 55,
+          "timeMs": 17333,
+          "word": "yule",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuːl",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20352,
+          "text": "tide",
+          "order": 56,
+          "timeMs": 17667,
+          "word": "tide",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20736,
+          "text": "car",
+          "order": 57,
+          "timeMs": 18000,
+          "word": "carol",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈa",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "ol,",
+          "order": 58,
+          "timeMs": 18333,
+          "word": "carol",
+          "wordIndex": 57,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21504,
+          "text": "Fa",
+          "order": 59,
+          "timeMs": 18667,
+          "word": "fa",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21696,
+          "text": "la",
+          "order": 60,
+          "timeMs": 18833,
+          "word": "lala",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "la",
+          "order": 61,
+          "timeMs": 19000,
+          "word": "lala",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "la",
+          "order": 62,
+          "timeMs": 19167,
+          "word": "lala",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22272,
+          "text": "la,",
+          "order": 63,
+          "timeMs": 19333,
+          "word": "lala",
+          "wordIndex": 62,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22848,
+          "text": "la",
+          "order": 64,
+          "timeMs": 19833,
+          "word": "lala",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "la",
+          "order": 65,
+          "timeMs": 20000,
+          "word": "lala",
+          "wordIndex": 64,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "la",
+          "order": 66,
+          "timeMs": 20333,
+          "word": "lala",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "la.",
+          "order": 67,
+          "timeMs": 20667,
+          "word": "lala",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 500,
+          "note": 53
+        },
+        {
+          "startMs": 500,
+          "endMs": 667,
+          "note": 52
+        },
+        {
+          "startMs": 667,
+          "endMs": 1000,
+          "note": 53
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1333,
+          "note": 48
+        },
+        {
+          "startMs": 1333,
+          "endMs": 1667,
+          "note": 50
+        },
+        {
+          "startMs": 1667,
+          "endMs": 2000,
+          "note": 48
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2333,
+          "note": 53
+        },
+        {
+          "startMs": 2333,
+          "endMs": 2667,
+          "note": 53
+        },
+        {
+          "startMs": 2667,
+          "endMs": 2833,
+          "note": 48
+        },
+        {
+          "startMs": 2833,
+          "endMs": 3000,
+          "note": 48
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3167,
+          "note": 48
+        },
+        {
+          "startMs": 3167,
+          "endMs": 3333,
+          "note": 48
+        },
+        {
+          "startMs": 3333,
+          "endMs": 3833,
+          "note": 53
+        },
+        {
+          "startMs": 3833,
+          "endMs": 4000,
+          "note": 48
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4333,
+          "note": 50
+        },
+        {
+          "startMs": 4333,
+          "endMs": 4667,
+          "note": 48
+        },
+        {
+          "startMs": 4667,
+          "endMs": 5333,
+          "note": 53
+        },
+        {
+          "startMs": 5333,
+          "endMs": 5833,
+          "note": 53
+        },
+        {
+          "startMs": 5833,
+          "endMs": 6000,
+          "note": 52
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6333,
+          "note": 53
+        },
+        {
+          "startMs": 6333,
+          "endMs": 6667,
+          "note": 48
+        },
+        {
+          "startMs": 6667,
+          "endMs": 7000,
+          "note": 50
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7333,
+          "note": 48
+        },
+        {
+          "startMs": 7333,
+          "endMs": 7667,
+          "note": 53
+        },
+        {
+          "startMs": 7667,
+          "endMs": 8000,
+          "note": 53
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8167,
+          "note": 48
+        },
+        {
+          "startMs": 8167,
+          "endMs": 8333,
+          "note": 48
+        },
+        {
+          "startMs": 8333,
+          "endMs": 8500,
+          "note": 48
+        },
+        {
+          "startMs": 8500,
+          "endMs": 8667,
+          "note": 48
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9167,
+          "note": 53
+        },
+        {
+          "startMs": 9167,
+          "endMs": 9333,
+          "note": 48
+        },
+        {
+          "startMs": 9333,
+          "endMs": 9667,
+          "note": 50
+        },
+        {
+          "startMs": 9667,
+          "endMs": 10000,
+          "note": 48
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10667,
+          "note": 53
+        },
+        {
+          "startMs": 10667,
+          "endMs": 11167,
+          "note": 48
+        },
+        {
+          "startMs": 11167,
+          "endMs": 11333,
+          "note": 48
+        },
+        {
+          "startMs": 11333,
+          "endMs": 11667,
+          "note": 48
+        },
+        {
+          "startMs": 11667,
+          "endMs": 12000,
+          "note": 48
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12500,
+          "note": 53
+        },
+        {
+          "startMs": 12500,
+          "endMs": 12667,
+          "note": 53
+        },
+        {
+          "startMs": 12667,
+          "endMs": 13000,
+          "note": 53
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13333,
+          "note": 52
+        },
+        {
+          "startMs": 13333,
+          "endMs": 13500,
+          "note": 53
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13667,
+          "note": 55
+        },
+        {
+          "startMs": 13667,
+          "endMs": 14000,
+          "note": 57
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14167,
+          "note": 53
+        },
+        {
+          "startMs": 14167,
+          "endMs": 14333,
+          "note": 52
+        },
+        {
+          "startMs": 14333,
+          "endMs": 14667,
+          "note": 50
+        },
+        {
+          "startMs": 14667,
+          "endMs": 15000,
+          "note": 55
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15333,
+          "note": 55
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 48
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 53
+        },
+        {
+          "startMs": 16500,
+          "endMs": 16667,
+          "note": 52
+        },
+        {
+          "startMs": 16667,
+          "endMs": 17000,
+          "note": 53
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17333,
+          "note": 48
+        },
+        {
+          "startMs": 17333,
+          "endMs": 17667,
+          "note": 50
+        },
+        {
+          "startMs": 17667,
+          "endMs": 18000,
+          "note": 48
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18333,
+          "note": 53
+        },
+        {
+          "startMs": 18333,
+          "endMs": 18667,
+          "note": 53
+        },
+        {
+          "startMs": 18667,
+          "endMs": 18833,
+          "note": 46
+        },
+        {
+          "startMs": 18833,
+          "endMs": 19000,
+          "note": 46
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19167,
+          "note": 46
+        },
+        {
+          "startMs": 19333,
+          "endMs": 19833,
+          "note": 53
+        },
+        {
+          "startMs": 19833,
+          "endMs": 20000,
+          "note": 52
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20333,
+          "note": 53
+        },
+        {
+          "startMs": 20333,
+          "endMs": 20667,
+          "note": 48
+        },
+        {
+          "startMs": 20667,
+          "endMs": 21333,
+          "note": 53
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 5,
+      "lyricTrack": 4,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Deck",
+          "order": 0,
+          "timeMs": 0,
+          "word": "deck",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛk",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 576,
+          "text": "the",
+          "order": 1,
+          "timeMs": 500,
+          "word": "the",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "hall",
+          "order": 2,
+          "timeMs": 667,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 6,
+          "ipa": "hˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1152,
+          "text": "with",
+          "order": 3,
+          "timeMs": 1000,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 6,
+          "ipa": "wɪð",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1536,
+          "text": "boughs",
+          "order": 4,
+          "timeMs": 1333,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 2,
+          "syllableCount": 6,
+          "ipa": "bˌa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1920,
+          "text": "of",
+          "order": 5,
+          "timeMs": 1667,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 3,
+          "syllableCount": 6,
+          "ipa": "səf",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 2304,
+          "text": "hol",
+          "order": 6,
+          "timeMs": 2000,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 4,
+          "syllableCount": 6,
+          "ipa": "hˌɒ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 2688,
+          "text": "ly,",
+          "order": 7,
+          "timeMs": 2333,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 5,
+          "syllableCount": 6,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 3072,
+          "text": "Fa",
+          "order": 8,
+          "timeMs": 2667,
+          "word": "fa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3264,
+          "text": "la",
+          "order": 9,
+          "timeMs": 2833,
+          "word": "lala",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "la",
+          "order": 10,
+          "timeMs": 3000,
+          "word": "lala",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3648,
+          "text": "la",
+          "order": 11,
+          "timeMs": 3167,
+          "word": "lala",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "la,",
+          "order": 12,
+          "timeMs": 3333,
+          "word": "lala",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4416,
+          "text": "la",
+          "order": 13,
+          "timeMs": 3833,
+          "word": "lala",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "la",
+          "order": 14,
+          "timeMs": 4000,
+          "word": "lala",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4992,
+          "text": "la",
+          "order": 15,
+          "timeMs": 4333,
+          "word": "lala",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "la.",
+          "order": 16,
+          "timeMs": 4667,
+          "word": "lala",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6144,
+          "text": "’Tis",
+          "order": 17,
+          "timeMs": 5333,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "tˈɪs",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 6720,
+          "text": "the",
+          "order": 18,
+          "timeMs": 5833,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "θɪ",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 6912,
+          "text": "sea",
+          "order": 19,
+          "timeMs": 6000,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "sˌi‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 7296,
+          "text": "son",
+          "order": 20,
+          "timeMs": 6333,
+          "word": "son",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈʌn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "to",
+          "order": 21,
+          "timeMs": 6667,
+          "word": "to",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "be",
+          "order": 22,
+          "timeMs": 7000,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "bɪ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 8448,
+          "text": "jol",
+          "order": 23,
+          "timeMs": 7333,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "d‍ʒˈɒ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 8832,
+          "text": "ly,",
+          "order": 24,
+          "timeMs": 7667,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 9216,
+          "text": "Fa",
+          "order": 25,
+          "timeMs": 8000,
+          "word": "fa",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9408,
+          "text": "la",
+          "order": 26,
+          "timeMs": 8167,
+          "word": "lala",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "la",
+          "order": 27,
+          "timeMs": 8333,
+          "word": "lala",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9792,
+          "text": "la",
+          "order": 28,
+          "timeMs": 8500,
+          "word": "lala",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "la,",
+          "order": 29,
+          "timeMs": 8667,
+          "word": "lala",
+          "wordIndex": 28,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "la",
+          "order": 30,
+          "timeMs": 9167,
+          "word": "lala",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "la",
+          "order": 31,
+          "timeMs": 9333,
+          "word": "lala",
+          "wordIndex": 30,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "la",
+          "order": 32,
+          "timeMs": 9667,
+          "word": "lala",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "la.",
+          "order": 33,
+          "timeMs": 10000,
+          "word": "lala",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "Don",
+          "order": 34,
+          "timeMs": 10667,
+          "word": "don",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12864,
+          "text": "we",
+          "order": 35,
+          "timeMs": 11167,
+          "word": "we",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "now",
+          "order": 36,
+          "timeMs": 11333,
+          "word": "now",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "our",
+          "order": 37,
+          "timeMs": 11667,
+          "word": "our",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ʊə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "gay",
+          "order": 38,
+          "timeMs": 12000,
+          "word": "gay",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "ap",
+          "order": 39,
+          "timeMs": 12500,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɐ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "par",
+          "order": 40,
+          "timeMs": 12667,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "pˈa",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "el;",
+          "order": 41,
+          "timeMs": 13000,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ɹə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "Fa",
+          "order": 42,
+          "timeMs": 13333,
+          "word": "fa",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15552,
+          "text": "la",
+          "order": 43,
+          "timeMs": 13500,
+          "word": "lala",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "la,",
+          "order": 44,
+          "timeMs": 13667,
+          "word": "lala",
+          "wordIndex": 43,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "la",
+          "order": 45,
+          "timeMs": 14000,
+          "word": "lala",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "la",
+          "order": 46,
+          "timeMs": 14167,
+          "word": "lala",
+          "wordIndex": 45,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "la,",
+          "order": 47,
+          "timeMs": 14333,
+          "word": "la",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈa",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16896,
+          "text": "la",
+          "order": 48,
+          "timeMs": 14667,
+          "word": "lala",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "la",
+          "order": 49,
+          "timeMs": 15000,
+          "word": "lala",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "la.",
+          "order": 50,
+          "timeMs": 15333,
+          "word": "la",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈa",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18432,
+          "text": "Troll",
+          "order": 51,
+          "timeMs": 16000,
+          "word": "troll",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈə‍ʊl",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19008,
+          "text": "the",
+          "order": 52,
+          "timeMs": 16500,
+          "word": "the",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "an",
+          "order": 53,
+          "timeMs": 16667,
+          "word": "ancient",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "cient",
+          "order": 54,
+          "timeMs": 17000,
+          "word": "ancient",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃənt",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "Yule",
+          "order": 55,
+          "timeMs": 17333,
+          "word": "yule",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuːl",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20352,
+          "text": "tide",
+          "order": 56,
+          "timeMs": 17667,
+          "word": "tide",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20736,
+          "text": "car",
+          "order": 57,
+          "timeMs": 18000,
+          "word": "carol",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈa",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "ol,",
+          "order": 58,
+          "timeMs": 18333,
+          "word": "carol",
+          "wordIndex": 57,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21504,
+          "text": "Fa",
+          "order": 59,
+          "timeMs": 18667,
+          "word": "fa",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21696,
+          "text": "la",
+          "order": 60,
+          "timeMs": 18833,
+          "word": "lala",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "la",
+          "order": 61,
+          "timeMs": 19000,
+          "word": "lala",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "la",
+          "order": 62,
+          "timeMs": 19167,
+          "word": "lala",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22272,
+          "text": "la,",
+          "order": 63,
+          "timeMs": 19333,
+          "word": "lala",
+          "wordIndex": 62,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22848,
+          "text": "la",
+          "order": 64,
+          "timeMs": 19833,
+          "word": "lala",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "la",
+          "order": 65,
+          "timeMs": 20000,
+          "word": "lala",
+          "wordIndex": 64,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "la",
+          "order": 66,
+          "timeMs": 20333,
+          "word": "lala",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "la.",
+          "order": 67,
+          "timeMs": 20667,
+          "word": "lala",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 500,
+          "note": 60
+        },
+        {
+          "startMs": 500,
+          "endMs": 667,
+          "note": 60
+        },
+        {
+          "startMs": 667,
+          "endMs": 1000,
+          "note": 60
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1333,
+          "note": 58
+        },
+        {
+          "startMs": 1333,
+          "endMs": 1667,
+          "note": 57
+        },
+        {
+          "startMs": 1667,
+          "endMs": 2000,
+          "note": 60
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2333,
+          "note": 60
+        },
+        {
+          "startMs": 2333,
+          "endMs": 2667,
+          "note": 57
+        },
+        {
+          "startMs": 2667,
+          "endMs": 2833,
+          "note": 60
+        },
+        {
+          "startMs": 2833,
+          "endMs": 3000,
+          "note": 60
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3167,
+          "note": 60
+        },
+        {
+          "startMs": 3167,
+          "endMs": 3333,
+          "note": 60
+        },
+        {
+          "startMs": 3333,
+          "endMs": 3833,
+          "note": 60
+        },
+        {
+          "startMs": 3833,
+          "endMs": 4000,
+          "note": 58
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4333,
+          "note": 57
+        },
+        {
+          "startMs": 4333,
+          "endMs": 4667,
+          "note": 58
+        },
+        {
+          "startMs": 4667,
+          "endMs": 5333,
+          "note": 57
+        },
+        {
+          "startMs": 5333,
+          "endMs": 5833,
+          "note": 60
+        },
+        {
+          "startMs": 5833,
+          "endMs": 6000,
+          "note": 60
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6333,
+          "note": 60
+        },
+        {
+          "startMs": 6333,
+          "endMs": 6667,
+          "note": 58
+        },
+        {
+          "startMs": 6667,
+          "endMs": 7000,
+          "note": 57
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7333,
+          "note": 60
+        },
+        {
+          "startMs": 7333,
+          "endMs": 7667,
+          "note": 60
+        },
+        {
+          "startMs": 7667,
+          "endMs": 8000,
+          "note": 57
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8167,
+          "note": 60
+        },
+        {
+          "startMs": 8167,
+          "endMs": 8333,
+          "note": 60
+        },
+        {
+          "startMs": 8333,
+          "endMs": 8500,
+          "note": 60
+        },
+        {
+          "startMs": 8500,
+          "endMs": 8667,
+          "note": 60
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9167,
+          "note": 60
+        },
+        {
+          "startMs": 9167,
+          "endMs": 9333,
+          "note": 58
+        },
+        {
+          "startMs": 9333,
+          "endMs": 9667,
+          "note": 57
+        },
+        {
+          "startMs": 9667,
+          "endMs": 10000,
+          "note": 58
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10667,
+          "note": 57
+        },
+        {
+          "startMs": 10667,
+          "endMs": 11167,
+          "note": 60
+        },
+        {
+          "startMs": 11167,
+          "endMs": 11333,
+          "note": 60
+        },
+        {
+          "startMs": 11333,
+          "endMs": 11667,
+          "note": 60
+        },
+        {
+          "startMs": 11667,
+          "endMs": 12000,
+          "note": 60
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12500,
+          "note": 60
+        },
+        {
+          "startMs": 12500,
+          "endMs": 12667,
+          "note": 58
+        },
+        {
+          "startMs": 12667,
+          "endMs": 13000,
+          "note": 57
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13333,
+          "note": 60
+        },
+        {
+          "startMs": 13333,
+          "endMs": 13500,
+          "note": 60
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13667,
+          "note": 60
+        },
+        {
+          "startMs": 13667,
+          "endMs": 14000,
+          "note": 60
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14167,
+          "note": 60
+        },
+        {
+          "startMs": 14167,
+          "endMs": 14333,
+          "note": 60
+        },
+        {
+          "startMs": 14333,
+          "endMs": 14667,
+          "note": 60
+        },
+        {
+          "startMs": 14667,
+          "endMs": 15000,
+          "note": 60
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15333,
+          "note": 59
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 60
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 57
+        },
+        {
+          "startMs": 16500,
+          "endMs": 16667,
+          "note": 60
+        },
+        {
+          "startMs": 16667,
+          "endMs": 17000,
+          "note": 60
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17333,
+          "note": 58
+        },
+        {
+          "startMs": 17333,
+          "endMs": 17667,
+          "note": 57
+        },
+        {
+          "startMs": 17667,
+          "endMs": 18000,
+          "note": 60
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18333,
+          "note": 60
+        },
+        {
+          "startMs": 18333,
+          "endMs": 18667,
+          "note": 57
+        },
+        {
+          "startMs": 18667,
+          "endMs": 18833,
+          "note": 58
+        },
+        {
+          "startMs": 18833,
+          "endMs": 19000,
+          "note": 58
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19167,
+          "note": 58
+        },
+        {
+          "startMs": 19167,
+          "endMs": 19333,
+          "note": 58
+        },
+        {
+          "startMs": 19333,
+          "endMs": 19833,
+          "note": 60
+        },
+        {
+          "startMs": 19833,
+          "endMs": 20000,
+          "note": 58
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20333,
+          "note": 60
+        },
+        {
+          "startMs": 20333,
+          "endMs": 20667,
+          "note": 58
+        },
+        {
+          "startMs": 20667,
+          "endMs": 21333,
+          "note": 57
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": 4,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Deck",
+          "order": 0,
+          "timeMs": 0,
+          "word": "deck",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛk",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 576,
+          "text": "the",
+          "order": 1,
+          "timeMs": 500,
+          "word": "the",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "hall",
+          "order": 2,
+          "timeMs": 667,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 6,
+          "ipa": "hˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1152,
+          "text": "with",
+          "order": 3,
+          "timeMs": 1000,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 6,
+          "ipa": "wɪð",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1536,
+          "text": "boughs",
+          "order": 4,
+          "timeMs": 1333,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 2,
+          "syllableCount": 6,
+          "ipa": "bˌa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1920,
+          "text": "of",
+          "order": 5,
+          "timeMs": 1667,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 3,
+          "syllableCount": 6,
+          "ipa": "səf",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 2304,
+          "text": "hol",
+          "order": 6,
+          "timeMs": 2000,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 4,
+          "syllableCount": 6,
+          "ipa": "hˌɒ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 2688,
+          "text": "ly,",
+          "order": 7,
+          "timeMs": 2333,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 5,
+          "syllableCount": 6,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 3072,
+          "text": "Fa",
+          "order": 8,
+          "timeMs": 2667,
+          "word": "fa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3264,
+          "text": "la",
+          "order": 9,
+          "timeMs": 2833,
+          "word": "lala",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "la",
+          "order": 10,
+          "timeMs": 3000,
+          "word": "lala",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3648,
+          "text": "la",
+          "order": 11,
+          "timeMs": 3167,
+          "word": "lala",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "la,",
+          "order": 12,
+          "timeMs": 3333,
+          "word": "lala",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4416,
+          "text": "la",
+          "order": 13,
+          "timeMs": 3833,
+          "word": "lala",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "la",
+          "order": 14,
+          "timeMs": 4000,
+          "word": "lala",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4992,
+          "text": "la",
+          "order": 15,
+          "timeMs": 4333,
+          "word": "lala",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "la.",
+          "order": 16,
+          "timeMs": 4667,
+          "word": "lala",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6144,
+          "text": "’Tis",
+          "order": 17,
+          "timeMs": 5333,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "tˈɪs",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 6720,
+          "text": "the",
+          "order": 18,
+          "timeMs": 5833,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "θɪ",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 6912,
+          "text": "sea",
+          "order": 19,
+          "timeMs": 6000,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "sˌi‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 7296,
+          "text": "son",
+          "order": 20,
+          "timeMs": 6333,
+          "word": "son",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈʌn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "to",
+          "order": 21,
+          "timeMs": 6667,
+          "word": "to",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "be",
+          "order": 22,
+          "timeMs": 7000,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "bɪ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 8448,
+          "text": "jol",
+          "order": 23,
+          "timeMs": 7333,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "d‍ʒˈɒ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 8832,
+          "text": "ly,",
+          "order": 24,
+          "timeMs": 7667,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 9216,
+          "text": "Fa",
+          "order": 25,
+          "timeMs": 8000,
+          "word": "fa",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9408,
+          "text": "la",
+          "order": 26,
+          "timeMs": 8167,
+          "word": "lala",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "la",
+          "order": 27,
+          "timeMs": 8333,
+          "word": "lala",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9792,
+          "text": "la",
+          "order": 28,
+          "timeMs": 8500,
+          "word": "lala",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "la,",
+          "order": 29,
+          "timeMs": 8667,
+          "word": "lala",
+          "wordIndex": 28,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "la",
+          "order": 30,
+          "timeMs": 9167,
+          "word": "lala",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "la",
+          "order": 31,
+          "timeMs": 9333,
+          "word": "lala",
+          "wordIndex": 30,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "la",
+          "order": 32,
+          "timeMs": 9667,
+          "word": "lala",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "la.",
+          "order": 33,
+          "timeMs": 10000,
+          "word": "lala",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "Don",
+          "order": 34,
+          "timeMs": 10667,
+          "word": "don",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12864,
+          "text": "we",
+          "order": 35,
+          "timeMs": 11167,
+          "word": "we",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "now",
+          "order": 36,
+          "timeMs": 11333,
+          "word": "now",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "our",
+          "order": 37,
+          "timeMs": 11667,
+          "word": "our",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ʊə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "gay",
+          "order": 38,
+          "timeMs": 12000,
+          "word": "gay",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "ap",
+          "order": 39,
+          "timeMs": 12500,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɐ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "par",
+          "order": 40,
+          "timeMs": 12667,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "pˈa",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "el;",
+          "order": 41,
+          "timeMs": 13000,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ɹə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "Fa",
+          "order": 42,
+          "timeMs": 13333,
+          "word": "fa",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15552,
+          "text": "la",
+          "order": 43,
+          "timeMs": 13500,
+          "word": "lala",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "la,",
+          "order": 44,
+          "timeMs": 13667,
+          "word": "lala",
+          "wordIndex": 43,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "la",
+          "order": 45,
+          "timeMs": 14000,
+          "word": "lala",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "la",
+          "order": 46,
+          "timeMs": 14167,
+          "word": "lala",
+          "wordIndex": 45,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "la,",
+          "order": 47,
+          "timeMs": 14333,
+          "word": "la",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈa",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16896,
+          "text": "la",
+          "order": 48,
+          "timeMs": 14667,
+          "word": "lala",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "la",
+          "order": 49,
+          "timeMs": 15000,
+          "word": "lala",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "la.",
+          "order": 50,
+          "timeMs": 15333,
+          "word": "la",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈa",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18432,
+          "text": "Troll",
+          "order": 51,
+          "timeMs": 16000,
+          "word": "troll",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈə‍ʊl",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19008,
+          "text": "the",
+          "order": 52,
+          "timeMs": 16500,
+          "word": "the",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "an",
+          "order": 53,
+          "timeMs": 16667,
+          "word": "ancient",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "cient",
+          "order": 54,
+          "timeMs": 17000,
+          "word": "ancient",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃənt",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "Yule",
+          "order": 55,
+          "timeMs": 17333,
+          "word": "yule",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuːl",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20352,
+          "text": "tide",
+          "order": 56,
+          "timeMs": 17667,
+          "word": "tide",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20736,
+          "text": "car",
+          "order": 57,
+          "timeMs": 18000,
+          "word": "carol",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈa",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "ol,",
+          "order": 58,
+          "timeMs": 18333,
+          "word": "carol",
+          "wordIndex": 57,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21504,
+          "text": "Fa",
+          "order": 59,
+          "timeMs": 18667,
+          "word": "fa",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21696,
+          "text": "la",
+          "order": 60,
+          "timeMs": 18833,
+          "word": "lala",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "la",
+          "order": 61,
+          "timeMs": 19000,
+          "word": "lala",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "la",
+          "order": 62,
+          "timeMs": 19167,
+          "word": "lala",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22272,
+          "text": "la,",
+          "order": 63,
+          "timeMs": 19333,
+          "word": "lala",
+          "wordIndex": 62,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22848,
+          "text": "la",
+          "order": 64,
+          "timeMs": 19833,
+          "word": "lala",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "la",
+          "order": 65,
+          "timeMs": 20000,
+          "word": "lala",
+          "wordIndex": 64,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "la",
+          "order": 66,
+          "timeMs": 20333,
+          "word": "lala",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "la.",
+          "order": 67,
+          "timeMs": 20667,
+          "word": "lala",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 500,
+          "note": 69
+        },
+        {
+          "startMs": 500,
+          "endMs": 667,
+          "note": 67
+        },
+        {
+          "startMs": 667,
+          "endMs": 1000,
+          "note": 65
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1333,
+          "note": 64
+        },
+        {
+          "startMs": 1333,
+          "endMs": 1667,
+          "note": 62
+        },
+        {
+          "startMs": 1667,
+          "endMs": 2000,
+          "note": 64
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2333,
+          "note": 65
+        },
+        {
+          "startMs": 2333,
+          "endMs": 2667,
+          "note": 60
+        },
+        {
+          "startMs": 2667,
+          "endMs": 2833,
+          "note": 64
+        },
+        {
+          "startMs": 2833,
+          "endMs": 3000,
+          "note": 65
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3167,
+          "note": 67
+        },
+        {
+          "startMs": 3167,
+          "endMs": 3333,
+          "note": 64
+        },
+        {
+          "startMs": 3333,
+          "endMs": 3833,
+          "note": 65
+        },
+        {
+          "startMs": 3833,
+          "endMs": 4000,
+          "note": 64
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4333,
+          "note": 62
+        },
+        {
+          "startMs": 4333,
+          "endMs": 4667,
+          "note": 60
+        },
+        {
+          "startMs": 4667,
+          "endMs": 5333,
+          "note": 60
+        },
+        {
+          "startMs": 5333,
+          "endMs": 5833,
+          "note": 69
+        },
+        {
+          "startMs": 5833,
+          "endMs": 6000,
+          "note": 67
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6333,
+          "note": 65
+        },
+        {
+          "startMs": 6333,
+          "endMs": 6667,
+          "note": 64
+        },
+        {
+          "startMs": 6667,
+          "endMs": 7000,
+          "note": 62
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7333,
+          "note": 64
+        },
+        {
+          "startMs": 7333,
+          "endMs": 7667,
+          "note": 65
+        },
+        {
+          "startMs": 7667,
+          "endMs": 8000,
+          "note": 65
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8167,
+          "note": 64
+        },
+        {
+          "startMs": 8167,
+          "endMs": 8333,
+          "note": 65
+        },
+        {
+          "startMs": 8333,
+          "endMs": 8500,
+          "note": 67
+        },
+        {
+          "startMs": 8500,
+          "endMs": 8667,
+          "note": 64
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9167,
+          "note": 65
+        },
+        {
+          "startMs": 9167,
+          "endMs": 9333,
+          "note": 64
+        },
+        {
+          "startMs": 9333,
+          "endMs": 9667,
+          "note": 62
+        },
+        {
+          "startMs": 9667,
+          "endMs": 10000,
+          "note": 60
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10667,
+          "note": 60
+        },
+        {
+          "startMs": 10667,
+          "endMs": 11167,
+          "note": 64
+        },
+        {
+          "startMs": 11167,
+          "endMs": 11333,
+          "note": 65
+        },
+        {
+          "startMs": 11333,
+          "endMs": 11667,
+          "note": 67
+        },
+        {
+          "startMs": 11667,
+          "endMs": 12000,
+          "note": 64
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12500,
+          "note": 65
+        },
+        {
+          "startMs": 12500,
+          "endMs": 12667,
+          "note": 67
+        },
+        {
+          "startMs": 12667,
+          "endMs": 13000,
+          "note": 65
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13333,
+          "note": 60
+        },
+        {
+          "startMs": 13333,
+          "endMs": 13500,
+          "note": 65
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13667,
+          "note": 65
+        },
+        {
+          "startMs": 13667,
+          "endMs": 14000,
+          "note": 65
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14167,
+          "note": 69
+        },
+        {
+          "startMs": 14167,
+          "endMs": 14333,
+          "note": 69
+        },
+        {
+          "startMs": 14333,
+          "endMs": 14667,
+          "note": 69
+        },
+        {
+          "startMs": 14667,
+          "endMs": 15000,
+          "note": 67
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15333,
+          "note": 65
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 64
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 65
+        },
+        {
+          "startMs": 16500,
+          "endMs": 16667,
+          "note": 67
+        },
+        {
+          "startMs": 16667,
+          "endMs": 17000,
+          "note": 65
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17333,
+          "note": 64
+        },
+        {
+          "startMs": 17333,
+          "endMs": 17667,
+          "note": 62
+        },
+        {
+          "startMs": 17667,
+          "endMs": 18000,
+          "note": 64
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18333,
+          "note": 65
+        },
+        {
+          "startMs": 18333,
+          "endMs": 18667,
+          "note": 65
+        },
+        {
+          "startMs": 18667,
+          "endMs": 18833,
+          "note": 70
+        },
+        {
+          "startMs": 18833,
+          "endMs": 19000,
+          "note": 70
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19167,
+          "note": 70
+        },
+        {
+          "startMs": 19167,
+          "endMs": 19333,
+          "note": 70
+        },
+        {
+          "startMs": 19333,
+          "endMs": 19833,
+          "note": 69
+        },
+        {
+          "startMs": 19833,
+          "endMs": 20000,
+          "note": 67
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20333,
+          "note": 65
+        },
+        {
+          "startMs": 20333,
+          "endMs": 20667,
+          "note": 64
+        },
+        {
+          "startMs": 20667,
+          "endMs": 21333,
+          "note": 65
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": 4,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Deck",
+          "order": 0,
+          "timeMs": 0,
+          "word": "deck",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛk",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 576,
+          "text": "the",
+          "order": 1,
+          "timeMs": 500,
+          "word": "the",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "hall",
+          "order": 2,
+          "timeMs": 667,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 6,
+          "ipa": "hˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1152,
+          "text": "with",
+          "order": 3,
+          "timeMs": 1000,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 6,
+          "ipa": "wɪð",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1536,
+          "text": "boughs",
+          "order": 4,
+          "timeMs": 1333,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 2,
+          "syllableCount": 6,
+          "ipa": "bˌa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 1920,
+          "text": "of",
+          "order": 5,
+          "timeMs": 1667,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 3,
+          "syllableCount": 6,
+          "ipa": "səf",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 2304,
+          "text": "hol",
+          "order": 6,
+          "timeMs": 2000,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 4,
+          "syllableCount": 6,
+          "ipa": "hˌɒ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 2688,
+          "text": "ly,",
+          "order": 7,
+          "timeMs": 2333,
+          "word": "hallwithboughsofholly",
+          "wordIndex": 2,
+          "syllableIndex": 5,
+          "syllableCount": 6,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 3072,
+          "text": "Fa",
+          "order": 8,
+          "timeMs": 2667,
+          "word": "fa",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3264,
+          "text": "la",
+          "order": 9,
+          "timeMs": 2833,
+          "word": "lala",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "la",
+          "order": 10,
+          "timeMs": 3000,
+          "word": "lala",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3648,
+          "text": "la",
+          "order": 11,
+          "timeMs": 3167,
+          "word": "lala",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "la,",
+          "order": 12,
+          "timeMs": 3333,
+          "word": "lala",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4416,
+          "text": "la",
+          "order": 13,
+          "timeMs": 3833,
+          "word": "lala",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "la",
+          "order": 14,
+          "timeMs": 4000,
+          "word": "lala",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4992,
+          "text": "la",
+          "order": 15,
+          "timeMs": 4333,
+          "word": "lala",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "la.",
+          "order": 16,
+          "timeMs": 4667,
+          "word": "lala",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6144,
+          "text": "’Tis",
+          "order": 17,
+          "timeMs": 5333,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "tˈɪs",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 6720,
+          "text": "the",
+          "order": 18,
+          "timeMs": 5833,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "θɪ",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 6912,
+          "text": "sea",
+          "order": 19,
+          "timeMs": 6000,
+          "word": "'tisthesea",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "sˌi‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "orthographic-elision"
+        },
+        {
+          "tick": 7296,
+          "text": "son",
+          "order": 20,
+          "timeMs": 6333,
+          "word": "son",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈʌn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "to",
+          "order": 21,
+          "timeMs": 6667,
+          "word": "to",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "be",
+          "order": 22,
+          "timeMs": 7000,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "bɪ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 8448,
+          "text": "jol",
+          "order": 23,
+          "timeMs": 7333,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "d‍ʒˈɒ",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 8832,
+          "text": "ly,",
+          "order": 24,
+          "timeMs": 7667,
+          "word": "bejolly",
+          "wordIndex": 22,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "morphology"
+        },
+        {
+          "tick": 9216,
+          "text": "Fa",
+          "order": 25,
+          "timeMs": 8000,
+          "word": "fa",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9408,
+          "text": "la",
+          "order": 26,
+          "timeMs": 8167,
+          "word": "lala",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "la",
+          "order": 27,
+          "timeMs": 8333,
+          "word": "lala",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9792,
+          "text": "la",
+          "order": 28,
+          "timeMs": 8500,
+          "word": "lala",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "la,",
+          "order": 29,
+          "timeMs": 8667,
+          "word": "lala",
+          "wordIndex": 28,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "la",
+          "order": 30,
+          "timeMs": 9167,
+          "word": "lala",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "la",
+          "order": 31,
+          "timeMs": 9333,
+          "word": "lala",
+          "wordIndex": 30,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "la",
+          "order": 32,
+          "timeMs": 9667,
+          "word": "lala",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "la.",
+          "order": 33,
+          "timeMs": 10000,
+          "word": "lala",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "Don",
+          "order": 34,
+          "timeMs": 10667,
+          "word": "don",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12864,
+          "text": "we",
+          "order": 35,
+          "timeMs": 11167,
+          "word": "we",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "now",
+          "order": 36,
+          "timeMs": 11333,
+          "word": "now",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "our",
+          "order": 37,
+          "timeMs": 11667,
+          "word": "our",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ʊə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "gay",
+          "order": 38,
+          "timeMs": 12000,
+          "word": "gay",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14400,
+          "text": "ap",
+          "order": 39,
+          "timeMs": 12500,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɐ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "par",
+          "order": 40,
+          "timeMs": 12667,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "pˈa",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "el;",
+          "order": 41,
+          "timeMs": 13000,
+          "word": "apparel",
+          "wordIndex": 39,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ɹə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "Fa",
+          "order": 42,
+          "timeMs": 13333,
+          "word": "fa",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15552,
+          "text": "la",
+          "order": 43,
+          "timeMs": 13500,
+          "word": "lala",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "la,",
+          "order": 44,
+          "timeMs": 13667,
+          "word": "lala",
+          "wordIndex": 43,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "la",
+          "order": 45,
+          "timeMs": 14000,
+          "word": "lala",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "la",
+          "order": 46,
+          "timeMs": 14167,
+          "word": "lala",
+          "wordIndex": 45,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "la,",
+          "order": 47,
+          "timeMs": 14333,
+          "word": "la",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈa",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16896,
+          "text": "la",
+          "order": 48,
+          "timeMs": 14667,
+          "word": "lala",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "la",
+          "order": 49,
+          "timeMs": 15000,
+          "word": "lala",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "la.",
+          "order": 50,
+          "timeMs": 15333,
+          "word": "la",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈa",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 18432,
+          "text": "Troll",
+          "order": 51,
+          "timeMs": 16000,
+          "word": "troll",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈə‍ʊl",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19008,
+          "text": "the",
+          "order": 52,
+          "timeMs": 16500,
+          "word": "the",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "an",
+          "order": 53,
+          "timeMs": 16667,
+          "word": "ancient",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "cient",
+          "order": 54,
+          "timeMs": 17000,
+          "word": "ancient",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ʃənt",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "Yule",
+          "order": 55,
+          "timeMs": 17333,
+          "word": "yule",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuːl",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20352,
+          "text": "tide",
+          "order": 56,
+          "timeMs": 17667,
+          "word": "tide",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20736,
+          "text": "car",
+          "order": 57,
+          "timeMs": 18000,
+          "word": "carol",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kˈa",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "ol,",
+          "order": 58,
+          "timeMs": 18333,
+          "word": "carol",
+          "wordIndex": 57,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21504,
+          "text": "Fa",
+          "order": 59,
+          "timeMs": 18667,
+          "word": "fa",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21696,
+          "text": "la",
+          "order": 60,
+          "timeMs": 18833,
+          "word": "lala",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "la",
+          "order": 61,
+          "timeMs": 19000,
+          "word": "lala",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "la",
+          "order": 62,
+          "timeMs": 19167,
+          "word": "lala",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22272,
+          "text": "la,",
+          "order": 63,
+          "timeMs": 19333,
+          "word": "lala",
+          "wordIndex": 62,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22848,
+          "text": "la",
+          "order": 64,
+          "timeMs": 19833,
+          "word": "lala",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "la",
+          "order": 65,
+          "timeMs": 20000,
+          "word": "lala",
+          "wordIndex": 64,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "la",
+          "order": 66,
+          "timeMs": 20333,
+          "word": "lala",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɑː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "la.",
+          "order": 67,
+          "timeMs": 20667,
+          "word": "lala",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "lə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 500,
+          "note": 72
+        },
+        {
+          "startMs": 500,
+          "endMs": 667,
+          "note": 70
+        },
+        {
+          "startMs": 667,
+          "endMs": 1000,
+          "note": 69
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1333,
+          "note": 67
+        },
+        {
+          "startMs": 1333,
+          "endMs": 1667,
+          "note": 65
+        },
+        {
+          "startMs": 1667,
+          "endMs": 2000,
+          "note": 67
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2333,
+          "note": 69
+        },
+        {
+          "startMs": 2333,
+          "endMs": 2667,
+          "note": 65
+        },
+        {
+          "startMs": 2667,
+          "endMs": 2833,
+          "note": 67
+        },
+        {
+          "startMs": 2833,
+          "endMs": 3000,
+          "note": 69
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3167,
+          "note": 70
+        },
+        {
+          "startMs": 3167,
+          "endMs": 3333,
+          "note": 67
+        },
+        {
+          "startMs": 3333,
+          "endMs": 3833,
+          "note": 69
+        },
+        {
+          "startMs": 3833,
+          "endMs": 4000,
+          "note": 67
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4333,
+          "note": 65
+        },
+        {
+          "startMs": 4333,
+          "endMs": 4667,
+          "note": 64
+        },
+        {
+          "startMs": 4667,
+          "endMs": 5333,
+          "note": 65
+        },
+        {
+          "startMs": 5333,
+          "endMs": 5833,
+          "note": 72
+        },
+        {
+          "startMs": 5833,
+          "endMs": 6000,
+          "note": 70
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6333,
+          "note": 69
+        },
+        {
+          "startMs": 6333,
+          "endMs": 6667,
+          "note": 67
+        },
+        {
+          "startMs": 6667,
+          "endMs": 7000,
+          "note": 65
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7333,
+          "note": 67
+        },
+        {
+          "startMs": 7333,
+          "endMs": 7667,
+          "note": 69
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8167,
+          "note": 67
+        },
+        {
+          "startMs": 8167,
+          "endMs": 8333,
+          "note": 69
+        },
+        {
+          "startMs": 8333,
+          "endMs": 8500,
+          "note": 70
+        },
+        {
+          "startMs": 8500,
+          "endMs": 8667,
+          "note": 67
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9167,
+          "note": 69
+        },
+        {
+          "startMs": 9167,
+          "endMs": 9333,
+          "note": 67
+        },
+        {
+          "startMs": 9333,
+          "endMs": 9667,
+          "note": 65
+        },
+        {
+          "startMs": 9667,
+          "endMs": 10000,
+          "note": 64
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10667,
+          "note": 65
+        },
+        {
+          "startMs": 10667,
+          "endMs": 11167,
+          "note": 67
+        },
+        {
+          "startMs": 11167,
+          "endMs": 11333,
+          "note": 69
+        },
+        {
+          "startMs": 11333,
+          "endMs": 11667,
+          "note": 70
+        },
+        {
+          "startMs": 11667,
+          "endMs": 12000,
+          "note": 67
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12500,
+          "note": 69
+        },
+        {
+          "startMs": 12500,
+          "endMs": 12667,
+          "note": 70
+        },
+        {
+          "startMs": 12667,
+          "endMs": 13000,
+          "note": 72
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13333,
+          "note": 67
+        },
+        {
+          "startMs": 13333,
+          "endMs": 13500,
+          "note": 69
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13667,
+          "note": 71
+        },
+        {
+          "startMs": 13667,
+          "endMs": 14000,
+          "note": 72
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14167,
+          "note": 74
+        },
+        {
+          "startMs": 14167,
+          "endMs": 14333,
+          "note": 76
+        },
+        {
+          "startMs": 14333,
+          "endMs": 14667,
+          "note": 77
+        },
+        {
+          "startMs": 14667,
+          "endMs": 15000,
+          "note": 76
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15333,
+          "note": 74
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 72
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 72
+        },
+        {
+          "startMs": 16500,
+          "endMs": 16667,
+          "note": 70
+        },
+        {
+          "startMs": 16667,
+          "endMs": 17000,
+          "note": 69
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17333,
+          "note": 67
+        },
+        {
+          "startMs": 17333,
+          "endMs": 17667,
+          "note": 65
+        },
+        {
+          "startMs": 17667,
+          "endMs": 18000,
+          "note": 67
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18333,
+          "note": 69
+        },
+        {
+          "startMs": 18667,
+          "endMs": 18833,
+          "note": 74
+        },
+        {
+          "startMs": 18833,
+          "endMs": 19000,
+          "note": 74
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19167,
+          "note": 74
+        },
+        {
+          "startMs": 19167,
+          "endMs": 19333,
+          "note": 74
+        },
+        {
+          "startMs": 19333,
+          "endMs": 19833,
+          "note": 72
+        },
+        {
+          "startMs": 19833,
+          "endMs": 20000,
+          "note": 70
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20333,
+          "note": 69
+        },
+        {
+          "startMs": 20333,
+          "endMs": 20667,
+          "note": 67
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1842 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "6087d196652bf65ac532d4328f1c62b5fef4eb45ebd7b2f0980dac4c641072ee",
+  "id": "test-nasals",
+  "title": "Test · Nasals",
+  "durationMs": 28950,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/test-nasals/song.cscore",
+  "displayScore": "/songs/test-nasals/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-us",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 15,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 16
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 15,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 16
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 15,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 16
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-us",
+        "syllables": 24,
+        "words": 15,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 16
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://choir.chainsman.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 1,
+      "lyricTrack": 1,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "ma",
+          "order": 0,
+          "timeMs": 0,
+          "word": "mana",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "na",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "mana",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "mi",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "mino",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "no",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "mino",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "moo",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "moo",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "nee",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "nee",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "ma",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "mæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6720,
+          "text": "na",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "ma",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8640,
+          "text": "na",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "na",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "mi",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "mino",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "no",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "mino",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "moo",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "moo",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "nee",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "nee",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "ma",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "mæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14400,
+          "text": "na",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "ma",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "na",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "na",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "mi",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "mino",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "no",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "mino",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "moo",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "moo",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "nee",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "nee",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "ma",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "mana",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "na",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "mana",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 48
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 50
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 52
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 50
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 48
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 50
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 47
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 48
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 48
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 50
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 52
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 50
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 48
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 50
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 47
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 48
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 48
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 50
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 52
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 50
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 48
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 50
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 47
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 48
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 2,
+      "lyricTrack": 2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "ma",
+          "order": 0,
+          "timeMs": 0,
+          "word": "mana",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "na",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "mana",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "mi",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "mino",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "no",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "mino",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "moo",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "moo",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "nee",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "nee",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "ma",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "mæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6720,
+          "text": "na",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "ma",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8640,
+          "text": "na",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "na",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "mi",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "mino",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "no",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "mino",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "moo",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "moo",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "nee",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "nee",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "ma",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "mæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14400,
+          "text": "na",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "ma",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "na",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "na",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "mi",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "mino",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "no",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "mino",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "moo",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "moo",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "nee",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "nee",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "ma",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "mana",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "na",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "mana",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 55
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 57
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 59
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 57
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 55
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 57
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 54
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 55
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 55
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 57
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 59
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 57
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 55
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 57
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 54
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 55
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 55
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 57
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 59
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 57
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 55
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 57
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 54
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 3,
+      "lyricTrack": 3,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "ma",
+          "order": 0,
+          "timeMs": 0,
+          "word": "mana",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "na",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "mana",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "mi",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "mino",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "no",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "mino",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "moo",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "moo",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "nee",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "nee",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "ma",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "mæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6720,
+          "text": "na",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "ma",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8640,
+          "text": "na",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "na",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "mi",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "mino",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "no",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "mino",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "moo",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "moo",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "nee",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "nee",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "ma",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "mæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14400,
+          "text": "na",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "ma",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "na",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "na",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "mi",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "mino",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "no",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "mino",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "moo",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "moo",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "nee",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "nee",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "ma",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "mana",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "na",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "mana",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 60
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 62
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 64
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 62
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 60
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 62
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 59
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 60
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 60
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 62
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 64
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 62
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 60
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 62
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 59
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 60
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 60
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 62
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 64
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 60
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 62
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 59
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 60
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 4,
+      "lyricTrack": 4,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "ma",
+          "order": 0,
+          "timeMs": 0,
+          "word": "mana",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "na",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "mana",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "mi",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "mino",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "no",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "mino",
+          "wordIndex": 2,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "moo",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "moo",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4800,
+          "text": "nee",
+          "order": 10,
+          "timeMs": 6000,
+          "word": "nee",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "ma",
+          "order": 12,
+          "timeMs": 7200,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "mæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6720,
+          "text": "na",
+          "order": 14,
+          "timeMs": 8400,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "ma",
+          "order": 16,
+          "timeMs": 9600,
+          "word": "manama",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8640,
+          "text": "na",
+          "order": 18,
+          "timeMs": 10800,
+          "word": "na",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "mi",
+          "order": 20,
+          "timeMs": 12000,
+          "word": "mino",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "no",
+          "order": 22,
+          "timeMs": 13200,
+          "word": "mino",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "moo",
+          "order": 24,
+          "timeMs": 14400,
+          "word": "moo",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12480,
+          "text": "nee",
+          "order": 26,
+          "timeMs": 15600,
+          "word": "nee",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13440,
+          "text": "ma",
+          "order": 28,
+          "timeMs": 16800,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "mæ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14400,
+          "text": "na",
+          "order": 30,
+          "timeMs": 18000,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "ma",
+          "order": 32,
+          "timeMs": 19200,
+          "word": "manama",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "na",
+          "order": 34,
+          "timeMs": 20400,
+          "word": "na",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17280,
+          "text": "mi",
+          "order": 36,
+          "timeMs": 21600,
+          "word": "mino",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈiː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "no",
+          "order": 38,
+          "timeMs": 22800,
+          "word": "mino",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "no‍ʊ",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "moo",
+          "order": 40,
+          "timeMs": 24000,
+          "word": "moo",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20160,
+          "text": "nee",
+          "order": 42,
+          "timeMs": 25200,
+          "word": "nee",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "nˈiː",
+          "language": "en-us",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21120,
+          "text": "ma",
+          "order": 44,
+          "timeMs": 26400,
+          "word": "mana",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɑː",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22080,
+          "text": "na",
+          "order": 46,
+          "timeMs": 27600,
+          "word": "mana",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nə",
+          "language": "en-us",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 900,
+          "note": 67
+        },
+        {
+          "startMs": 1200,
+          "endMs": 2100,
+          "note": 69
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3300,
+          "note": 71
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4500,
+          "note": 69
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5700,
+          "note": 67
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6900,
+          "note": 69
+        },
+        {
+          "startMs": 7200,
+          "endMs": 8100,
+          "note": 66
+        },
+        {
+          "startMs": 8400,
+          "endMs": 9300,
+          "note": 67
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10500,
+          "note": 67
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11700,
+          "note": 69
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12900,
+          "note": 71
+        },
+        {
+          "startMs": 13200,
+          "endMs": 14100,
+          "note": 69
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15300,
+          "note": 67
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16500,
+          "note": 69
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17700,
+          "note": 66
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18900,
+          "note": 67
+        },
+        {
+          "startMs": 19200,
+          "endMs": 20100,
+          "note": 67
+        },
+        {
+          "startMs": 20400,
+          "endMs": 21300,
+          "note": 69
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22500,
+          "note": 71
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23700,
+          "note": 69
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24900,
+          "note": 67
+        },
+        {
+          "startMs": 25200,
+          "endMs": 26100,
+          "note": 69
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27300,
+          "note": 66
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28500,
+          "note": 67
+        }
+      ]
+    }
+  ]
+}

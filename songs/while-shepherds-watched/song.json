@@ -1,0 +1,2129 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "e35a0072b1228a073abc4ce44a273c065af4ee61be408e44c10cf931f5ae00e2",
+  "id": "while-shepherds-watched",
+  "title": "While Shepherds Watched Their Flocks",
+  "durationMs": 21320,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/while-shepherds-watched/song.cscore",
+  "displayScore": "/songs/while-shepherds-watched/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v3",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 23,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 9,
+          "lexicon": 18,
+          "sung-form": 1
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 23,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 9,
+          "lexicon": 18,
+          "sung-form": 1
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 23,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 9,
+          "lexicon": 18,
+          "sung-form": 1
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 23,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 9,
+          "lexicon": 18,
+          "sung-form": 1
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "CC0 LilyPond edition and MIDI by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 8,
+      "lyricTrack": 2,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "“All",
+          "order": 0,
+          "timeMs": 0,
+          "word": "all",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "glo",
+          "order": 1,
+          "timeMs": 652,
+          "word": "glory",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ɡlˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "ry",
+          "order": 2,
+          "timeMs": 1630,
+          "word": "glory",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "be",
+          "order": 3,
+          "timeMs": 1957,
+          "word": "be",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1536,
+          "text": "to",
+          "order": 4,
+          "timeMs": 2609,
+          "word": "to",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "God",
+          "order": 5,
+          "timeMs": 3261,
+          "word": "god",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈɒd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2304,
+          "text": "on",
+          "order": 6,
+          "timeMs": 3913,
+          "word": "on",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2688,
+          "text": "high",
+          "order": 7,
+          "timeMs": 4565,
+          "word": "high",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3072,
+          "text": "And",
+          "order": 8,
+          "timeMs": 5217,
+          "word": "and",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "to",
+          "order": 9,
+          "timeMs": 5870,
+          "word": "to",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "the",
+          "order": 10,
+          "timeMs": 6522,
+          "word": "the",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "earth",
+          "order": 11,
+          "timeMs": 7174,
+          "word": "earth",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɜːθ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "be",
+          "order": 12,
+          "timeMs": 7826,
+          "word": "be",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4992,
+          "text": "peace;",
+          "order": 13,
+          "timeMs": 8478,
+          "word": "peace",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6144,
+          "text": "Good",
+          "order": 14,
+          "timeMs": 10435,
+          "word": "goodwill",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ɡˈʊd",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "will",
+          "order": 15,
+          "timeMs": 11087,
+          "word": "goodwill",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "wɪl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7104,
+          "text": "hence",
+          "order": 16,
+          "timeMs": 12065,
+          "word": "henceforth",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "hˈɛns",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "forth",
+          "order": 17,
+          "timeMs": 12391,
+          "word": "henceforth",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "fɔːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "from",
+          "order": 18,
+          "timeMs": 13043,
+          "word": "from",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɒm",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8064,
+          "text": "heav’n",
+          "order": 19,
+          "timeMs": 13696,
+          "word": "heaven",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 8448,
+          "text": "to",
+          "order": 20,
+          "timeMs": 14348,
+          "word": "to",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "men,",
+          "order": 21,
+          "timeMs": 15000,
+          "word": "men",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "Be",
+          "order": 22,
+          "timeMs": 15652,
+          "word": "begin",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "bɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "gin",
+          "order": 23,
+          "timeMs": 16304,
+          "word": "begin",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "and",
+          "order": 24,
+          "timeMs": 16956,
+          "word": "and",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "nev",
+          "order": 25,
+          "timeMs": 17609,
+          "word": "never",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "nˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "er",
+          "order": 26,
+          "timeMs": 18261,
+          "word": "never",
+          "wordIndex": 25,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "cease,",
+          "order": 27,
+          "timeMs": 18913,
+          "word": "cease",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 652,
+          "note": 55
+        },
+        {
+          "startMs": 652,
+          "endMs": 1630,
+          "note": 55
+        },
+        {
+          "startMs": 1630,
+          "endMs": 1957,
+          "note": 55
+        },
+        {
+          "startMs": 1957,
+          "endMs": 2609,
+          "note": 50
+        },
+        {
+          "startMs": 2609,
+          "endMs": 3261,
+          "note": 52
+        },
+        {
+          "startMs": 3261,
+          "endMs": 3913,
+          "note": 48
+        },
+        {
+          "startMs": 3913,
+          "endMs": 4565,
+          "note": 48
+        },
+        {
+          "startMs": 4565,
+          "endMs": 5217,
+          "note": 55
+        },
+        {
+          "startMs": 5217,
+          "endMs": 5870,
+          "note": 50
+        },
+        {
+          "startMs": 5870,
+          "endMs": 6522,
+          "note": 55
+        },
+        {
+          "startMs": 6522,
+          "endMs": 7174,
+          "note": 54
+        },
+        {
+          "startMs": 7174,
+          "endMs": 7826,
+          "note": 57
+        },
+        {
+          "startMs": 7826,
+          "endMs": 8478,
+          "note": 57
+        },
+        {
+          "startMs": 8478,
+          "endMs": 10435,
+          "note": 50
+        },
+        {
+          "startMs": 10435,
+          "endMs": 11087,
+          "note": 55
+        },
+        {
+          "startMs": 12065,
+          "endMs": 12391,
+          "note": 55
+        },
+        {
+          "startMs": 12391,
+          "endMs": 13043,
+          "note": 52
+        },
+        {
+          "startMs": 13043,
+          "endMs": 13696,
+          "note": 55
+        },
+        {
+          "startMs": 13696,
+          "endMs": 14348,
+          "note": 50
+        },
+        {
+          "startMs": 14348,
+          "endMs": 15000,
+          "note": 52
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15652,
+          "note": 47
+        },
+        {
+          "startMs": 15652,
+          "endMs": 16304,
+          "note": 55
+        },
+        {
+          "startMs": 16304,
+          "endMs": 16956,
+          "note": 50
+        },
+        {
+          "startMs": 16956,
+          "endMs": 17609,
+          "note": 52
+        },
+        {
+          "startMs": 17609,
+          "endMs": 18261,
+          "note": 48
+        },
+        {
+          "startMs": 18261,
+          "endMs": 18913,
+          "note": 50
+        },
+        {
+          "startMs": 18913,
+          "endMs": 20870,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 8,
+      "lyricTrack": 2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "“All",
+          "order": 0,
+          "timeMs": 0,
+          "word": "all",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "glo",
+          "order": 1,
+          "timeMs": 652,
+          "word": "glory",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ɡlˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "ry",
+          "order": 2,
+          "timeMs": 1630,
+          "word": "glory",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "be",
+          "order": 3,
+          "timeMs": 1957,
+          "word": "be",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1536,
+          "text": "to",
+          "order": 4,
+          "timeMs": 2609,
+          "word": "to",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "God",
+          "order": 5,
+          "timeMs": 3261,
+          "word": "god",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈɒd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2304,
+          "text": "on",
+          "order": 6,
+          "timeMs": 3913,
+          "word": "on",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2688,
+          "text": "high",
+          "order": 7,
+          "timeMs": 4565,
+          "word": "high",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3072,
+          "text": "And",
+          "order": 8,
+          "timeMs": 5217,
+          "word": "and",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "to",
+          "order": 9,
+          "timeMs": 5870,
+          "word": "to",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "the",
+          "order": 10,
+          "timeMs": 6522,
+          "word": "the",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "earth",
+          "order": 11,
+          "timeMs": 7174,
+          "word": "earth",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɜːθ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "be",
+          "order": 12,
+          "timeMs": 7826,
+          "word": "be",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4992,
+          "text": "peace;",
+          "order": 13,
+          "timeMs": 8478,
+          "word": "peace",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6144,
+          "text": "Good",
+          "order": 14,
+          "timeMs": 10435,
+          "word": "goodwill",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ɡˈʊd",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "will",
+          "order": 15,
+          "timeMs": 11087,
+          "word": "goodwill",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "wɪl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7104,
+          "text": "hence",
+          "order": 16,
+          "timeMs": 12065,
+          "word": "henceforth",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "hˈɛns",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "forth",
+          "order": 17,
+          "timeMs": 12391,
+          "word": "henceforth",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "fɔːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "from",
+          "order": 18,
+          "timeMs": 13043,
+          "word": "from",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɒm",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8064,
+          "text": "heav’n",
+          "order": 19,
+          "timeMs": 13696,
+          "word": "heaven",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 8448,
+          "text": "to",
+          "order": 20,
+          "timeMs": 14348,
+          "word": "to",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "men,",
+          "order": 21,
+          "timeMs": 15000,
+          "word": "men",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "Be",
+          "order": 22,
+          "timeMs": 15652,
+          "word": "begin",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "bɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "gin",
+          "order": 23,
+          "timeMs": 16304,
+          "word": "begin",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "and",
+          "order": 24,
+          "timeMs": 16956,
+          "word": "and",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "nev",
+          "order": 25,
+          "timeMs": 17609,
+          "word": "never",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "nˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "er",
+          "order": 26,
+          "timeMs": 18261,
+          "word": "never",
+          "wordIndex": 25,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "cease,",
+          "order": 27,
+          "timeMs": 18913,
+          "word": "cease",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 652,
+          "note": 59
+        },
+        {
+          "startMs": 652,
+          "endMs": 1630,
+          "note": 62
+        },
+        {
+          "startMs": 1630,
+          "endMs": 1957,
+          "note": 62
+        },
+        {
+          "startMs": 1957,
+          "endMs": 2609,
+          "note": 62
+        },
+        {
+          "startMs": 2609,
+          "endMs": 3261,
+          "note": 59
+        },
+        {
+          "startMs": 3261,
+          "endMs": 3913,
+          "note": 60
+        },
+        {
+          "startMs": 3913,
+          "endMs": 4565,
+          "note": 64
+        },
+        {
+          "startMs": 4565,
+          "endMs": 5217,
+          "note": 62
+        },
+        {
+          "startMs": 5217,
+          "endMs": 5870,
+          "note": 62
+        },
+        {
+          "startMs": 5870,
+          "endMs": 6522,
+          "note": 62
+        },
+        {
+          "startMs": 6522,
+          "endMs": 7174,
+          "note": 62
+        },
+        {
+          "startMs": 7174,
+          "endMs": 7826,
+          "note": 64
+        },
+        {
+          "startMs": 7826,
+          "endMs": 8478,
+          "note": 64
+        },
+        {
+          "startMs": 8478,
+          "endMs": 10435,
+          "note": 62
+        },
+        {
+          "startMs": 10435,
+          "endMs": 11087,
+          "note": 62
+        },
+        {
+          "startMs": 11087,
+          "endMs": 12065,
+          "note": 60
+        },
+        {
+          "startMs": 12065,
+          "endMs": 12391,
+          "note": 59
+        },
+        {
+          "startMs": 12391,
+          "endMs": 13043,
+          "note": 60
+        },
+        {
+          "startMs": 13043,
+          "endMs": 13696,
+          "note": 62
+        },
+        {
+          "startMs": 13696,
+          "endMs": 14348,
+          "note": 62
+        },
+        {
+          "startMs": 14348,
+          "endMs": 15000,
+          "note": 59
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15652,
+          "note": 59
+        },
+        {
+          "startMs": 15652,
+          "endMs": 16304,
+          "note": 59
+        },
+        {
+          "startMs": 16304,
+          "endMs": 16956,
+          "note": 62
+        },
+        {
+          "startMs": 16956,
+          "endMs": 17609,
+          "note": 59
+        },
+        {
+          "startMs": 17609,
+          "endMs": 18261,
+          "note": 60
+        },
+        {
+          "startMs": 18261,
+          "endMs": 18913,
+          "note": 57
+        },
+        {
+          "startMs": 18913,
+          "endMs": 20870,
+          "note": 59
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": 2,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "“All",
+          "order": 0,
+          "timeMs": 0,
+          "word": "all",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "glo",
+          "order": 1,
+          "timeMs": 652,
+          "word": "glory",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ɡlˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "ry",
+          "order": 2,
+          "timeMs": 1630,
+          "word": "glory",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "be",
+          "order": 3,
+          "timeMs": 1957,
+          "word": "be",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1536,
+          "text": "to",
+          "order": 4,
+          "timeMs": 2609,
+          "word": "to",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "God",
+          "order": 5,
+          "timeMs": 3261,
+          "word": "god",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈɒd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2304,
+          "text": "on",
+          "order": 6,
+          "timeMs": 3913,
+          "word": "on",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2688,
+          "text": "high",
+          "order": 7,
+          "timeMs": 4565,
+          "word": "high",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3072,
+          "text": "And",
+          "order": 8,
+          "timeMs": 5217,
+          "word": "and",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "to",
+          "order": 9,
+          "timeMs": 5870,
+          "word": "to",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "the",
+          "order": 10,
+          "timeMs": 6522,
+          "word": "the",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "earth",
+          "order": 11,
+          "timeMs": 7174,
+          "word": "earth",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɜːθ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "be",
+          "order": 12,
+          "timeMs": 7826,
+          "word": "be",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4992,
+          "text": "peace;",
+          "order": 13,
+          "timeMs": 8478,
+          "word": "peace",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6144,
+          "text": "Good",
+          "order": 14,
+          "timeMs": 10435,
+          "word": "goodwill",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ɡˈʊd",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "will",
+          "order": 15,
+          "timeMs": 11087,
+          "word": "goodwill",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "wɪl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7104,
+          "text": "hence",
+          "order": 16,
+          "timeMs": 12065,
+          "word": "henceforth",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "hˈɛns",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "forth",
+          "order": 17,
+          "timeMs": 12391,
+          "word": "henceforth",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "fɔːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "from",
+          "order": 18,
+          "timeMs": 13043,
+          "word": "from",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɒm",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8064,
+          "text": "heav’n",
+          "order": 19,
+          "timeMs": 13696,
+          "word": "heaven",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 8448,
+          "text": "to",
+          "order": 20,
+          "timeMs": 14348,
+          "word": "to",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "men,",
+          "order": 21,
+          "timeMs": 15000,
+          "word": "men",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "Be",
+          "order": 22,
+          "timeMs": 15652,
+          "word": "begin",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "bɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "gin",
+          "order": 23,
+          "timeMs": 16304,
+          "word": "begin",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "and",
+          "order": 24,
+          "timeMs": 16956,
+          "word": "and",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "nev",
+          "order": 25,
+          "timeMs": 17609,
+          "word": "never",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "nˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "er",
+          "order": 26,
+          "timeMs": 18261,
+          "word": "never",
+          "wordIndex": 25,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "cease,",
+          "order": 27,
+          "timeMs": 18913,
+          "word": "cease",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 652,
+          "note": 62
+        },
+        {
+          "startMs": 652,
+          "endMs": 1630,
+          "note": 67
+        },
+        {
+          "startMs": 1630,
+          "endMs": 1957,
+          "note": 67
+        },
+        {
+          "startMs": 1957,
+          "endMs": 2609,
+          "note": 66
+        },
+        {
+          "startMs": 2609,
+          "endMs": 3261,
+          "note": 64
+        },
+        {
+          "startMs": 3261,
+          "endMs": 3913,
+          "note": 64
+        },
+        {
+          "startMs": 3913,
+          "endMs": 4565,
+          "note": 67
+        },
+        {
+          "startMs": 4565,
+          "endMs": 5217,
+          "note": 67
+        },
+        {
+          "startMs": 5217,
+          "endMs": 5870,
+          "note": 66
+        },
+        {
+          "startMs": 5870,
+          "endMs": 6522,
+          "note": 67
+        },
+        {
+          "startMs": 6522,
+          "endMs": 7174,
+          "note": 69
+        },
+        {
+          "startMs": 7174,
+          "endMs": 7826,
+          "note": 69
+        },
+        {
+          "startMs": 7826,
+          "endMs": 8478,
+          "note": 69
+        },
+        {
+          "startMs": 8478,
+          "endMs": 10435,
+          "note": 66
+        },
+        {
+          "startMs": 10435,
+          "endMs": 11087,
+          "note": 67
+        },
+        {
+          "startMs": 11087,
+          "endMs": 12065,
+          "note": 67
+        },
+        {
+          "startMs": 12065,
+          "endMs": 12391,
+          "note": 67
+        },
+        {
+          "startMs": 12391,
+          "endMs": 13043,
+          "note": 67
+        },
+        {
+          "startMs": 13043,
+          "endMs": 13696,
+          "note": 67
+        },
+        {
+          "startMs": 13696,
+          "endMs": 14348,
+          "note": 66
+        },
+        {
+          "startMs": 14348,
+          "endMs": 15000,
+          "note": 64
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15652,
+          "note": 63
+        },
+        {
+          "startMs": 15652,
+          "endMs": 16304,
+          "note": 62
+        },
+        {
+          "startMs": 16304,
+          "endMs": 16956,
+          "note": 66
+        },
+        {
+          "startMs": 16956,
+          "endMs": 17609,
+          "note": 64
+        },
+        {
+          "startMs": 17609,
+          "endMs": 18261,
+          "note": 64
+        },
+        {
+          "startMs": 18261,
+          "endMs": 18913,
+          "note": 62
+        },
+        {
+          "startMs": 18913,
+          "endMs": 20870,
+          "note": 62
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": 2,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "“All",
+          "order": 0,
+          "timeMs": 0,
+          "word": "all",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "glo",
+          "order": 1,
+          "timeMs": 652,
+          "word": "glory",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ɡlˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "ry",
+          "order": 2,
+          "timeMs": 1630,
+          "word": "glory",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "be",
+          "order": 3,
+          "timeMs": 1957,
+          "word": "be",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1536,
+          "text": "to",
+          "order": 4,
+          "timeMs": 2609,
+          "word": "to",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "God",
+          "order": 5,
+          "timeMs": 3261,
+          "word": "god",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈɒd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2304,
+          "text": "on",
+          "order": 6,
+          "timeMs": 3913,
+          "word": "on",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2688,
+          "text": "high",
+          "order": 7,
+          "timeMs": 4565,
+          "word": "high",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3072,
+          "text": "And",
+          "order": 8,
+          "timeMs": 5217,
+          "word": "and",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "to",
+          "order": 9,
+          "timeMs": 5870,
+          "word": "to",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "the",
+          "order": 10,
+          "timeMs": 6522,
+          "word": "the",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "earth",
+          "order": 11,
+          "timeMs": 7174,
+          "word": "earth",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɜːθ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "be",
+          "order": 12,
+          "timeMs": 7826,
+          "word": "be",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4992,
+          "text": "peace;",
+          "order": 13,
+          "timeMs": 8478,
+          "word": "peace",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6144,
+          "text": "Good",
+          "order": 14,
+          "timeMs": 10435,
+          "word": "goodwill",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ɡˈʊd",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "will",
+          "order": 15,
+          "timeMs": 11087,
+          "word": "goodwill",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "wɪl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7104,
+          "text": "hence",
+          "order": 16,
+          "timeMs": 12065,
+          "word": "henceforth",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "hˈɛns",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "forth",
+          "order": 17,
+          "timeMs": 12391,
+          "word": "henceforth",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "fɔːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "from",
+          "order": 18,
+          "timeMs": 13043,
+          "word": "from",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "fɹˈɒm",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8064,
+          "text": "heav’n",
+          "order": 19,
+          "timeMs": 13696,
+          "word": "heaven",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 8448,
+          "text": "to",
+          "order": 20,
+          "timeMs": 14348,
+          "word": "to",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "men,",
+          "order": 21,
+          "timeMs": 15000,
+          "word": "men",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "Be",
+          "order": 22,
+          "timeMs": 15652,
+          "word": "begin",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "bɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "gin",
+          "order": 23,
+          "timeMs": 16304,
+          "word": "begin",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "and",
+          "order": 24,
+          "timeMs": 16956,
+          "word": "and",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "nev",
+          "order": 25,
+          "timeMs": 17609,
+          "word": "never",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "nˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "er",
+          "order": 26,
+          "timeMs": 18261,
+          "word": "never",
+          "wordIndex": 25,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "cease,",
+          "order": 27,
+          "timeMs": 18913,
+          "word": "cease",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 652,
+          "note": 67
+        },
+        {
+          "startMs": 652,
+          "endMs": 1630,
+          "note": 71
+        },
+        {
+          "startMs": 1630,
+          "endMs": 1957,
+          "note": 71
+        },
+        {
+          "startMs": 1957,
+          "endMs": 2609,
+          "note": 69
+        },
+        {
+          "startMs": 2609,
+          "endMs": 3261,
+          "note": 67
+        },
+        {
+          "startMs": 3261,
+          "endMs": 3913,
+          "note": 72
+        },
+        {
+          "startMs": 3913,
+          "endMs": 4565,
+          "note": 72
+        },
+        {
+          "startMs": 4565,
+          "endMs": 5217,
+          "note": 71
+        },
+        {
+          "startMs": 5217,
+          "endMs": 5870,
+          "note": 69
+        },
+        {
+          "startMs": 5870,
+          "endMs": 6522,
+          "note": 71
+        },
+        {
+          "startMs": 6522,
+          "endMs": 7174,
+          "note": 74
+        },
+        {
+          "startMs": 7174,
+          "endMs": 7826,
+          "note": 74
+        },
+        {
+          "startMs": 7826,
+          "endMs": 8478,
+          "note": 73
+        },
+        {
+          "startMs": 8478,
+          "endMs": 10435,
+          "note": 74
+        },
+        {
+          "startMs": 10435,
+          "endMs": 11087,
+          "note": 71
+        },
+        {
+          "startMs": 11087,
+          "endMs": 12065,
+          "note": 76
+        },
+        {
+          "startMs": 12065,
+          "endMs": 12391,
+          "note": 74
+        },
+        {
+          "startMs": 12391,
+          "endMs": 13043,
+          "note": 72
+        },
+        {
+          "startMs": 13043,
+          "endMs": 13696,
+          "note": 71
+        },
+        {
+          "startMs": 13696,
+          "endMs": 14348,
+          "note": 69
+        },
+        {
+          "startMs": 14348,
+          "endMs": 15000,
+          "note": 67
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15652,
+          "note": 66
+        },
+        {
+          "startMs": 15652,
+          "endMs": 16304,
+          "note": 71
+        },
+        {
+          "startMs": 16304,
+          "endMs": 16956,
+          "note": 69
+        },
+        {
+          "startMs": 16956,
+          "endMs": 17609,
+          "note": 67
+        },
+        {
+          "startMs": 17609,
+          "endMs": 18261,
+          "note": 67
+        },
+        {
+          "startMs": 18261,
+          "endMs": 18913,
+          "note": 66
+        },
+        {
+          "startMs": 18913,
+          "endMs": 20870,
+          "note": 67
+        }
+      ]
+    }
+  ]
+}

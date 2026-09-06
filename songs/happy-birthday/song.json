@@ -1,0 +1,2052 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "b0c876de5fed1913d4c19d36195d5c95cf2f9d94279e5d996574c6d94c3b2c69",
+  "id": "happy-birthday",
+  "title": "Happy Birthday",
+  "durationMs": 26768,
+  "entryMs": 1380,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/happy-birthday/song.cscore",
+  "displayScore": "/songs/happy-birthday/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-us",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-us",
+        "syllables": 26,
+        "words": 16,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 26
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-us",
+        "syllables": 26,
+        "words": 16,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 26
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-us",
+        "syllables": 26,
+        "words": 16,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 26
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-us",
+        "syllables": 26,
+        "words": 16,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 26
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://archive.org/details/midiman_melody_kit_1.0_2015-06",
+  "license": "Public-domain composition; MIDI sequence source terms unspecified",
+  "sequenceCredit": "HappyBirthday4.mid from the MIDIMAN Melody Kit archive; arranger not identified in the file",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 8,
+      "lyricTrack": -2,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 360,
+          "timeMs": 1500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 480,
+          "timeMs": 2000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 538,
+          "timeMs": 2242,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 710,
+          "timeMs": 2958,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 900,
+          "timeMs": 3750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1080,
+          "timeMs": 4500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1440,
+          "timeMs": 6000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 1560,
+          "timeMs": 6500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1620,
+          "timeMs": 6750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 1786,
+          "timeMs": 7442,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1972,
+          "timeMs": 8217,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2160,
+          "timeMs": 9000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2520,
+          "timeMs": 10500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2640,
+          "timeMs": 11000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2700,
+          "timeMs": 11250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2865,
+          "timeMs": 11938,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "dear",
+          "word": "dear",
+          "ipa": "dˈɪɹ",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 3051,
+          "timeMs": 12713,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "some",
+          "word": "somebody",
+          "ipa": "sˈʌm",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 3240,
+          "timeMs": 13500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "bod",
+          "word": "somebody",
+          "ipa": "bɑː",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 3420,
+          "timeMs": 14287,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "y",
+          "word": "somebody",
+          "ipa": "di",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 3452,
+          "timeMs": 14902,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3600,
+          "timeMs": 17749,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3720,
+          "timeMs": 18301,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3780,
+          "timeMs": 18580,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3960,
+          "timeMs": 19502,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4140,
+          "timeMs": 20585,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4320,
+          "timeMs": 21900,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 1500,
+          "endMs": 2000,
+          "note": 48
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2221,
+          "note": 48
+        },
+        {
+          "startMs": 2242,
+          "endMs": 2958,
+          "note": 53
+        },
+        {
+          "startMs": 2958,
+          "endMs": 3750,
+          "note": 52
+        },
+        {
+          "startMs": 3750,
+          "endMs": 4446,
+          "note": 50
+        },
+        {
+          "startMs": 4500,
+          "endMs": 5250,
+          "note": 48
+        },
+        {
+          "startMs": 5250,
+          "endMs": 6000,
+          "note": 50
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6500,
+          "note": 52
+        },
+        {
+          "startMs": 6500,
+          "endMs": 6746,
+          "note": 52
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7442,
+          "note": 48
+        },
+        {
+          "startMs": 7442,
+          "endMs": 8217,
+          "note": 50
+        },
+        {
+          "startMs": 8217,
+          "endMs": 8963,
+          "note": 52
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9738,
+          "note": 53
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10496,
+          "note": 48
+        },
+        {
+          "startMs": 10500,
+          "endMs": 11000,
+          "note": 45
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11246,
+          "note": 45
+        },
+        {
+          "startMs": 11250,
+          "endMs": 11938,
+          "note": 41
+        },
+        {
+          "startMs": 11938,
+          "endMs": 12708,
+          "note": 43
+        },
+        {
+          "startMs": 12713,
+          "endMs": 13450,
+          "note": 45
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14287,
+          "note": 46
+        },
+        {
+          "startMs": 14287,
+          "endMs": 14902,
+          "note": 46
+        },
+        {
+          "startMs": 14902,
+          "endMs": 17595,
+          "note": 46
+        },
+        {
+          "startMs": 17749,
+          "endMs": 18301,
+          "note": 43
+        },
+        {
+          "startMs": 18301,
+          "endMs": 18575,
+          "note": 43
+        },
+        {
+          "startMs": 18580,
+          "endMs": 19496,
+          "note": 45
+        },
+        {
+          "startMs": 19502,
+          "endMs": 20585,
+          "note": 46
+        },
+        {
+          "startMs": 20585,
+          "endMs": 21811,
+          "note": 48
+        },
+        {
+          "startMs": 21900,
+          "endMs": 26318,
+          "note": 41
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 5,
+      "lyricTrack": -2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 360,
+          "timeMs": 1500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 480,
+          "timeMs": 2000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 540,
+          "timeMs": 2250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 720,
+          "timeMs": 3000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 900,
+          "timeMs": 3750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1080,
+          "timeMs": 4500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1440,
+          "timeMs": 6000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 1560,
+          "timeMs": 6500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1620,
+          "timeMs": 6750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 1800,
+          "timeMs": 7500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1980,
+          "timeMs": 8250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2160,
+          "timeMs": 9000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2520,
+          "timeMs": 10500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2640,
+          "timeMs": 11000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2700,
+          "timeMs": 11250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2880,
+          "timeMs": 12000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "dear",
+          "word": "dear",
+          "ipa": "dˈɪɹ",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 3060,
+          "timeMs": 12750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "some",
+          "word": "somebody",
+          "ipa": "sˈʌm",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 3240,
+          "timeMs": 13500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "bod",
+          "word": "somebody",
+          "ipa": "bɑː",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 3420,
+          "timeMs": 14287,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "y",
+          "word": "somebody",
+          "ipa": "di",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 3452,
+          "timeMs": 14902,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3600,
+          "timeMs": 17749,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3720,
+          "timeMs": 18301,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3780,
+          "timeMs": 18580,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3960,
+          "timeMs": 19502,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4140,
+          "timeMs": 20585,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4320,
+          "timeMs": 21900,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 1500,
+          "endMs": 2000,
+          "note": 52
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2246,
+          "note": 52
+        },
+        {
+          "startMs": 2250,
+          "endMs": 3000,
+          "note": 53
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3750,
+          "note": 53
+        },
+        {
+          "startMs": 3750,
+          "endMs": 4496,
+          "note": 53
+        },
+        {
+          "startMs": 4500,
+          "endMs": 4996,
+          "note": 55
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5246,
+          "note": 57
+        },
+        {
+          "startMs": 5250,
+          "endMs": 5746,
+          "note": 58
+        },
+        {
+          "startMs": 5750,
+          "endMs": 5996,
+          "note": 57
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6496,
+          "note": 55
+        },
+        {
+          "startMs": 6500,
+          "endMs": 6746,
+          "note": 53
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7500,
+          "note": 52
+        },
+        {
+          "startMs": 7500,
+          "endMs": 8250,
+          "note": 52
+        },
+        {
+          "startMs": 8250,
+          "endMs": 8996,
+          "note": 52
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9496,
+          "note": 57
+        },
+        {
+          "startMs": 9500,
+          "endMs": 9746,
+          "note": 58
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10246,
+          "note": 60
+        },
+        {
+          "startMs": 10250,
+          "endMs": 10496,
+          "note": 58
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10996,
+          "note": 57
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11246,
+          "note": 55
+        },
+        {
+          "startMs": 11250,
+          "endMs": 12000,
+          "note": 53
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12746,
+          "note": 53
+        },
+        {
+          "startMs": 12750,
+          "endMs": 13488,
+          "note": 53
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14287,
+          "note": 55
+        },
+        {
+          "startMs": 14287,
+          "endMs": 14902,
+          "note": 55
+        },
+        {
+          "startMs": 14902,
+          "endMs": 17595,
+          "note": 55
+        },
+        {
+          "startMs": 17749,
+          "endMs": 18297,
+          "note": 53
+        },
+        {
+          "startMs": 18301,
+          "endMs": 18575,
+          "note": 53
+        },
+        {
+          "startMs": 18580,
+          "endMs": 19496,
+          "note": 55
+        },
+        {
+          "startMs": 19502,
+          "endMs": 20578,
+          "note": 53
+        },
+        {
+          "startMs": 20585,
+          "endMs": 21892,
+          "note": 52
+        },
+        {
+          "startMs": 21900,
+          "endMs": 26318,
+          "note": 53
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 3,
+      "lyricTrack": -2,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 360,
+          "timeMs": 1500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 480,
+          "timeMs": 2000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 540,
+          "timeMs": 2250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 720,
+          "timeMs": 3000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 900,
+          "timeMs": 3750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1080,
+          "timeMs": 4500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1440,
+          "timeMs": 6000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 1560,
+          "timeMs": 6500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1620,
+          "timeMs": 6750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 1800,
+          "timeMs": 7500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1980,
+          "timeMs": 8250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2160,
+          "timeMs": 9000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2520,
+          "timeMs": 10500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2640,
+          "timeMs": 11000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2700,
+          "timeMs": 11250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2880,
+          "timeMs": 12000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "dear",
+          "word": "dear",
+          "ipa": "dˈɪɹ",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 3060,
+          "timeMs": 12750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "some",
+          "word": "somebody",
+          "ipa": "sˈʌm",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 3240,
+          "timeMs": 13500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "bod",
+          "word": "somebody",
+          "ipa": "bɑː",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 3420,
+          "timeMs": 14287,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "y",
+          "word": "somebody",
+          "ipa": "di",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 3452,
+          "timeMs": 14902,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3600,
+          "timeMs": 17749,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3720,
+          "timeMs": 18301,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3780,
+          "timeMs": 18580,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3960,
+          "timeMs": 19502,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4140,
+          "timeMs": 20585,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4320,
+          "timeMs": 21900,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 1500,
+          "endMs": 2000,
+          "note": 64
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2246,
+          "note": 64
+        },
+        {
+          "startMs": 2250,
+          "endMs": 3000,
+          "note": 65
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3750,
+          "note": 65
+        },
+        {
+          "startMs": 3750,
+          "endMs": 4496,
+          "note": 65
+        },
+        {
+          "startMs": 4500,
+          "endMs": 4996,
+          "note": 67
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5246,
+          "note": 69
+        },
+        {
+          "startMs": 5250,
+          "endMs": 5746,
+          "note": 70
+        },
+        {
+          "startMs": 5750,
+          "endMs": 5996,
+          "note": 69
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6496,
+          "note": 67
+        },
+        {
+          "startMs": 6500,
+          "endMs": 6746,
+          "note": 65
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7500,
+          "note": 64
+        },
+        {
+          "startMs": 7500,
+          "endMs": 8250,
+          "note": 64
+        },
+        {
+          "startMs": 8250,
+          "endMs": 8996,
+          "note": 64
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9496,
+          "note": 69
+        },
+        {
+          "startMs": 9500,
+          "endMs": 9746,
+          "note": 70
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10246,
+          "note": 72
+        },
+        {
+          "startMs": 10250,
+          "endMs": 10496,
+          "note": 70
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10996,
+          "note": 69
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11246,
+          "note": 67
+        },
+        {
+          "startMs": 11250,
+          "endMs": 12000,
+          "note": 65
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12746,
+          "note": 65
+        },
+        {
+          "startMs": 12750,
+          "endMs": 13488,
+          "note": 65
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14287,
+          "note": 67
+        },
+        {
+          "startMs": 14287,
+          "endMs": 14902,
+          "note": 67
+        },
+        {
+          "startMs": 14902,
+          "endMs": 17595,
+          "note": 67
+        },
+        {
+          "startMs": 17749,
+          "endMs": 18297,
+          "note": 65
+        },
+        {
+          "startMs": 18301,
+          "endMs": 18575,
+          "note": 65
+        },
+        {
+          "startMs": 18580,
+          "endMs": 19496,
+          "note": 64
+        },
+        {
+          "startMs": 19502,
+          "endMs": 20578,
+          "note": 65
+        },
+        {
+          "startMs": 20585,
+          "endMs": 21892,
+          "note": 64
+        },
+        {
+          "startMs": 21900,
+          "endMs": 26318,
+          "note": 65
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": -2,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 360,
+          "timeMs": 1500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 480,
+          "timeMs": 2000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 540,
+          "timeMs": 2250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 720,
+          "timeMs": 3000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 900,
+          "timeMs": 3750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1080,
+          "timeMs": 4500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1440,
+          "timeMs": 6000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 1560,
+          "timeMs": 6500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1620,
+          "timeMs": 6750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 1800,
+          "timeMs": 7500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1980,
+          "timeMs": 8250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2160,
+          "timeMs": 9000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2520,
+          "timeMs": 10500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2640,
+          "timeMs": 11000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 2700,
+          "timeMs": 11250,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 9,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2880,
+          "timeMs": 12000,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "dear",
+          "word": "dear",
+          "ipa": "dˈɪɹ",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 3060,
+          "timeMs": 12750,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "some",
+          "word": "somebody",
+          "ipa": "sˈʌm",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 3240,
+          "timeMs": 13500,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "bod",
+          "word": "somebody",
+          "ipa": "bɑː",
+          "wordIndex": 11,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 3420,
+          "timeMs": 14287,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "y",
+          "word": "somebody",
+          "ipa": "di",
+          "wordIndex": 11,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 3452,
+          "timeMs": 14902,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "Hap",
+          "word": "happy",
+          "ipa": "hˈæ",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3600,
+          "timeMs": 17749,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "py",
+          "word": "happy",
+          "ipa": "pi",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3720,
+          "timeMs": 18301,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "birth",
+          "word": "birthday",
+          "ipa": "bˈɜːθ",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3780,
+          "timeMs": 18580,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "day",
+          "word": "birthday",
+          "ipa": "deɪ",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3960,
+          "timeMs": 19502,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4140,
+          "timeMs": 20585,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "you",
+          "word": "you",
+          "ipa": "jˈuː",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4320,
+          "timeMs": 21900,
+          "language": "en-us",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 1500,
+          "endMs": 1996,
+          "note": 72
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2246,
+          "note": 72
+        },
+        {
+          "startMs": 2250,
+          "endMs": 2996,
+          "note": 74
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3746,
+          "note": 72
+        },
+        {
+          "startMs": 3750,
+          "endMs": 4496,
+          "note": 77
+        },
+        {
+          "startMs": 4500,
+          "endMs": 5996,
+          "note": 76
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6496,
+          "note": 72
+        },
+        {
+          "startMs": 6500,
+          "endMs": 6746,
+          "note": 72
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7496,
+          "note": 74
+        },
+        {
+          "startMs": 7500,
+          "endMs": 8246,
+          "note": 72
+        },
+        {
+          "startMs": 8250,
+          "endMs": 8996,
+          "note": 79
+        },
+        {
+          "startMs": 9000,
+          "endMs": 10496,
+          "note": 77
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10996,
+          "note": 72
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11246,
+          "note": 72
+        },
+        {
+          "startMs": 11250,
+          "endMs": 11996,
+          "note": 84
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12746,
+          "note": 81
+        },
+        {
+          "startMs": 12750,
+          "endMs": 13496,
+          "note": 77
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14282,
+          "note": 76
+        },
+        {
+          "startMs": 14287,
+          "endMs": 14902,
+          "note": 74
+        },
+        {
+          "startMs": 14902,
+          "endMs": 17729,
+          "note": 74
+        },
+        {
+          "startMs": 17749,
+          "endMs": 18297,
+          "note": 82
+        },
+        {
+          "startMs": 18301,
+          "endMs": 18575,
+          "note": 82
+        },
+        {
+          "startMs": 18580,
+          "endMs": 19496,
+          "note": 81
+        },
+        {
+          "startMs": 19502,
+          "endMs": 20578,
+          "note": 77
+        },
+        {
+          "startMs": 20585,
+          "endMs": 21892,
+          "note": 79
+        },
+        {
+          "startMs": 21900,
+          "endMs": 26318,
+          "note": 77
+        }
+      ]
+    }
+  ]
+}
