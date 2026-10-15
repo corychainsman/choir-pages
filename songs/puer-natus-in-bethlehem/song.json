@@ -1,0 +1,7362 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "4780b23592d92ef11ef982160fb9e0fd4eeff98bcab2da082f3d0cbbf159fdb3",
+  "id": "puer-natus-in-bethlehem",
+  "title": "Puer natus in Bethlehem",
+  "durationMs": 77250,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/puer-natus-in-bethlehem/song.cscore",
+  "displayScore": "/songs/puer-natus-in-bethlehem/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v3",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "la",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "la",
+        "syllables": 96,
+        "words": 36,
+        "unresolved": 0,
+        "sources": {
+          "lexicon": 96
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "la",
+        "syllables": 96,
+        "words": 36,
+        "unresolved": 0,
+        "sources": {
+          "lexicon": 96
+        }
+      },
+      {
+        "role": "alto",
+        "language": "la",
+        "syllables": 96,
+        "words": 36,
+        "unresolved": 0,
+        "sources": {
+          "lexicon": 96
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "la",
+        "syllables": 96,
+        "words": 36,
+        "unresolved": 0,
+        "sources": {
+          "lexicon": 96
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "CC0 LilyPond edition and MIDI by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 6,
+      "lyricTrack": 3,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Per",
+          "order": 0,
+          "timeMs": 0,
+          "word": "per",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pˈɛr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "Ga",
+          "order": 1,
+          "timeMs": 400,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "ɡa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "bri",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "brˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1536,
+          "text": "e",
+          "order": 3,
+          "timeMs": 1600,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "ɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "lis",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "lɪs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2688,
+          "text": "nun",
+          "order": 5,
+          "timeMs": 2800,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "nˈʊn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "ti",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "um,",
+          "order": 7,
+          "timeMs": 4000,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "Al",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4992,
+          "text": "le",
+          "order": 9,
+          "timeMs": 5200,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "lu",
+          "order": 10,
+          "timeMs": 7200,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "ia.",
+          "order": 11,
+          "timeMs": 7600,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "Vir",
+          "order": 12,
+          "timeMs": 8400,
+          "word": "virgo",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "wˈɪr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "go",
+          "order": 13,
+          "timeMs": 8800,
+          "word": "virgo",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "con",
+          "order": 14,
+          "timeMs": 9600,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kˈɔŋ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "ce",
+          "order": 15,
+          "timeMs": 10000,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "pit",
+          "order": 16,
+          "timeMs": 10800,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "pɪt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "Fi",
+          "order": 17,
+          "timeMs": 11200,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "li",
+          "order": 18,
+          "timeMs": 12000,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "lɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11904,
+          "text": "um,",
+          "order": 19,
+          "timeMs": 12400,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "Al",
+          "order": 20,
+          "timeMs": 13200,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "le",
+          "order": 21,
+          "timeMs": 13600,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "lu",
+          "order": 22,
+          "timeMs": 18000,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "ia.",
+          "order": 23,
+          "timeMs": 18400,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "Tam",
+          "order": 24,
+          "timeMs": 19200,
+          "word": "tamquam",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈam",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18816,
+          "text": "quam",
+          "order": 25,
+          "timeMs": 19600,
+          "word": "tamquam",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kwam",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "spon",
+          "order": 26,
+          "timeMs": 20400,
+          "word": "sponsus",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "spˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "sus",
+          "order": 27,
+          "timeMs": 20800,
+          "word": "sponsus",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "de",
+          "order": 28,
+          "timeMs": 21600,
+          "word": "de",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "tha",
+          "order": 29,
+          "timeMs": 22000,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "tʰˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "la",
+          "order": 30,
+          "timeMs": 22800,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "la",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22272,
+          "text": "mo,",
+          "order": 31,
+          "timeMs": 23200,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "Al",
+          "order": 32,
+          "timeMs": 24000,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "le",
+          "order": 33,
+          "timeMs": 24400,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25344,
+          "text": "lu",
+          "order": 34,
+          "timeMs": 26400,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25728,
+          "text": "ia.",
+          "order": 35,
+          "timeMs": 26800,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26496,
+          "text": "Pro",
+          "order": 36,
+          "timeMs": 27600,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "prɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ces",
+          "order": 37,
+          "timeMs": 28000,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kˈɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "sit",
+          "order": 38,
+          "timeMs": 28800,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "sɪt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28032,
+          "text": "ma",
+          "order": 39,
+          "timeMs": 29200,
+          "word": "matris",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28800,
+          "text": "tris",
+          "order": 40,
+          "timeMs": 30000,
+          "word": "matris",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "trɪs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29184,
+          "text": "u",
+          "order": 41,
+          "timeMs": 30400,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29952,
+          "text": "te",
+          "order": 42,
+          "timeMs": 31200,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30336,
+          "text": "ro,",
+          "order": 43,
+          "timeMs": 31600,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31104,
+          "text": "Al",
+          "order": 44,
+          "timeMs": 32400,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31488,
+          "text": "le",
+          "order": 45,
+          "timeMs": 32800,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35712,
+          "text": "lu",
+          "order": 46,
+          "timeMs": 37200,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36096,
+          "text": "ia.",
+          "order": 47,
+          "timeMs": 37600,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "Ma",
+          "order": 48,
+          "timeMs": 38400,
+          "word": "magi",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37248,
+          "text": "gi",
+          "order": 49,
+          "timeMs": 38800,
+          "word": "magi",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38016,
+          "text": "de",
+          "order": 50,
+          "timeMs": 39600,
+          "word": "de",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "lon",
+          "order": 51,
+          "timeMs": 40000,
+          "word": "longe",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɔŋ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39168,
+          "text": "ge",
+          "order": 52,
+          "timeMs": 40800,
+          "word": "longe",
+          "wordIndex": 51,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39552,
+          "text": "ve",
+          "order": 53,
+          "timeMs": 41200,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "wˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40320,
+          "text": "ni",
+          "order": 54,
+          "timeMs": 42000,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40704,
+          "text": "unt,",
+          "order": 55,
+          "timeMs": 42400,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊnt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41472,
+          "text": "Al",
+          "order": 56,
+          "timeMs": 43200,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41856,
+          "text": "le",
+          "order": 57,
+          "timeMs": 43600,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 43776,
+          "text": "lu",
+          "order": 58,
+          "timeMs": 45600,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44160,
+          "text": "ia.",
+          "order": 59,
+          "timeMs": 46000,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44928,
+          "text": "Au",
+          "order": 60,
+          "timeMs": 46800,
+          "word": "aurum",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈa‍ʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 45312,
+          "text": "rum,",
+          "order": 61,
+          "timeMs": 47200,
+          "word": "aurum",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46080,
+          "text": "thus,",
+          "order": 62,
+          "timeMs": 48000,
+          "word": "thus",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tʰˈʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46464,
+          "text": "myr",
+          "order": 63,
+          "timeMs": 48400,
+          "word": "myrrham",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈyrɾh",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47232,
+          "text": "rham",
+          "order": 64,
+          "timeMs": 49200,
+          "word": "myrrham",
+          "wordIndex": 63,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "am",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47616,
+          "text": "of",
+          "order": 65,
+          "timeMs": 49600,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈɔf",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48384,
+          "text": "fe",
+          "order": 66,
+          "timeMs": 50400,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "fɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48768,
+          "text": "runt.",
+          "order": 67,
+          "timeMs": 50800,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊnt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49536,
+          "text": "Al",
+          "order": 68,
+          "timeMs": 51600,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49920,
+          "text": "le",
+          "order": 69,
+          "timeMs": 52000,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54144,
+          "text": "lu",
+          "order": 70,
+          "timeMs": 56400,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54528,
+          "text": "ia.",
+          "order": 71,
+          "timeMs": 56800,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55296,
+          "text": "Lau",
+          "order": 72,
+          "timeMs": 57600,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "lˈa‍ʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55680,
+          "text": "de",
+          "order": 73,
+          "timeMs": 58000,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56448,
+          "text": "tur",
+          "order": 74,
+          "timeMs": 58800,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tʊr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56832,
+          "text": "sanc",
+          "order": 75,
+          "timeMs": 59200,
+          "word": "sancta",
+          "wordIndex": 75,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈaŋk",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57600,
+          "text": "ta",
+          "order": 76,
+          "timeMs": 60000,
+          "word": "sancta",
+          "wordIndex": 75,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57984,
+          "text": "Tri",
+          "order": 77,
+          "timeMs": 60400,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "trˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 58752,
+          "text": "ni",
+          "order": 78,
+          "timeMs": 61200,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59136,
+          "text": "tas,",
+          "order": 79,
+          "timeMs": 61600,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tas",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59904,
+          "text": "Al",
+          "order": 80,
+          "timeMs": 62400,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 60288,
+          "text": "le",
+          "order": 81,
+          "timeMs": 62800,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62208,
+          "text": "lu",
+          "order": 82,
+          "timeMs": 64800,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62592,
+          "text": "ia.",
+          "order": 83,
+          "timeMs": 65200,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63360,
+          "text": "De",
+          "order": 84,
+          "timeMs": 66000,
+          "word": "de",
+          "wordIndex": 84,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63744,
+          "text": "o",
+          "order": 85,
+          "timeMs": 66400,
+          "word": "o",
+          "wordIndex": 85,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈoː",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64512,
+          "text": "di",
+          "order": 86,
+          "timeMs": 67200,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "dˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64896,
+          "text": "ca",
+          "order": 87,
+          "timeMs": 67600,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ka",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 65664,
+          "text": "mus",
+          "order": 88,
+          "timeMs": 68400,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 66048,
+          "text": "gra",
+          "order": 89,
+          "timeMs": 68800,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɡrˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 66816,
+          "text": "ti",
+          "order": 90,
+          "timeMs": 69600,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67200,
+          "text": "as,",
+          "order": 91,
+          "timeMs": 70000,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "as",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67968,
+          "text": "Al",
+          "order": 92,
+          "timeMs": 70800,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 68352,
+          "text": "le",
+          "order": 93,
+          "timeMs": 71200,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72576,
+          "text": "lu",
+          "order": 94,
+          "timeMs": 75600,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72960,
+          "text": "ia.",
+          "order": 95,
+          "timeMs": 76000,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 400,
+          "note": 55
+        },
+        {
+          "startMs": 400,
+          "endMs": 1200,
+          "note": 55
+        },
+        {
+          "startMs": 1200,
+          "endMs": 1600,
+          "note": 55
+        },
+        {
+          "startMs": 1600,
+          "endMs": 2400,
+          "note": 53
+        },
+        {
+          "startMs": 2400,
+          "endMs": 2800,
+          "note": 53
+        },
+        {
+          "startMs": 2800,
+          "endMs": 3600,
+          "note": 50
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4000,
+          "note": 51
+        },
+        {
+          "startMs": 5200,
+          "endMs": 6000,
+          "note": 58
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6400,
+          "note": 57
+        },
+        {
+          "startMs": 6400,
+          "endMs": 7200,
+          "note": 58
+        },
+        {
+          "startMs": 7200,
+          "endMs": 7600,
+          "note": 53
+        },
+        {
+          "startMs": 7600,
+          "endMs": 8400,
+          "note": 46
+        },
+        {
+          "startMs": 8800,
+          "endMs": 9600,
+          "note": 55
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10000,
+          "note": 50
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10800,
+          "note": 53
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11200,
+          "note": 55
+        },
+        {
+          "startMs": 11200,
+          "endMs": 12000,
+          "note": 48
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12400,
+          "note": 50
+        },
+        {
+          "startMs": 12400,
+          "endMs": 13200,
+          "note": 43
+        },
+        {
+          "startMs": 13600,
+          "endMs": 14800,
+          "note": 58
+        },
+        {
+          "startMs": 14800,
+          "endMs": 16000,
+          "note": 53
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16800,
+          "note": 50
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17200,
+          "note": 53
+        },
+        {
+          "startMs": 17200,
+          "endMs": 18000,
+          "note": 55
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18400,
+          "note": 50
+        },
+        {
+          "startMs": 18400,
+          "endMs": 19200,
+          "note": 43
+        },
+        {
+          "startMs": 20800,
+          "endMs": 21600,
+          "note": 53
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22000,
+          "note": 53
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22800,
+          "note": 50
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23200,
+          "note": 51
+        },
+        {
+          "startMs": 24400,
+          "endMs": 25200,
+          "note": 58
+        },
+        {
+          "startMs": 25200,
+          "endMs": 25600,
+          "note": 57
+        },
+        {
+          "startMs": 25600,
+          "endMs": 26400,
+          "note": 58
+        },
+        {
+          "startMs": 26400,
+          "endMs": 26800,
+          "note": 53
+        },
+        {
+          "startMs": 26800,
+          "endMs": 27600,
+          "note": 46
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28800,
+          "note": 55
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29200,
+          "note": 50
+        },
+        {
+          "startMs": 29200,
+          "endMs": 30000,
+          "note": 53
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30400,
+          "note": 55
+        },
+        {
+          "startMs": 30400,
+          "endMs": 31200,
+          "note": 48
+        },
+        {
+          "startMs": 31200,
+          "endMs": 31600,
+          "note": 50
+        },
+        {
+          "startMs": 31600,
+          "endMs": 32400,
+          "note": 43
+        },
+        {
+          "startMs": 32800,
+          "endMs": 34000,
+          "note": 58
+        },
+        {
+          "startMs": 34000,
+          "endMs": 35200,
+          "note": 53
+        },
+        {
+          "startMs": 35200,
+          "endMs": 36000,
+          "note": 50
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36400,
+          "note": 53
+        },
+        {
+          "startMs": 36400,
+          "endMs": 37200,
+          "note": 55
+        },
+        {
+          "startMs": 37200,
+          "endMs": 37600,
+          "note": 50
+        },
+        {
+          "startMs": 37600,
+          "endMs": 38400,
+          "note": 43
+        },
+        {
+          "startMs": 40000,
+          "endMs": 40800,
+          "note": 53
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41200,
+          "note": 53
+        },
+        {
+          "startMs": 41200,
+          "endMs": 42000,
+          "note": 50
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42400,
+          "note": 51
+        },
+        {
+          "startMs": 43600,
+          "endMs": 44400,
+          "note": 58
+        },
+        {
+          "startMs": 44400,
+          "endMs": 44800,
+          "note": 57
+        },
+        {
+          "startMs": 44800,
+          "endMs": 45600,
+          "note": 58
+        },
+        {
+          "startMs": 45600,
+          "endMs": 46000,
+          "note": 53
+        },
+        {
+          "startMs": 46000,
+          "endMs": 46800,
+          "note": 46
+        },
+        {
+          "startMs": 47200,
+          "endMs": 48000,
+          "note": 55
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48400,
+          "note": 50
+        },
+        {
+          "startMs": 48400,
+          "endMs": 49200,
+          "note": 53
+        },
+        {
+          "startMs": 49200,
+          "endMs": 49600,
+          "note": 55
+        },
+        {
+          "startMs": 49600,
+          "endMs": 50400,
+          "note": 48
+        },
+        {
+          "startMs": 50400,
+          "endMs": 50800,
+          "note": 50
+        },
+        {
+          "startMs": 50800,
+          "endMs": 51600,
+          "note": 43
+        },
+        {
+          "startMs": 52000,
+          "endMs": 53200,
+          "note": 58
+        },
+        {
+          "startMs": 53200,
+          "endMs": 54400,
+          "note": 53
+        },
+        {
+          "startMs": 54400,
+          "endMs": 55200,
+          "note": 50
+        },
+        {
+          "startMs": 55200,
+          "endMs": 55600,
+          "note": 53
+        },
+        {
+          "startMs": 55600,
+          "endMs": 56400,
+          "note": 55
+        },
+        {
+          "startMs": 56400,
+          "endMs": 56800,
+          "note": 50
+        },
+        {
+          "startMs": 56800,
+          "endMs": 57600,
+          "note": 43
+        },
+        {
+          "startMs": 59200,
+          "endMs": 60000,
+          "note": 53
+        },
+        {
+          "startMs": 60000,
+          "endMs": 60400,
+          "note": 53
+        },
+        {
+          "startMs": 60400,
+          "endMs": 61200,
+          "note": 50
+        },
+        {
+          "startMs": 61200,
+          "endMs": 61600,
+          "note": 51
+        },
+        {
+          "startMs": 62800,
+          "endMs": 63600,
+          "note": 58
+        },
+        {
+          "startMs": 63600,
+          "endMs": 64000,
+          "note": 57
+        },
+        {
+          "startMs": 64000,
+          "endMs": 64800,
+          "note": 58
+        },
+        {
+          "startMs": 64800,
+          "endMs": 65200,
+          "note": 53
+        },
+        {
+          "startMs": 65200,
+          "endMs": 66000,
+          "note": 46
+        },
+        {
+          "startMs": 66400,
+          "endMs": 67200,
+          "note": 55
+        },
+        {
+          "startMs": 67200,
+          "endMs": 67600,
+          "note": 50
+        },
+        {
+          "startMs": 67600,
+          "endMs": 68400,
+          "note": 53
+        },
+        {
+          "startMs": 68400,
+          "endMs": 68800,
+          "note": 55
+        },
+        {
+          "startMs": 68800,
+          "endMs": 69600,
+          "note": 48
+        },
+        {
+          "startMs": 69600,
+          "endMs": 70000,
+          "note": 50
+        },
+        {
+          "startMs": 70000,
+          "endMs": 70800,
+          "note": 43
+        },
+        {
+          "startMs": 71200,
+          "endMs": 72400,
+          "note": 58
+        },
+        {
+          "startMs": 72400,
+          "endMs": 73600,
+          "note": 53
+        },
+        {
+          "startMs": 73600,
+          "endMs": 74400,
+          "note": 50
+        },
+        {
+          "startMs": 74400,
+          "endMs": 74800,
+          "note": 53
+        },
+        {
+          "startMs": 74800,
+          "endMs": 75600,
+          "note": 55
+        },
+        {
+          "startMs": 75600,
+          "endMs": 76000,
+          "note": 50
+        },
+        {
+          "startMs": 76000,
+          "endMs": 76800,
+          "note": 43
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 6,
+      "lyricTrack": 3,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Per",
+          "order": 0,
+          "timeMs": 0,
+          "word": "per",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pˈɛr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "Ga",
+          "order": 1,
+          "timeMs": 400,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "ɡa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "bri",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "brˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1536,
+          "text": "e",
+          "order": 3,
+          "timeMs": 1600,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "ɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "lis",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "lɪs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2688,
+          "text": "nun",
+          "order": 5,
+          "timeMs": 2800,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "nˈʊn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "ti",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "um,",
+          "order": 7,
+          "timeMs": 4000,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "Al",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4992,
+          "text": "le",
+          "order": 9,
+          "timeMs": 5200,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "lu",
+          "order": 10,
+          "timeMs": 7200,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "ia.",
+          "order": 11,
+          "timeMs": 7600,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "Vir",
+          "order": 12,
+          "timeMs": 8400,
+          "word": "virgo",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "wˈɪr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "go",
+          "order": 13,
+          "timeMs": 8800,
+          "word": "virgo",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "con",
+          "order": 14,
+          "timeMs": 9600,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kˈɔŋ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "ce",
+          "order": 15,
+          "timeMs": 10000,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "pit",
+          "order": 16,
+          "timeMs": 10800,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "pɪt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "Fi",
+          "order": 17,
+          "timeMs": 11200,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "li",
+          "order": 18,
+          "timeMs": 12000,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "lɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11904,
+          "text": "um,",
+          "order": 19,
+          "timeMs": 12400,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "Al",
+          "order": 20,
+          "timeMs": 13200,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "le",
+          "order": 21,
+          "timeMs": 13600,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "lu",
+          "order": 22,
+          "timeMs": 18000,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "ia.",
+          "order": 23,
+          "timeMs": 18400,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "Tam",
+          "order": 24,
+          "timeMs": 19200,
+          "word": "tamquam",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈam",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18816,
+          "text": "quam",
+          "order": 25,
+          "timeMs": 19600,
+          "word": "tamquam",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kwam",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "spon",
+          "order": 26,
+          "timeMs": 20400,
+          "word": "sponsus",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "spˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "sus",
+          "order": 27,
+          "timeMs": 20800,
+          "word": "sponsus",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "de",
+          "order": 28,
+          "timeMs": 21600,
+          "word": "de",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "tha",
+          "order": 29,
+          "timeMs": 22000,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "tʰˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "la",
+          "order": 30,
+          "timeMs": 22800,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "la",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22272,
+          "text": "mo,",
+          "order": 31,
+          "timeMs": 23200,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "Al",
+          "order": 32,
+          "timeMs": 24000,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "le",
+          "order": 33,
+          "timeMs": 24400,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25344,
+          "text": "lu",
+          "order": 34,
+          "timeMs": 26400,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25728,
+          "text": "ia.",
+          "order": 35,
+          "timeMs": 26800,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26496,
+          "text": "Pro",
+          "order": 36,
+          "timeMs": 27600,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "prɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ces",
+          "order": 37,
+          "timeMs": 28000,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kˈɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "sit",
+          "order": 38,
+          "timeMs": 28800,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "sɪt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28032,
+          "text": "ma",
+          "order": 39,
+          "timeMs": 29200,
+          "word": "matris",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28800,
+          "text": "tris",
+          "order": 40,
+          "timeMs": 30000,
+          "word": "matris",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "trɪs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29184,
+          "text": "u",
+          "order": 41,
+          "timeMs": 30400,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29952,
+          "text": "te",
+          "order": 42,
+          "timeMs": 31200,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30336,
+          "text": "ro,",
+          "order": 43,
+          "timeMs": 31600,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31104,
+          "text": "Al",
+          "order": 44,
+          "timeMs": 32400,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31488,
+          "text": "le",
+          "order": 45,
+          "timeMs": 32800,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35712,
+          "text": "lu",
+          "order": 46,
+          "timeMs": 37200,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36096,
+          "text": "ia.",
+          "order": 47,
+          "timeMs": 37600,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "Ma",
+          "order": 48,
+          "timeMs": 38400,
+          "word": "magi",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37248,
+          "text": "gi",
+          "order": 49,
+          "timeMs": 38800,
+          "word": "magi",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38016,
+          "text": "de",
+          "order": 50,
+          "timeMs": 39600,
+          "word": "de",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "lon",
+          "order": 51,
+          "timeMs": 40000,
+          "word": "longe",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɔŋ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39168,
+          "text": "ge",
+          "order": 52,
+          "timeMs": 40800,
+          "word": "longe",
+          "wordIndex": 51,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39552,
+          "text": "ve",
+          "order": 53,
+          "timeMs": 41200,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "wˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40320,
+          "text": "ni",
+          "order": 54,
+          "timeMs": 42000,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40704,
+          "text": "unt,",
+          "order": 55,
+          "timeMs": 42400,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊnt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41472,
+          "text": "Al",
+          "order": 56,
+          "timeMs": 43200,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41856,
+          "text": "le",
+          "order": 57,
+          "timeMs": 43600,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 43776,
+          "text": "lu",
+          "order": 58,
+          "timeMs": 45600,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44160,
+          "text": "ia.",
+          "order": 59,
+          "timeMs": 46000,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44928,
+          "text": "Au",
+          "order": 60,
+          "timeMs": 46800,
+          "word": "aurum",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈa‍ʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 45312,
+          "text": "rum,",
+          "order": 61,
+          "timeMs": 47200,
+          "word": "aurum",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46080,
+          "text": "thus,",
+          "order": 62,
+          "timeMs": 48000,
+          "word": "thus",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tʰˈʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46464,
+          "text": "myr",
+          "order": 63,
+          "timeMs": 48400,
+          "word": "myrrham",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈyrɾh",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47232,
+          "text": "rham",
+          "order": 64,
+          "timeMs": 49200,
+          "word": "myrrham",
+          "wordIndex": 63,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "am",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47616,
+          "text": "of",
+          "order": 65,
+          "timeMs": 49600,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈɔf",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48384,
+          "text": "fe",
+          "order": 66,
+          "timeMs": 50400,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "fɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48768,
+          "text": "runt.",
+          "order": 67,
+          "timeMs": 50800,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊnt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49536,
+          "text": "Al",
+          "order": 68,
+          "timeMs": 51600,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49920,
+          "text": "le",
+          "order": 69,
+          "timeMs": 52000,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54144,
+          "text": "lu",
+          "order": 70,
+          "timeMs": 56400,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54528,
+          "text": "ia.",
+          "order": 71,
+          "timeMs": 56800,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55296,
+          "text": "Lau",
+          "order": 72,
+          "timeMs": 57600,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "lˈa‍ʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55680,
+          "text": "de",
+          "order": 73,
+          "timeMs": 58000,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56448,
+          "text": "tur",
+          "order": 74,
+          "timeMs": 58800,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tʊr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56832,
+          "text": "sanc",
+          "order": 75,
+          "timeMs": 59200,
+          "word": "sancta",
+          "wordIndex": 75,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈaŋk",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57600,
+          "text": "ta",
+          "order": 76,
+          "timeMs": 60000,
+          "word": "sancta",
+          "wordIndex": 75,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57984,
+          "text": "Tri",
+          "order": 77,
+          "timeMs": 60400,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "trˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 58752,
+          "text": "ni",
+          "order": 78,
+          "timeMs": 61200,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59136,
+          "text": "tas,",
+          "order": 79,
+          "timeMs": 61600,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tas",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59904,
+          "text": "Al",
+          "order": 80,
+          "timeMs": 62400,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 60288,
+          "text": "le",
+          "order": 81,
+          "timeMs": 62800,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62208,
+          "text": "lu",
+          "order": 82,
+          "timeMs": 64800,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62592,
+          "text": "ia.",
+          "order": 83,
+          "timeMs": 65200,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63360,
+          "text": "De",
+          "order": 84,
+          "timeMs": 66000,
+          "word": "de",
+          "wordIndex": 84,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63744,
+          "text": "o",
+          "order": 85,
+          "timeMs": 66400,
+          "word": "o",
+          "wordIndex": 85,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈoː",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64512,
+          "text": "di",
+          "order": 86,
+          "timeMs": 67200,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "dˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64896,
+          "text": "ca",
+          "order": 87,
+          "timeMs": 67600,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ka",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 65664,
+          "text": "mus",
+          "order": 88,
+          "timeMs": 68400,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 66048,
+          "text": "gra",
+          "order": 89,
+          "timeMs": 68800,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɡrˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 66816,
+          "text": "ti",
+          "order": 90,
+          "timeMs": 69600,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67200,
+          "text": "as,",
+          "order": 91,
+          "timeMs": 70000,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "as",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67968,
+          "text": "Al",
+          "order": 92,
+          "timeMs": 70800,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 68352,
+          "text": "le",
+          "order": 93,
+          "timeMs": 71200,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72576,
+          "text": "lu",
+          "order": 94,
+          "timeMs": 75600,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72960,
+          "text": "ia.",
+          "order": 95,
+          "timeMs": 76000,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 1600,
+          "endMs": 2400,
+          "note": 60
+        },
+        {
+          "startMs": 2400,
+          "endMs": 2800,
+          "note": 60
+        },
+        {
+          "startMs": 2800,
+          "endMs": 3600,
+          "note": 58
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4000,
+          "note": 58
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4800,
+          "note": 58
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5200,
+          "note": 58
+        },
+        {
+          "startMs": 5200,
+          "endMs": 6000,
+          "note": 62
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6400,
+          "note": 65
+        },
+        {
+          "startMs": 6400,
+          "endMs": 7200,
+          "note": 62
+        },
+        {
+          "startMs": 7200,
+          "endMs": 7600,
+          "note": 60
+        },
+        {
+          "startMs": 7600,
+          "endMs": 8400,
+          "note": 58
+        },
+        {
+          "startMs": 8400,
+          "endMs": 8800,
+          "note": 58
+        },
+        {
+          "startMs": 8800,
+          "endMs": 9600,
+          "note": 62
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10000,
+          "note": 62
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10800,
+          "note": 60
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11200,
+          "note": 58
+        },
+        {
+          "startMs": 11200,
+          "endMs": 12000,
+          "note": 60
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12400,
+          "note": 57
+        },
+        {
+          "startMs": 12400,
+          "endMs": 13200,
+          "note": 55
+        },
+        {
+          "startMs": 13200,
+          "endMs": 13600,
+          "note": 55
+        },
+        {
+          "startMs": 13600,
+          "endMs": 14800,
+          "note": 62
+        },
+        {
+          "startMs": 14800,
+          "endMs": 16000,
+          "note": 60
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16800,
+          "note": 62
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17200,
+          "note": 60
+        },
+        {
+          "startMs": 17200,
+          "endMs": 18000,
+          "note": 58
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18400,
+          "note": 57
+        },
+        {
+          "startMs": 18400,
+          "endMs": 19200,
+          "note": 55
+        },
+        {
+          "startMs": 19200,
+          "endMs": 19600,
+          "note": 55
+        },
+        {
+          "startMs": 19600,
+          "endMs": 20400,
+          "note": 55
+        },
+        {
+          "startMs": 20400,
+          "endMs": 20800,
+          "note": 55
+        },
+        {
+          "startMs": 20800,
+          "endMs": 21600,
+          "note": 60
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22000,
+          "note": 60
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22800,
+          "note": 58
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23200,
+          "note": 58
+        },
+        {
+          "startMs": 23200,
+          "endMs": 24000,
+          "note": 58
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24400,
+          "note": 58
+        },
+        {
+          "startMs": 24400,
+          "endMs": 25200,
+          "note": 62
+        },
+        {
+          "startMs": 25200,
+          "endMs": 25600,
+          "note": 65
+        },
+        {
+          "startMs": 25600,
+          "endMs": 26400,
+          "note": 62
+        },
+        {
+          "startMs": 26400,
+          "endMs": 26800,
+          "note": 60
+        },
+        {
+          "startMs": 26800,
+          "endMs": 27600,
+          "note": 58
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28000,
+          "note": 58
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28800,
+          "note": 62
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29200,
+          "note": 62
+        },
+        {
+          "startMs": 29200,
+          "endMs": 30000,
+          "note": 60
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30400,
+          "note": 58
+        },
+        {
+          "startMs": 30400,
+          "endMs": 31200,
+          "note": 60
+        },
+        {
+          "startMs": 31200,
+          "endMs": 31600,
+          "note": 57
+        },
+        {
+          "startMs": 31600,
+          "endMs": 32400,
+          "note": 55
+        },
+        {
+          "startMs": 32400,
+          "endMs": 32800,
+          "note": 55
+        },
+        {
+          "startMs": 32800,
+          "endMs": 34000,
+          "note": 62
+        },
+        {
+          "startMs": 34000,
+          "endMs": 35200,
+          "note": 60
+        },
+        {
+          "startMs": 35200,
+          "endMs": 36000,
+          "note": 62
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36400,
+          "note": 60
+        },
+        {
+          "startMs": 36400,
+          "endMs": 37200,
+          "note": 58
+        },
+        {
+          "startMs": 37200,
+          "endMs": 37600,
+          "note": 57
+        },
+        {
+          "startMs": 37600,
+          "endMs": 38400,
+          "note": 55
+        },
+        {
+          "startMs": 38400,
+          "endMs": 38800,
+          "note": 55
+        },
+        {
+          "startMs": 38800,
+          "endMs": 39600,
+          "note": 55
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40000,
+          "note": 55
+        },
+        {
+          "startMs": 40000,
+          "endMs": 40800,
+          "note": 60
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41200,
+          "note": 60
+        },
+        {
+          "startMs": 41200,
+          "endMs": 42000,
+          "note": 58
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42400,
+          "note": 58
+        },
+        {
+          "startMs": 42400,
+          "endMs": 43200,
+          "note": 58
+        },
+        {
+          "startMs": 43200,
+          "endMs": 43600,
+          "note": 58
+        },
+        {
+          "startMs": 43600,
+          "endMs": 44400,
+          "note": 62
+        },
+        {
+          "startMs": 44400,
+          "endMs": 44800,
+          "note": 65
+        },
+        {
+          "startMs": 44800,
+          "endMs": 45600,
+          "note": 62
+        },
+        {
+          "startMs": 45600,
+          "endMs": 46000,
+          "note": 60
+        },
+        {
+          "startMs": 46000,
+          "endMs": 46800,
+          "note": 58
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47200,
+          "note": 58
+        },
+        {
+          "startMs": 47200,
+          "endMs": 48000,
+          "note": 62
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48400,
+          "note": 62
+        },
+        {
+          "startMs": 48400,
+          "endMs": 49200,
+          "note": 60
+        },
+        {
+          "startMs": 49200,
+          "endMs": 49600,
+          "note": 58
+        },
+        {
+          "startMs": 49600,
+          "endMs": 50400,
+          "note": 60
+        },
+        {
+          "startMs": 50400,
+          "endMs": 50800,
+          "note": 57
+        },
+        {
+          "startMs": 50800,
+          "endMs": 51600,
+          "note": 55
+        },
+        {
+          "startMs": 51600,
+          "endMs": 52000,
+          "note": 55
+        },
+        {
+          "startMs": 52000,
+          "endMs": 53200,
+          "note": 62
+        },
+        {
+          "startMs": 53200,
+          "endMs": 54400,
+          "note": 60
+        },
+        {
+          "startMs": 54400,
+          "endMs": 55200,
+          "note": 62
+        },
+        {
+          "startMs": 55200,
+          "endMs": 55600,
+          "note": 60
+        },
+        {
+          "startMs": 55600,
+          "endMs": 56400,
+          "note": 58
+        },
+        {
+          "startMs": 56400,
+          "endMs": 56800,
+          "note": 57
+        },
+        {
+          "startMs": 56800,
+          "endMs": 57600,
+          "note": 55
+        },
+        {
+          "startMs": 57600,
+          "endMs": 58000,
+          "note": 55
+        },
+        {
+          "startMs": 58000,
+          "endMs": 58800,
+          "note": 55
+        },
+        {
+          "startMs": 58800,
+          "endMs": 59200,
+          "note": 55
+        },
+        {
+          "startMs": 59200,
+          "endMs": 60000,
+          "note": 60
+        },
+        {
+          "startMs": 60000,
+          "endMs": 60400,
+          "note": 60
+        },
+        {
+          "startMs": 60400,
+          "endMs": 61200,
+          "note": 58
+        },
+        {
+          "startMs": 61200,
+          "endMs": 61600,
+          "note": 58
+        },
+        {
+          "startMs": 61600,
+          "endMs": 62400,
+          "note": 58
+        },
+        {
+          "startMs": 62400,
+          "endMs": 62800,
+          "note": 58
+        },
+        {
+          "startMs": 62800,
+          "endMs": 63600,
+          "note": 62
+        },
+        {
+          "startMs": 63600,
+          "endMs": 64000,
+          "note": 65
+        },
+        {
+          "startMs": 64000,
+          "endMs": 64800,
+          "note": 62
+        },
+        {
+          "startMs": 64800,
+          "endMs": 65200,
+          "note": 60
+        },
+        {
+          "startMs": 65200,
+          "endMs": 66000,
+          "note": 58
+        },
+        {
+          "startMs": 66000,
+          "endMs": 66400,
+          "note": 58
+        },
+        {
+          "startMs": 66400,
+          "endMs": 67200,
+          "note": 62
+        },
+        {
+          "startMs": 67200,
+          "endMs": 67600,
+          "note": 62
+        },
+        {
+          "startMs": 67600,
+          "endMs": 68400,
+          "note": 60
+        },
+        {
+          "startMs": 68400,
+          "endMs": 68800,
+          "note": 58
+        },
+        {
+          "startMs": 68800,
+          "endMs": 69600,
+          "note": 60
+        },
+        {
+          "startMs": 69600,
+          "endMs": 70000,
+          "note": 57
+        },
+        {
+          "startMs": 70000,
+          "endMs": 70800,
+          "note": 55
+        },
+        {
+          "startMs": 70800,
+          "endMs": 71200,
+          "note": 55
+        },
+        {
+          "startMs": 71200,
+          "endMs": 72400,
+          "note": 62
+        },
+        {
+          "startMs": 72400,
+          "endMs": 73600,
+          "note": 60
+        },
+        {
+          "startMs": 73600,
+          "endMs": 74400,
+          "note": 62
+        },
+        {
+          "startMs": 74400,
+          "endMs": 74800,
+          "note": 60
+        },
+        {
+          "startMs": 74800,
+          "endMs": 75600,
+          "note": 58
+        },
+        {
+          "startMs": 75600,
+          "endMs": 76000,
+          "note": 57
+        },
+        {
+          "startMs": 76000,
+          "endMs": 76800,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": 3,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Per",
+          "order": 0,
+          "timeMs": 0,
+          "word": "per",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pˈɛr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "Ga",
+          "order": 1,
+          "timeMs": 400,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "ɡa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "bri",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "brˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1536,
+          "text": "e",
+          "order": 3,
+          "timeMs": 1600,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "ɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "lis",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "lɪs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2688,
+          "text": "nun",
+          "order": 5,
+          "timeMs": 2800,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "nˈʊn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "ti",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "um,",
+          "order": 7,
+          "timeMs": 4000,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "Al",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4992,
+          "text": "le",
+          "order": 9,
+          "timeMs": 5200,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "lu",
+          "order": 10,
+          "timeMs": 7200,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "ia.",
+          "order": 11,
+          "timeMs": 7600,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "Vir",
+          "order": 12,
+          "timeMs": 8400,
+          "word": "virgo",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "wˈɪr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "go",
+          "order": 13,
+          "timeMs": 8800,
+          "word": "virgo",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "con",
+          "order": 14,
+          "timeMs": 9600,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kˈɔŋ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "ce",
+          "order": 15,
+          "timeMs": 10000,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "pit",
+          "order": 16,
+          "timeMs": 10800,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "pɪt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "Fi",
+          "order": 17,
+          "timeMs": 11200,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "li",
+          "order": 18,
+          "timeMs": 12000,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "lɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11904,
+          "text": "um,",
+          "order": 19,
+          "timeMs": 12400,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "Al",
+          "order": 20,
+          "timeMs": 13200,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "le",
+          "order": 21,
+          "timeMs": 13600,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "lu",
+          "order": 22,
+          "timeMs": 18000,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "ia.",
+          "order": 23,
+          "timeMs": 18400,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "Tam",
+          "order": 24,
+          "timeMs": 19200,
+          "word": "tamquam",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈam",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18816,
+          "text": "quam",
+          "order": 25,
+          "timeMs": 19600,
+          "word": "tamquam",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kwam",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "spon",
+          "order": 26,
+          "timeMs": 20400,
+          "word": "sponsus",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "spˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "sus",
+          "order": 27,
+          "timeMs": 20800,
+          "word": "sponsus",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "de",
+          "order": 28,
+          "timeMs": 21600,
+          "word": "de",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "tha",
+          "order": 29,
+          "timeMs": 22000,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "tʰˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "la",
+          "order": 30,
+          "timeMs": 22800,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "la",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22272,
+          "text": "mo,",
+          "order": 31,
+          "timeMs": 23200,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "Al",
+          "order": 32,
+          "timeMs": 24000,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "le",
+          "order": 33,
+          "timeMs": 24400,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25344,
+          "text": "lu",
+          "order": 34,
+          "timeMs": 26400,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25728,
+          "text": "ia.",
+          "order": 35,
+          "timeMs": 26800,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26496,
+          "text": "Pro",
+          "order": 36,
+          "timeMs": 27600,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "prɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ces",
+          "order": 37,
+          "timeMs": 28000,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kˈɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "sit",
+          "order": 38,
+          "timeMs": 28800,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "sɪt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28032,
+          "text": "ma",
+          "order": 39,
+          "timeMs": 29200,
+          "word": "matris",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28800,
+          "text": "tris",
+          "order": 40,
+          "timeMs": 30000,
+          "word": "matris",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "trɪs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29184,
+          "text": "u",
+          "order": 41,
+          "timeMs": 30400,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29952,
+          "text": "te",
+          "order": 42,
+          "timeMs": 31200,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30336,
+          "text": "ro,",
+          "order": 43,
+          "timeMs": 31600,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31104,
+          "text": "Al",
+          "order": 44,
+          "timeMs": 32400,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31488,
+          "text": "le",
+          "order": 45,
+          "timeMs": 32800,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35712,
+          "text": "lu",
+          "order": 46,
+          "timeMs": 37200,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36096,
+          "text": "ia.",
+          "order": 47,
+          "timeMs": 37600,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "Ma",
+          "order": 48,
+          "timeMs": 38400,
+          "word": "magi",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37248,
+          "text": "gi",
+          "order": 49,
+          "timeMs": 38800,
+          "word": "magi",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38016,
+          "text": "de",
+          "order": 50,
+          "timeMs": 39600,
+          "word": "de",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "lon",
+          "order": 51,
+          "timeMs": 40000,
+          "word": "longe",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɔŋ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39168,
+          "text": "ge",
+          "order": 52,
+          "timeMs": 40800,
+          "word": "longe",
+          "wordIndex": 51,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39552,
+          "text": "ve",
+          "order": 53,
+          "timeMs": 41200,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "wˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40320,
+          "text": "ni",
+          "order": 54,
+          "timeMs": 42000,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40704,
+          "text": "unt,",
+          "order": 55,
+          "timeMs": 42400,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊnt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41472,
+          "text": "Al",
+          "order": 56,
+          "timeMs": 43200,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41856,
+          "text": "le",
+          "order": 57,
+          "timeMs": 43600,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 43776,
+          "text": "lu",
+          "order": 58,
+          "timeMs": 45600,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44160,
+          "text": "ia.",
+          "order": 59,
+          "timeMs": 46000,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44928,
+          "text": "Au",
+          "order": 60,
+          "timeMs": 46800,
+          "word": "aurum",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈa‍ʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 45312,
+          "text": "rum,",
+          "order": 61,
+          "timeMs": 47200,
+          "word": "aurum",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46080,
+          "text": "thus,",
+          "order": 62,
+          "timeMs": 48000,
+          "word": "thus",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tʰˈʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46464,
+          "text": "myr",
+          "order": 63,
+          "timeMs": 48400,
+          "word": "myrrham",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈyrɾh",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47232,
+          "text": "rham",
+          "order": 64,
+          "timeMs": 49200,
+          "word": "myrrham",
+          "wordIndex": 63,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "am",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47616,
+          "text": "of",
+          "order": 65,
+          "timeMs": 49600,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈɔf",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48384,
+          "text": "fe",
+          "order": 66,
+          "timeMs": 50400,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "fɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48768,
+          "text": "runt.",
+          "order": 67,
+          "timeMs": 50800,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊnt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49536,
+          "text": "Al",
+          "order": 68,
+          "timeMs": 51600,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49920,
+          "text": "le",
+          "order": 69,
+          "timeMs": 52000,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54144,
+          "text": "lu",
+          "order": 70,
+          "timeMs": 56400,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54528,
+          "text": "ia.",
+          "order": 71,
+          "timeMs": 56800,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55296,
+          "text": "Lau",
+          "order": 72,
+          "timeMs": 57600,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "lˈa‍ʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55680,
+          "text": "de",
+          "order": 73,
+          "timeMs": 58000,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56448,
+          "text": "tur",
+          "order": 74,
+          "timeMs": 58800,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tʊr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56832,
+          "text": "sanc",
+          "order": 75,
+          "timeMs": 59200,
+          "word": "sancta",
+          "wordIndex": 75,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈaŋk",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57600,
+          "text": "ta",
+          "order": 76,
+          "timeMs": 60000,
+          "word": "sancta",
+          "wordIndex": 75,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57984,
+          "text": "Tri",
+          "order": 77,
+          "timeMs": 60400,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "trˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 58752,
+          "text": "ni",
+          "order": 78,
+          "timeMs": 61200,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59136,
+          "text": "tas,",
+          "order": 79,
+          "timeMs": 61600,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tas",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59904,
+          "text": "Al",
+          "order": 80,
+          "timeMs": 62400,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 60288,
+          "text": "le",
+          "order": 81,
+          "timeMs": 62800,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62208,
+          "text": "lu",
+          "order": 82,
+          "timeMs": 64800,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62592,
+          "text": "ia.",
+          "order": 83,
+          "timeMs": 65200,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63360,
+          "text": "De",
+          "order": 84,
+          "timeMs": 66000,
+          "word": "de",
+          "wordIndex": 84,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63744,
+          "text": "o",
+          "order": 85,
+          "timeMs": 66400,
+          "word": "o",
+          "wordIndex": 85,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈoː",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64512,
+          "text": "di",
+          "order": 86,
+          "timeMs": 67200,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "dˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64896,
+          "text": "ca",
+          "order": 87,
+          "timeMs": 67600,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ka",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 65664,
+          "text": "mus",
+          "order": 88,
+          "timeMs": 68400,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 66048,
+          "text": "gra",
+          "order": 89,
+          "timeMs": 68800,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɡrˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 66816,
+          "text": "ti",
+          "order": 90,
+          "timeMs": 69600,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67200,
+          "text": "as,",
+          "order": 91,
+          "timeMs": 70000,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "as",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67968,
+          "text": "Al",
+          "order": 92,
+          "timeMs": 70800,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 68352,
+          "text": "le",
+          "order": 93,
+          "timeMs": 71200,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72576,
+          "text": "lu",
+          "order": 94,
+          "timeMs": 75600,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72960,
+          "text": "ia.",
+          "order": 95,
+          "timeMs": 76000,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 400,
+          "note": 67
+        },
+        {
+          "startMs": 400,
+          "endMs": 1200,
+          "note": 58
+        },
+        {
+          "startMs": 1200,
+          "endMs": 1600,
+          "note": 62
+        },
+        {
+          "startMs": 1600,
+          "endMs": 2400,
+          "note": 65
+        },
+        {
+          "startMs": 2400,
+          "endMs": 2800,
+          "note": 65
+        },
+        {
+          "startMs": 2800,
+          "endMs": 3600,
+          "note": 65
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4000,
+          "note": 63
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4800,
+          "note": 62
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5200,
+          "note": 62
+        },
+        {
+          "startMs": 5200,
+          "endMs": 6000,
+          "note": 65
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6400,
+          "note": 65
+        },
+        {
+          "startMs": 6400,
+          "endMs": 7200,
+          "note": 65
+        },
+        {
+          "startMs": 7200,
+          "endMs": 7600,
+          "note": 65
+        },
+        {
+          "startMs": 7600,
+          "endMs": 8400,
+          "note": 62
+        },
+        {
+          "startMs": 8400,
+          "endMs": 8800,
+          "note": 62
+        },
+        {
+          "startMs": 8800,
+          "endMs": 9600,
+          "note": 67
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10000,
+          "note": 65
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10800,
+          "note": 65
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11200,
+          "note": 62
+        },
+        {
+          "startMs": 11200,
+          "endMs": 12000,
+          "note": 63
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12400,
+          "note": 62
+        },
+        {
+          "startMs": 12400,
+          "endMs": 13200,
+          "note": 58
+        },
+        {
+          "startMs": 13200,
+          "endMs": 13600,
+          "note": 62
+        },
+        {
+          "startMs": 13600,
+          "endMs": 14800,
+          "note": 62
+        },
+        {
+          "startMs": 14800,
+          "endMs": 15600,
+          "note": 65
+        },
+        {
+          "startMs": 15600,
+          "endMs": 16000,
+          "note": 65
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17200,
+          "note": 65
+        },
+        {
+          "startMs": 17200,
+          "endMs": 18000,
+          "note": 62
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18400,
+          "note": 62
+        },
+        {
+          "startMs": 18400,
+          "endMs": 19200,
+          "note": 62
+        },
+        {
+          "startMs": 19600,
+          "endMs": 20400,
+          "note": 58
+        },
+        {
+          "startMs": 20400,
+          "endMs": 20800,
+          "note": 62
+        },
+        {
+          "startMs": 20800,
+          "endMs": 21600,
+          "note": 65
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22000,
+          "note": 65
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22800,
+          "note": 65
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23200,
+          "note": 63
+        },
+        {
+          "startMs": 23200,
+          "endMs": 24000,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24400,
+          "note": 62
+        },
+        {
+          "startMs": 24400,
+          "endMs": 25200,
+          "note": 65
+        },
+        {
+          "startMs": 25200,
+          "endMs": 25600,
+          "note": 65
+        },
+        {
+          "startMs": 25600,
+          "endMs": 26400,
+          "note": 65
+        },
+        {
+          "startMs": 26400,
+          "endMs": 26800,
+          "note": 65
+        },
+        {
+          "startMs": 26800,
+          "endMs": 27600,
+          "note": 62
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28000,
+          "note": 62
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28800,
+          "note": 67
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29200,
+          "note": 65
+        },
+        {
+          "startMs": 29200,
+          "endMs": 30000,
+          "note": 65
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30400,
+          "note": 62
+        },
+        {
+          "startMs": 30400,
+          "endMs": 31200,
+          "note": 63
+        },
+        {
+          "startMs": 31200,
+          "endMs": 31600,
+          "note": 62
+        },
+        {
+          "startMs": 31600,
+          "endMs": 32400,
+          "note": 58
+        },
+        {
+          "startMs": 32400,
+          "endMs": 32800,
+          "note": 62
+        },
+        {
+          "startMs": 32800,
+          "endMs": 34000,
+          "note": 62
+        },
+        {
+          "startMs": 34000,
+          "endMs": 34800,
+          "note": 65
+        },
+        {
+          "startMs": 34800,
+          "endMs": 35200,
+          "note": 65
+        },
+        {
+          "startMs": 35200,
+          "endMs": 36400,
+          "note": 65
+        },
+        {
+          "startMs": 36400,
+          "endMs": 37200,
+          "note": 62
+        },
+        {
+          "startMs": 37200,
+          "endMs": 37600,
+          "note": 62
+        },
+        {
+          "startMs": 37600,
+          "endMs": 38400,
+          "note": 62
+        },
+        {
+          "startMs": 38800,
+          "endMs": 39600,
+          "note": 58
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40000,
+          "note": 62
+        },
+        {
+          "startMs": 40000,
+          "endMs": 40800,
+          "note": 65
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41200,
+          "note": 65
+        },
+        {
+          "startMs": 41200,
+          "endMs": 42000,
+          "note": 65
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42400,
+          "note": 63
+        },
+        {
+          "startMs": 42400,
+          "endMs": 43200,
+          "note": 62
+        },
+        {
+          "startMs": 43200,
+          "endMs": 43600,
+          "note": 62
+        },
+        {
+          "startMs": 43600,
+          "endMs": 44400,
+          "note": 65
+        },
+        {
+          "startMs": 44400,
+          "endMs": 44800,
+          "note": 65
+        },
+        {
+          "startMs": 44800,
+          "endMs": 45600,
+          "note": 65
+        },
+        {
+          "startMs": 45600,
+          "endMs": 46000,
+          "note": 65
+        },
+        {
+          "startMs": 46000,
+          "endMs": 46800,
+          "note": 62
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47200,
+          "note": 62
+        },
+        {
+          "startMs": 47200,
+          "endMs": 48000,
+          "note": 67
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48400,
+          "note": 65
+        },
+        {
+          "startMs": 48400,
+          "endMs": 49200,
+          "note": 65
+        },
+        {
+          "startMs": 49200,
+          "endMs": 49600,
+          "note": 62
+        },
+        {
+          "startMs": 49600,
+          "endMs": 50400,
+          "note": 63
+        },
+        {
+          "startMs": 50400,
+          "endMs": 50800,
+          "note": 62
+        },
+        {
+          "startMs": 50800,
+          "endMs": 51600,
+          "note": 58
+        },
+        {
+          "startMs": 51600,
+          "endMs": 52000,
+          "note": 62
+        },
+        {
+          "startMs": 52000,
+          "endMs": 53200,
+          "note": 62
+        },
+        {
+          "startMs": 53200,
+          "endMs": 54000,
+          "note": 65
+        },
+        {
+          "startMs": 54000,
+          "endMs": 54400,
+          "note": 65
+        },
+        {
+          "startMs": 54400,
+          "endMs": 55600,
+          "note": 65
+        },
+        {
+          "startMs": 55600,
+          "endMs": 56400,
+          "note": 62
+        },
+        {
+          "startMs": 56400,
+          "endMs": 56800,
+          "note": 62
+        },
+        {
+          "startMs": 56800,
+          "endMs": 57600,
+          "note": 62
+        },
+        {
+          "startMs": 58000,
+          "endMs": 58800,
+          "note": 58
+        },
+        {
+          "startMs": 58800,
+          "endMs": 59200,
+          "note": 62
+        },
+        {
+          "startMs": 59200,
+          "endMs": 60000,
+          "note": 65
+        },
+        {
+          "startMs": 60000,
+          "endMs": 60400,
+          "note": 65
+        },
+        {
+          "startMs": 60400,
+          "endMs": 61200,
+          "note": 65
+        },
+        {
+          "startMs": 61200,
+          "endMs": 61600,
+          "note": 63
+        },
+        {
+          "startMs": 61600,
+          "endMs": 62400,
+          "note": 62
+        },
+        {
+          "startMs": 62400,
+          "endMs": 62800,
+          "note": 62
+        },
+        {
+          "startMs": 62800,
+          "endMs": 63600,
+          "note": 65
+        },
+        {
+          "startMs": 63600,
+          "endMs": 64000,
+          "note": 65
+        },
+        {
+          "startMs": 64000,
+          "endMs": 64800,
+          "note": 65
+        },
+        {
+          "startMs": 64800,
+          "endMs": 65200,
+          "note": 65
+        },
+        {
+          "startMs": 65200,
+          "endMs": 66000,
+          "note": 62
+        },
+        {
+          "startMs": 66000,
+          "endMs": 66400,
+          "note": 62
+        },
+        {
+          "startMs": 66400,
+          "endMs": 67200,
+          "note": 67
+        },
+        {
+          "startMs": 67200,
+          "endMs": 67600,
+          "note": 65
+        },
+        {
+          "startMs": 67600,
+          "endMs": 68400,
+          "note": 65
+        },
+        {
+          "startMs": 68400,
+          "endMs": 68800,
+          "note": 62
+        },
+        {
+          "startMs": 68800,
+          "endMs": 69600,
+          "note": 63
+        },
+        {
+          "startMs": 69600,
+          "endMs": 70000,
+          "note": 62
+        },
+        {
+          "startMs": 70000,
+          "endMs": 70800,
+          "note": 58
+        },
+        {
+          "startMs": 70800,
+          "endMs": 71200,
+          "note": 62
+        },
+        {
+          "startMs": 71200,
+          "endMs": 72400,
+          "note": 62
+        },
+        {
+          "startMs": 72400,
+          "endMs": 73200,
+          "note": 65
+        },
+        {
+          "startMs": 73200,
+          "endMs": 73600,
+          "note": 65
+        },
+        {
+          "startMs": 73600,
+          "endMs": 74800,
+          "note": 65
+        },
+        {
+          "startMs": 74800,
+          "endMs": 75600,
+          "note": 62
+        },
+        {
+          "startMs": 75600,
+          "endMs": 76000,
+          "note": 62
+        },
+        {
+          "startMs": 76000,
+          "endMs": 76800,
+          "note": 62
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": 3,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Per",
+          "order": 0,
+          "timeMs": 0,
+          "word": "per",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pˈɛr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "Ga",
+          "order": 1,
+          "timeMs": 400,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "ɡa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "bri",
+          "order": 2,
+          "timeMs": 1200,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "brˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1536,
+          "text": "e",
+          "order": 3,
+          "timeMs": 1600,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "ɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "lis",
+          "order": 4,
+          "timeMs": 2400,
+          "word": "gabrielis",
+          "wordIndex": 1,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "lɪs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2688,
+          "text": "nun",
+          "order": 5,
+          "timeMs": 2800,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "nˈʊn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "ti",
+          "order": 6,
+          "timeMs": 3600,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "um,",
+          "order": 7,
+          "timeMs": 4000,
+          "word": "nuntium",
+          "wordIndex": 5,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "Al",
+          "order": 8,
+          "timeMs": 4800,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4992,
+          "text": "le",
+          "order": 9,
+          "timeMs": 5200,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "lu",
+          "order": 10,
+          "timeMs": 7200,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "ia.",
+          "order": 11,
+          "timeMs": 7600,
+          "word": "alleluia",
+          "wordIndex": 8,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "Vir",
+          "order": 12,
+          "timeMs": 8400,
+          "word": "virgo",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "wˈɪr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "go",
+          "order": 13,
+          "timeMs": 8800,
+          "word": "virgo",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "con",
+          "order": 14,
+          "timeMs": 9600,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kˈɔŋ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "ce",
+          "order": 15,
+          "timeMs": 10000,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "pit",
+          "order": 16,
+          "timeMs": 10800,
+          "word": "concepit",
+          "wordIndex": 14,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "pɪt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "Fi",
+          "order": 17,
+          "timeMs": 11200,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "li",
+          "order": 18,
+          "timeMs": 12000,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "lɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11904,
+          "text": "um,",
+          "order": 19,
+          "timeMs": 12400,
+          "word": "filium",
+          "wordIndex": 17,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "Al",
+          "order": 20,
+          "timeMs": 13200,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "le",
+          "order": 21,
+          "timeMs": 13600,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "lu",
+          "order": 22,
+          "timeMs": 18000,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "ia.",
+          "order": 23,
+          "timeMs": 18400,
+          "word": "alleluia",
+          "wordIndex": 20,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "Tam",
+          "order": 24,
+          "timeMs": 19200,
+          "word": "tamquam",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈam",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18816,
+          "text": "quam",
+          "order": 25,
+          "timeMs": 19600,
+          "word": "tamquam",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "kwam",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19584,
+          "text": "spon",
+          "order": 26,
+          "timeMs": 20400,
+          "word": "sponsus",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "spˈɔn",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "sus",
+          "order": 27,
+          "timeMs": 20800,
+          "word": "sponsus",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "de",
+          "order": 28,
+          "timeMs": 21600,
+          "word": "de",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "tha",
+          "order": 29,
+          "timeMs": 22000,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "tʰˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "la",
+          "order": 30,
+          "timeMs": 22800,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "la",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22272,
+          "text": "mo,",
+          "order": 31,
+          "timeMs": 23200,
+          "word": "thalamo",
+          "wordIndex": 29,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "Al",
+          "order": 32,
+          "timeMs": 24000,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "le",
+          "order": 33,
+          "timeMs": 24400,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25344,
+          "text": "lu",
+          "order": 34,
+          "timeMs": 26400,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25728,
+          "text": "ia.",
+          "order": 35,
+          "timeMs": 26800,
+          "word": "alleluia",
+          "wordIndex": 32,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26496,
+          "text": "Pro",
+          "order": 36,
+          "timeMs": 27600,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "prɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ces",
+          "order": 37,
+          "timeMs": 28000,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "kˈɛs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "sit",
+          "order": 38,
+          "timeMs": 28800,
+          "word": "processit",
+          "wordIndex": 36,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "sɪt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28032,
+          "text": "ma",
+          "order": 39,
+          "timeMs": 29200,
+          "word": "matris",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28800,
+          "text": "tris",
+          "order": 40,
+          "timeMs": 30000,
+          "word": "matris",
+          "wordIndex": 39,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "trɪs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29184,
+          "text": "u",
+          "order": 41,
+          "timeMs": 30400,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29952,
+          "text": "te",
+          "order": 42,
+          "timeMs": 31200,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30336,
+          "text": "ro,",
+          "order": 43,
+          "timeMs": 31600,
+          "word": "utero",
+          "wordIndex": 41,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rɔ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31104,
+          "text": "Al",
+          "order": 44,
+          "timeMs": 32400,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31488,
+          "text": "le",
+          "order": 45,
+          "timeMs": 32800,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35712,
+          "text": "lu",
+          "order": 46,
+          "timeMs": 37200,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36096,
+          "text": "ia.",
+          "order": 47,
+          "timeMs": 37600,
+          "word": "alleluia",
+          "wordIndex": 44,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "Ma",
+          "order": 48,
+          "timeMs": 38400,
+          "word": "magi",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37248,
+          "text": "gi",
+          "order": 49,
+          "timeMs": 38800,
+          "word": "magi",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38016,
+          "text": "de",
+          "order": 50,
+          "timeMs": 39600,
+          "word": "de",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "lon",
+          "order": 51,
+          "timeMs": 40000,
+          "word": "longe",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɔŋ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39168,
+          "text": "ge",
+          "order": 52,
+          "timeMs": 40800,
+          "word": "longe",
+          "wordIndex": 51,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɡɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39552,
+          "text": "ve",
+          "order": 53,
+          "timeMs": 41200,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "wˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40320,
+          "text": "ni",
+          "order": 54,
+          "timeMs": 42000,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 40704,
+          "text": "unt,",
+          "order": 55,
+          "timeMs": 42400,
+          "word": "veniunt",
+          "wordIndex": 53,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ʊnt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41472,
+          "text": "Al",
+          "order": 56,
+          "timeMs": 43200,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 41856,
+          "text": "le",
+          "order": 57,
+          "timeMs": 43600,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 43776,
+          "text": "lu",
+          "order": 58,
+          "timeMs": 45600,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44160,
+          "text": "ia.",
+          "order": 59,
+          "timeMs": 46000,
+          "word": "alleluia",
+          "wordIndex": 56,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 44928,
+          "text": "Au",
+          "order": 60,
+          "timeMs": 46800,
+          "word": "aurum",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈa‍ʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 45312,
+          "text": "rum,",
+          "order": 61,
+          "timeMs": 47200,
+          "word": "aurum",
+          "wordIndex": 60,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "rʊm",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46080,
+          "text": "thus,",
+          "order": 62,
+          "timeMs": 48000,
+          "word": "thus",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tʰˈʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 46464,
+          "text": "myr",
+          "order": 63,
+          "timeMs": 48400,
+          "word": "myrrham",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈyrɾh",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47232,
+          "text": "rham",
+          "order": 64,
+          "timeMs": 49200,
+          "word": "myrrham",
+          "wordIndex": 63,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "am",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 47616,
+          "text": "of",
+          "order": 65,
+          "timeMs": 49600,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ˈɔf",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48384,
+          "text": "fe",
+          "order": 66,
+          "timeMs": 50400,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "fɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 48768,
+          "text": "runt.",
+          "order": 67,
+          "timeMs": 50800,
+          "word": "offerunt",
+          "wordIndex": 65,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "rʊnt",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49536,
+          "text": "Al",
+          "order": 68,
+          "timeMs": 51600,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 49920,
+          "text": "le",
+          "order": 69,
+          "timeMs": 52000,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54144,
+          "text": "lu",
+          "order": 70,
+          "timeMs": 56400,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 54528,
+          "text": "ia.",
+          "order": 71,
+          "timeMs": 56800,
+          "word": "alleluia",
+          "wordIndex": 68,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55296,
+          "text": "Lau",
+          "order": 72,
+          "timeMs": 57600,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "lˈa‍ʊ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 55680,
+          "text": "de",
+          "order": 73,
+          "timeMs": 58000,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "dɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56448,
+          "text": "tur",
+          "order": 74,
+          "timeMs": 58800,
+          "word": "laudetur",
+          "wordIndex": 72,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tʊr",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 56832,
+          "text": "sanc",
+          "order": 75,
+          "timeMs": 59200,
+          "word": "sancta",
+          "wordIndex": 75,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "sˈaŋk",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57600,
+          "text": "ta",
+          "order": 76,
+          "timeMs": 60000,
+          "word": "sancta",
+          "wordIndex": 75,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ta",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 57984,
+          "text": "Tri",
+          "order": 77,
+          "timeMs": 60400,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "trˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 58752,
+          "text": "ni",
+          "order": 78,
+          "timeMs": 61200,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59136,
+          "text": "tas,",
+          "order": 79,
+          "timeMs": 61600,
+          "word": "trinitas",
+          "wordIndex": 77,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tas",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 59904,
+          "text": "Al",
+          "order": 80,
+          "timeMs": 62400,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 60288,
+          "text": "le",
+          "order": 81,
+          "timeMs": 62800,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62208,
+          "text": "lu",
+          "order": 82,
+          "timeMs": 64800,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 62592,
+          "text": "ia.",
+          "order": 83,
+          "timeMs": 65200,
+          "word": "alleluia",
+          "wordIndex": 80,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63360,
+          "text": "De",
+          "order": 84,
+          "timeMs": 66000,
+          "word": "de",
+          "wordIndex": 84,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 63744,
+          "text": "o",
+          "order": 85,
+          "timeMs": 66400,
+          "word": "o",
+          "wordIndex": 85,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈoː",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64512,
+          "text": "di",
+          "order": 86,
+          "timeMs": 67200,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "dˈɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 64896,
+          "text": "ca",
+          "order": 87,
+          "timeMs": 67600,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ka",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 65664,
+          "text": "mus",
+          "order": 88,
+          "timeMs": 68400,
+          "word": "dicamus",
+          "wordIndex": 86,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mʊs",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 66048,
+          "text": "gra",
+          "order": 89,
+          "timeMs": 68800,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɡrˈa",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 66816,
+          "text": "ti",
+          "order": 90,
+          "timeMs": 69600,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "tɪ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67200,
+          "text": "as,",
+          "order": 91,
+          "timeMs": 70000,
+          "word": "gratias",
+          "wordIndex": 89,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "as",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 67968,
+          "text": "Al",
+          "order": 92,
+          "timeMs": 70800,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 0,
+          "syllableCount": 4,
+          "ipa": "al",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 68352,
+          "text": "le",
+          "order": 93,
+          "timeMs": 71200,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 1,
+          "syllableCount": 4,
+          "ipa": "lɛ",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72576,
+          "text": "lu",
+          "order": 94,
+          "timeMs": 75600,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 2,
+          "syllableCount": 4,
+          "ipa": "lˈʊj",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 72960,
+          "text": "ia.",
+          "order": 95,
+          "timeMs": 76000,
+          "word": "alleluia",
+          "wordIndex": 92,
+          "syllableIndex": 3,
+          "syllableCount": 4,
+          "ipa": "ja",
+          "language": "la",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 400,
+          "endMs": 1200,
+          "note": 67
+        },
+        {
+          "startMs": 1200,
+          "endMs": 1600,
+          "note": 67
+        },
+        {
+          "startMs": 1600,
+          "endMs": 2400,
+          "note": 69
+        },
+        {
+          "startMs": 2400,
+          "endMs": 2800,
+          "note": 69
+        },
+        {
+          "startMs": 2800,
+          "endMs": 3600,
+          "note": 70
+        },
+        {
+          "startMs": 3600,
+          "endMs": 4000,
+          "note": 67
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4800,
+          "note": 65
+        },
+        {
+          "startMs": 4800,
+          "endMs": 5200,
+          "note": 65
+        },
+        {
+          "startMs": 5200,
+          "endMs": 6000,
+          "note": 70
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6400,
+          "note": 72
+        },
+        {
+          "startMs": 6400,
+          "endMs": 7200,
+          "note": 70
+        },
+        {
+          "startMs": 7200,
+          "endMs": 7600,
+          "note": 69
+        },
+        {
+          "startMs": 7600,
+          "endMs": 8400,
+          "note": 70
+        },
+        {
+          "startMs": 8400,
+          "endMs": 8800,
+          "note": 70
+        },
+        {
+          "startMs": 8800,
+          "endMs": 9600,
+          "note": 70
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10000,
+          "note": 70
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10800,
+          "note": 69
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11200,
+          "note": 67
+        },
+        {
+          "startMs": 11200,
+          "endMs": 12000,
+          "note": 67
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12400,
+          "note": 65
+        },
+        {
+          "startMs": 12400,
+          "endMs": 13200,
+          "note": 67
+        },
+        {
+          "startMs": 13200,
+          "endMs": 13600,
+          "note": 67
+        },
+        {
+          "startMs": 13600,
+          "endMs": 14400,
+          "note": 65
+        },
+        {
+          "startMs": 14400,
+          "endMs": 14800,
+          "note": 67
+        },
+        {
+          "startMs": 14800,
+          "endMs": 15600,
+          "note": 69
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16800,
+          "note": 70
+        },
+        {
+          "startMs": 16800,
+          "endMs": 17200,
+          "note": 69
+        },
+        {
+          "startMs": 17200,
+          "endMs": 18000,
+          "note": 67
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18400,
+          "note": 65
+        },
+        {
+          "startMs": 18400,
+          "endMs": 19200,
+          "note": 67
+        },
+        {
+          "startMs": 19200,
+          "endMs": 19600,
+          "note": 67
+        },
+        {
+          "startMs": 19600,
+          "endMs": 20400,
+          "note": 67
+        },
+        {
+          "startMs": 20400,
+          "endMs": 20800,
+          "note": 67
+        },
+        {
+          "startMs": 20800,
+          "endMs": 21600,
+          "note": 69
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22000,
+          "note": 69
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22800,
+          "note": 70
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23200,
+          "note": 67
+        },
+        {
+          "startMs": 23200,
+          "endMs": 24000,
+          "note": 65
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24400,
+          "note": 65
+        },
+        {
+          "startMs": 24400,
+          "endMs": 25200,
+          "note": 70
+        },
+        {
+          "startMs": 25200,
+          "endMs": 25600,
+          "note": 72
+        },
+        {
+          "startMs": 25600,
+          "endMs": 26400,
+          "note": 70
+        },
+        {
+          "startMs": 26400,
+          "endMs": 26800,
+          "note": 69
+        },
+        {
+          "startMs": 26800,
+          "endMs": 27600,
+          "note": 70
+        },
+        {
+          "startMs": 27600,
+          "endMs": 28000,
+          "note": 70
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28800,
+          "note": 70
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29200,
+          "note": 70
+        },
+        {
+          "startMs": 29200,
+          "endMs": 30000,
+          "note": 69
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30400,
+          "note": 67
+        },
+        {
+          "startMs": 30400,
+          "endMs": 31200,
+          "note": 67
+        },
+        {
+          "startMs": 31200,
+          "endMs": 31600,
+          "note": 65
+        },
+        {
+          "startMs": 31600,
+          "endMs": 32400,
+          "note": 67
+        },
+        {
+          "startMs": 32400,
+          "endMs": 32800,
+          "note": 67
+        },
+        {
+          "startMs": 32800,
+          "endMs": 33600,
+          "note": 65
+        },
+        {
+          "startMs": 33600,
+          "endMs": 34000,
+          "note": 67
+        },
+        {
+          "startMs": 34000,
+          "endMs": 34800,
+          "note": 69
+        },
+        {
+          "startMs": 35200,
+          "endMs": 36000,
+          "note": 70
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36400,
+          "note": 69
+        },
+        {
+          "startMs": 36400,
+          "endMs": 37200,
+          "note": 67
+        },
+        {
+          "startMs": 37200,
+          "endMs": 37600,
+          "note": 65
+        },
+        {
+          "startMs": 37600,
+          "endMs": 38400,
+          "note": 67
+        },
+        {
+          "startMs": 38400,
+          "endMs": 38800,
+          "note": 67
+        },
+        {
+          "startMs": 38800,
+          "endMs": 39600,
+          "note": 67
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40000,
+          "note": 67
+        },
+        {
+          "startMs": 40000,
+          "endMs": 40800,
+          "note": 69
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41200,
+          "note": 69
+        },
+        {
+          "startMs": 41200,
+          "endMs": 42000,
+          "note": 70
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42400,
+          "note": 67
+        },
+        {
+          "startMs": 42400,
+          "endMs": 43200,
+          "note": 65
+        },
+        {
+          "startMs": 43200,
+          "endMs": 43600,
+          "note": 65
+        },
+        {
+          "startMs": 43600,
+          "endMs": 44400,
+          "note": 70
+        },
+        {
+          "startMs": 44400,
+          "endMs": 44800,
+          "note": 72
+        },
+        {
+          "startMs": 44800,
+          "endMs": 45600,
+          "note": 70
+        },
+        {
+          "startMs": 45600,
+          "endMs": 46000,
+          "note": 69
+        },
+        {
+          "startMs": 46000,
+          "endMs": 46800,
+          "note": 70
+        },
+        {
+          "startMs": 46800,
+          "endMs": 47200,
+          "note": 70
+        },
+        {
+          "startMs": 47200,
+          "endMs": 48000,
+          "note": 70
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48400,
+          "note": 70
+        },
+        {
+          "startMs": 48400,
+          "endMs": 49200,
+          "note": 69
+        },
+        {
+          "startMs": 49200,
+          "endMs": 49600,
+          "note": 67
+        },
+        {
+          "startMs": 49600,
+          "endMs": 50400,
+          "note": 67
+        },
+        {
+          "startMs": 50400,
+          "endMs": 50800,
+          "note": 65
+        },
+        {
+          "startMs": 50800,
+          "endMs": 51600,
+          "note": 67
+        },
+        {
+          "startMs": 51600,
+          "endMs": 52000,
+          "note": 67
+        },
+        {
+          "startMs": 52000,
+          "endMs": 52800,
+          "note": 65
+        },
+        {
+          "startMs": 52800,
+          "endMs": 53200,
+          "note": 67
+        },
+        {
+          "startMs": 53200,
+          "endMs": 54000,
+          "note": 69
+        },
+        {
+          "startMs": 54400,
+          "endMs": 55200,
+          "note": 70
+        },
+        {
+          "startMs": 55200,
+          "endMs": 55600,
+          "note": 69
+        },
+        {
+          "startMs": 55600,
+          "endMs": 56400,
+          "note": 67
+        },
+        {
+          "startMs": 56400,
+          "endMs": 56800,
+          "note": 65
+        },
+        {
+          "startMs": 56800,
+          "endMs": 57600,
+          "note": 67
+        },
+        {
+          "startMs": 57600,
+          "endMs": 58000,
+          "note": 67
+        },
+        {
+          "startMs": 58000,
+          "endMs": 58800,
+          "note": 67
+        },
+        {
+          "startMs": 58800,
+          "endMs": 59200,
+          "note": 67
+        },
+        {
+          "startMs": 59200,
+          "endMs": 60000,
+          "note": 69
+        },
+        {
+          "startMs": 60000,
+          "endMs": 60400,
+          "note": 69
+        },
+        {
+          "startMs": 60400,
+          "endMs": 61200,
+          "note": 70
+        },
+        {
+          "startMs": 61200,
+          "endMs": 61600,
+          "note": 67
+        },
+        {
+          "startMs": 61600,
+          "endMs": 62400,
+          "note": 65
+        },
+        {
+          "startMs": 62400,
+          "endMs": 62800,
+          "note": 65
+        },
+        {
+          "startMs": 62800,
+          "endMs": 63600,
+          "note": 70
+        },
+        {
+          "startMs": 63600,
+          "endMs": 64000,
+          "note": 72
+        },
+        {
+          "startMs": 64000,
+          "endMs": 64800,
+          "note": 70
+        },
+        {
+          "startMs": 64800,
+          "endMs": 65200,
+          "note": 69
+        },
+        {
+          "startMs": 65200,
+          "endMs": 66000,
+          "note": 70
+        },
+        {
+          "startMs": 66000,
+          "endMs": 66400,
+          "note": 70
+        },
+        {
+          "startMs": 66400,
+          "endMs": 67200,
+          "note": 70
+        },
+        {
+          "startMs": 67200,
+          "endMs": 67600,
+          "note": 70
+        },
+        {
+          "startMs": 67600,
+          "endMs": 68400,
+          "note": 69
+        },
+        {
+          "startMs": 68400,
+          "endMs": 68800,
+          "note": 67
+        },
+        {
+          "startMs": 68800,
+          "endMs": 69600,
+          "note": 67
+        },
+        {
+          "startMs": 69600,
+          "endMs": 70000,
+          "note": 65
+        },
+        {
+          "startMs": 70000,
+          "endMs": 70800,
+          "note": 67
+        },
+        {
+          "startMs": 70800,
+          "endMs": 71200,
+          "note": 67
+        },
+        {
+          "startMs": 71200,
+          "endMs": 72000,
+          "note": 65
+        },
+        {
+          "startMs": 72000,
+          "endMs": 72400,
+          "note": 67
+        },
+        {
+          "startMs": 72400,
+          "endMs": 73200,
+          "note": 69
+        },
+        {
+          "startMs": 73600,
+          "endMs": 74400,
+          "note": 70
+        },
+        {
+          "startMs": 74400,
+          "endMs": 74800,
+          "note": 69
+        },
+        {
+          "startMs": 74800,
+          "endMs": 75600,
+          "note": 67
+        },
+        {
+          "startMs": 75600,
+          "endMs": 76000,
+          "note": 65
+        },
+        {
+          "startMs": 76000,
+          "endMs": 76800,
+          "note": 67
+        }
+      ]
+    }
+  ]
+}

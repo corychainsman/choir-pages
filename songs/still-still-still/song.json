@@ -1,0 +1,2704 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "804634dec8d4182c3b87a0105d40cd67fd0cb9f3f675ea9a39784527675b3bca",
+  "id": "still-still-still",
+  "title": "Still, Still, Still",
+  "durationMs": 37853,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/still-still-still/song.cscore",
+  "displayScore": "/songs/still-still-still/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v3",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 35,
+        "words": 35,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 32,
+          "lexicon": 3
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 35,
+        "words": 35,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 32,
+          "lexicon": 3
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 35,
+        "words": 35,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 32,
+          "lexicon": 3
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 35,
+        "words": 35,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 32,
+          "lexicon": 3
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "CC0 LilyPond edition and MIDI by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 6,
+      "lyricTrack": 2,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Wir,",
+          "order": 0,
+          "timeMs": 0,
+          "word": "wir",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 768,
+          "text": "wir,",
+          "order": 1,
+          "timeMs": 1558,
+          "word": "wir",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1536,
+          "text": "wir,",
+          "order": 2,
+          "timeMs": 3117,
+          "word": "wir",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2688,
+          "text": "Wir",
+          "order": 3,
+          "timeMs": 5455,
+          "word": "wir",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3072,
+          "text": "ruf",
+          "order": 4,
+          "timeMs": 6234,
+          "word": "ruf",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈʌf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3456,
+          "text": "en",
+          "order": 5,
+          "timeMs": 7013,
+          "word": "en",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3840,
+          "text": "all",
+          "order": 6,
+          "timeMs": 7792,
+          "word": "all",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "zu",
+          "order": 7,
+          "timeMs": 8571,
+          "word": "zu",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "dir:",
+          "order": 8,
+          "timeMs": 9351,
+          "word": "dir",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈa‍ɪ‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "Tu",
+          "order": 9,
+          "timeMs": 11688,
+          "word": "tu",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6144,
+          "text": "uns",
+          "order": 10,
+          "timeMs": 12468,
+          "word": "uns",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌnz",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6528,
+          "text": "des",
+          "order": 11,
+          "timeMs": 13247,
+          "word": "des",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6912,
+          "text": "Him",
+          "order": 12,
+          "timeMs": 14026,
+          "word": "him",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɪm",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "mels",
+          "order": 13,
+          "timeMs": 14805,
+          "word": "mels",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈɛlz",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "Reich",
+          "order": 14,
+          "timeMs": 15584,
+          "word": "reich",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈa‍ɪx",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8064,
+          "text": "auf",
+          "order": 15,
+          "timeMs": 16364,
+          "word": "auf",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8448,
+          "text": "schließ",
+          "order": 16,
+          "timeMs": 17143,
+          "word": "schließ",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃlˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8832,
+          "text": "en,",
+          "order": 17,
+          "timeMs": 17922,
+          "word": "en",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "Wenn",
+          "order": 18,
+          "timeMs": 18701,
+          "word": "wenn",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "wir",
+          "order": 19,
+          "timeMs": 19481,
+          "word": "wir",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9984,
+          "text": "ein",
+          "order": 20,
+          "timeMs": 20260,
+          "word": "ein",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10368,
+          "text": "mal",
+          "order": 21,
+          "timeMs": 21039,
+          "word": "mal",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈal",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10752,
+          "text": "ster",
+          "order": 22,
+          "timeMs": 21818,
+          "word": "ster",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "stˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11136,
+          "text": "ben",
+          "order": 23,
+          "timeMs": 22597,
+          "word": "ben",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "müss",
+          "order": 24,
+          "timeMs": 23377,
+          "word": "müss",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11904,
+          "text": "en.",
+          "order": 25,
+          "timeMs": 24156,
+          "word": "en",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12288,
+          "text": "Wir,",
+          "order": 26,
+          "timeMs": 24935,
+          "word": "wir",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "wir,",
+          "order": 27,
+          "timeMs": 26493,
+          "word": "wir",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "wir,",
+          "order": 28,
+          "timeMs": 28052,
+          "word": "wir",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14976,
+          "text": "Wir",
+          "order": 29,
+          "timeMs": 30390,
+          "word": "wir",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "ruf",
+          "order": 30,
+          "timeMs": 31169,
+          "word": "ruf",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈʌf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15744,
+          "text": "en",
+          "order": 31,
+          "timeMs": 31948,
+          "word": "en",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "all",
+          "order": 32,
+          "timeMs": 32727,
+          "word": "all",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "zu",
+          "order": 33,
+          "timeMs": 33506,
+          "word": "zu",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16896,
+          "text": "dir.",
+          "order": 34,
+          "timeMs": 34286,
+          "word": "dir",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈa‍ɪ‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 1558,
+          "note": 51
+        },
+        {
+          "startMs": 1558,
+          "endMs": 3117,
+          "note": 50
+        },
+        {
+          "startMs": 3117,
+          "endMs": 5455,
+          "note": 48
+        },
+        {
+          "startMs": 5455,
+          "endMs": 6234,
+          "note": 46
+        },
+        {
+          "startMs": 6234,
+          "endMs": 7013,
+          "note": 44
+        },
+        {
+          "startMs": 7013,
+          "endMs": 7792,
+          "note": 44
+        },
+        {
+          "startMs": 7792,
+          "endMs": 8571,
+          "note": 46
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9351,
+          "note": 46
+        },
+        {
+          "startMs": 9351,
+          "endMs": 11688,
+          "note": 51
+        },
+        {
+          "startMs": 11688,
+          "endMs": 12468,
+          "note": 51
+        },
+        {
+          "startMs": 12468,
+          "endMs": 13247,
+          "note": 46
+        },
+        {
+          "startMs": 13247,
+          "endMs": 14026,
+          "note": 46
+        },
+        {
+          "startMs": 14026,
+          "endMs": 14805,
+          "note": 50
+        },
+        {
+          "startMs": 14805,
+          "endMs": 15584,
+          "note": 50
+        },
+        {
+          "startMs": 15584,
+          "endMs": 16364,
+          "note": 51
+        },
+        {
+          "startMs": 16364,
+          "endMs": 17143,
+          "note": 51
+        },
+        {
+          "startMs": 17143,
+          "endMs": 17922,
+          "note": 51
+        },
+        {
+          "startMs": 17922,
+          "endMs": 18701,
+          "note": 51
+        },
+        {
+          "startMs": 18701,
+          "endMs": 19481,
+          "note": 46
+        },
+        {
+          "startMs": 19481,
+          "endMs": 20260,
+          "note": 46
+        },
+        {
+          "startMs": 20260,
+          "endMs": 21039,
+          "note": 50
+        },
+        {
+          "startMs": 21039,
+          "endMs": 21818,
+          "note": 50
+        },
+        {
+          "startMs": 21818,
+          "endMs": 22597,
+          "note": 51
+        },
+        {
+          "startMs": 22597,
+          "endMs": 23377,
+          "note": 51
+        },
+        {
+          "startMs": 23377,
+          "endMs": 24156,
+          "note": 51
+        },
+        {
+          "startMs": 24156,
+          "endMs": 24935,
+          "note": 51
+        },
+        {
+          "startMs": 24935,
+          "endMs": 26493,
+          "note": 51
+        },
+        {
+          "startMs": 26493,
+          "endMs": 28052,
+          "note": 50
+        },
+        {
+          "startMs": 28052,
+          "endMs": 30390,
+          "note": 48
+        },
+        {
+          "startMs": 30390,
+          "endMs": 31169,
+          "note": 46
+        },
+        {
+          "startMs": 31169,
+          "endMs": 31948,
+          "note": 44
+        },
+        {
+          "startMs": 31948,
+          "endMs": 32727,
+          "note": 44
+        },
+        {
+          "startMs": 32727,
+          "endMs": 33506,
+          "note": 46
+        },
+        {
+          "startMs": 33506,
+          "endMs": 34286,
+          "note": 46
+        },
+        {
+          "startMs": 34286,
+          "endMs": 37403,
+          "note": 51
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 6,
+      "lyricTrack": 2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Wir,",
+          "order": 0,
+          "timeMs": 0,
+          "word": "wir",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 768,
+          "text": "wir,",
+          "order": 1,
+          "timeMs": 1558,
+          "word": "wir",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1536,
+          "text": "wir,",
+          "order": 2,
+          "timeMs": 3117,
+          "word": "wir",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2688,
+          "text": "Wir",
+          "order": 3,
+          "timeMs": 5455,
+          "word": "wir",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3072,
+          "text": "ruf",
+          "order": 4,
+          "timeMs": 6234,
+          "word": "ruf",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈʌf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3456,
+          "text": "en",
+          "order": 5,
+          "timeMs": 7013,
+          "word": "en",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3840,
+          "text": "all",
+          "order": 6,
+          "timeMs": 7792,
+          "word": "all",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "zu",
+          "order": 7,
+          "timeMs": 8571,
+          "word": "zu",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "dir:",
+          "order": 8,
+          "timeMs": 9351,
+          "word": "dir",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈa‍ɪ‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "Tu",
+          "order": 9,
+          "timeMs": 11688,
+          "word": "tu",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6144,
+          "text": "uns",
+          "order": 10,
+          "timeMs": 12468,
+          "word": "uns",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌnz",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6528,
+          "text": "des",
+          "order": 11,
+          "timeMs": 13247,
+          "word": "des",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6912,
+          "text": "Him",
+          "order": 12,
+          "timeMs": 14026,
+          "word": "him",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɪm",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "mels",
+          "order": 13,
+          "timeMs": 14805,
+          "word": "mels",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈɛlz",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "Reich",
+          "order": 14,
+          "timeMs": 15584,
+          "word": "reich",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈa‍ɪx",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8064,
+          "text": "auf",
+          "order": 15,
+          "timeMs": 16364,
+          "word": "auf",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8448,
+          "text": "schließ",
+          "order": 16,
+          "timeMs": 17143,
+          "word": "schließ",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃlˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8832,
+          "text": "en,",
+          "order": 17,
+          "timeMs": 17922,
+          "word": "en",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "Wenn",
+          "order": 18,
+          "timeMs": 18701,
+          "word": "wenn",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "wir",
+          "order": 19,
+          "timeMs": 19481,
+          "word": "wir",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9984,
+          "text": "ein",
+          "order": 20,
+          "timeMs": 20260,
+          "word": "ein",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10368,
+          "text": "mal",
+          "order": 21,
+          "timeMs": 21039,
+          "word": "mal",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈal",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10752,
+          "text": "ster",
+          "order": 22,
+          "timeMs": 21818,
+          "word": "ster",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "stˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11136,
+          "text": "ben",
+          "order": 23,
+          "timeMs": 22597,
+          "word": "ben",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "müss",
+          "order": 24,
+          "timeMs": 23377,
+          "word": "müss",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11904,
+          "text": "en.",
+          "order": 25,
+          "timeMs": 24156,
+          "word": "en",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12288,
+          "text": "Wir,",
+          "order": 26,
+          "timeMs": 24935,
+          "word": "wir",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "wir,",
+          "order": 27,
+          "timeMs": 26493,
+          "word": "wir",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "wir,",
+          "order": 28,
+          "timeMs": 28052,
+          "word": "wir",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14976,
+          "text": "Wir",
+          "order": 29,
+          "timeMs": 30390,
+          "word": "wir",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "ruf",
+          "order": 30,
+          "timeMs": 31169,
+          "word": "ruf",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈʌf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15744,
+          "text": "en",
+          "order": 31,
+          "timeMs": 31948,
+          "word": "en",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "all",
+          "order": 32,
+          "timeMs": 32727,
+          "word": "all",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "zu",
+          "order": 33,
+          "timeMs": 33506,
+          "word": "zu",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16896,
+          "text": "dir.",
+          "order": 34,
+          "timeMs": 34286,
+          "word": "dir",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈa‍ɪ‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 1558,
+          "note": 58
+        },
+        {
+          "startMs": 1558,
+          "endMs": 3117,
+          "note": 58
+        },
+        {
+          "startMs": 3117,
+          "endMs": 5455,
+          "note": 55
+        },
+        {
+          "startMs": 5455,
+          "endMs": 6234,
+          "note": 55
+        },
+        {
+          "startMs": 6234,
+          "endMs": 7013,
+          "note": 56
+        },
+        {
+          "startMs": 7013,
+          "endMs": 7792,
+          "note": 56
+        },
+        {
+          "startMs": 7792,
+          "endMs": 8571,
+          "note": 56
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9351,
+          "note": 56
+        },
+        {
+          "startMs": 9351,
+          "endMs": 11688,
+          "note": 55
+        },
+        {
+          "startMs": 11688,
+          "endMs": 12468,
+          "note": 58
+        },
+        {
+          "startMs": 12468,
+          "endMs": 13247,
+          "note": 58
+        },
+        {
+          "startMs": 13247,
+          "endMs": 14026,
+          "note": 58
+        },
+        {
+          "startMs": 14026,
+          "endMs": 14805,
+          "note": 58
+        },
+        {
+          "startMs": 14805,
+          "endMs": 15584,
+          "note": 58
+        },
+        {
+          "startMs": 15584,
+          "endMs": 16364,
+          "note": 58
+        },
+        {
+          "startMs": 16364,
+          "endMs": 17143,
+          "note": 58
+        },
+        {
+          "startMs": 17143,
+          "endMs": 17922,
+          "note": 58
+        },
+        {
+          "startMs": 17922,
+          "endMs": 18701,
+          "note": 58
+        },
+        {
+          "startMs": 18701,
+          "endMs": 19481,
+          "note": 58
+        },
+        {
+          "startMs": 19481,
+          "endMs": 20260,
+          "note": 58
+        },
+        {
+          "startMs": 20260,
+          "endMs": 21039,
+          "note": 58
+        },
+        {
+          "startMs": 21039,
+          "endMs": 21818,
+          "note": 58
+        },
+        {
+          "startMs": 21818,
+          "endMs": 22597,
+          "note": 58
+        },
+        {
+          "startMs": 22597,
+          "endMs": 23377,
+          "note": 58
+        },
+        {
+          "startMs": 23377,
+          "endMs": 24156,
+          "note": 58
+        },
+        {
+          "startMs": 24156,
+          "endMs": 24935,
+          "note": 58
+        },
+        {
+          "startMs": 24935,
+          "endMs": 26493,
+          "note": 58
+        },
+        {
+          "startMs": 26493,
+          "endMs": 28052,
+          "note": 58
+        },
+        {
+          "startMs": 28052,
+          "endMs": 30390,
+          "note": 55
+        },
+        {
+          "startMs": 30390,
+          "endMs": 31169,
+          "note": 55
+        },
+        {
+          "startMs": 31169,
+          "endMs": 31948,
+          "note": 56
+        },
+        {
+          "startMs": 31948,
+          "endMs": 32727,
+          "note": 56
+        },
+        {
+          "startMs": 32727,
+          "endMs": 33506,
+          "note": 56
+        },
+        {
+          "startMs": 33506,
+          "endMs": 34286,
+          "note": 56
+        },
+        {
+          "startMs": 34286,
+          "endMs": 37403,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": 2,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Wir,",
+          "order": 0,
+          "timeMs": 0,
+          "word": "wir",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 768,
+          "text": "wir,",
+          "order": 1,
+          "timeMs": 1558,
+          "word": "wir",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1536,
+          "text": "wir,",
+          "order": 2,
+          "timeMs": 3117,
+          "word": "wir",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2688,
+          "text": "Wir",
+          "order": 3,
+          "timeMs": 5455,
+          "word": "wir",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3072,
+          "text": "ruf",
+          "order": 4,
+          "timeMs": 6234,
+          "word": "ruf",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈʌf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3456,
+          "text": "en",
+          "order": 5,
+          "timeMs": 7013,
+          "word": "en",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3840,
+          "text": "all",
+          "order": 6,
+          "timeMs": 7792,
+          "word": "all",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "zu",
+          "order": 7,
+          "timeMs": 8571,
+          "word": "zu",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "dir:",
+          "order": 8,
+          "timeMs": 9351,
+          "word": "dir",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈa‍ɪ‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "Tu",
+          "order": 9,
+          "timeMs": 11688,
+          "word": "tu",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6144,
+          "text": "uns",
+          "order": 10,
+          "timeMs": 12468,
+          "word": "uns",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌnz",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6528,
+          "text": "des",
+          "order": 11,
+          "timeMs": 13247,
+          "word": "des",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6912,
+          "text": "Him",
+          "order": 12,
+          "timeMs": 14026,
+          "word": "him",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɪm",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "mels",
+          "order": 13,
+          "timeMs": 14805,
+          "word": "mels",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈɛlz",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "Reich",
+          "order": 14,
+          "timeMs": 15584,
+          "word": "reich",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈa‍ɪx",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8064,
+          "text": "auf",
+          "order": 15,
+          "timeMs": 16364,
+          "word": "auf",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8448,
+          "text": "schließ",
+          "order": 16,
+          "timeMs": 17143,
+          "word": "schließ",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃlˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8832,
+          "text": "en,",
+          "order": 17,
+          "timeMs": 17922,
+          "word": "en",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "Wenn",
+          "order": 18,
+          "timeMs": 18701,
+          "word": "wenn",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "wir",
+          "order": 19,
+          "timeMs": 19481,
+          "word": "wir",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9984,
+          "text": "ein",
+          "order": 20,
+          "timeMs": 20260,
+          "word": "ein",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10368,
+          "text": "mal",
+          "order": 21,
+          "timeMs": 21039,
+          "word": "mal",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈal",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10752,
+          "text": "ster",
+          "order": 22,
+          "timeMs": 21818,
+          "word": "ster",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "stˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11136,
+          "text": "ben",
+          "order": 23,
+          "timeMs": 22597,
+          "word": "ben",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "müss",
+          "order": 24,
+          "timeMs": 23377,
+          "word": "müss",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11904,
+          "text": "en.",
+          "order": 25,
+          "timeMs": 24156,
+          "word": "en",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12288,
+          "text": "Wir,",
+          "order": 26,
+          "timeMs": 24935,
+          "word": "wir",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "wir,",
+          "order": 27,
+          "timeMs": 26493,
+          "word": "wir",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "wir,",
+          "order": 28,
+          "timeMs": 28052,
+          "word": "wir",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14976,
+          "text": "Wir",
+          "order": 29,
+          "timeMs": 30390,
+          "word": "wir",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "ruf",
+          "order": 30,
+          "timeMs": 31169,
+          "word": "ruf",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈʌf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15744,
+          "text": "en",
+          "order": 31,
+          "timeMs": 31948,
+          "word": "en",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "all",
+          "order": 32,
+          "timeMs": 32727,
+          "word": "all",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "zu",
+          "order": 33,
+          "timeMs": 33506,
+          "word": "zu",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16896,
+          "text": "dir.",
+          "order": 34,
+          "timeMs": 34286,
+          "word": "dir",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈa‍ɪ‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 1558,
+          "note": 67
+        },
+        {
+          "startMs": 1558,
+          "endMs": 3117,
+          "note": 63
+        },
+        {
+          "startMs": 3117,
+          "endMs": 5455,
+          "note": 63
+        },
+        {
+          "startMs": 5455,
+          "endMs": 6234,
+          "note": 60
+        },
+        {
+          "startMs": 6234,
+          "endMs": 7013,
+          "note": 60
+        },
+        {
+          "startMs": 7013,
+          "endMs": 7792,
+          "note": 60
+        },
+        {
+          "startMs": 7792,
+          "endMs": 8571,
+          "note": 58
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9351,
+          "note": 58
+        },
+        {
+          "startMs": 9351,
+          "endMs": 11688,
+          "note": 58
+        },
+        {
+          "startMs": 11688,
+          "endMs": 12468,
+          "note": 63
+        },
+        {
+          "startMs": 12468,
+          "endMs": 13247,
+          "note": 62
+        },
+        {
+          "startMs": 13247,
+          "endMs": 13636,
+          "note": 62
+        },
+        {
+          "startMs": 13636,
+          "endMs": 14026,
+          "note": 63
+        },
+        {
+          "startMs": 14026,
+          "endMs": 14805,
+          "note": 65
+        },
+        {
+          "startMs": 14805,
+          "endMs": 15584,
+          "note": 65
+        },
+        {
+          "startMs": 15584,
+          "endMs": 16364,
+          "note": 63
+        },
+        {
+          "startMs": 16364,
+          "endMs": 16753,
+          "note": 63
+        },
+        {
+          "startMs": 16753,
+          "endMs": 17143,
+          "note": 65
+        },
+        {
+          "startMs": 17143,
+          "endMs": 17922,
+          "note": 67
+        },
+        {
+          "startMs": 17922,
+          "endMs": 18701,
+          "note": 63
+        },
+        {
+          "startMs": 18701,
+          "endMs": 19481,
+          "note": 62
+        },
+        {
+          "startMs": 19481,
+          "endMs": 19870,
+          "note": 62
+        },
+        {
+          "startMs": 19870,
+          "endMs": 20260,
+          "note": 63
+        },
+        {
+          "startMs": 20260,
+          "endMs": 21039,
+          "note": 65
+        },
+        {
+          "startMs": 21039,
+          "endMs": 21818,
+          "note": 65
+        },
+        {
+          "startMs": 21818,
+          "endMs": 22597,
+          "note": 63
+        },
+        {
+          "startMs": 22597,
+          "endMs": 22987,
+          "note": 63
+        },
+        {
+          "startMs": 22987,
+          "endMs": 23377,
+          "note": 65
+        },
+        {
+          "startMs": 23377,
+          "endMs": 24156,
+          "note": 67
+        },
+        {
+          "startMs": 24156,
+          "endMs": 24935,
+          "note": 63
+        },
+        {
+          "startMs": 24935,
+          "endMs": 26493,
+          "note": 67
+        },
+        {
+          "startMs": 26493,
+          "endMs": 28052,
+          "note": 63
+        },
+        {
+          "startMs": 28052,
+          "endMs": 30390,
+          "note": 63
+        },
+        {
+          "startMs": 30390,
+          "endMs": 31169,
+          "note": 60
+        },
+        {
+          "startMs": 31169,
+          "endMs": 31948,
+          "note": 60
+        },
+        {
+          "startMs": 31948,
+          "endMs": 32727,
+          "note": 60
+        },
+        {
+          "startMs": 32727,
+          "endMs": 33506,
+          "note": 58
+        },
+        {
+          "startMs": 33506,
+          "endMs": 34286,
+          "note": 58
+        },
+        {
+          "startMs": 34286,
+          "endMs": 37403,
+          "note": 58
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": 2,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Wir,",
+          "order": 0,
+          "timeMs": 0,
+          "word": "wir",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 768,
+          "text": "wir,",
+          "order": 1,
+          "timeMs": 1558,
+          "word": "wir",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1536,
+          "text": "wir,",
+          "order": 2,
+          "timeMs": 3117,
+          "word": "wir",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2688,
+          "text": "Wir",
+          "order": 3,
+          "timeMs": 5455,
+          "word": "wir",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3072,
+          "text": "ruf",
+          "order": 4,
+          "timeMs": 6234,
+          "word": "ruf",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈʌf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3456,
+          "text": "en",
+          "order": 5,
+          "timeMs": 7013,
+          "word": "en",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3840,
+          "text": "all",
+          "order": 6,
+          "timeMs": 7792,
+          "word": "all",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "zu",
+          "order": 7,
+          "timeMs": 8571,
+          "word": "zu",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "dir:",
+          "order": 8,
+          "timeMs": 9351,
+          "word": "dir",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈa‍ɪ‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5760,
+          "text": "Tu",
+          "order": 9,
+          "timeMs": 11688,
+          "word": "tu",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6144,
+          "text": "uns",
+          "order": 10,
+          "timeMs": 12468,
+          "word": "uns",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈʌnz",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6528,
+          "text": "des",
+          "order": 11,
+          "timeMs": 13247,
+          "word": "des",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈɛs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6912,
+          "text": "Him",
+          "order": 12,
+          "timeMs": 14026,
+          "word": "him",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈɪm",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "mels",
+          "order": 13,
+          "timeMs": 14805,
+          "word": "mels",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈɛlz",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7680,
+          "text": "Reich",
+          "order": 14,
+          "timeMs": 15584,
+          "word": "reich",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈa‍ɪx",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8064,
+          "text": "auf",
+          "order": 15,
+          "timeMs": 16364,
+          "word": "auf",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8448,
+          "text": "schließ",
+          "order": 16,
+          "timeMs": 17143,
+          "word": "schließ",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃlˈiːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 8832,
+          "text": "en,",
+          "order": 17,
+          "timeMs": 17922,
+          "word": "en",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9216,
+          "text": "Wenn",
+          "order": 18,
+          "timeMs": 18701,
+          "word": "wenn",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9600,
+          "text": "wir",
+          "order": 19,
+          "timeMs": 19481,
+          "word": "wir",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 9984,
+          "text": "ein",
+          "order": 20,
+          "timeMs": 20260,
+          "word": "ein",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10368,
+          "text": "mal",
+          "order": 21,
+          "timeMs": 21039,
+          "word": "mal",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈal",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10752,
+          "text": "ster",
+          "order": 22,
+          "timeMs": 21818,
+          "word": "ster",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "stˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11136,
+          "text": "ben",
+          "order": 23,
+          "timeMs": 22597,
+          "word": "ben",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "müss",
+          "order": 24,
+          "timeMs": 23377,
+          "word": "müss",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈuːs",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11904,
+          "text": "en.",
+          "order": 25,
+          "timeMs": 24156,
+          "word": "en",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12288,
+          "text": "Wir,",
+          "order": 26,
+          "timeMs": 24935,
+          "word": "wir",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13056,
+          "text": "wir,",
+          "order": 27,
+          "timeMs": 26493,
+          "word": "wir",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "wir,",
+          "order": 28,
+          "timeMs": 28052,
+          "word": "wir",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14976,
+          "text": "Wir",
+          "order": 29,
+          "timeMs": 30390,
+          "word": "wir",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "ruf",
+          "order": 30,
+          "timeMs": 31169,
+          "word": "ruf",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɹˈʌf",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15744,
+          "text": "en",
+          "order": 31,
+          "timeMs": 31948,
+          "word": "en",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɛn",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "all",
+          "order": 32,
+          "timeMs": 32727,
+          "word": "all",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "zu",
+          "order": 33,
+          "timeMs": 33506,
+          "word": "zu",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "zˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16896,
+          "text": "dir.",
+          "order": 34,
+          "timeMs": 34286,
+          "word": "dir",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈa‍ɪ‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 779,
+          "note": 70
+        },
+        {
+          "startMs": 779,
+          "endMs": 1558,
+          "note": 75
+        },
+        {
+          "startMs": 1558,
+          "endMs": 2338,
+          "note": 67
+        },
+        {
+          "startMs": 2338,
+          "endMs": 3117,
+          "note": 70
+        },
+        {
+          "startMs": 5455,
+          "endMs": 5844,
+          "note": 63
+        },
+        {
+          "startMs": 5844,
+          "endMs": 6234,
+          "note": 67
+        },
+        {
+          "startMs": 6234,
+          "endMs": 7013,
+          "note": 65
+        },
+        {
+          "startMs": 7013,
+          "endMs": 7403,
+          "note": 65
+        },
+        {
+          "startMs": 7403,
+          "endMs": 7792,
+          "note": 68
+        },
+        {
+          "startMs": 7792,
+          "endMs": 8571,
+          "note": 62
+        },
+        {
+          "startMs": 8571,
+          "endMs": 8961,
+          "note": 62
+        },
+        {
+          "startMs": 8961,
+          "endMs": 9351,
+          "note": 65
+        },
+        {
+          "startMs": 9351,
+          "endMs": 11688,
+          "note": 63
+        },
+        {
+          "startMs": 11688,
+          "endMs": 12468,
+          "note": 67
+        },
+        {
+          "startMs": 12468,
+          "endMs": 13247,
+          "note": 65
+        },
+        {
+          "startMs": 13247,
+          "endMs": 13636,
+          "note": 65
+        },
+        {
+          "startMs": 13636,
+          "endMs": 14026,
+          "note": 67
+        },
+        {
+          "startMs": 14026,
+          "endMs": 14805,
+          "note": 68
+        },
+        {
+          "startMs": 15584,
+          "endMs": 16364,
+          "note": 67
+        },
+        {
+          "startMs": 16364,
+          "endMs": 16753,
+          "note": 67
+        },
+        {
+          "startMs": 16753,
+          "endMs": 17143,
+          "note": 68
+        },
+        {
+          "startMs": 17143,
+          "endMs": 17922,
+          "note": 70
+        },
+        {
+          "startMs": 17922,
+          "endMs": 18701,
+          "note": 67
+        },
+        {
+          "startMs": 18701,
+          "endMs": 19481,
+          "note": 65
+        },
+        {
+          "startMs": 19481,
+          "endMs": 19870,
+          "note": 65
+        },
+        {
+          "startMs": 19870,
+          "endMs": 20260,
+          "note": 67
+        },
+        {
+          "startMs": 20260,
+          "endMs": 21039,
+          "note": 68
+        },
+        {
+          "startMs": 21818,
+          "endMs": 22597,
+          "note": 67
+        },
+        {
+          "startMs": 22597,
+          "endMs": 22987,
+          "note": 67
+        },
+        {
+          "startMs": 22987,
+          "endMs": 23377,
+          "note": 68
+        },
+        {
+          "startMs": 23377,
+          "endMs": 24156,
+          "note": 70
+        },
+        {
+          "startMs": 24156,
+          "endMs": 24935,
+          "note": 67
+        },
+        {
+          "startMs": 24935,
+          "endMs": 25714,
+          "note": 70
+        },
+        {
+          "startMs": 25714,
+          "endMs": 26493,
+          "note": 75
+        },
+        {
+          "startMs": 26493,
+          "endMs": 27273,
+          "note": 67
+        },
+        {
+          "startMs": 27273,
+          "endMs": 28052,
+          "note": 70
+        },
+        {
+          "startMs": 30390,
+          "endMs": 30779,
+          "note": 63
+        },
+        {
+          "startMs": 30779,
+          "endMs": 31169,
+          "note": 67
+        },
+        {
+          "startMs": 31169,
+          "endMs": 31948,
+          "note": 65
+        },
+        {
+          "startMs": 31948,
+          "endMs": 32338,
+          "note": 65
+        },
+        {
+          "startMs": 32338,
+          "endMs": 32727,
+          "note": 68
+        },
+        {
+          "startMs": 32727,
+          "endMs": 33506,
+          "note": 62
+        },
+        {
+          "startMs": 33506,
+          "endMs": 33896,
+          "note": 62
+        },
+        {
+          "startMs": 33896,
+          "endMs": 34286,
+          "note": 65
+        },
+        {
+          "startMs": 34286,
+          "endMs": 37403,
+          "note": 63
+        }
+      ]
+    }
+  ]
+}

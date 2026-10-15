@@ -1,0 +1,59 @@
+{
+  "format": "choir-live-syllable-bank",
+  "version": 1,
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "score": "./choir-live-bank.cscore",
+  "sourceHash": "0ce0d6714c6e794d7e02c6bcfd40b10745fd930f5496eecde968fd3750dd59ed",
+  "scoreHash": "bd7c9ac17bc67d5e0f7215028cd5e3fbfcc2b753353334c141c78abe8da63b14",
+  "durationMs": 600000,
+  "syllables": [
+    {
+      "id": "ah",
+      "label": "AH",
+      "text": "ah",
+      "ipa": "ɑː"
+    },
+    {
+      "id": "oh",
+      "label": "OH",
+      "text": "oh",
+      "ipa": "oː"
+    },
+    {
+      "id": "oo",
+      "label": "OO",
+      "text": "oo",
+      "ipa": "uː"
+    },
+    {
+      "id": "ee",
+      "label": "EE",
+      "text": "ee",
+      "ipa": "iː"
+    },
+    {
+      "id": "eh",
+      "label": "EH",
+      "text": "eh",
+      "ipa": "ɛ"
+    },
+    {
+      "id": "ma",
+      "label": "MA",
+      "text": "ma",
+      "ipa": "mɑː"
+    },
+    {
+      "id": "noo",
+      "label": "NOO",
+      "text": "noo",
+      "ipa": "nuː"
+    },
+    {
+      "id": "la",
+      "label": "LA",
+      "text": "la",
+      "ipa": "lɑː"
+    }
+  ]
+}

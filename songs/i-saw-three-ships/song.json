@@ -1,0 +1,4954 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "fc61a4018140dea51fbd2ba42a9ae205389be62041d4e7f77651552d915e0caa",
+  "id": "i-saw-three-ships",
+  "title": "I Saw Three Ships",
+  "durationMs": 24450,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/i-saw-three-ships/song.cscore",
+  "displayScore": "/songs/i-saw-three-ships/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v3",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 54,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 12,
+          "lexicon": 54,
+          "sung-form": 2
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 54,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 12,
+          "lexicon": 54,
+          "sung-form": 2
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 54,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 12,
+          "lexicon": 54,
+          "sung-form": 2
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 54,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 12,
+          "lexicon": 54,
+          "sung-form": 2
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "CC0 LilyPond edition and MIDI by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 6,
+      "lyricTrack": 3,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "The",
+          "order": 0,
+          "timeMs": 0,
+          "word": "the",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 192,
+          "text": "Vir",
+          "order": 1,
+          "timeMs": 250,
+          "word": "virgin",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "vˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 576,
+          "text": "gin",
+          "order": 2,
+          "timeMs": 750,
+          "word": "virgin",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "Ma",
+          "order": 3,
+          "timeMs": 1000,
+          "word": "mary",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "ry",
+          "order": 4,
+          "timeMs": 1250,
+          "word": "mary",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "and",
+          "order": 5,
+          "timeMs": 1500,
+          "word": "and",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1344,
+          "text": "Christ",
+          "order": 6,
+          "timeMs": 1750,
+          "word": "christ",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kɹˈa‍ɪst",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1728,
+          "text": "were",
+          "order": 7,
+          "timeMs": 2250,
+          "word": "were",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "there,",
+          "order": 8,
+          "timeMs": 2500,
+          "word": "there",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2304,
+          "text": "On",
+          "order": 9,
+          "timeMs": 3000,
+          "word": "on",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2496,
+          "text": "Christ",
+          "order": 10,
+          "timeMs": 3250,
+          "word": "christmas",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "mas",
+          "order": 11,
+          "timeMs": 3750,
+          "word": "christmas",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "day,",
+          "order": 12,
+          "timeMs": 4000,
+          "word": "day",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3456,
+          "text": "on",
+          "order": 13,
+          "timeMs": 4500,
+          "word": "on",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3648,
+          "text": "Christ",
+          "order": 14,
+          "timeMs": 4750,
+          "word": "christmas",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4032,
+          "text": "mas",
+          "order": 15,
+          "timeMs": 5250,
+          "word": "christmas",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "day,",
+          "order": 16,
+          "timeMs": 5500,
+          "word": "day",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "The",
+          "order": 17,
+          "timeMs": 6000,
+          "word": "the",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4800,
+          "text": "Vir",
+          "order": 18,
+          "timeMs": 6250,
+          "word": "virgin",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "vˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5184,
+          "text": "gin",
+          "order": 19,
+          "timeMs": 6750,
+          "word": "virgin",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "Ma",
+          "order": 20,
+          "timeMs": 7000,
+          "word": "mary",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5568,
+          "text": "ry",
+          "order": 21,
+          "timeMs": 7250,
+          "word": "mary",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "and",
+          "order": 22,
+          "timeMs": 7500,
+          "word": "and",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5952,
+          "text": "Christ",
+          "order": 23,
+          "timeMs": 7750,
+          "word": "christ",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kɹˈa‍ɪst",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6336,
+          "text": "were",
+          "order": 24,
+          "timeMs": 8250,
+          "word": "were",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6528,
+          "text": "there,",
+          "order": 25,
+          "timeMs": 8500,
+          "word": "there",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6912,
+          "text": "On",
+          "order": 26,
+          "timeMs": 9000,
+          "word": "on",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7104,
+          "text": "Christ",
+          "order": 27,
+          "timeMs": 9250,
+          "word": "christmas",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7488,
+          "text": "mas",
+          "order": 28,
+          "timeMs": 9750,
+          "word": "christmas",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "day",
+          "order": 29,
+          "timeMs": 10000,
+          "word": "day",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7872,
+          "text": "in",
+          "order": 30,
+          "timeMs": 10250,
+          "word": "in",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "the",
+          "order": 31,
+          "timeMs": 10500,
+          "word": "the",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8256,
+          "text": "morn",
+          "order": 32,
+          "timeMs": 10750,
+          "word": "morning",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "ing.",
+          "order": 33,
+          "timeMs": 11500,
+          "word": "morning",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "And",
+          "order": 34,
+          "timeMs": 12000,
+          "word": "and",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9408,
+          "text": "all",
+          "order": 35,
+          "timeMs": 12250,
+          "word": "all",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9792,
+          "text": "the",
+          "order": 36,
+          "timeMs": 12750,
+          "word": "the",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "An",
+          "order": 37,
+          "timeMs": 13000,
+          "word": "angels",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10176,
+          "text": "gels",
+          "order": 38,
+          "timeMs": 13250,
+          "word": "angels",
+          "wordIndex": 37,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒə‍lz",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "in",
+          "order": 39,
+          "timeMs": 13500,
+          "word": "in",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "Heav’n",
+          "order": 40,
+          "timeMs": 13750,
+          "word": "heaven",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 10944,
+          "text": "shall",
+          "order": 41,
+          "timeMs": 14250,
+          "word": "shall",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "sing,",
+          "order": 42,
+          "timeMs": 14500,
+          "word": "sing",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "On",
+          "order": 43,
+          "timeMs": 15000,
+          "word": "on",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11712,
+          "text": "Christ",
+          "order": 44,
+          "timeMs": 15250,
+          "word": "christmas",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12096,
+          "text": "mas",
+          "order": 45,
+          "timeMs": 15750,
+          "word": "christmas",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "day,",
+          "order": 46,
+          "timeMs": 16000,
+          "word": "day",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12672,
+          "text": "on",
+          "order": 47,
+          "timeMs": 16500,
+          "word": "on",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12864,
+          "text": "Christ",
+          "order": 48,
+          "timeMs": 16750,
+          "word": "christmas",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13248,
+          "text": "mas",
+          "order": 49,
+          "timeMs": 17250,
+          "word": "christmas",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "day,",
+          "order": 50,
+          "timeMs": 17500,
+          "word": "day",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "And",
+          "order": 51,
+          "timeMs": 18000,
+          "word": "and",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14016,
+          "text": "all",
+          "order": 52,
+          "timeMs": 18250,
+          "word": "all",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14400,
+          "text": "the",
+          "order": 53,
+          "timeMs": 18750,
+          "word": "the",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "An",
+          "order": 54,
+          "timeMs": 19000,
+          "word": "angels",
+          "wordIndex": 54,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14784,
+          "text": "gels",
+          "order": 55,
+          "timeMs": 19250,
+          "word": "angels",
+          "wordIndex": 54,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒə‍lz",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "in",
+          "order": 56,
+          "timeMs": 19500,
+          "word": "in",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15168,
+          "text": "Heav’n",
+          "order": 57,
+          "timeMs": 19750,
+          "word": "heaven",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 15552,
+          "text": "shall",
+          "order": 58,
+          "timeMs": 20250,
+          "word": "shall",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "sing,",
+          "order": 59,
+          "timeMs": 20500,
+          "word": "sing",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "On",
+          "order": 60,
+          "timeMs": 21000,
+          "word": "on",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "Christ",
+          "order": 61,
+          "timeMs": 21250,
+          "word": "christmas",
+          "wordIndex": 61,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16704,
+          "text": "mas",
+          "order": 62,
+          "timeMs": 21750,
+          "word": "christmas",
+          "wordIndex": 61,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "day",
+          "order": 63,
+          "timeMs": 22000,
+          "word": "day",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17088,
+          "text": "in",
+          "order": 64,
+          "timeMs": 22250,
+          "word": "in",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "the",
+          "order": 65,
+          "timeMs": 22500,
+          "word": "the",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17472,
+          "text": "morn",
+          "order": 66,
+          "timeMs": 22750,
+          "word": "morning",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "ing.",
+          "order": 67,
+          "timeMs": 23500,
+          "word": "morning",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 250,
+          "note": 50
+        },
+        {
+          "startMs": 250,
+          "endMs": 750,
+          "note": 55
+        },
+        {
+          "startMs": 750,
+          "endMs": 1000,
+          "note": 55
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1250,
+          "note": 55
+        },
+        {
+          "startMs": 1250,
+          "endMs": 1500,
+          "note": 55
+        },
+        {
+          "startMs": 1500,
+          "endMs": 1750,
+          "note": 55
+        },
+        {
+          "startMs": 1750,
+          "endMs": 2250,
+          "note": 54
+        },
+        {
+          "startMs": 2250,
+          "endMs": 2500,
+          "note": 55
+        },
+        {
+          "startMs": 2500,
+          "endMs": 3000,
+          "note": 50
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3250,
+          "note": 54
+        },
+        {
+          "startMs": 3250,
+          "endMs": 3750,
+          "note": 55
+        },
+        {
+          "startMs": 3750,
+          "endMs": 4000,
+          "note": 55
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 55
+        },
+        {
+          "startMs": 4500,
+          "endMs": 4750,
+          "note": 55
+        },
+        {
+          "startMs": 4750,
+          "endMs": 5250,
+          "note": 50
+        },
+        {
+          "startMs": 5250,
+          "endMs": 5500,
+          "note": 50
+        },
+        {
+          "startMs": 5500,
+          "endMs": 6000,
+          "note": 50
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6250,
+          "note": 50
+        },
+        {
+          "startMs": 6250,
+          "endMs": 6750,
+          "note": 52
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7000,
+          "note": 52
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7250,
+          "note": 54
+        },
+        {
+          "startMs": 7250,
+          "endMs": 7500,
+          "note": 54
+        },
+        {
+          "startMs": 7500,
+          "endMs": 7750,
+          "note": 55
+        },
+        {
+          "startMs": 7750,
+          "endMs": 8000,
+          "note": 59
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8250,
+          "note": 57
+        },
+        {
+          "startMs": 8250,
+          "endMs": 8500,
+          "note": 55
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 50
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9250,
+          "note": 54
+        },
+        {
+          "startMs": 9250,
+          "endMs": 9750,
+          "note": 55
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10000,
+          "note": 55
+        },
+        {
+          "startMs": 10250,
+          "endMs": 10500,
+          "note": 57
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10750,
+          "note": 55
+        },
+        {
+          "startMs": 11500,
+          "endMs": 12000,
+          "note": 55
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12250,
+          "note": 50
+        },
+        {
+          "startMs": 12250,
+          "endMs": 12750,
+          "note": 55
+        },
+        {
+          "startMs": 12750,
+          "endMs": 13000,
+          "note": 55
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13250,
+          "note": 55
+        },
+        {
+          "startMs": 13250,
+          "endMs": 13500,
+          "note": 55
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13750,
+          "note": 55
+        },
+        {
+          "startMs": 13750,
+          "endMs": 14250,
+          "note": 54
+        },
+        {
+          "startMs": 14250,
+          "endMs": 14500,
+          "note": 55
+        },
+        {
+          "startMs": 14500,
+          "endMs": 15000,
+          "note": 50
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15250,
+          "note": 54
+        },
+        {
+          "startMs": 15250,
+          "endMs": 15750,
+          "note": 55
+        },
+        {
+          "startMs": 15750,
+          "endMs": 16000,
+          "note": 55
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 55
+        },
+        {
+          "startMs": 16500,
+          "endMs": 16750,
+          "note": 55
+        },
+        {
+          "startMs": 16750,
+          "endMs": 17250,
+          "note": 50
+        },
+        {
+          "startMs": 17250,
+          "endMs": 17500,
+          "note": 50
+        },
+        {
+          "startMs": 17500,
+          "endMs": 18000,
+          "note": 50
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18250,
+          "note": 50
+        },
+        {
+          "startMs": 18250,
+          "endMs": 18750,
+          "note": 52
+        },
+        {
+          "startMs": 18750,
+          "endMs": 19000,
+          "note": 52
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19250,
+          "note": 54
+        },
+        {
+          "startMs": 19250,
+          "endMs": 19500,
+          "note": 54
+        },
+        {
+          "startMs": 19500,
+          "endMs": 19750,
+          "note": 55
+        },
+        {
+          "startMs": 19750,
+          "endMs": 20000,
+          "note": 59
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20250,
+          "note": 57
+        },
+        {
+          "startMs": 20250,
+          "endMs": 20500,
+          "note": 55
+        },
+        {
+          "startMs": 20500,
+          "endMs": 21000,
+          "note": 50
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21250,
+          "note": 54
+        },
+        {
+          "startMs": 21250,
+          "endMs": 21750,
+          "note": 55
+        },
+        {
+          "startMs": 21750,
+          "endMs": 22000,
+          "note": 55
+        },
+        {
+          "startMs": 22250,
+          "endMs": 22500,
+          "note": 57
+        },
+        {
+          "startMs": 22500,
+          "endMs": 22750,
+          "note": 55
+        },
+        {
+          "startMs": 23500,
+          "endMs": 24000,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 6,
+      "lyricTrack": 3,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "The",
+          "order": 0,
+          "timeMs": 0,
+          "word": "the",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 192,
+          "text": "Vir",
+          "order": 1,
+          "timeMs": 250,
+          "word": "virgin",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "vˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 576,
+          "text": "gin",
+          "order": 2,
+          "timeMs": 750,
+          "word": "virgin",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "Ma",
+          "order": 3,
+          "timeMs": 1000,
+          "word": "mary",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "ry",
+          "order": 4,
+          "timeMs": 1250,
+          "word": "mary",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "and",
+          "order": 5,
+          "timeMs": 1500,
+          "word": "and",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1344,
+          "text": "Christ",
+          "order": 6,
+          "timeMs": 1750,
+          "word": "christ",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kɹˈa‍ɪst",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1728,
+          "text": "were",
+          "order": 7,
+          "timeMs": 2250,
+          "word": "were",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "there,",
+          "order": 8,
+          "timeMs": 2500,
+          "word": "there",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2304,
+          "text": "On",
+          "order": 9,
+          "timeMs": 3000,
+          "word": "on",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2496,
+          "text": "Christ",
+          "order": 10,
+          "timeMs": 3250,
+          "word": "christmas",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "mas",
+          "order": 11,
+          "timeMs": 3750,
+          "word": "christmas",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "day,",
+          "order": 12,
+          "timeMs": 4000,
+          "word": "day",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3456,
+          "text": "on",
+          "order": 13,
+          "timeMs": 4500,
+          "word": "on",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3648,
+          "text": "Christ",
+          "order": 14,
+          "timeMs": 4750,
+          "word": "christmas",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4032,
+          "text": "mas",
+          "order": 15,
+          "timeMs": 5250,
+          "word": "christmas",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "day,",
+          "order": 16,
+          "timeMs": 5500,
+          "word": "day",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "The",
+          "order": 17,
+          "timeMs": 6000,
+          "word": "the",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4800,
+          "text": "Vir",
+          "order": 18,
+          "timeMs": 6250,
+          "word": "virgin",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "vˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5184,
+          "text": "gin",
+          "order": 19,
+          "timeMs": 6750,
+          "word": "virgin",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "Ma",
+          "order": 20,
+          "timeMs": 7000,
+          "word": "mary",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5568,
+          "text": "ry",
+          "order": 21,
+          "timeMs": 7250,
+          "word": "mary",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "and",
+          "order": 22,
+          "timeMs": 7500,
+          "word": "and",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5952,
+          "text": "Christ",
+          "order": 23,
+          "timeMs": 7750,
+          "word": "christ",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kɹˈa‍ɪst",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6336,
+          "text": "were",
+          "order": 24,
+          "timeMs": 8250,
+          "word": "were",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6528,
+          "text": "there,",
+          "order": 25,
+          "timeMs": 8500,
+          "word": "there",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6912,
+          "text": "On",
+          "order": 26,
+          "timeMs": 9000,
+          "word": "on",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7104,
+          "text": "Christ",
+          "order": 27,
+          "timeMs": 9250,
+          "word": "christmas",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7488,
+          "text": "mas",
+          "order": 28,
+          "timeMs": 9750,
+          "word": "christmas",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "day",
+          "order": 29,
+          "timeMs": 10000,
+          "word": "day",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7872,
+          "text": "in",
+          "order": 30,
+          "timeMs": 10250,
+          "word": "in",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "the",
+          "order": 31,
+          "timeMs": 10500,
+          "word": "the",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8256,
+          "text": "morn",
+          "order": 32,
+          "timeMs": 10750,
+          "word": "morning",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "ing.",
+          "order": 33,
+          "timeMs": 11500,
+          "word": "morning",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "And",
+          "order": 34,
+          "timeMs": 12000,
+          "word": "and",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9408,
+          "text": "all",
+          "order": 35,
+          "timeMs": 12250,
+          "word": "all",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9792,
+          "text": "the",
+          "order": 36,
+          "timeMs": 12750,
+          "word": "the",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "An",
+          "order": 37,
+          "timeMs": 13000,
+          "word": "angels",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10176,
+          "text": "gels",
+          "order": 38,
+          "timeMs": 13250,
+          "word": "angels",
+          "wordIndex": 37,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒə‍lz",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "in",
+          "order": 39,
+          "timeMs": 13500,
+          "word": "in",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "Heav’n",
+          "order": 40,
+          "timeMs": 13750,
+          "word": "heaven",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 10944,
+          "text": "shall",
+          "order": 41,
+          "timeMs": 14250,
+          "word": "shall",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "sing,",
+          "order": 42,
+          "timeMs": 14500,
+          "word": "sing",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "On",
+          "order": 43,
+          "timeMs": 15000,
+          "word": "on",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11712,
+          "text": "Christ",
+          "order": 44,
+          "timeMs": 15250,
+          "word": "christmas",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12096,
+          "text": "mas",
+          "order": 45,
+          "timeMs": 15750,
+          "word": "christmas",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "day,",
+          "order": 46,
+          "timeMs": 16000,
+          "word": "day",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12672,
+          "text": "on",
+          "order": 47,
+          "timeMs": 16500,
+          "word": "on",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12864,
+          "text": "Christ",
+          "order": 48,
+          "timeMs": 16750,
+          "word": "christmas",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13248,
+          "text": "mas",
+          "order": 49,
+          "timeMs": 17250,
+          "word": "christmas",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "day,",
+          "order": 50,
+          "timeMs": 17500,
+          "word": "day",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "And",
+          "order": 51,
+          "timeMs": 18000,
+          "word": "and",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14016,
+          "text": "all",
+          "order": 52,
+          "timeMs": 18250,
+          "word": "all",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14400,
+          "text": "the",
+          "order": 53,
+          "timeMs": 18750,
+          "word": "the",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "An",
+          "order": 54,
+          "timeMs": 19000,
+          "word": "angels",
+          "wordIndex": 54,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14784,
+          "text": "gels",
+          "order": 55,
+          "timeMs": 19250,
+          "word": "angels",
+          "wordIndex": 54,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒə‍lz",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "in",
+          "order": 56,
+          "timeMs": 19500,
+          "word": "in",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15168,
+          "text": "Heav’n",
+          "order": 57,
+          "timeMs": 19750,
+          "word": "heaven",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 15552,
+          "text": "shall",
+          "order": 58,
+          "timeMs": 20250,
+          "word": "shall",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "sing,",
+          "order": 59,
+          "timeMs": 20500,
+          "word": "sing",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "On",
+          "order": 60,
+          "timeMs": 21000,
+          "word": "on",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "Christ",
+          "order": 61,
+          "timeMs": 21250,
+          "word": "christmas",
+          "wordIndex": 61,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16704,
+          "text": "mas",
+          "order": 62,
+          "timeMs": 21750,
+          "word": "christmas",
+          "wordIndex": 61,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "day",
+          "order": 63,
+          "timeMs": 22000,
+          "word": "day",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17088,
+          "text": "in",
+          "order": 64,
+          "timeMs": 22250,
+          "word": "in",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "the",
+          "order": 65,
+          "timeMs": 22500,
+          "word": "the",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17472,
+          "text": "morn",
+          "order": 66,
+          "timeMs": 22750,
+          "word": "morning",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "ing.",
+          "order": 67,
+          "timeMs": 23500,
+          "word": "morning",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 250,
+          "endMs": 750,
+          "note": 59
+        },
+        {
+          "startMs": 750,
+          "endMs": 1000,
+          "note": 59
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1250,
+          "note": 60
+        },
+        {
+          "startMs": 1250,
+          "endMs": 1500,
+          "note": 60
+        },
+        {
+          "startMs": 1500,
+          "endMs": 1750,
+          "note": 59
+        },
+        {
+          "startMs": 1750,
+          "endMs": 2250,
+          "note": 57
+        },
+        {
+          "startMs": 2500,
+          "endMs": 3000,
+          "note": 54
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3250,
+          "note": 57
+        },
+        {
+          "startMs": 3750,
+          "endMs": 4000,
+          "note": 59
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 59
+        },
+        {
+          "startMs": 4750,
+          "endMs": 5250,
+          "note": 54
+        },
+        {
+          "startMs": 5250,
+          "endMs": 5500,
+          "note": 57
+        },
+        {
+          "startMs": 5500,
+          "endMs": 6000,
+          "note": 54
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6250,
+          "note": 54
+        },
+        {
+          "startMs": 6250,
+          "endMs": 6750,
+          "note": 55
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7000,
+          "note": 59
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7250,
+          "note": 57
+        },
+        {
+          "startMs": 7250,
+          "endMs": 7500,
+          "note": 57
+        },
+        {
+          "startMs": 7500,
+          "endMs": 7750,
+          "note": 62
+        },
+        {
+          "startMs": 7750,
+          "endMs": 8000,
+          "note": 62
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8250,
+          "note": 60
+        },
+        {
+          "startMs": 8250,
+          "endMs": 8500,
+          "note": 59
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 62
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9250,
+          "note": 62
+        },
+        {
+          "startMs": 9250,
+          "endMs": 9750,
+          "note": 62
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10000,
+          "note": 59
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10250,
+          "note": 60
+        },
+        {
+          "startMs": 10250,
+          "endMs": 10500,
+          "note": 60
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10750,
+          "note": 62
+        },
+        {
+          "startMs": 10750,
+          "endMs": 11500,
+          "note": 62
+        },
+        {
+          "startMs": 11500,
+          "endMs": 12000,
+          "note": 59
+        },
+        {
+          "startMs": 12250,
+          "endMs": 12750,
+          "note": 59
+        },
+        {
+          "startMs": 12750,
+          "endMs": 13000,
+          "note": 59
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13250,
+          "note": 60
+        },
+        {
+          "startMs": 13250,
+          "endMs": 13500,
+          "note": 60
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13750,
+          "note": 59
+        },
+        {
+          "startMs": 13750,
+          "endMs": 14250,
+          "note": 57
+        },
+        {
+          "startMs": 14500,
+          "endMs": 15000,
+          "note": 54
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15250,
+          "note": 57
+        },
+        {
+          "startMs": 15750,
+          "endMs": 16000,
+          "note": 59
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 59
+        },
+        {
+          "startMs": 16750,
+          "endMs": 17250,
+          "note": 54
+        },
+        {
+          "startMs": 17250,
+          "endMs": 17500,
+          "note": 57
+        },
+        {
+          "startMs": 17500,
+          "endMs": 18000,
+          "note": 54
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18250,
+          "note": 54
+        },
+        {
+          "startMs": 18250,
+          "endMs": 18750,
+          "note": 55
+        },
+        {
+          "startMs": 18750,
+          "endMs": 19000,
+          "note": 59
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19250,
+          "note": 57
+        },
+        {
+          "startMs": 19250,
+          "endMs": 19500,
+          "note": 57
+        },
+        {
+          "startMs": 19500,
+          "endMs": 19750,
+          "note": 62
+        },
+        {
+          "startMs": 19750,
+          "endMs": 20000,
+          "note": 62
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20250,
+          "note": 60
+        },
+        {
+          "startMs": 20250,
+          "endMs": 20500,
+          "note": 59
+        },
+        {
+          "startMs": 20500,
+          "endMs": 21000,
+          "note": 62
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21250,
+          "note": 62
+        },
+        {
+          "startMs": 21250,
+          "endMs": 21750,
+          "note": 62
+        },
+        {
+          "startMs": 21750,
+          "endMs": 22000,
+          "note": 59
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22250,
+          "note": 60
+        },
+        {
+          "startMs": 22250,
+          "endMs": 22500,
+          "note": 60
+        },
+        {
+          "startMs": 22500,
+          "endMs": 22750,
+          "note": 62
+        },
+        {
+          "startMs": 22750,
+          "endMs": 23500,
+          "note": 62
+        },
+        {
+          "startMs": 23500,
+          "endMs": 24000,
+          "note": 59
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": 3,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "The",
+          "order": 0,
+          "timeMs": 0,
+          "word": "the",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 192,
+          "text": "Vir",
+          "order": 1,
+          "timeMs": 250,
+          "word": "virgin",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "vˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 576,
+          "text": "gin",
+          "order": 2,
+          "timeMs": 750,
+          "word": "virgin",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "Ma",
+          "order": 3,
+          "timeMs": 1000,
+          "word": "mary",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "ry",
+          "order": 4,
+          "timeMs": 1250,
+          "word": "mary",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "and",
+          "order": 5,
+          "timeMs": 1500,
+          "word": "and",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1344,
+          "text": "Christ",
+          "order": 6,
+          "timeMs": 1750,
+          "word": "christ",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kɹˈa‍ɪst",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1728,
+          "text": "were",
+          "order": 7,
+          "timeMs": 2250,
+          "word": "were",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "there,",
+          "order": 8,
+          "timeMs": 2500,
+          "word": "there",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2304,
+          "text": "On",
+          "order": 9,
+          "timeMs": 3000,
+          "word": "on",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2496,
+          "text": "Christ",
+          "order": 10,
+          "timeMs": 3250,
+          "word": "christmas",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "mas",
+          "order": 11,
+          "timeMs": 3750,
+          "word": "christmas",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "day,",
+          "order": 12,
+          "timeMs": 4000,
+          "word": "day",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3456,
+          "text": "on",
+          "order": 13,
+          "timeMs": 4500,
+          "word": "on",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3648,
+          "text": "Christ",
+          "order": 14,
+          "timeMs": 4750,
+          "word": "christmas",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4032,
+          "text": "mas",
+          "order": 15,
+          "timeMs": 5250,
+          "word": "christmas",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "day,",
+          "order": 16,
+          "timeMs": 5500,
+          "word": "day",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "The",
+          "order": 17,
+          "timeMs": 6000,
+          "word": "the",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4800,
+          "text": "Vir",
+          "order": 18,
+          "timeMs": 6250,
+          "word": "virgin",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "vˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5184,
+          "text": "gin",
+          "order": 19,
+          "timeMs": 6750,
+          "word": "virgin",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "Ma",
+          "order": 20,
+          "timeMs": 7000,
+          "word": "mary",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5568,
+          "text": "ry",
+          "order": 21,
+          "timeMs": 7250,
+          "word": "mary",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "and",
+          "order": 22,
+          "timeMs": 7500,
+          "word": "and",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5952,
+          "text": "Christ",
+          "order": 23,
+          "timeMs": 7750,
+          "word": "christ",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kɹˈa‍ɪst",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6336,
+          "text": "were",
+          "order": 24,
+          "timeMs": 8250,
+          "word": "were",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6528,
+          "text": "there,",
+          "order": 25,
+          "timeMs": 8500,
+          "word": "there",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6912,
+          "text": "On",
+          "order": 26,
+          "timeMs": 9000,
+          "word": "on",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7104,
+          "text": "Christ",
+          "order": 27,
+          "timeMs": 9250,
+          "word": "christmas",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7488,
+          "text": "mas",
+          "order": 28,
+          "timeMs": 9750,
+          "word": "christmas",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "day",
+          "order": 29,
+          "timeMs": 10000,
+          "word": "day",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7872,
+          "text": "in",
+          "order": 30,
+          "timeMs": 10250,
+          "word": "in",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "the",
+          "order": 31,
+          "timeMs": 10500,
+          "word": "the",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8256,
+          "text": "morn",
+          "order": 32,
+          "timeMs": 10750,
+          "word": "morning",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "ing.",
+          "order": 33,
+          "timeMs": 11500,
+          "word": "morning",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "And",
+          "order": 34,
+          "timeMs": 12000,
+          "word": "and",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9408,
+          "text": "all",
+          "order": 35,
+          "timeMs": 12250,
+          "word": "all",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9792,
+          "text": "the",
+          "order": 36,
+          "timeMs": 12750,
+          "word": "the",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "An",
+          "order": 37,
+          "timeMs": 13000,
+          "word": "angels",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10176,
+          "text": "gels",
+          "order": 38,
+          "timeMs": 13250,
+          "word": "angels",
+          "wordIndex": 37,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒə‍lz",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "in",
+          "order": 39,
+          "timeMs": 13500,
+          "word": "in",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "Heav’n",
+          "order": 40,
+          "timeMs": 13750,
+          "word": "heaven",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 10944,
+          "text": "shall",
+          "order": 41,
+          "timeMs": 14250,
+          "word": "shall",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "sing,",
+          "order": 42,
+          "timeMs": 14500,
+          "word": "sing",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "On",
+          "order": 43,
+          "timeMs": 15000,
+          "word": "on",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11712,
+          "text": "Christ",
+          "order": 44,
+          "timeMs": 15250,
+          "word": "christmas",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12096,
+          "text": "mas",
+          "order": 45,
+          "timeMs": 15750,
+          "word": "christmas",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "day,",
+          "order": 46,
+          "timeMs": 16000,
+          "word": "day",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12672,
+          "text": "on",
+          "order": 47,
+          "timeMs": 16500,
+          "word": "on",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12864,
+          "text": "Christ",
+          "order": 48,
+          "timeMs": 16750,
+          "word": "christmas",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13248,
+          "text": "mas",
+          "order": 49,
+          "timeMs": 17250,
+          "word": "christmas",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "day,",
+          "order": 50,
+          "timeMs": 17500,
+          "word": "day",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "And",
+          "order": 51,
+          "timeMs": 18000,
+          "word": "and",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14016,
+          "text": "all",
+          "order": 52,
+          "timeMs": 18250,
+          "word": "all",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14400,
+          "text": "the",
+          "order": 53,
+          "timeMs": 18750,
+          "word": "the",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "An",
+          "order": 54,
+          "timeMs": 19000,
+          "word": "angels",
+          "wordIndex": 54,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14784,
+          "text": "gels",
+          "order": 55,
+          "timeMs": 19250,
+          "word": "angels",
+          "wordIndex": 54,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒə‍lz",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "in",
+          "order": 56,
+          "timeMs": 19500,
+          "word": "in",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15168,
+          "text": "Heav’n",
+          "order": 57,
+          "timeMs": 19750,
+          "word": "heaven",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 15552,
+          "text": "shall",
+          "order": 58,
+          "timeMs": 20250,
+          "word": "shall",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "sing,",
+          "order": 59,
+          "timeMs": 20500,
+          "word": "sing",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "On",
+          "order": 60,
+          "timeMs": 21000,
+          "word": "on",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "Christ",
+          "order": 61,
+          "timeMs": 21250,
+          "word": "christmas",
+          "wordIndex": 61,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16704,
+          "text": "mas",
+          "order": 62,
+          "timeMs": 21750,
+          "word": "christmas",
+          "wordIndex": 61,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "day",
+          "order": 63,
+          "timeMs": 22000,
+          "word": "day",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17088,
+          "text": "in",
+          "order": 64,
+          "timeMs": 22250,
+          "word": "in",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "the",
+          "order": 65,
+          "timeMs": 22500,
+          "word": "the",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17472,
+          "text": "morn",
+          "order": 66,
+          "timeMs": 22750,
+          "word": "morning",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "ing.",
+          "order": 67,
+          "timeMs": 23500,
+          "word": "morning",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 250,
+          "note": 62
+        },
+        {
+          "startMs": 250,
+          "endMs": 750,
+          "note": 62
+        },
+        {
+          "startMs": 750,
+          "endMs": 1000,
+          "note": 62
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1250,
+          "note": 62
+        },
+        {
+          "startMs": 1250,
+          "endMs": 1500,
+          "note": 62
+        },
+        {
+          "startMs": 1500,
+          "endMs": 1750,
+          "note": 62
+        },
+        {
+          "startMs": 1750,
+          "endMs": 2250,
+          "note": 62
+        },
+        {
+          "startMs": 2250,
+          "endMs": 2500,
+          "note": 62
+        },
+        {
+          "startMs": 2500,
+          "endMs": 3000,
+          "note": 62
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3250,
+          "note": 62
+        },
+        {
+          "startMs": 3250,
+          "endMs": 3750,
+          "note": 62
+        },
+        {
+          "startMs": 3750,
+          "endMs": 4000,
+          "note": 62
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 62
+        },
+        {
+          "startMs": 4500,
+          "endMs": 4750,
+          "note": 62
+        },
+        {
+          "startMs": 4750,
+          "endMs": 5250,
+          "note": 62
+        },
+        {
+          "startMs": 5250,
+          "endMs": 5500,
+          "note": 62
+        },
+        {
+          "startMs": 5500,
+          "endMs": 6000,
+          "note": 62
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6250,
+          "note": 60
+        },
+        {
+          "startMs": 6250,
+          "endMs": 6750,
+          "note": 59
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7000,
+          "note": 64
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7250,
+          "note": 62
+        },
+        {
+          "startMs": 7250,
+          "endMs": 7500,
+          "note": 62
+        },
+        {
+          "startMs": 7500,
+          "endMs": 7750,
+          "note": 67
+        },
+        {
+          "startMs": 7750,
+          "endMs": 8000,
+          "note": 67
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8250,
+          "note": 66
+        },
+        {
+          "startMs": 8250,
+          "endMs": 8500,
+          "note": 67
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 66
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9250,
+          "note": 69
+        },
+        {
+          "startMs": 9250,
+          "endMs": 9750,
+          "note": 67
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10000,
+          "note": 62
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10250,
+          "note": 64
+        },
+        {
+          "startMs": 10250,
+          "endMs": 10500,
+          "note": 66
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10750,
+          "note": 67
+        },
+        {
+          "startMs": 10750,
+          "endMs": 11500,
+          "note": 66
+        },
+        {
+          "startMs": 11500,
+          "endMs": 12000,
+          "note": 67
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12250,
+          "note": 62
+        },
+        {
+          "startMs": 12250,
+          "endMs": 12750,
+          "note": 62
+        },
+        {
+          "startMs": 12750,
+          "endMs": 13000,
+          "note": 62
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13250,
+          "note": 62
+        },
+        {
+          "startMs": 13250,
+          "endMs": 13500,
+          "note": 62
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13750,
+          "note": 62
+        },
+        {
+          "startMs": 13750,
+          "endMs": 14250,
+          "note": 62
+        },
+        {
+          "startMs": 14250,
+          "endMs": 14500,
+          "note": 62
+        },
+        {
+          "startMs": 14500,
+          "endMs": 15000,
+          "note": 62
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15250,
+          "note": 62
+        },
+        {
+          "startMs": 15250,
+          "endMs": 15750,
+          "note": 62
+        },
+        {
+          "startMs": 15750,
+          "endMs": 16000,
+          "note": 62
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 62
+        },
+        {
+          "startMs": 16500,
+          "endMs": 16750,
+          "note": 62
+        },
+        {
+          "startMs": 16750,
+          "endMs": 17250,
+          "note": 62
+        },
+        {
+          "startMs": 17250,
+          "endMs": 17500,
+          "note": 62
+        },
+        {
+          "startMs": 17500,
+          "endMs": 18000,
+          "note": 62
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18250,
+          "note": 60
+        },
+        {
+          "startMs": 18250,
+          "endMs": 18750,
+          "note": 59
+        },
+        {
+          "startMs": 18750,
+          "endMs": 19000,
+          "note": 64
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19250,
+          "note": 62
+        },
+        {
+          "startMs": 19250,
+          "endMs": 19500,
+          "note": 62
+        },
+        {
+          "startMs": 19500,
+          "endMs": 19750,
+          "note": 67
+        },
+        {
+          "startMs": 19750,
+          "endMs": 20000,
+          "note": 67
+        },
+        {
+          "startMs": 20000,
+          "endMs": 20250,
+          "note": 66
+        },
+        {
+          "startMs": 20250,
+          "endMs": 20500,
+          "note": 67
+        },
+        {
+          "startMs": 20500,
+          "endMs": 21000,
+          "note": 66
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21250,
+          "note": 69
+        },
+        {
+          "startMs": 21250,
+          "endMs": 21750,
+          "note": 67
+        },
+        {
+          "startMs": 21750,
+          "endMs": 22000,
+          "note": 62
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22250,
+          "note": 64
+        },
+        {
+          "startMs": 22250,
+          "endMs": 22500,
+          "note": 66
+        },
+        {
+          "startMs": 22500,
+          "endMs": 22750,
+          "note": 67
+        },
+        {
+          "startMs": 22750,
+          "endMs": 23500,
+          "note": 66
+        },
+        {
+          "startMs": 23500,
+          "endMs": 24000,
+          "note": 67
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": 3,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "The",
+          "order": 0,
+          "timeMs": 0,
+          "word": "the",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 192,
+          "text": "Vir",
+          "order": 1,
+          "timeMs": 250,
+          "word": "virgin",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "vˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 576,
+          "text": "gin",
+          "order": 2,
+          "timeMs": 750,
+          "word": "virgin",
+          "wordIndex": 1,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "Ma",
+          "order": 3,
+          "timeMs": 1000,
+          "word": "mary",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 960,
+          "text": "ry",
+          "order": 4,
+          "timeMs": 1250,
+          "word": "mary",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "and",
+          "order": 5,
+          "timeMs": 1500,
+          "word": "and",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1344,
+          "text": "Christ",
+          "order": 6,
+          "timeMs": 1750,
+          "word": "christ",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kɹˈa‍ɪst",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1728,
+          "text": "were",
+          "order": 7,
+          "timeMs": 2250,
+          "word": "were",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1920,
+          "text": "there,",
+          "order": 8,
+          "timeMs": 2500,
+          "word": "there",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 2304,
+          "text": "On",
+          "order": 9,
+          "timeMs": 3000,
+          "word": "on",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2496,
+          "text": "Christ",
+          "order": 10,
+          "timeMs": 3250,
+          "word": "christmas",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2880,
+          "text": "mas",
+          "order": 11,
+          "timeMs": 3750,
+          "word": "christmas",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "day,",
+          "order": 12,
+          "timeMs": 4000,
+          "word": "day",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 3456,
+          "text": "on",
+          "order": 13,
+          "timeMs": 4500,
+          "word": "on",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3648,
+          "text": "Christ",
+          "order": 14,
+          "timeMs": 4750,
+          "word": "christmas",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4032,
+          "text": "mas",
+          "order": 15,
+          "timeMs": 5250,
+          "word": "christmas",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "day,",
+          "order": 16,
+          "timeMs": 5500,
+          "word": "day",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "The",
+          "order": 17,
+          "timeMs": 6000,
+          "word": "the",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4800,
+          "text": "Vir",
+          "order": 18,
+          "timeMs": 6250,
+          "word": "virgin",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "vˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5184,
+          "text": "gin",
+          "order": 19,
+          "timeMs": 6750,
+          "word": "virgin",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "Ma",
+          "order": 20,
+          "timeMs": 7000,
+          "word": "mary",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5568,
+          "text": "ry",
+          "order": 21,
+          "timeMs": 7250,
+          "word": "mary",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ɹi",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "and",
+          "order": 22,
+          "timeMs": 7500,
+          "word": "and",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5952,
+          "text": "Christ",
+          "order": 23,
+          "timeMs": 7750,
+          "word": "christ",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kɹˈa‍ɪst",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6336,
+          "text": "were",
+          "order": 24,
+          "timeMs": 8250,
+          "word": "were",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɜː",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6528,
+          "text": "there,",
+          "order": 25,
+          "timeMs": 8500,
+          "word": "there",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈe‍ə",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 6912,
+          "text": "On",
+          "order": 26,
+          "timeMs": 9000,
+          "word": "on",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7104,
+          "text": "Christ",
+          "order": 27,
+          "timeMs": 9250,
+          "word": "christmas",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7488,
+          "text": "mas",
+          "order": 28,
+          "timeMs": 9750,
+          "word": "christmas",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "day",
+          "order": 29,
+          "timeMs": 10000,
+          "word": "day",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 7872,
+          "text": "in",
+          "order": 30,
+          "timeMs": 10250,
+          "word": "in",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "the",
+          "order": 31,
+          "timeMs": 10500,
+          "word": "the",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8256,
+          "text": "morn",
+          "order": 32,
+          "timeMs": 10750,
+          "word": "morning",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "ing.",
+          "order": 33,
+          "timeMs": 11500,
+          "word": "morning",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "And",
+          "order": 34,
+          "timeMs": 12000,
+          "word": "and",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9408,
+          "text": "all",
+          "order": 35,
+          "timeMs": 12250,
+          "word": "all",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9792,
+          "text": "the",
+          "order": 36,
+          "timeMs": 12750,
+          "word": "the",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "An",
+          "order": 37,
+          "timeMs": 13000,
+          "word": "angels",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10176,
+          "text": "gels",
+          "order": 38,
+          "timeMs": 13250,
+          "word": "angels",
+          "wordIndex": 37,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒə‍lz",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "in",
+          "order": 39,
+          "timeMs": 13500,
+          "word": "in",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10560,
+          "text": "Heav’n",
+          "order": 40,
+          "timeMs": 13750,
+          "word": "heaven",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 10944,
+          "text": "shall",
+          "order": 41,
+          "timeMs": 14250,
+          "word": "shall",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "sing,",
+          "order": 42,
+          "timeMs": 14500,
+          "word": "sing",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 11520,
+          "text": "On",
+          "order": 43,
+          "timeMs": 15000,
+          "word": "on",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11712,
+          "text": "Christ",
+          "order": 44,
+          "timeMs": 15250,
+          "word": "christmas",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12096,
+          "text": "mas",
+          "order": 45,
+          "timeMs": 15750,
+          "word": "christmas",
+          "wordIndex": 44,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "day,",
+          "order": 46,
+          "timeMs": 16000,
+          "word": "day",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 12672,
+          "text": "on",
+          "order": 47,
+          "timeMs": 16500,
+          "word": "on",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12864,
+          "text": "Christ",
+          "order": 48,
+          "timeMs": 16750,
+          "word": "christmas",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13248,
+          "text": "mas",
+          "order": 49,
+          "timeMs": 17250,
+          "word": "christmas",
+          "wordIndex": 48,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "day,",
+          "order": 50,
+          "timeMs": 17500,
+          "word": "day",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "And",
+          "order": 51,
+          "timeMs": 18000,
+          "word": "and",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14016,
+          "text": "all",
+          "order": 52,
+          "timeMs": 18250,
+          "word": "all",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɔːl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14400,
+          "text": "the",
+          "order": 53,
+          "timeMs": 18750,
+          "word": "the",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "An",
+          "order": 54,
+          "timeMs": 19000,
+          "word": "angels",
+          "wordIndex": 54,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "ˈe‍ɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14784,
+          "text": "gels",
+          "order": 55,
+          "timeMs": 19250,
+          "word": "angels",
+          "wordIndex": 54,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "d‍ʒə‍lz",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "in",
+          "order": 56,
+          "timeMs": 19500,
+          "word": "in",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15168,
+          "text": "Heav’n",
+          "order": 57,
+          "timeMs": 19750,
+          "word": "heaven",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hɛvn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 15552,
+          "text": "shall",
+          "order": 58,
+          "timeMs": 20250,
+          "word": "shall",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "sing,",
+          "order": 59,
+          "timeMs": 20500,
+          "word": "sing",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "sˈɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "On",
+          "order": 60,
+          "timeMs": 21000,
+          "word": "on",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16320,
+          "text": "Christ",
+          "order": 61,
+          "timeMs": 21250,
+          "word": "christmas",
+          "wordIndex": 61,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "kɹˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16704,
+          "text": "mas",
+          "order": 62,
+          "timeMs": 21750,
+          "word": "christmas",
+          "wordIndex": 61,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "sməs",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "day",
+          "order": 63,
+          "timeMs": 22000,
+          "word": "day",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "dˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 17088,
+          "text": "in",
+          "order": 64,
+          "timeMs": 22250,
+          "word": "in",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪn",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "the",
+          "order": 65,
+          "timeMs": 22500,
+          "word": "the",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17472,
+          "text": "morn",
+          "order": 66,
+          "timeMs": 22750,
+          "word": "morning",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "mˈɔː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "ing.",
+          "order": 67,
+          "timeMs": 23500,
+          "word": "morning",
+          "wordIndex": 66,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "nɪŋ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 250,
+          "endMs": 750,
+          "note": 67
+        },
+        {
+          "startMs": 750,
+          "endMs": 1000,
+          "note": 67
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1250,
+          "note": 69
+        },
+        {
+          "startMs": 1250,
+          "endMs": 1500,
+          "note": 69
+        },
+        {
+          "startMs": 1500,
+          "endMs": 1750,
+          "note": 71
+        },
+        {
+          "startMs": 1750,
+          "endMs": 2250,
+          "note": 74
+        },
+        {
+          "startMs": 2250,
+          "endMs": 2500,
+          "note": 71
+        },
+        {
+          "startMs": 2500,
+          "endMs": 3000,
+          "note": 69
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3250,
+          "note": 72
+        },
+        {
+          "startMs": 3250,
+          "endMs": 3750,
+          "note": 71
+        },
+        {
+          "startMs": 3750,
+          "endMs": 4000,
+          "note": 67
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 67
+        },
+        {
+          "startMs": 4500,
+          "endMs": 4750,
+          "note": 71
+        },
+        {
+          "startMs": 4750,
+          "endMs": 5250,
+          "note": 69
+        },
+        {
+          "startMs": 5250,
+          "endMs": 5500,
+          "note": 66
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6250,
+          "note": 62
+        },
+        {
+          "startMs": 6250,
+          "endMs": 6750,
+          "note": 67
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7000,
+          "note": 67
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7250,
+          "note": 69
+        },
+        {
+          "startMs": 7250,
+          "endMs": 7500,
+          "note": 69
+        },
+        {
+          "startMs": 7500,
+          "endMs": 7750,
+          "note": 71
+        },
+        {
+          "startMs": 7750,
+          "endMs": 8250,
+          "note": 74
+        },
+        {
+          "startMs": 8250,
+          "endMs": 8500,
+          "note": 71
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 69
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9250,
+          "note": 72
+        },
+        {
+          "startMs": 9250,
+          "endMs": 9750,
+          "note": 71
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10000,
+          "note": 67
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10250,
+          "note": 67
+        },
+        {
+          "startMs": 10250,
+          "endMs": 10500,
+          "note": 69
+        },
+        {
+          "startMs": 10500,
+          "endMs": 10750,
+          "note": 71
+        },
+        {
+          "startMs": 10750,
+          "endMs": 11500,
+          "note": 69
+        },
+        {
+          "startMs": 12250,
+          "endMs": 12750,
+          "note": 67
+        },
+        {
+          "startMs": 12750,
+          "endMs": 13000,
+          "note": 67
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13250,
+          "note": 69
+        },
+        {
+          "startMs": 13250,
+          "endMs": 13500,
+          "note": 69
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13750,
+          "note": 71
+        },
+        {
+          "startMs": 13750,
+          "endMs": 14250,
+          "note": 74
+        },
+        {
+          "startMs": 14250,
+          "endMs": 14500,
+          "note": 71
+        },
+        {
+          "startMs": 14500,
+          "endMs": 15000,
+          "note": 69
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15250,
+          "note": 72
+        },
+        {
+          "startMs": 15250,
+          "endMs": 15750,
+          "note": 71
+        },
+        {
+          "startMs": 15750,
+          "endMs": 16000,
+          "note": 67
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 67
+        },
+        {
+          "startMs": 16500,
+          "endMs": 16750,
+          "note": 71
+        },
+        {
+          "startMs": 16750,
+          "endMs": 17250,
+          "note": 69
+        },
+        {
+          "startMs": 17250,
+          "endMs": 17500,
+          "note": 66
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18250,
+          "note": 62
+        },
+        {
+          "startMs": 18250,
+          "endMs": 18750,
+          "note": 67
+        },
+        {
+          "startMs": 18750,
+          "endMs": 19000,
+          "note": 67
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19250,
+          "note": 69
+        },
+        {
+          "startMs": 19250,
+          "endMs": 19500,
+          "note": 69
+        },
+        {
+          "startMs": 19500,
+          "endMs": 19750,
+          "note": 71
+        },
+        {
+          "startMs": 19750,
+          "endMs": 20250,
+          "note": 74
+        },
+        {
+          "startMs": 20250,
+          "endMs": 20500,
+          "note": 71
+        },
+        {
+          "startMs": 20500,
+          "endMs": 21000,
+          "note": 69
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21250,
+          "note": 72
+        },
+        {
+          "startMs": 21250,
+          "endMs": 21750,
+          "note": 71
+        },
+        {
+          "startMs": 21750,
+          "endMs": 22000,
+          "note": 67
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22250,
+          "note": 67
+        },
+        {
+          "startMs": 22250,
+          "endMs": 22500,
+          "note": 69
+        },
+        {
+          "startMs": 22500,
+          "endMs": 22750,
+          "note": 71
+        },
+        {
+          "startMs": 22750,
+          "endMs": 23500,
+          "note": 69
+        }
+      ]
+    }
+  ]
+}
