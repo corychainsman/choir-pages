@@ -1,0 +1,3061 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "eb9a2a9f8669925ab884693551d830027829c9bcfc4192fece12dc8ed221a283",
+  "id": "joy-to-the-world",
+  "title": "Joy to the World",
+  "durationMs": 33021,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/joy-to-the-world/song.cscore",
+  "displayScore": "/songs/joy-to-the-world/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 40,
+        "words": 34,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 40
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 24,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 28
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 42,
+        "words": 36,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 42
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 42,
+        "words": 36,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 42
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "CC0 LilyPond edition and MIDI by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 4,
+      "lyricTrack": -2,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Joy",
+          "word": "joy",
+          "ipa": "d‍ʒˈɔ‍ɪ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 384,
+          "timeMs": 857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 672,
+          "timeMs": 1500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "world!",
+          "word": "world",
+          "ipa": "wˈɜːld",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 768,
+          "timeMs": 1714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1344,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "Lord",
+          "word": "lord",
+          "ipa": "lˈɔːd",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 3429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "is",
+          "word": "is",
+          "ipa": "ˈɪz",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1920,
+          "timeMs": 4286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "come;",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2304,
+          "timeMs": 5143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "Let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2880,
+          "timeMs": 6429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "earth",
+          "word": "earth",
+          "ipa": "ˈɜːθ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 3072,
+          "timeMs": 6857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "re",
+          "word": "receive",
+          "ipa": "ɹɪ",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3648,
+          "timeMs": 8143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "ceive",
+          "word": "receive",
+          "ipa": "sˈiːv",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 8571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "her",
+          "word": "her",
+          "ipa": "hˈɜː",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4416,
+          "timeMs": 9857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "King;",
+          "word": "king",
+          "ipa": "kˈɪŋ",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4608,
+          "timeMs": 10286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "Let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5184,
+          "timeMs": 11571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "ev",
+          "word": "every",
+          "ipa": "ˈɛv",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 5376,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "’ry",
+          "word": "every",
+          "ipa": "ɹi",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 5760,
+          "timeMs": 12857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "heart",
+          "word": "heart",
+          "ipa": "hˈɑːt",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 13714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "pre",
+          "word": "prepare",
+          "ipa": "pɹɪ",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 6720,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "pare",
+          "word": "prepare",
+          "ipa": "pˈe‍ə",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 6912,
+          "timeMs": 15429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "Him",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7296,
+          "timeMs": 16286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "room,",
+          "word": "room",
+          "ipa": "ɹˈuːm",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 17143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9024,
+          "timeMs": 20143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9216,
+          "timeMs": 20571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9408,
+          "timeMs": 21000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 9600,
+          "timeMs": 21429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 9792,
+          "timeMs": 21857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "sing,",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9984,
+          "timeMs": 22286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10560,
+          "timeMs": 23571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10752,
+          "timeMs": 24000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10944,
+          "timeMs": 24429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 11136,
+          "timeMs": 24857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 11328,
+          "timeMs": 25286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "sing,",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11520,
+          "timeMs": 25714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12096,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12288,
+          "timeMs": 27429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12864,
+          "timeMs": 28714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 13056,
+          "timeMs": 29143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 13440,
+          "timeMs": 30000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "sing.",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 13824,
+          "timeMs": 30857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 857,
+          "note": 50
+        },
+        {
+          "startMs": 857,
+          "endMs": 1500,
+          "note": 50
+        },
+        {
+          "startMs": 1500,
+          "endMs": 1714,
+          "note": 50
+        },
+        {
+          "startMs": 1714,
+          "endMs": 3000,
+          "note": 50
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3429,
+          "note": 43
+        },
+        {
+          "startMs": 3429,
+          "endMs": 4286,
+          "note": 45
+        },
+        {
+          "startMs": 4286,
+          "endMs": 5143,
+          "note": 45
+        },
+        {
+          "startMs": 5143,
+          "endMs": 6429,
+          "note": 50
+        },
+        {
+          "startMs": 6429,
+          "endMs": 6857,
+          "note": 54
+        },
+        {
+          "startMs": 6857,
+          "endMs": 8143,
+          "note": 55
+        },
+        {
+          "startMs": 8143,
+          "endMs": 8571,
+          "note": 55
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9857,
+          "note": 57
+        },
+        {
+          "startMs": 9857,
+          "endMs": 10286,
+          "note": 57
+        },
+        {
+          "startMs": 10286,
+          "endMs": 11571,
+          "note": 50
+        },
+        {
+          "startMs": 11571,
+          "endMs": 12000,
+          "note": 50
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12857,
+          "note": 50
+        },
+        {
+          "startMs": 12857,
+          "endMs": 13714,
+          "note": 50
+        },
+        {
+          "startMs": 13714,
+          "endMs": 15000,
+          "note": 50
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15429,
+          "note": 50
+        },
+        {
+          "startMs": 15429,
+          "endMs": 16286,
+          "note": 50
+        },
+        {
+          "startMs": 16286,
+          "endMs": 17143,
+          "note": 50
+        },
+        {
+          "startMs": 17143,
+          "endMs": 18429,
+          "note": 50
+        },
+        {
+          "startMs": 20143,
+          "endMs": 20571,
+          "note": 50
+        },
+        {
+          "startMs": 20571,
+          "endMs": 21000,
+          "note": 50
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21429,
+          "note": 50
+        },
+        {
+          "startMs": 21429,
+          "endMs": 21857,
+          "note": 50
+        },
+        {
+          "startMs": 21857,
+          "endMs": 22286,
+          "note": 50
+        },
+        {
+          "startMs": 22286,
+          "endMs": 23571,
+          "note": 57
+        },
+        {
+          "startMs": 23571,
+          "endMs": 24000,
+          "note": 45
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24429,
+          "note": 45
+        },
+        {
+          "startMs": 24429,
+          "endMs": 24857,
+          "note": 45
+        },
+        {
+          "startMs": 24857,
+          "endMs": 25286,
+          "note": 45
+        },
+        {
+          "startMs": 25286,
+          "endMs": 25714,
+          "note": 45
+        },
+        {
+          "startMs": 25714,
+          "endMs": 27000,
+          "note": 50
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27429,
+          "note": 50
+        },
+        {
+          "startMs": 27429,
+          "endMs": 28714,
+          "note": 50
+        },
+        {
+          "startMs": 28714,
+          "endMs": 29143,
+          "note": 43
+        },
+        {
+          "startMs": 29143,
+          "endMs": 30000,
+          "note": 45
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30857,
+          "note": 45
+        },
+        {
+          "startMs": 30857,
+          "endMs": 32571,
+          "note": 50
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 3,
+      "lyricTrack": -2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Joy",
+          "word": "joy",
+          "ipa": "d‍ʒˈɔ‍ɪ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 384,
+          "timeMs": 857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 672,
+          "timeMs": 1500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "world!",
+          "word": "world",
+          "ipa": "wˈɜːld",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 768,
+          "timeMs": 1714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1344,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "Lord",
+          "word": "lord",
+          "ipa": "lˈɔːd",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 3429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "is",
+          "word": "is",
+          "ipa": "ˈɪz",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2112,
+          "timeMs": 4714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "come;",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2304,
+          "timeMs": 5143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "Let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2880,
+          "timeMs": 6429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "earth",
+          "word": "earth",
+          "ipa": "ˈɜːθ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 3072,
+          "timeMs": 6857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "re",
+          "word": "receive",
+          "ipa": "ɹɪ",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3648,
+          "timeMs": 8143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "ceive",
+          "word": "receive",
+          "ipa": "sˈiːv",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 8571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "her",
+          "word": "her",
+          "ipa": "hˈɜː",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4416,
+          "timeMs": 9857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "King;",
+          "word": "king",
+          "ipa": "kˈɪŋ",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4608,
+          "timeMs": 10286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "Let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5184,
+          "timeMs": 11571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "ev",
+          "word": "every",
+          "ipa": "ˈɛv",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 5376,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "’ry",
+          "word": "every",
+          "ipa": "ɹi",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 5760,
+          "timeMs": 12857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "heart",
+          "word": "heart",
+          "ipa": "hˈɑːt",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 13714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "pre",
+          "word": "prepare",
+          "ipa": "pɹɪ",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 6720,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "pare",
+          "word": "prepare",
+          "ipa": "pˈe‍ə",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 6912,
+          "timeMs": 15429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "Him",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7296,
+          "timeMs": 16286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "room,",
+          "word": "room",
+          "ipa": "ɹˈuːm",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 17143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9024,
+          "timeMs": 20143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9216,
+          "timeMs": 20571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9408,
+          "timeMs": 21000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 9600,
+          "timeMs": 21429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 9792,
+          "timeMs": 21857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "sing,",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9984,
+          "timeMs": 22286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 857,
+          "note": 57
+        },
+        {
+          "startMs": 857,
+          "endMs": 1500,
+          "note": 62
+        },
+        {
+          "startMs": 1500,
+          "endMs": 1714,
+          "note": 62
+        },
+        {
+          "startMs": 1714,
+          "endMs": 3000,
+          "note": 62
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3429,
+          "note": 59
+        },
+        {
+          "startMs": 3429,
+          "endMs": 4714,
+          "note": 57
+        },
+        {
+          "startMs": 4714,
+          "endMs": 5143,
+          "note": 55
+        },
+        {
+          "startMs": 5143,
+          "endMs": 6429,
+          "note": 54
+        },
+        {
+          "startMs": 6429,
+          "endMs": 6857,
+          "note": 62
+        },
+        {
+          "startMs": 6857,
+          "endMs": 8143,
+          "note": 62
+        },
+        {
+          "startMs": 8143,
+          "endMs": 8571,
+          "note": 62
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9857,
+          "note": 57
+        },
+        {
+          "startMs": 9857,
+          "endMs": 10286,
+          "note": 57
+        },
+        {
+          "startMs": 10286,
+          "endMs": 11571,
+          "note": 57
+        },
+        {
+          "startMs": 11571,
+          "endMs": 12000,
+          "note": 57
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12857,
+          "note": 57
+        },
+        {
+          "startMs": 12857,
+          "endMs": 13714,
+          "note": 62
+        },
+        {
+          "startMs": 13714,
+          "endMs": 14571,
+          "note": 62
+        },
+        {
+          "startMs": 14571,
+          "endMs": 15000,
+          "note": 57
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15429,
+          "note": 57
+        },
+        {
+          "startMs": 15429,
+          "endMs": 16286,
+          "note": 57
+        },
+        {
+          "startMs": 16286,
+          "endMs": 17143,
+          "note": 62
+        },
+        {
+          "startMs": 17143,
+          "endMs": 18000,
+          "note": 62
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18429,
+          "note": 57
+        },
+        {
+          "startMs": 20143,
+          "endMs": 20571,
+          "note": 57
+        },
+        {
+          "startMs": 20571,
+          "endMs": 21000,
+          "note": 57
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21429,
+          "note": 57
+        },
+        {
+          "startMs": 21429,
+          "endMs": 21857,
+          "note": 57
+        },
+        {
+          "startMs": 21857,
+          "endMs": 22286,
+          "note": 57
+        },
+        {
+          "startMs": 22286,
+          "endMs": 25286,
+          "note": 57
+        },
+        {
+          "startMs": 25286,
+          "endMs": 25500,
+          "note": 57
+        },
+        {
+          "startMs": 25500,
+          "endMs": 25714,
+          "note": 55
+        },
+        {
+          "startMs": 25714,
+          "endMs": 26143,
+          "note": 54
+        },
+        {
+          "startMs": 26143,
+          "endMs": 27000,
+          "note": 57
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27429,
+          "note": 62
+        },
+        {
+          "startMs": 27429,
+          "endMs": 28286,
+          "note": 62
+        },
+        {
+          "startMs": 28286,
+          "endMs": 28714,
+          "note": 57
+        },
+        {
+          "startMs": 28714,
+          "endMs": 29143,
+          "note": 59
+        },
+        {
+          "startMs": 29143,
+          "endMs": 30429,
+          "note": 57
+        },
+        {
+          "startMs": 30429,
+          "endMs": 30857,
+          "note": 55
+        },
+        {
+          "startMs": 30857,
+          "endMs": 32571,
+          "note": 54
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 2,
+      "lyricTrack": -2,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Joy",
+          "word": "joy",
+          "ipa": "d‍ʒˈɔ‍ɪ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 384,
+          "timeMs": 857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 672,
+          "timeMs": 1500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "world!",
+          "word": "world",
+          "ipa": "wˈɜːld",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 768,
+          "timeMs": 1714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1344,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "Lord",
+          "word": "lord",
+          "ipa": "lˈɔːd",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 3429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "is",
+          "word": "is",
+          "ipa": "ˈɪz",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1920,
+          "timeMs": 4286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "come;",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2304,
+          "timeMs": 5143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "Let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2880,
+          "timeMs": 6429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "earth",
+          "word": "earth",
+          "ipa": "ˈɜːθ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 3072,
+          "timeMs": 6857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "re",
+          "word": "receive",
+          "ipa": "ɹɪ",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3648,
+          "timeMs": 8143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "ceive",
+          "word": "receive",
+          "ipa": "sˈiːv",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 8571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "her",
+          "word": "her",
+          "ipa": "hˈɜː",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4416,
+          "timeMs": 9857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "King;",
+          "word": "king",
+          "ipa": "kˈɪŋ",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4608,
+          "timeMs": 10286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "Let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5184,
+          "timeMs": 11571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "ev",
+          "word": "every",
+          "ipa": "ˈɛv",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 5376,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "’ry",
+          "word": "every",
+          "ipa": "ɹi",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 5760,
+          "timeMs": 12857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "heart",
+          "word": "heart",
+          "ipa": "hˈɑːt",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 13714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "pre",
+          "word": "prepare",
+          "ipa": "pɹɪ",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 6720,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "pare",
+          "word": "prepare",
+          "ipa": "pˈe‍ə",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 6912,
+          "timeMs": 15429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "Him",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7296,
+          "timeMs": 16286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "room,",
+          "word": "room",
+          "ipa": "ɹˈuːm",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 17143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8256,
+          "timeMs": 18429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8448,
+          "timeMs": 18857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8640,
+          "timeMs": 19286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 8832,
+          "timeMs": 19714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 9024,
+          "timeMs": 20143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "sing,",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9216,
+          "timeMs": 20571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9792,
+          "timeMs": 21857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9984,
+          "timeMs": 22286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10176,
+          "timeMs": 22714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 10368,
+          "timeMs": 23143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 10560,
+          "timeMs": 23571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "sing,",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10752,
+          "timeMs": 24000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11328,
+          "timeMs": 25286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "heav’n,",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11520,
+          "timeMs": 25714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12096,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12288,
+          "timeMs": 27429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12864,
+          "timeMs": 28714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 13056,
+          "timeMs": 29143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 34,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 13440,
+          "timeMs": 30000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "sing.",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 13824,
+          "timeMs": 30857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 857,
+          "note": 66
+        },
+        {
+          "startMs": 857,
+          "endMs": 1500,
+          "note": 69
+        },
+        {
+          "startMs": 1500,
+          "endMs": 1714,
+          "note": 67
+        },
+        {
+          "startMs": 1714,
+          "endMs": 3000,
+          "note": 66
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3429,
+          "note": 64
+        },
+        {
+          "startMs": 3429,
+          "endMs": 4286,
+          "note": 62
+        },
+        {
+          "startMs": 4286,
+          "endMs": 5143,
+          "note": 61
+        },
+        {
+          "startMs": 5143,
+          "endMs": 6429,
+          "note": 62
+        },
+        {
+          "startMs": 6429,
+          "endMs": 6857,
+          "note": 69
+        },
+        {
+          "startMs": 6857,
+          "endMs": 8143,
+          "note": 67
+        },
+        {
+          "startMs": 8143,
+          "endMs": 8571,
+          "note": 67
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9857,
+          "note": 67
+        },
+        {
+          "startMs": 9857,
+          "endMs": 10286,
+          "note": 67
+        },
+        {
+          "startMs": 10286,
+          "endMs": 11571,
+          "note": 66
+        },
+        {
+          "startMs": 11571,
+          "endMs": 12000,
+          "note": 66
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12429,
+          "note": 66
+        },
+        {
+          "startMs": 12429,
+          "endMs": 12857,
+          "note": 69
+        },
+        {
+          "startMs": 12857,
+          "endMs": 13286,
+          "note": 67
+        },
+        {
+          "startMs": 13286,
+          "endMs": 13714,
+          "note": 66
+        },
+        {
+          "startMs": 13714,
+          "endMs": 14357,
+          "note": 66
+        },
+        {
+          "startMs": 14357,
+          "endMs": 14571,
+          "note": 64
+        },
+        {
+          "startMs": 14571,
+          "endMs": 15000,
+          "note": 62
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15429,
+          "note": 66
+        },
+        {
+          "startMs": 15429,
+          "endMs": 15857,
+          "note": 66
+        },
+        {
+          "startMs": 15857,
+          "endMs": 16286,
+          "note": 69
+        },
+        {
+          "startMs": 16286,
+          "endMs": 16714,
+          "note": 67
+        },
+        {
+          "startMs": 16714,
+          "endMs": 17143,
+          "note": 66
+        },
+        {
+          "startMs": 17143,
+          "endMs": 17786,
+          "note": 66
+        },
+        {
+          "startMs": 17786,
+          "endMs": 18000,
+          "note": 64
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18429,
+          "note": 62
+        },
+        {
+          "startMs": 18429,
+          "endMs": 18857,
+          "note": 62
+        },
+        {
+          "startMs": 18857,
+          "endMs": 19286,
+          "note": 62
+        },
+        {
+          "startMs": 19286,
+          "endMs": 19714,
+          "note": 62
+        },
+        {
+          "startMs": 19714,
+          "endMs": 20143,
+          "note": 62
+        },
+        {
+          "startMs": 20143,
+          "endMs": 20357,
+          "note": 62
+        },
+        {
+          "startMs": 20357,
+          "endMs": 20571,
+          "note": 64
+        },
+        {
+          "startMs": 20571,
+          "endMs": 21857,
+          "note": 66
+        },
+        {
+          "startMs": 21857,
+          "endMs": 22071,
+          "note": 64
+        },
+        {
+          "startMs": 22071,
+          "endMs": 22286,
+          "note": 62
+        },
+        {
+          "startMs": 22286,
+          "endMs": 22714,
+          "note": 61
+        },
+        {
+          "startMs": 22714,
+          "endMs": 23143,
+          "note": 61
+        },
+        {
+          "startMs": 23143,
+          "endMs": 23571,
+          "note": 61
+        },
+        {
+          "startMs": 23571,
+          "endMs": 23786,
+          "note": 61
+        },
+        {
+          "startMs": 23786,
+          "endMs": 24000,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 25286,
+          "note": 64
+        },
+        {
+          "startMs": 25286,
+          "endMs": 25500,
+          "note": 62
+        },
+        {
+          "startMs": 25500,
+          "endMs": 25714,
+          "note": 61
+        },
+        {
+          "startMs": 25714,
+          "endMs": 26143,
+          "note": 62
+        },
+        {
+          "startMs": 26143,
+          "endMs": 27000,
+          "note": 66
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27429,
+          "note": 67
+        },
+        {
+          "startMs": 27429,
+          "endMs": 28071,
+          "note": 66
+        },
+        {
+          "startMs": 28071,
+          "endMs": 28286,
+          "note": 64
+        },
+        {
+          "startMs": 28286,
+          "endMs": 28714,
+          "note": 62
+        },
+        {
+          "startMs": 28714,
+          "endMs": 29143,
+          "note": 64
+        },
+        {
+          "startMs": 29143,
+          "endMs": 30000,
+          "note": 62
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30857,
+          "note": 61
+        },
+        {
+          "startMs": 30857,
+          "endMs": 32571,
+          "note": 62
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": -2,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "Joy",
+          "word": "joy",
+          "ipa": "d‍ʒˈɔ‍ɪ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 384,
+          "timeMs": 857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 672,
+          "timeMs": 1500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "world!",
+          "word": "world",
+          "ipa": "wˈɜːld",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 768,
+          "timeMs": 1714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1344,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "Lord",
+          "word": "lord",
+          "ipa": "lˈɔːd",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 3429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "is",
+          "word": "is",
+          "ipa": "ˈɪz",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1920,
+          "timeMs": 4286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "come;",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2304,
+          "timeMs": 5143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "Let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2880,
+          "timeMs": 6429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "earth",
+          "word": "earth",
+          "ipa": "ˈɜːθ",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 3072,
+          "timeMs": 6857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "re",
+          "word": "receive",
+          "ipa": "ɹɪ",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3648,
+          "timeMs": 8143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "ceive",
+          "word": "receive",
+          "ipa": "sˈiːv",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 8571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "her",
+          "word": "her",
+          "ipa": "hˈɜː",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4416,
+          "timeMs": 9857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "King;",
+          "word": "king",
+          "ipa": "kˈɪŋ",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4608,
+          "timeMs": 10286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "Let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5184,
+          "timeMs": 11571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "ev",
+          "word": "every",
+          "ipa": "ˈɛv",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 5376,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "’ry",
+          "word": "every",
+          "ipa": "ɹi",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 5760,
+          "timeMs": 12857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "heart",
+          "word": "heart",
+          "ipa": "hˈɑːt",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 13714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "pre",
+          "word": "prepare",
+          "ipa": "pɹɪ",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 6720,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "pare",
+          "word": "prepare",
+          "ipa": "pˈe‍ə",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 6912,
+          "timeMs": 15429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "Him",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7296,
+          "timeMs": 16286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "room,",
+          "word": "room",
+          "ipa": "ɹˈuːm",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 17143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8256,
+          "timeMs": 18429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8448,
+          "timeMs": 18857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8640,
+          "timeMs": 19286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 8832,
+          "timeMs": 19714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 9024,
+          "timeMs": 20143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "sing,",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9216,
+          "timeMs": 20571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9792,
+          "timeMs": 21857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9984,
+          "timeMs": 22286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10176,
+          "timeMs": 22714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 10368,
+          "timeMs": 23143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 10560,
+          "timeMs": 23571,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "sing,",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10752,
+          "timeMs": 24000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11328,
+          "timeMs": 25286,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "heav’n,",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11520,
+          "timeMs": 25714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12096,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "heav’n",
+          "word": "heaven",
+          "ipa": "hɛvn",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12288,
+          "timeMs": 27429,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12864,
+          "timeMs": 28714,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "na",
+          "word": "nature",
+          "ipa": "nˈe‍ɪ",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 13056,
+          "timeMs": 29143,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "ture",
+          "word": "nature",
+          "ipa": "t‍ʃə",
+          "wordIndex": 34,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 13440,
+          "timeMs": 30000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "sing.",
+          "word": "sing",
+          "ipa": "sˈɪŋ",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 13824,
+          "timeMs": 30857,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 857,
+          "note": 74
+        },
+        {
+          "startMs": 857,
+          "endMs": 1500,
+          "note": 73
+        },
+        {
+          "startMs": 1500,
+          "endMs": 1714,
+          "note": 71
+        },
+        {
+          "startMs": 1714,
+          "endMs": 3000,
+          "note": 69
+        },
+        {
+          "startMs": 3000,
+          "endMs": 3429,
+          "note": 67
+        },
+        {
+          "startMs": 3429,
+          "endMs": 4286,
+          "note": 66
+        },
+        {
+          "startMs": 4286,
+          "endMs": 5143,
+          "note": 64
+        },
+        {
+          "startMs": 5143,
+          "endMs": 6429,
+          "note": 62
+        },
+        {
+          "startMs": 6429,
+          "endMs": 6857,
+          "note": 69
+        },
+        {
+          "startMs": 6857,
+          "endMs": 8143,
+          "note": 71
+        },
+        {
+          "startMs": 8143,
+          "endMs": 8571,
+          "note": 71
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9857,
+          "note": 73
+        },
+        {
+          "startMs": 9857,
+          "endMs": 10286,
+          "note": 73
+        },
+        {
+          "startMs": 10286,
+          "endMs": 11571,
+          "note": 74
+        },
+        {
+          "startMs": 11571,
+          "endMs": 12000,
+          "note": 74
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12429,
+          "note": 74
+        },
+        {
+          "startMs": 12429,
+          "endMs": 12857,
+          "note": 73
+        },
+        {
+          "startMs": 12857,
+          "endMs": 13286,
+          "note": 71
+        },
+        {
+          "startMs": 13286,
+          "endMs": 13714,
+          "note": 69
+        },
+        {
+          "startMs": 13714,
+          "endMs": 14357,
+          "note": 69
+        },
+        {
+          "startMs": 14357,
+          "endMs": 14571,
+          "note": 67
+        },
+        {
+          "startMs": 14571,
+          "endMs": 15000,
+          "note": 66
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15429,
+          "note": 74
+        },
+        {
+          "startMs": 15429,
+          "endMs": 15857,
+          "note": 74
+        },
+        {
+          "startMs": 15857,
+          "endMs": 16286,
+          "note": 73
+        },
+        {
+          "startMs": 16286,
+          "endMs": 16714,
+          "note": 71
+        },
+        {
+          "startMs": 16714,
+          "endMs": 17143,
+          "note": 69
+        },
+        {
+          "startMs": 17143,
+          "endMs": 17786,
+          "note": 69
+        },
+        {
+          "startMs": 17786,
+          "endMs": 18000,
+          "note": 67
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18429,
+          "note": 66
+        },
+        {
+          "startMs": 18429,
+          "endMs": 18857,
+          "note": 66
+        },
+        {
+          "startMs": 18857,
+          "endMs": 19286,
+          "note": 66
+        },
+        {
+          "startMs": 19286,
+          "endMs": 19714,
+          "note": 66
+        },
+        {
+          "startMs": 19714,
+          "endMs": 20143,
+          "note": 66
+        },
+        {
+          "startMs": 20143,
+          "endMs": 20357,
+          "note": 66
+        },
+        {
+          "startMs": 20357,
+          "endMs": 20571,
+          "note": 67
+        },
+        {
+          "startMs": 20571,
+          "endMs": 21857,
+          "note": 69
+        },
+        {
+          "startMs": 21857,
+          "endMs": 22071,
+          "note": 67
+        },
+        {
+          "startMs": 22071,
+          "endMs": 22286,
+          "note": 66
+        },
+        {
+          "startMs": 22286,
+          "endMs": 22714,
+          "note": 64
+        },
+        {
+          "startMs": 22714,
+          "endMs": 23143,
+          "note": 64
+        },
+        {
+          "startMs": 23143,
+          "endMs": 23571,
+          "note": 64
+        },
+        {
+          "startMs": 23571,
+          "endMs": 23786,
+          "note": 64
+        },
+        {
+          "startMs": 23786,
+          "endMs": 24000,
+          "note": 66
+        },
+        {
+          "startMs": 24000,
+          "endMs": 25286,
+          "note": 67
+        },
+        {
+          "startMs": 25286,
+          "endMs": 25500,
+          "note": 66
+        },
+        {
+          "startMs": 25500,
+          "endMs": 25714,
+          "note": 64
+        },
+        {
+          "startMs": 25714,
+          "endMs": 26143,
+          "note": 62
+        },
+        {
+          "startMs": 26143,
+          "endMs": 27000,
+          "note": 74
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27429,
+          "note": 71
+        },
+        {
+          "startMs": 27429,
+          "endMs": 28071,
+          "note": 69
+        },
+        {
+          "startMs": 28071,
+          "endMs": 28286,
+          "note": 67
+        },
+        {
+          "startMs": 28286,
+          "endMs": 28714,
+          "note": 66
+        },
+        {
+          "startMs": 28714,
+          "endMs": 29143,
+          "note": 67
+        },
+        {
+          "startMs": 29143,
+          "endMs": 30000,
+          "note": 66
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30857,
+          "note": 64
+        },
+        {
+          "startMs": 30857,
+          "endMs": 32571,
+          "note": 62
+        }
+      ]
+    }
+  ]
+}

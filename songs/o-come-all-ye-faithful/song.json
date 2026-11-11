@@ -1,0 +1,3977 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "a29f920a0caec182305bb6906f1b806adb8a8fd6a97623134afc8080992dd4e7",
+  "id": "o-come-all-ye-faithful",
+  "title": "O Come, All Ye Faithful",
+  "durationMs": 48450,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/o-come-all-ye-faithful/song.cscore",
+  "displayScore": "/songs/o-come-all-ye-faithful/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 43,
+        "words": 34,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 43
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 56,
+        "words": 45,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 56
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 53,
+        "words": 43,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 53
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 57,
+        "words": 46,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 57
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "CC0-1.0",
+  "sequenceCredit": "CC0 LilyPond edition and MIDI by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 6,
+      "lyricTrack": -2,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 384,
+          "timeMs": 600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "all",
+          "word": "all",
+          "ipa": "ˈɔːl",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1152,
+          "timeMs": 1800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 2400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "faith",
+          "word": "faithful",
+          "ipa": "fˈe‍ɪθ.",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1920,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "ful,",
+          "word": "faithful",
+          "ipa": "fə‍l",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2688,
+          "timeMs": 4200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "Joy",
+          "word": "joyful",
+          "ipa": "d‍ʒˈɔ‍ɪ.",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3456,
+          "timeMs": 5400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "ful",
+          "word": "joyful",
+          "ipa": "fə‍l",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 6000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4224,
+          "timeMs": 6600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "tri",
+          "word": "triumphant",
+          "ipa": "tɹa‍ɪ.",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 4608,
+          "timeMs": 7200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "um",
+          "word": "triumphant",
+          "ipa": "ˈʌm.",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 4992,
+          "timeMs": 7800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "phant,",
+          "word": "triumphant",
+          "ipa": "fənt",
+          "wordIndex": 7,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 5760,
+          "timeMs": 9000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 9600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6528,
+          "timeMs": 10200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7296,
+          "timeMs": 11400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8064,
+          "timeMs": 12600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8832,
+          "timeMs": 13800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9216,
+          "timeMs": 14400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "Beth",
+          "word": "bethlehem",
+          "ipa": "bˈɛθ.",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 9600,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "le",
+          "word": "bethlehem",
+          "ipa": "lɛ.",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 10944,
+          "timeMs": 17100,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "hem;",
+          "word": "bethlehem",
+          "ipa": "həm",
+          "wordIndex": 15,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 11136,
+          "timeMs": 17400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12672,
+          "timeMs": 19800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 13440,
+          "timeMs": 21000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "be",
+          "word": "behold",
+          "ipa": "bɪ.",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 13824,
+          "timeMs": 21600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "hold",
+          "word": "behold",
+          "ipa": "hˈə‍ʊld",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 14208,
+          "timeMs": 22200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 14976,
+          "timeMs": 23400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "Born",
+          "word": "born",
+          "ipa": "bˈɔːn",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 15744,
+          "timeMs": 24600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16128,
+          "timeMs": 25200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "King",
+          "word": "king",
+          "ipa": "kˈɪŋ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16512,
+          "timeMs": 25800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "of",
+          "word": "of",
+          "ipa": "ˈɒv",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16896,
+          "timeMs": 26400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "an",
+          "word": "angels",
+          "ipa": "ˈe‍ɪn.",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 17280,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "gels;",
+          "word": "angels",
+          "ipa": "d‍ʒə‍lz",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 18048,
+          "timeMs": 28200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24576,
+          "timeMs": 38400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24960,
+          "timeMs": 39000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 25344,
+          "timeMs": 39600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 25728,
+          "timeMs": 40200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 26112,
+          "timeMs": 40800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 29,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 26496,
+          "timeMs": 41400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 27264,
+          "timeMs": 42600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "Christ,",
+          "word": "christ",
+          "ipa": "kɹˈa‍ɪst",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 28032,
+          "timeMs": 43800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 29376,
+          "timeMs": 45900,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "Lord!",
+          "word": "lord",
+          "ipa": "lˈɔːd",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 29568,
+          "timeMs": 46200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 600,
+          "note": 57
+        },
+        {
+          "startMs": 600,
+          "endMs": 1800,
+          "note": 57
+        },
+        {
+          "startMs": 1800,
+          "endMs": 2400,
+          "note": 57
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3000,
+          "note": 57
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4200,
+          "note": 56
+        },
+        {
+          "startMs": 4200,
+          "endMs": 5400,
+          "note": 56
+        },
+        {
+          "startMs": 5400,
+          "endMs": 6000,
+          "note": 57
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6600,
+          "note": 56
+        },
+        {
+          "startMs": 6600,
+          "endMs": 7200,
+          "note": 57
+        },
+        {
+          "startMs": 7200,
+          "endMs": 7800,
+          "note": 50
+        },
+        {
+          "startMs": 7800,
+          "endMs": 9000,
+          "note": 52
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9600,
+          "note": 52
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10200,
+          "note": 54
+        },
+        {
+          "startMs": 10200,
+          "endMs": 11400,
+          "note": 54
+        },
+        {
+          "startMs": 11400,
+          "endMs": 12000,
+          "note": 52
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12600,
+          "note": 47
+        },
+        {
+          "startMs": 12600,
+          "endMs": 13200,
+          "note": 52
+        },
+        {
+          "startMs": 13200,
+          "endMs": 13800,
+          "note": 49
+        },
+        {
+          "startMs": 13800,
+          "endMs": 14400,
+          "note": 44
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15000,
+          "note": 45
+        },
+        {
+          "startMs": 15000,
+          "endMs": 17100,
+          "note": 47
+        },
+        {
+          "startMs": 17100,
+          "endMs": 17400,
+          "note": 52
+        },
+        {
+          "startMs": 17400,
+          "endMs": 19200,
+          "note": 52
+        },
+        {
+          "startMs": 19800,
+          "endMs": 21000,
+          "note": 61
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21600,
+          "note": 59
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22200,
+          "note": 57
+        },
+        {
+          "startMs": 22200,
+          "endMs": 23400,
+          "note": 59
+        },
+        {
+          "startMs": 23400,
+          "endMs": 24600,
+          "note": 57
+        },
+        {
+          "startMs": 24600,
+          "endMs": 25200,
+          "note": 56
+        },
+        {
+          "startMs": 25200,
+          "endMs": 25800,
+          "note": 57
+        },
+        {
+          "startMs": 25800,
+          "endMs": 26400,
+          "note": 54
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27000,
+          "note": 50
+        },
+        {
+          "startMs": 27000,
+          "endMs": 28200,
+          "note": 52
+        },
+        {
+          "startMs": 28200,
+          "endMs": 28800,
+          "note": 52
+        },
+        {
+          "startMs": 38400,
+          "endMs": 39000,
+          "note": 57
+        },
+        {
+          "startMs": 39000,
+          "endMs": 39600,
+          "note": 59
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40200,
+          "note": 57
+        },
+        {
+          "startMs": 40200,
+          "endMs": 40800,
+          "note": 56
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41400,
+          "note": 54
+        },
+        {
+          "startMs": 41400,
+          "endMs": 42000,
+          "note": 52
+        },
+        {
+          "startMs": 42000,
+          "endMs": 42600,
+          "note": 50
+        },
+        {
+          "startMs": 42600,
+          "endMs": 43200,
+          "note": 49
+        },
+        {
+          "startMs": 43200,
+          "endMs": 43800,
+          "note": 50
+        },
+        {
+          "startMs": 43800,
+          "endMs": 45900,
+          "note": 52
+        },
+        {
+          "startMs": 45900,
+          "endMs": 46200,
+          "note": 45
+        },
+        {
+          "startMs": 46200,
+          "endMs": 48000,
+          "note": 45
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 6,
+      "lyricTrack": -2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 384,
+          "timeMs": 600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "all",
+          "word": "all",
+          "ipa": "ˈɔːl",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1152,
+          "timeMs": 1800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 2400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "faith",
+          "word": "faithful",
+          "ipa": "fˈe‍ɪθ.",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1920,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "ful,",
+          "word": "faithful",
+          "ipa": "fə‍l",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2688,
+          "timeMs": 4200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "Joy",
+          "word": "joyful",
+          "ipa": "d‍ʒˈɔ‍ɪ.",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3456,
+          "timeMs": 5400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "ful",
+          "word": "joyful",
+          "ipa": "fə‍l",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 6000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4224,
+          "timeMs": 6600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "tri",
+          "word": "triumphant",
+          "ipa": "tɹa‍ɪ.",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 4608,
+          "timeMs": 7200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "um",
+          "word": "triumphant",
+          "ipa": "ˈʌm.",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 4992,
+          "timeMs": 7800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "phant,",
+          "word": "triumphant",
+          "ipa": "fənt",
+          "wordIndex": 7,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 5760,
+          "timeMs": 9000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 9600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6528,
+          "timeMs": 10200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7296,
+          "timeMs": 11400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8064,
+          "timeMs": 12600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8832,
+          "timeMs": 13800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9216,
+          "timeMs": 14400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "Beth",
+          "word": "bethlehem",
+          "ipa": "bˈɛθ.",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 9600,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "le",
+          "word": "bethlehem",
+          "ipa": "lɛ.",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 10944,
+          "timeMs": 17100,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "hem;",
+          "word": "bethlehem",
+          "ipa": "həm",
+          "wordIndex": 15,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 11136,
+          "timeMs": 17400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12672,
+          "timeMs": 19800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 13440,
+          "timeMs": 21000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "be",
+          "word": "behold",
+          "ipa": "bɪ.",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 13824,
+          "timeMs": 21600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "hold",
+          "word": "behold",
+          "ipa": "hˈə‍ʊld",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 14208,
+          "timeMs": 22200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 14976,
+          "timeMs": 23400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "Born",
+          "word": "born",
+          "ipa": "bˈɔːn",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 15744,
+          "timeMs": 24600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16128,
+          "timeMs": 25200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "King",
+          "word": "king",
+          "ipa": "kˈɪŋ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16512,
+          "timeMs": 25800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "of",
+          "word": "of",
+          "ipa": "ˈɒv",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16896,
+          "timeMs": 26400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "an",
+          "word": "angels",
+          "ipa": "ˈe‍ɪn.",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 17280,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "gels;",
+          "word": "angels",
+          "ipa": "d‍ʒə‍lz",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 18048,
+          "timeMs": 28200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18432,
+          "timeMs": 28800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18816,
+          "timeMs": 29400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 19200,
+          "timeMs": 30000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 19584,
+          "timeMs": 30600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 19968,
+          "timeMs": 31200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 29,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 20352,
+          "timeMs": 31800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 21504,
+          "timeMs": 33600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 21888,
+          "timeMs": 34200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 22272,
+          "timeMs": 34800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 22656,
+          "timeMs": 35400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 23040,
+          "timeMs": 36000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 34,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 23424,
+          "timeMs": 36600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24192,
+          "timeMs": 37800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 46,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24576,
+          "timeMs": 38400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 47,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24960,
+          "timeMs": 39000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 48,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 25344,
+          "timeMs": 39600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 49,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 25728,
+          "timeMs": 40200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 50,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 26112,
+          "timeMs": 40800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 51,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 40,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 26496,
+          "timeMs": 41400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 52,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 27264,
+          "timeMs": 42600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 53,
+          "text": "Christ,",
+          "word": "christ",
+          "ipa": "kɹˈa‍ɪst",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 28032,
+          "timeMs": 43800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 54,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 29376,
+          "timeMs": 45900,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 55,
+          "text": "Lord!",
+          "word": "lord",
+          "ipa": "lˈɔːd",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 29568,
+          "timeMs": 46200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 600,
+          "note": 61
+        },
+        {
+          "startMs": 600,
+          "endMs": 1800,
+          "note": 61
+        },
+        {
+          "startMs": 1800,
+          "endMs": 2400,
+          "note": 61
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3000,
+          "note": 61
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4200,
+          "note": 59
+        },
+        {
+          "startMs": 4200,
+          "endMs": 5400,
+          "note": 59
+        },
+        {
+          "startMs": 5400,
+          "endMs": 6000,
+          "note": 57
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6600,
+          "note": 59
+        },
+        {
+          "startMs": 6600,
+          "endMs": 7200,
+          "note": 57
+        },
+        {
+          "startMs": 7200,
+          "endMs": 7800,
+          "note": 57
+        },
+        {
+          "startMs": 7800,
+          "endMs": 9000,
+          "note": 57
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9600,
+          "note": 56
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10200,
+          "note": 57
+        },
+        {
+          "startMs": 10200,
+          "endMs": 11400,
+          "note": 57
+        },
+        {
+          "startMs": 11400,
+          "endMs": 12000,
+          "note": 59
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12600,
+          "note": 59
+        },
+        {
+          "startMs": 12600,
+          "endMs": 13200,
+          "note": 59
+        },
+        {
+          "startMs": 13200,
+          "endMs": 13800,
+          "note": 57
+        },
+        {
+          "startMs": 13800,
+          "endMs": 14400,
+          "note": 64
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15000,
+          "note": 61
+        },
+        {
+          "startMs": 15000,
+          "endMs": 16200,
+          "note": 59
+        },
+        {
+          "startMs": 16200,
+          "endMs": 17100,
+          "note": 57
+        },
+        {
+          "startMs": 17100,
+          "endMs": 17400,
+          "note": 56
+        },
+        {
+          "startMs": 17400,
+          "endMs": 19200,
+          "note": 56
+        },
+        {
+          "startMs": 19800,
+          "endMs": 21000,
+          "note": 61
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21600,
+          "note": 62
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22200,
+          "note": 64
+        },
+        {
+          "startMs": 22200,
+          "endMs": 23400,
+          "note": 64
+        },
+        {
+          "startMs": 23400,
+          "endMs": 24600,
+          "note": 64
+        },
+        {
+          "startMs": 24600,
+          "endMs": 25200,
+          "note": 64
+        },
+        {
+          "startMs": 25200,
+          "endMs": 25800,
+          "note": 57
+        },
+        {
+          "startMs": 25800,
+          "endMs": 26400,
+          "note": 61
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27000,
+          "note": 62
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27900,
+          "note": 59
+        },
+        {
+          "startMs": 27900,
+          "endMs": 28200,
+          "note": 57
+        },
+        {
+          "startMs": 28200,
+          "endMs": 28800,
+          "note": 56
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29400,
+          "note": 61
+        },
+        {
+          "startMs": 29400,
+          "endMs": 30000,
+          "note": 61
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30600,
+          "note": 59
+        },
+        {
+          "startMs": 30600,
+          "endMs": 31200,
+          "note": 61
+        },
+        {
+          "startMs": 31200,
+          "endMs": 31800,
+          "note": 62
+        },
+        {
+          "startMs": 31800,
+          "endMs": 33600,
+          "note": 61
+        },
+        {
+          "startMs": 33600,
+          "endMs": 34200,
+          "note": 57
+        },
+        {
+          "startMs": 34200,
+          "endMs": 34800,
+          "note": 57
+        },
+        {
+          "startMs": 34800,
+          "endMs": 35400,
+          "note": 56
+        },
+        {
+          "startMs": 35400,
+          "endMs": 36000,
+          "note": 57
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36600,
+          "note": 59
+        },
+        {
+          "startMs": 36600,
+          "endMs": 37800,
+          "note": 57
+        },
+        {
+          "startMs": 37800,
+          "endMs": 38400,
+          "note": 56
+        },
+        {
+          "startMs": 38400,
+          "endMs": 39000,
+          "note": 64
+        },
+        {
+          "startMs": 39000,
+          "endMs": 39600,
+          "note": 64
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40200,
+          "note": 64
+        },
+        {
+          "startMs": 40200,
+          "endMs": 40800,
+          "note": 59
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41400,
+          "note": 59
+        },
+        {
+          "startMs": 41400,
+          "endMs": 42600,
+          "note": 59
+        },
+        {
+          "startMs": 42600,
+          "endMs": 43800,
+          "note": 57
+        },
+        {
+          "startMs": 43800,
+          "endMs": 45000,
+          "note": 57
+        },
+        {
+          "startMs": 45000,
+          "endMs": 45900,
+          "note": 56
+        },
+        {
+          "startMs": 45900,
+          "endMs": 46200,
+          "note": 57
+        },
+        {
+          "startMs": 46200,
+          "endMs": 48000,
+          "note": 57
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": -2,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 384,
+          "timeMs": 600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "all",
+          "word": "all",
+          "ipa": "ˈɔːl",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1152,
+          "timeMs": 1800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 2400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "faith",
+          "word": "faithful",
+          "ipa": "fˈe‍ɪθ.",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1920,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "ful,",
+          "word": "faithful",
+          "ipa": "fə‍l",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2688,
+          "timeMs": 4200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "Joy",
+          "word": "joyful",
+          "ipa": "d‍ʒˈɔ‍ɪ.",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3456,
+          "timeMs": 5400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "ful",
+          "word": "joyful",
+          "ipa": "fə‍l",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 6000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4224,
+          "timeMs": 6600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "tri",
+          "word": "triumphant",
+          "ipa": "tɹa‍ɪ.",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 4608,
+          "timeMs": 7200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "um",
+          "word": "triumphant",
+          "ipa": "ˈʌm.",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 4992,
+          "timeMs": 7800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "phant,",
+          "word": "triumphant",
+          "ipa": "fənt",
+          "wordIndex": 7,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 5760,
+          "timeMs": 9000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 9600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6528,
+          "timeMs": 10200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7296,
+          "timeMs": 11400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8064,
+          "timeMs": 12600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8832,
+          "timeMs": 13800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9216,
+          "timeMs": 14400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "Beth",
+          "word": "bethlehem",
+          "ipa": "bˈɛθ.",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 9600,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "le",
+          "word": "bethlehem",
+          "ipa": "lɛ.",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 10944,
+          "timeMs": 17100,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "hem;",
+          "word": "bethlehem",
+          "ipa": "həm",
+          "wordIndex": 15,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 11136,
+          "timeMs": 17400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12672,
+          "timeMs": 19800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 13440,
+          "timeMs": 21000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "be",
+          "word": "behold",
+          "ipa": "bɪ.",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 13824,
+          "timeMs": 21600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "hold",
+          "word": "behold",
+          "ipa": "hˈə‍ʊld",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 14208,
+          "timeMs": 22200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 14976,
+          "timeMs": 23400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "Born",
+          "word": "born",
+          "ipa": "bˈɔːn",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 15744,
+          "timeMs": 24600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16128,
+          "timeMs": 25200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "King",
+          "word": "king",
+          "ipa": "kˈɪŋ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16512,
+          "timeMs": 25800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "of",
+          "word": "of",
+          "ipa": "ˈɒv",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16896,
+          "timeMs": 26400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "an",
+          "word": "angels",
+          "ipa": "ˈe‍ɪn.",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 17280,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "gels;",
+          "word": "angels",
+          "ipa": "d‍ʒə‍lz",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 18048,
+          "timeMs": 28200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18432,
+          "timeMs": 28800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18816,
+          "timeMs": 29400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 21120,
+          "timeMs": 33000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 21504,
+          "timeMs": 33600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 21888,
+          "timeMs": 34200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 22272,
+          "timeMs": 34800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 22656,
+          "timeMs": 35400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 23040,
+          "timeMs": 36000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 32,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 23424,
+          "timeMs": 36600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24192,
+          "timeMs": 37800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24576,
+          "timeMs": 38400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24960,
+          "timeMs": 39000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 25344,
+          "timeMs": 39600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 46,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 25728,
+          "timeMs": 40200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 47,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 26112,
+          "timeMs": 40800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 48,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 38,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 26496,
+          "timeMs": 41400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 49,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 27264,
+          "timeMs": 42600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 50,
+          "text": "Christ,",
+          "word": "christ",
+          "ipa": "kɹˈa‍ɪst",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 28032,
+          "timeMs": 43800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 51,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 29376,
+          "timeMs": 45900,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 52,
+          "text": "Lord!",
+          "word": "lord",
+          "ipa": "lˈɔːd",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 29568,
+          "timeMs": 46200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 600,
+          "note": 64
+        },
+        {
+          "startMs": 600,
+          "endMs": 1800,
+          "note": 64
+        },
+        {
+          "startMs": 1800,
+          "endMs": 2400,
+          "note": 64
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3000,
+          "note": 64
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4200,
+          "note": 64
+        },
+        {
+          "startMs": 4200,
+          "endMs": 5400,
+          "note": 64
+        },
+        {
+          "startMs": 5400,
+          "endMs": 6000,
+          "note": 64
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6600,
+          "note": 64
+        },
+        {
+          "startMs": 6600,
+          "endMs": 7200,
+          "note": 64
+        },
+        {
+          "startMs": 7200,
+          "endMs": 7800,
+          "note": 66
+        },
+        {
+          "startMs": 7800,
+          "endMs": 9000,
+          "note": 64
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9600,
+          "note": 64
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10200,
+          "note": 61
+        },
+        {
+          "startMs": 10200,
+          "endMs": 10800,
+          "note": 61
+        },
+        {
+          "startMs": 10800,
+          "endMs": 11400,
+          "note": 63
+        },
+        {
+          "startMs": 11400,
+          "endMs": 12000,
+          "note": 64
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12600,
+          "note": 63
+        },
+        {
+          "startMs": 12600,
+          "endMs": 13200,
+          "note": 64
+        },
+        {
+          "startMs": 13200,
+          "endMs": 13500,
+          "note": 63
+        },
+        {
+          "startMs": 13500,
+          "endMs": 13800,
+          "note": 61
+        },
+        {
+          "startMs": 13800,
+          "endMs": 14400,
+          "note": 59
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15000,
+          "note": 64
+        },
+        {
+          "startMs": 15000,
+          "endMs": 16200,
+          "note": 64
+        },
+        {
+          "startMs": 16200,
+          "endMs": 17100,
+          "note": 63
+        },
+        {
+          "startMs": 17100,
+          "endMs": 17400,
+          "note": 64
+        },
+        {
+          "startMs": 17400,
+          "endMs": 19200,
+          "note": 64
+        },
+        {
+          "startMs": 19800,
+          "endMs": 21000,
+          "note": 64
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21300,
+          "note": 66
+        },
+        {
+          "startMs": 21300,
+          "endMs": 21600,
+          "note": 68
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22200,
+          "note": 69
+        },
+        {
+          "startMs": 22200,
+          "endMs": 22800,
+          "note": 69
+        },
+        {
+          "startMs": 22800,
+          "endMs": 23400,
+          "note": 68
+        },
+        {
+          "startMs": 23400,
+          "endMs": 24600,
+          "note": 69
+        },
+        {
+          "startMs": 24600,
+          "endMs": 25200,
+          "note": 64
+        },
+        {
+          "startMs": 25200,
+          "endMs": 25800,
+          "note": 64
+        },
+        {
+          "startMs": 25800,
+          "endMs": 26400,
+          "note": 66
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27000,
+          "note": 66
+        },
+        {
+          "startMs": 27000,
+          "endMs": 28200,
+          "note": 64
+        },
+        {
+          "startMs": 28200,
+          "endMs": 28800,
+          "note": 64
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29400,
+          "note": 64
+        },
+        {
+          "startMs": 29400,
+          "endMs": 33000,
+          "note": 64
+        },
+        {
+          "startMs": 33000,
+          "endMs": 33600,
+          "note": 64
+        },
+        {
+          "startMs": 33600,
+          "endMs": 34200,
+          "note": 64
+        },
+        {
+          "startMs": 34200,
+          "endMs": 34800,
+          "note": 64
+        },
+        {
+          "startMs": 34800,
+          "endMs": 35400,
+          "note": 64
+        },
+        {
+          "startMs": 35400,
+          "endMs": 36000,
+          "note": 64
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36600,
+          "note": 64
+        },
+        {
+          "startMs": 36600,
+          "endMs": 37800,
+          "note": 64
+        },
+        {
+          "startMs": 37800,
+          "endMs": 38400,
+          "note": 64
+        },
+        {
+          "startMs": 38400,
+          "endMs": 39000,
+          "note": 69
+        },
+        {
+          "startMs": 39000,
+          "endMs": 39600,
+          "note": 68
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40200,
+          "note": 69
+        },
+        {
+          "startMs": 40200,
+          "endMs": 40800,
+          "note": 64
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41100,
+          "note": 64
+        },
+        {
+          "startMs": 41100,
+          "endMs": 41400,
+          "note": 63
+        },
+        {
+          "startMs": 41400,
+          "endMs": 42600,
+          "note": 64
+        },
+        {
+          "startMs": 42600,
+          "endMs": 43200,
+          "note": 64
+        },
+        {
+          "startMs": 43200,
+          "endMs": 43800,
+          "note": 66
+        },
+        {
+          "startMs": 43800,
+          "endMs": 45000,
+          "note": 64
+        },
+        {
+          "startMs": 45000,
+          "endMs": 45900,
+          "note": 62
+        },
+        {
+          "startMs": 45900,
+          "endMs": 46200,
+          "note": 61
+        },
+        {
+          "startMs": 46200,
+          "endMs": 48000,
+          "note": 61
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": -2,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 384,
+          "timeMs": 600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "all",
+          "word": "all",
+          "ipa": "ˈɔːl",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1152,
+          "timeMs": 1800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 2400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "faith",
+          "word": "faithful",
+          "ipa": "fˈe‍ɪθ.",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 1920,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "ful,",
+          "word": "faithful",
+          "ipa": "fə‍l",
+          "wordIndex": 4,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 2688,
+          "timeMs": 4200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "Joy",
+          "word": "joyful",
+          "ipa": "d‍ʒˈɔ‍ɪ.",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3456,
+          "timeMs": 5400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "ful",
+          "word": "joyful",
+          "ipa": "fə‍l",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 6000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4224,
+          "timeMs": 6600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "tri",
+          "word": "triumphant",
+          "ipa": "tɹa‍ɪ.",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 4608,
+          "timeMs": 7200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "um",
+          "word": "triumphant",
+          "ipa": "ˈʌm.",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 4992,
+          "timeMs": 7800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "phant,",
+          "word": "triumphant",
+          "ipa": "fənt",
+          "wordIndex": 7,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 5760,
+          "timeMs": 9000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 9600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6528,
+          "timeMs": 10200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7296,
+          "timeMs": 11400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8064,
+          "timeMs": 12600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "ye",
+          "word": "ye",
+          "ipa": "jˈiː",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 8832,
+          "timeMs": 13800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "to",
+          "word": "to",
+          "ipa": "tˈuː",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 9216,
+          "timeMs": 14400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "Beth",
+          "word": "bethlehem",
+          "ipa": "bˈɛθ.",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 9600,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "le",
+          "word": "bethlehem",
+          "ipa": "lɛ.",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 10944,
+          "timeMs": 17100,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "hem;",
+          "word": "bethlehem",
+          "ipa": "həm",
+          "wordIndex": 15,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 11136,
+          "timeMs": 17400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 12672,
+          "timeMs": 19800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "and",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 13440,
+          "timeMs": 21000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "be",
+          "word": "behold",
+          "ipa": "bɪ.",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 13824,
+          "timeMs": 21600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "hold",
+          "word": "behold",
+          "ipa": "hˈə‍ʊld",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 14208,
+          "timeMs": 22200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 14976,
+          "timeMs": 23400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "Born",
+          "word": "born",
+          "ipa": "bˈɔːn",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 15744,
+          "timeMs": 24600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16128,
+          "timeMs": 25200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "King",
+          "word": "king",
+          "ipa": "kˈɪŋ",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16512,
+          "timeMs": 25800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "of",
+          "word": "of",
+          "ipa": "ˈɒv",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 16896,
+          "timeMs": 26400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "an",
+          "word": "angels",
+          "ipa": "ˈe‍ɪn.",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 17280,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "gels;",
+          "word": "angels",
+          "ipa": "d‍ʒə‍lz",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 18048,
+          "timeMs": 28200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18432,
+          "timeMs": 28800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18816,
+          "timeMs": 29400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 19200,
+          "timeMs": 30000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 19584,
+          "timeMs": 30600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 19968,
+          "timeMs": 31200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 29,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 20352,
+          "timeMs": 31800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 21120,
+          "timeMs": 33000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 21504,
+          "timeMs": 33600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 21888,
+          "timeMs": 34200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 22272,
+          "timeMs": 34800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 34,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 22656,
+          "timeMs": 35400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 35,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 23040,
+          "timeMs": 36000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 35,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 23424,
+          "timeMs": 36600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 46,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24192,
+          "timeMs": 37800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 47,
+          "text": "O",
+          "word": "o",
+          "ipa": "ˈə‍ʊ",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24576,
+          "timeMs": 38400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 48,
+          "text": "come,",
+          "word": "come",
+          "ipa": "kˈʌm",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 24960,
+          "timeMs": 39000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 49,
+          "text": "let",
+          "word": "let",
+          "ipa": "lˈɛt",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 25344,
+          "timeMs": 39600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 50,
+          "text": "us",
+          "word": "us",
+          "ipa": "ˈʌs",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 25728,
+          "timeMs": 40200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 51,
+          "text": "a",
+          "word": "adore",
+          "ipa": "ɐ.",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 26112,
+          "timeMs": 40800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 52,
+          "text": "dore",
+          "word": "adore",
+          "ipa": "dˈɔː",
+          "wordIndex": 41,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 26496,
+          "timeMs": 41400,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 53,
+          "text": "Him,",
+          "word": "him",
+          "ipa": "hˈɪm",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 27264,
+          "timeMs": 42600,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 54,
+          "text": "Christ,",
+          "word": "christ",
+          "ipa": "kɹˈa‍ɪst",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 28032,
+          "timeMs": 43800,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 55,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 29376,
+          "timeMs": 45900,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 56,
+          "text": "Lord!",
+          "word": "lord",
+          "ipa": "lˈɔːd",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 29568,
+          "timeMs": 46200,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 600,
+          "note": 69
+        },
+        {
+          "startMs": 600,
+          "endMs": 1800,
+          "note": 69
+        },
+        {
+          "startMs": 1800,
+          "endMs": 2400,
+          "note": 64
+        },
+        {
+          "startMs": 2400,
+          "endMs": 3000,
+          "note": 69
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4200,
+          "note": 71
+        },
+        {
+          "startMs": 4200,
+          "endMs": 5400,
+          "note": 64
+        },
+        {
+          "startMs": 5400,
+          "endMs": 6000,
+          "note": 73
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6600,
+          "note": 71
+        },
+        {
+          "startMs": 6600,
+          "endMs": 7200,
+          "note": 73
+        },
+        {
+          "startMs": 7200,
+          "endMs": 7800,
+          "note": 74
+        },
+        {
+          "startMs": 7800,
+          "endMs": 9000,
+          "note": 73
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9600,
+          "note": 71
+        },
+        {
+          "startMs": 9600,
+          "endMs": 10200,
+          "note": 69
+        },
+        {
+          "startMs": 10200,
+          "endMs": 11400,
+          "note": 69
+        },
+        {
+          "startMs": 11400,
+          "endMs": 12000,
+          "note": 68
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12600,
+          "note": 66
+        },
+        {
+          "startMs": 12600,
+          "endMs": 13200,
+          "note": 68
+        },
+        {
+          "startMs": 13200,
+          "endMs": 13800,
+          "note": 69
+        },
+        {
+          "startMs": 13800,
+          "endMs": 14400,
+          "note": 71
+        },
+        {
+          "startMs": 14400,
+          "endMs": 15000,
+          "note": 73
+        },
+        {
+          "startMs": 15000,
+          "endMs": 16200,
+          "note": 68
+        },
+        {
+          "startMs": 16200,
+          "endMs": 17100,
+          "note": 66
+        },
+        {
+          "startMs": 17100,
+          "endMs": 17400,
+          "note": 64
+        },
+        {
+          "startMs": 17400,
+          "endMs": 19200,
+          "note": 64
+        },
+        {
+          "startMs": 19800,
+          "endMs": 21000,
+          "note": 76
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21600,
+          "note": 74
+        },
+        {
+          "startMs": 21600,
+          "endMs": 22200,
+          "note": 73
+        },
+        {
+          "startMs": 22200,
+          "endMs": 23400,
+          "note": 74
+        },
+        {
+          "startMs": 23400,
+          "endMs": 24600,
+          "note": 73
+        },
+        {
+          "startMs": 24600,
+          "endMs": 25200,
+          "note": 71
+        },
+        {
+          "startMs": 25200,
+          "endMs": 25800,
+          "note": 73
+        },
+        {
+          "startMs": 25800,
+          "endMs": 26400,
+          "note": 69
+        },
+        {
+          "startMs": 26400,
+          "endMs": 27000,
+          "note": 71
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27900,
+          "note": 68
+        },
+        {
+          "startMs": 27900,
+          "endMs": 28200,
+          "note": 66
+        },
+        {
+          "startMs": 28200,
+          "endMs": 28800,
+          "note": 64
+        },
+        {
+          "startMs": 28800,
+          "endMs": 29400,
+          "note": 69
+        },
+        {
+          "startMs": 29400,
+          "endMs": 30000,
+          "note": 69
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30600,
+          "note": 68
+        },
+        {
+          "startMs": 30600,
+          "endMs": 31200,
+          "note": 69
+        },
+        {
+          "startMs": 31200,
+          "endMs": 31800,
+          "note": 71
+        },
+        {
+          "startMs": 31800,
+          "endMs": 33000,
+          "note": 69
+        },
+        {
+          "startMs": 33000,
+          "endMs": 33600,
+          "note": 64
+        },
+        {
+          "startMs": 33600,
+          "endMs": 34200,
+          "note": 73
+        },
+        {
+          "startMs": 34200,
+          "endMs": 34800,
+          "note": 73
+        },
+        {
+          "startMs": 34800,
+          "endMs": 35400,
+          "note": 71
+        },
+        {
+          "startMs": 35400,
+          "endMs": 36000,
+          "note": 73
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36600,
+          "note": 74
+        },
+        {
+          "startMs": 36600,
+          "endMs": 37800,
+          "note": 73
+        },
+        {
+          "startMs": 37800,
+          "endMs": 38400,
+          "note": 71
+        },
+        {
+          "startMs": 38400,
+          "endMs": 39000,
+          "note": 73
+        },
+        {
+          "startMs": 39000,
+          "endMs": 39600,
+          "note": 74
+        },
+        {
+          "startMs": 39600,
+          "endMs": 40200,
+          "note": 73
+        },
+        {
+          "startMs": 40200,
+          "endMs": 40800,
+          "note": 71
+        },
+        {
+          "startMs": 40800,
+          "endMs": 41400,
+          "note": 69
+        },
+        {
+          "startMs": 41400,
+          "endMs": 42600,
+          "note": 68
+        },
+        {
+          "startMs": 42600,
+          "endMs": 43200,
+          "note": 69
+        },
+        {
+          "startMs": 43200,
+          "endMs": 43800,
+          "note": 74
+        },
+        {
+          "startMs": 43800,
+          "endMs": 45000,
+          "note": 73
+        },
+        {
+          "startMs": 45000,
+          "endMs": 45900,
+          "note": 71
+        },
+        {
+          "startMs": 45900,
+          "endMs": 46200,
+          "note": 69
+        },
+        {
+          "startMs": 46200,
+          "endMs": 48000,
+          "note": 69
+        }
+      ]
+    }
+  ]
+}

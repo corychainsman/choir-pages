@@ -1,0 +1,3902 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "9c6a91cb978fed94dd8e275397823e4d9ffe2e6b092d146b87987f97a9c7a0d3",
+  "id": "angels-we-have-heard-on-high",
+  "title": "Angels We Have Heard on High",
+  "durationMs": 41950,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/angels-we-have-heard-on-high/song.cscore",
+  "displayScore": "/songs/angels-we-have-heard-on-high/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 46,
+        "words": 28,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 46
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 46,
+        "words": 28,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 46
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 46,
+        "words": 28,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 46
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 46,
+        "words": 28,
+        "unresolved": 0,
+        "sources": {
+          "explicit-underlay": 46
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "Public domain",
+  "sequenceCredit": "Public-domain LilyPond edition by Benjamin Bloomfield",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 2,
+      "lyricTrack": -2,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "An",
+          "word": "angels",
+          "ipa": "ˈe‍ɪn.",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "gels",
+          "word": "angels",
+          "ipa": "d‍ʒə‍lz",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 384,
+          "timeMs": 500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "we",
+          "word": "we",
+          "ipa": "wˈiː",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 768,
+          "timeMs": 1000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "have",
+          "word": "have",
+          "ipa": "hˈav",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1152,
+          "timeMs": 1500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "heard",
+          "word": "heard",
+          "ipa": "hˈɜːd",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 2000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "on",
+          "word": "on",
+          "ipa": "ˈɒn",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1920,
+          "timeMs": 2500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "high,",
+          "word": "high",
+          "ipa": "hˈa‍ɪ",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2304,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "Sweet",
+          "word": "sweetly",
+          "ipa": "swˈiːt.",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3072,
+          "timeMs": 4000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "ly",
+          "word": "sweetly",
+          "ipa": "li",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3456,
+          "timeMs": 4500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "sing",
+          "word": "singing",
+          "ipa": "sˈɪŋ.",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 5000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "ing",
+          "word": "singing",
+          "ipa": "ɪŋ",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 4224,
+          "timeMs": 5500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "o’er",
+          "word": "over",
+          "ipa": "ɔː",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4608,
+          "timeMs": 6000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4992,
+          "timeMs": 6500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "plains;",
+          "word": "plains",
+          "ipa": "plˈe‍ɪnz",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5376,
+          "timeMs": 7000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 8000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6528,
+          "timeMs": 8500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "moun",
+          "word": "mountains",
+          "ipa": "mˈa‍ʊn.",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 6912,
+          "timeMs": 9000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "tains",
+          "word": "mountains",
+          "ipa": "tɪnz",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 7296,
+          "timeMs": 9500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 10000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "re",
+          "word": "reply",
+          "ipa": "ɹɪ.",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 8064,
+          "timeMs": 10500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "ply",
+          "word": "reply",
+          "ipa": "plˈa‍ɪ",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 8448,
+          "timeMs": 11000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "Ech",
+          "word": "echoing",
+          "ipa": "ˈɛ.",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 9216,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "o",
+          "word": "echoing",
+          "ipa": "kə‍ʊ.",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 9600,
+          "timeMs": 12500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "ing",
+          "word": "echoing",
+          "ipa": "ɪŋ",
+          "wordIndex": 16,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 9984,
+          "timeMs": 13000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "their",
+          "word": "their",
+          "ipa": "ðˈe‍ə",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10368,
+          "timeMs": 13500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "joy",
+          "word": "joyous",
+          "ipa": "dʒˈɔɪ..",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 10752,
+          "timeMs": 14000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ous",
+          "word": "joyous",
+          "ipa": "əs",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 11136,
+          "timeMs": 14500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "strains.",
+          "word": "strains",
+          "ipa": "stɹˈe‍ɪnz",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11520,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "Glo",
+          "word": "gloria",
+          "ipa": "ɡlˈɔ.r",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 12288,
+          "timeMs": 16000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "ri",
+          "word": "gloria",
+          "ipa": "i.",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 17280,
+          "timeMs": 22500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "a",
+          "word": "gloria",
+          "ipa": "a",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 17664,
+          "timeMs": 23000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18432,
+          "timeMs": 24000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "ex",
+          "word": "excelsis",
+          "ipa": "eksˈtʃ.",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 18816,
+          "timeMs": 24500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "cel",
+          "word": "excelsis",
+          "ipa": "ɛl.",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 19200,
+          "timeMs": 25000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "sis",
+          "word": "excelsis",
+          "ipa": "sis",
+          "wordIndex": 22,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 19584,
+          "timeMs": 25500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "De",
+          "word": "deo",
+          "ipa": "dˈɛ.",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 19968,
+          "timeMs": 26000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "o!",
+          "word": "deo",
+          "ipa": "ɔ",
+          "wordIndex": 23,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 20736,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "Glo",
+          "word": "gloria",
+          "ipa": "ɡlˈɔ.r",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 21504,
+          "timeMs": 28000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "ri",
+          "word": "gloria",
+          "ipa": "i.",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 26496,
+          "timeMs": 34500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "a",
+          "word": "gloria",
+          "ipa": "a",
+          "wordIndex": 24,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 26880,
+          "timeMs": 35000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 27648,
+          "timeMs": 36000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "ex",
+          "word": "excelsis",
+          "ipa": "eksˈtʃ.",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 28032,
+          "timeMs": 36500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "cel",
+          "word": "excelsis",
+          "ipa": "ɛl.",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 28416,
+          "timeMs": 37000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "sis",
+          "word": "excelsis",
+          "ipa": "sis",
+          "wordIndex": 26,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 28800,
+          "timeMs": 37500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "De",
+          "word": "deo",
+          "ipa": "dˈɛ.",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 29184,
+          "timeMs": 38000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "o!",
+          "word": "deo",
+          "ipa": "ɔ",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 30720,
+          "timeMs": 40000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 500,
+          "note": 55
+        },
+        {
+          "startMs": 500,
+          "endMs": 1000,
+          "note": 55
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1500,
+          "note": 55
+        },
+        {
+          "startMs": 1500,
+          "endMs": 2000,
+          "note": 59
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2500,
+          "note": 57
+        },
+        {
+          "startMs": 2500,
+          "endMs": 3000,
+          "note": 50
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4000,
+          "note": 55
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 55
+        },
+        {
+          "startMs": 4500,
+          "endMs": 5000,
+          "note": 55
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5500,
+          "note": 55
+        },
+        {
+          "startMs": 5500,
+          "endMs": 6000,
+          "note": 55
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6500,
+          "note": 50
+        },
+        {
+          "startMs": 6500,
+          "endMs": 7000,
+          "note": 50
+        },
+        {
+          "startMs": 7000,
+          "endMs": 8000,
+          "note": 55
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8500,
+          "note": 55
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 59
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9250,
+          "note": 64
+        },
+        {
+          "startMs": 9250,
+          "endMs": 9500,
+          "note": 62
+        },
+        {
+          "startMs": 9500,
+          "endMs": 9750,
+          "note": 60
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10000,
+          "note": 59
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10500,
+          "note": 57
+        },
+        {
+          "startMs": 10500,
+          "endMs": 11000,
+          "note": 50
+        },
+        {
+          "startMs": 11000,
+          "endMs": 12000,
+          "note": 55
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12500,
+          "note": 55
+        },
+        {
+          "startMs": 12500,
+          "endMs": 13000,
+          "note": 60
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13500,
+          "note": 59
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14000,
+          "note": 55
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14500,
+          "note": 50
+        },
+        {
+          "startMs": 14500,
+          "endMs": 15000,
+          "note": 50
+        },
+        {
+          "startMs": 15000,
+          "endMs": 16000,
+          "note": 55
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17000,
+          "note": 55
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17500,
+          "note": 52
+        },
+        {
+          "startMs": 17500,
+          "endMs": 18000,
+          "note": 56
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19000,
+          "note": 57
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19500,
+          "note": 50
+        },
+        {
+          "startMs": 19500,
+          "endMs": 20000,
+          "note": 54
+        },
+        {
+          "startMs": 20000,
+          "endMs": 21000,
+          "note": 55
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21500,
+          "note": 48
+        },
+        {
+          "startMs": 21500,
+          "endMs": 22000,
+          "note": 52
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22500,
+          "note": 54
+        },
+        {
+          "startMs": 22500,
+          "endMs": 23000,
+          "note": 52
+        },
+        {
+          "startMs": 23000,
+          "endMs": 23500,
+          "note": 50
+        },
+        {
+          "startMs": 23500,
+          "endMs": 24000,
+          "note": 48
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24500,
+          "note": 47
+        },
+        {
+          "startMs": 24500,
+          "endMs": 25000,
+          "note": 45
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25500,
+          "note": 43
+        },
+        {
+          "startMs": 25500,
+          "endMs": 26000,
+          "note": 48
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27000,
+          "note": 50
+        },
+        {
+          "startMs": 27000,
+          "endMs": 28000,
+          "note": 50
+        },
+        {
+          "startMs": 28000,
+          "endMs": 29000,
+          "note": 55
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29500,
+          "note": 52
+        },
+        {
+          "startMs": 29500,
+          "endMs": 30000,
+          "note": 56
+        },
+        {
+          "startMs": 30000,
+          "endMs": 31000,
+          "note": 57
+        },
+        {
+          "startMs": 31000,
+          "endMs": 31500,
+          "note": 50
+        },
+        {
+          "startMs": 31500,
+          "endMs": 32000,
+          "note": 54
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33000,
+          "note": 55
+        },
+        {
+          "startMs": 33000,
+          "endMs": 33500,
+          "note": 48
+        },
+        {
+          "startMs": 33500,
+          "endMs": 34000,
+          "note": 52
+        },
+        {
+          "startMs": 34000,
+          "endMs": 34500,
+          "note": 54
+        },
+        {
+          "startMs": 34500,
+          "endMs": 35000,
+          "note": 52
+        },
+        {
+          "startMs": 35000,
+          "endMs": 35500,
+          "note": 50
+        },
+        {
+          "startMs": 35500,
+          "endMs": 36000,
+          "note": 48
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36500,
+          "note": 47
+        },
+        {
+          "startMs": 36500,
+          "endMs": 37000,
+          "note": 45
+        },
+        {
+          "startMs": 37000,
+          "endMs": 37500,
+          "note": 43
+        },
+        {
+          "startMs": 37500,
+          "endMs": 38000,
+          "note": 48
+        },
+        {
+          "startMs": 38000,
+          "endMs": 40000,
+          "note": 50
+        },
+        {
+          "startMs": 40000,
+          "endMs": 41500,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 2,
+      "lyricTrack": -2,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "An",
+          "word": "angels",
+          "ipa": "ˈe‍ɪn.",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "gels",
+          "word": "angels",
+          "ipa": "d‍ʒə‍lz",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 384,
+          "timeMs": 500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "we",
+          "word": "we",
+          "ipa": "wˈiː",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 768,
+          "timeMs": 1000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "have",
+          "word": "have",
+          "ipa": "hˈav",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1152,
+          "timeMs": 1500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "heard",
+          "word": "heard",
+          "ipa": "hˈɜːd",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 2000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "on",
+          "word": "on",
+          "ipa": "ˈɒn",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1920,
+          "timeMs": 2500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "high,",
+          "word": "high",
+          "ipa": "hˈa‍ɪ",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2304,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "Sweet",
+          "word": "sweetly",
+          "ipa": "swˈiːt.",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3072,
+          "timeMs": 4000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "ly",
+          "word": "sweetly",
+          "ipa": "li",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3456,
+          "timeMs": 4500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "sing",
+          "word": "singing",
+          "ipa": "sˈɪŋ.",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 5000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "ing",
+          "word": "singing",
+          "ipa": "ɪŋ",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 4224,
+          "timeMs": 5500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "o’er",
+          "word": "over",
+          "ipa": "ɔː",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4608,
+          "timeMs": 6000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4992,
+          "timeMs": 6500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "plains;",
+          "word": "plains",
+          "ipa": "plˈe‍ɪnz",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5376,
+          "timeMs": 7000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 8000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6528,
+          "timeMs": 8500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "moun",
+          "word": "mountains",
+          "ipa": "mˈa‍ʊn.",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 6912,
+          "timeMs": 9000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "tains",
+          "word": "mountains",
+          "ipa": "tɪnz",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 7296,
+          "timeMs": 9500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 10000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "re",
+          "word": "reply",
+          "ipa": "ɹɪ.",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 8064,
+          "timeMs": 10500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "ply",
+          "word": "reply",
+          "ipa": "plˈa‍ɪ",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 8448,
+          "timeMs": 11000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "Ech",
+          "word": "echoing",
+          "ipa": "ˈɛ.",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 9216,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "o",
+          "word": "echoing",
+          "ipa": "kə‍ʊ.",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 9600,
+          "timeMs": 12500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "ing",
+          "word": "echoing",
+          "ipa": "ɪŋ",
+          "wordIndex": 16,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 9984,
+          "timeMs": 13000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "their",
+          "word": "their",
+          "ipa": "ðˈe‍ə",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10368,
+          "timeMs": 13500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "joy",
+          "word": "joyous",
+          "ipa": "dʒˈɔɪ..",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 10752,
+          "timeMs": 14000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ous",
+          "word": "joyous",
+          "ipa": "əs",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 11136,
+          "timeMs": 14500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "strains.",
+          "word": "strains",
+          "ipa": "stɹˈe‍ɪnz",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11520,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "Glo",
+          "word": "gloria",
+          "ipa": "ɡlˈɔ.r",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 12288,
+          "timeMs": 16000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "ri",
+          "word": "gloria",
+          "ipa": "i.",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 17280,
+          "timeMs": 22500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "a",
+          "word": "gloria",
+          "ipa": "a",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 17664,
+          "timeMs": 23000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18432,
+          "timeMs": 24000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "ex",
+          "word": "excelsis",
+          "ipa": "eksˈtʃ.",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 18816,
+          "timeMs": 24500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "cel",
+          "word": "excelsis",
+          "ipa": "ɛl.",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 19200,
+          "timeMs": 25000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "sis",
+          "word": "excelsis",
+          "ipa": "sis",
+          "wordIndex": 22,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 19584,
+          "timeMs": 25500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "De",
+          "word": "deo",
+          "ipa": "dˈɛ.",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 19968,
+          "timeMs": 26000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "o!",
+          "word": "deo",
+          "ipa": "ɔ",
+          "wordIndex": 23,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 20736,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "Glo",
+          "word": "gloria",
+          "ipa": "ɡlˈɔ.r",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 21504,
+          "timeMs": 28000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "ri",
+          "word": "gloria",
+          "ipa": "i.",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 26496,
+          "timeMs": 34500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "a",
+          "word": "gloria",
+          "ipa": "a",
+          "wordIndex": 24,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 26880,
+          "timeMs": 35000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 27648,
+          "timeMs": 36000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "ex",
+          "word": "excelsis",
+          "ipa": "eksˈtʃ.",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 28032,
+          "timeMs": 36500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "cel",
+          "word": "excelsis",
+          "ipa": "ɛl.",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 28416,
+          "timeMs": 37000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "sis",
+          "word": "excelsis",
+          "ipa": "sis",
+          "wordIndex": 26,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 28800,
+          "timeMs": 37500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "De",
+          "word": "deo",
+          "ipa": "dˈɛ.",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 29184,
+          "timeMs": 38000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "o!",
+          "word": "deo",
+          "ipa": "ɔ",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 30720,
+          "timeMs": 40000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 500,
+          "note": 62
+        },
+        {
+          "startMs": 500,
+          "endMs": 1000,
+          "note": 62
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1500,
+          "note": 62
+        },
+        {
+          "startMs": 1500,
+          "endMs": 2000,
+          "note": 62
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2500,
+          "note": 60
+        },
+        {
+          "startMs": 2500,
+          "endMs": 3000,
+          "note": 62
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4000,
+          "note": 62
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 62
+        },
+        {
+          "startMs": 4500,
+          "endMs": 5000,
+          "note": 60
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5500,
+          "note": 62
+        },
+        {
+          "startMs": 5500,
+          "endMs": 6000,
+          "note": 59
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6500,
+          "note": 62
+        },
+        {
+          "startMs": 6500,
+          "endMs": 7000,
+          "note": 60
+        },
+        {
+          "startMs": 7000,
+          "endMs": 8000,
+          "note": 59
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8500,
+          "note": 62
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 62
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9250,
+          "note": 64
+        },
+        {
+          "startMs": 9250,
+          "endMs": 9500,
+          "note": 62
+        },
+        {
+          "startMs": 9500,
+          "endMs": 9750,
+          "note": 60
+        },
+        {
+          "startMs": 9750,
+          "endMs": 10000,
+          "note": 59
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10500,
+          "note": 60
+        },
+        {
+          "startMs": 10500,
+          "endMs": 11000,
+          "note": 62
+        },
+        {
+          "startMs": 11000,
+          "endMs": 12000,
+          "note": 62
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12500,
+          "note": 62
+        },
+        {
+          "startMs": 12500,
+          "endMs": 13000,
+          "note": 64
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13500,
+          "note": 62
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14000,
+          "note": 59
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14500,
+          "note": 62
+        },
+        {
+          "startMs": 14500,
+          "endMs": 15000,
+          "note": 60
+        },
+        {
+          "startMs": 15000,
+          "endMs": 16000,
+          "note": 59
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17000,
+          "note": 59
+        },
+        {
+          "startMs": 17000,
+          "endMs": 19000,
+          "note": 64
+        },
+        {
+          "startMs": 19000,
+          "endMs": 21000,
+          "note": 62
+        },
+        {
+          "startMs": 21000,
+          "endMs": 22000,
+          "note": 60
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22500,
+          "note": 57
+        },
+        {
+          "startMs": 22500,
+          "endMs": 23000,
+          "note": 55
+        },
+        {
+          "startMs": 23000,
+          "endMs": 24000,
+          "note": 54
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24500,
+          "note": 55
+        },
+        {
+          "startMs": 24500,
+          "endMs": 25000,
+          "note": 54
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25500,
+          "note": 55
+        },
+        {
+          "startMs": 25500,
+          "endMs": 26000,
+          "note": 55
+        },
+        {
+          "startMs": 26000,
+          "endMs": 26500,
+          "note": 55
+        },
+        {
+          "startMs": 26500,
+          "endMs": 27000,
+          "note": 59
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27750,
+          "note": 62
+        },
+        {
+          "startMs": 27750,
+          "endMs": 28000,
+          "note": 60
+        },
+        {
+          "startMs": 28000,
+          "endMs": 29000,
+          "note": 59
+        },
+        {
+          "startMs": 29000,
+          "endMs": 31000,
+          "note": 64
+        },
+        {
+          "startMs": 31000,
+          "endMs": 33000,
+          "note": 62
+        },
+        {
+          "startMs": 33000,
+          "endMs": 34000,
+          "note": 60
+        },
+        {
+          "startMs": 34000,
+          "endMs": 34500,
+          "note": 57
+        },
+        {
+          "startMs": 34500,
+          "endMs": 35000,
+          "note": 55
+        },
+        {
+          "startMs": 35000,
+          "endMs": 36000,
+          "note": 54
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36500,
+          "note": 55
+        },
+        {
+          "startMs": 36500,
+          "endMs": 37000,
+          "note": 54
+        },
+        {
+          "startMs": 37000,
+          "endMs": 37500,
+          "note": 55
+        },
+        {
+          "startMs": 37500,
+          "endMs": 38000,
+          "note": 55
+        },
+        {
+          "startMs": 38000,
+          "endMs": 38500,
+          "note": 55
+        },
+        {
+          "startMs": 38500,
+          "endMs": 39000,
+          "note": 59
+        },
+        {
+          "startMs": 39000,
+          "endMs": 39750,
+          "note": 62
+        },
+        {
+          "startMs": 39750,
+          "endMs": 40000,
+          "note": 60
+        },
+        {
+          "startMs": 40000,
+          "endMs": 41500,
+          "note": 59
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": -2,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "An",
+          "word": "angels",
+          "ipa": "ˈe‍ɪn.",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "gels",
+          "word": "angels",
+          "ipa": "d‍ʒə‍lz",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 384,
+          "timeMs": 500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "we",
+          "word": "we",
+          "ipa": "wˈiː",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 768,
+          "timeMs": 1000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "have",
+          "word": "have",
+          "ipa": "hˈav",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1152,
+          "timeMs": 1500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "heard",
+          "word": "heard",
+          "ipa": "hˈɜːd",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 2000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "on",
+          "word": "on",
+          "ipa": "ˈɒn",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2112,
+          "timeMs": 2750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "high,",
+          "word": "high",
+          "ipa": "hˈa‍ɪ",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2304,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "Sweet",
+          "word": "sweetly",
+          "ipa": "swˈiːt.",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3072,
+          "timeMs": 4000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "ly",
+          "word": "sweetly",
+          "ipa": "li",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3456,
+          "timeMs": 4500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "sing",
+          "word": "singing",
+          "ipa": "sˈɪŋ.",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 5000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "ing",
+          "word": "singing",
+          "ipa": "ɪŋ",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 4224,
+          "timeMs": 5500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "o’er",
+          "word": "over",
+          "ipa": "ɔː",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4608,
+          "timeMs": 6000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5184,
+          "timeMs": 6750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "plains;",
+          "word": "plains",
+          "ipa": "plˈe‍ɪnz",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5376,
+          "timeMs": 7000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 8000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6528,
+          "timeMs": 8500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "moun",
+          "word": "mountains",
+          "ipa": "mˈa‍ʊn.",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 6912,
+          "timeMs": 9000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "tains",
+          "word": "mountains",
+          "ipa": "tɪnz",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 7296,
+          "timeMs": 9500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 10000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "re",
+          "word": "reply",
+          "ipa": "ɹɪ.",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 8256,
+          "timeMs": 10750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "ply",
+          "word": "reply",
+          "ipa": "plˈa‍ɪ",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 8448,
+          "timeMs": 11000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "Ech",
+          "word": "echoing",
+          "ipa": "ˈɛ.",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 9216,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "o",
+          "word": "echoing",
+          "ipa": "kə‍ʊ.",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 9600,
+          "timeMs": 12500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "ing",
+          "word": "echoing",
+          "ipa": "ɪŋ",
+          "wordIndex": 16,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 9984,
+          "timeMs": 13000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "their",
+          "word": "their",
+          "ipa": "ðˈe‍ə",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10368,
+          "timeMs": 13500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "joy",
+          "word": "joyous",
+          "ipa": "dʒˈɔɪ..",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 10752,
+          "timeMs": 14000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ous",
+          "word": "joyous",
+          "ipa": "əs",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 11328,
+          "timeMs": 14750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "strains.",
+          "word": "strains",
+          "ipa": "stɹˈe‍ɪnz",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11520,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "Glo",
+          "word": "gloria",
+          "ipa": "ɡlˈɔ.r",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 12288,
+          "timeMs": 16000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "ri",
+          "word": "gloria",
+          "ipa": "i.",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 17472,
+          "timeMs": 22750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "a",
+          "word": "gloria",
+          "ipa": "a",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 17664,
+          "timeMs": 23000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18432,
+          "timeMs": 24000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "ex",
+          "word": "excelsis",
+          "ipa": "eksˈtʃ.",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 18816,
+          "timeMs": 24500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "cel",
+          "word": "excelsis",
+          "ipa": "ɛl.",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 19200,
+          "timeMs": 25000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "sis",
+          "word": "excelsis",
+          "ipa": "sis",
+          "wordIndex": 22,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 19584,
+          "timeMs": 25500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "De",
+          "word": "deo",
+          "ipa": "dˈɛ.",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 19968,
+          "timeMs": 26000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "o!",
+          "word": "deo",
+          "ipa": "ɔ",
+          "wordIndex": 23,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 20736,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "Glo",
+          "word": "gloria",
+          "ipa": "ɡlˈɔ.r",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 21504,
+          "timeMs": 28000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "ri",
+          "word": "gloria",
+          "ipa": "i.",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 26688,
+          "timeMs": 34750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "a",
+          "word": "gloria",
+          "ipa": "a",
+          "wordIndex": 24,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 26880,
+          "timeMs": 35000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 27648,
+          "timeMs": 36000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "ex",
+          "word": "excelsis",
+          "ipa": "eksˈtʃ.",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 28032,
+          "timeMs": 36500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "cel",
+          "word": "excelsis",
+          "ipa": "ɛl.",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 28416,
+          "timeMs": 37000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "sis",
+          "word": "excelsis",
+          "ipa": "sis",
+          "wordIndex": 26,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 28800,
+          "timeMs": 37500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "De",
+          "word": "deo",
+          "ipa": "dˈɛ.",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 29184,
+          "timeMs": 38000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "o!",
+          "word": "deo",
+          "ipa": "ɔ",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 30720,
+          "timeMs": 40000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 500,
+          "note": 67
+        },
+        {
+          "startMs": 500,
+          "endMs": 1000,
+          "note": 67
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1500,
+          "note": 67
+        },
+        {
+          "startMs": 1500,
+          "endMs": 2000,
+          "note": 67
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2750,
+          "note": 66
+        },
+        {
+          "startMs": 2750,
+          "endMs": 3000,
+          "note": 66
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4000,
+          "note": 67
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 67
+        },
+        {
+          "startMs": 4500,
+          "endMs": 5000,
+          "note": 67
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5500,
+          "note": 67
+        },
+        {
+          "startMs": 5500,
+          "endMs": 6000,
+          "note": 67
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6750,
+          "note": 66
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7000,
+          "note": 66
+        },
+        {
+          "startMs": 7000,
+          "endMs": 8000,
+          "note": 67
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8500,
+          "note": 67
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 66
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9500,
+          "note": 67
+        },
+        {
+          "startMs": 9500,
+          "endMs": 10000,
+          "note": 67
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10750,
+          "note": 66
+        },
+        {
+          "startMs": 10750,
+          "endMs": 11000,
+          "note": 66
+        },
+        {
+          "startMs": 11000,
+          "endMs": 12000,
+          "note": 67
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12500,
+          "note": 67
+        },
+        {
+          "startMs": 12500,
+          "endMs": 13000,
+          "note": 67
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13500,
+          "note": 67
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14000,
+          "note": 67
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14750,
+          "note": 66
+        },
+        {
+          "startMs": 14750,
+          "endMs": 15000,
+          "note": 66
+        },
+        {
+          "startMs": 15000,
+          "endMs": 16000,
+          "note": 67
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16500,
+          "note": 67
+        },
+        {
+          "startMs": 16500,
+          "endMs": 16750,
+          "note": 71
+        },
+        {
+          "startMs": 16750,
+          "endMs": 17000,
+          "note": 69
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17500,
+          "note": 68
+        },
+        {
+          "startMs": 17500,
+          "endMs": 18500,
+          "note": 64
+        },
+        {
+          "startMs": 18500,
+          "endMs": 18750,
+          "note": 69
+        },
+        {
+          "startMs": 18750,
+          "endMs": 19000,
+          "note": 67
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19500,
+          "note": 66
+        },
+        {
+          "startMs": 19500,
+          "endMs": 20500,
+          "note": 62
+        },
+        {
+          "startMs": 20500,
+          "endMs": 20750,
+          "note": 67
+        },
+        {
+          "startMs": 20750,
+          "endMs": 21000,
+          "note": 66
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21500,
+          "note": 64
+        },
+        {
+          "startMs": 21500,
+          "endMs": 22750,
+          "note": 60
+        },
+        {
+          "startMs": 22750,
+          "endMs": 23000,
+          "note": 62
+        },
+        {
+          "startMs": 23000,
+          "endMs": 24000,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24500,
+          "note": 62
+        },
+        {
+          "startMs": 24500,
+          "endMs": 25000,
+          "note": 62
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25500,
+          "note": 62
+        },
+        {
+          "startMs": 25500,
+          "endMs": 26000,
+          "note": 64
+        },
+        {
+          "startMs": 26000,
+          "endMs": 26500,
+          "note": 62
+        },
+        {
+          "startMs": 26500,
+          "endMs": 27000,
+          "note": 67
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27500,
+          "note": 67
+        },
+        {
+          "startMs": 27500,
+          "endMs": 28000,
+          "note": 66
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28500,
+          "note": 67
+        },
+        {
+          "startMs": 28500,
+          "endMs": 28750,
+          "note": 71
+        },
+        {
+          "startMs": 28750,
+          "endMs": 29000,
+          "note": 69
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29500,
+          "note": 68
+        },
+        {
+          "startMs": 29500,
+          "endMs": 30500,
+          "note": 64
+        },
+        {
+          "startMs": 30500,
+          "endMs": 30750,
+          "note": 69
+        },
+        {
+          "startMs": 30750,
+          "endMs": 31000,
+          "note": 67
+        },
+        {
+          "startMs": 31000,
+          "endMs": 31500,
+          "note": 66
+        },
+        {
+          "startMs": 31500,
+          "endMs": 32500,
+          "note": 62
+        },
+        {
+          "startMs": 32500,
+          "endMs": 32750,
+          "note": 67
+        },
+        {
+          "startMs": 32750,
+          "endMs": 33000,
+          "note": 66
+        },
+        {
+          "startMs": 33000,
+          "endMs": 33500,
+          "note": 64
+        },
+        {
+          "startMs": 33500,
+          "endMs": 34750,
+          "note": 60
+        },
+        {
+          "startMs": 34750,
+          "endMs": 35000,
+          "note": 62
+        },
+        {
+          "startMs": 35000,
+          "endMs": 36000,
+          "note": 62
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36500,
+          "note": 62
+        },
+        {
+          "startMs": 36500,
+          "endMs": 37000,
+          "note": 62
+        },
+        {
+          "startMs": 37000,
+          "endMs": 37500,
+          "note": 62
+        },
+        {
+          "startMs": 37500,
+          "endMs": 38000,
+          "note": 64
+        },
+        {
+          "startMs": 38000,
+          "endMs": 38500,
+          "note": 62
+        },
+        {
+          "startMs": 38500,
+          "endMs": 39500,
+          "note": 67
+        },
+        {
+          "startMs": 39500,
+          "endMs": 40000,
+          "note": 66
+        },
+        {
+          "startMs": 40000,
+          "endMs": 41500,
+          "note": 62
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": -2,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "order": 0,
+          "text": "An",
+          "word": "angels",
+          "ipa": "ˈe‍ɪn.",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 0,
+          "timeMs": 0,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 1,
+          "text": "gels",
+          "word": "angels",
+          "ipa": "d‍ʒə‍lz",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 384,
+          "timeMs": 500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 2,
+          "text": "we",
+          "word": "we",
+          "ipa": "wˈiː",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 768,
+          "timeMs": 1000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 3,
+          "text": "have",
+          "word": "have",
+          "ipa": "hˈav",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1152,
+          "timeMs": 1500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 4,
+          "text": "heard",
+          "word": "heard",
+          "ipa": "hˈɜːd",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 1536,
+          "timeMs": 2000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 5,
+          "text": "on",
+          "word": "on",
+          "ipa": "ˈɒn",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2112,
+          "timeMs": 2750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 6,
+          "text": "high,",
+          "word": "high",
+          "ipa": "hˈa‍ɪ",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 2304,
+          "timeMs": 3000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 7,
+          "text": "Sweet",
+          "word": "sweetly",
+          "ipa": "swˈiːt.",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3072,
+          "timeMs": 4000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 8,
+          "text": "ly",
+          "word": "sweetly",
+          "ipa": "li",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 3456,
+          "timeMs": 4500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 9,
+          "text": "sing",
+          "word": "singing",
+          "ipa": "sˈɪŋ.",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 3840,
+          "timeMs": 5000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 10,
+          "text": "ing",
+          "word": "singing",
+          "ipa": "ɪŋ",
+          "wordIndex": 7,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 4224,
+          "timeMs": 5500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 11,
+          "text": "o’er",
+          "word": "over",
+          "ipa": "ɔː",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 4608,
+          "timeMs": 6000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 12,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5184,
+          "timeMs": 6750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 13,
+          "text": "plains;",
+          "word": "plains",
+          "ipa": "plˈe‍ɪnz",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 5376,
+          "timeMs": 7000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 14,
+          "text": "And",
+          "word": "and",
+          "ipa": "ˈand",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6144,
+          "timeMs": 8000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 15,
+          "text": "the",
+          "word": "the",
+          "ipa": "ðˈə",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 6528,
+          "timeMs": 8500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 16,
+          "text": "moun",
+          "word": "mountains",
+          "ipa": "mˈa‍ʊn.",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 6912,
+          "timeMs": 9000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 17,
+          "text": "tains",
+          "word": "mountains",
+          "ipa": "tɪnz",
+          "wordIndex": 13,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 7296,
+          "timeMs": 9500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 18,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 7680,
+          "timeMs": 10000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 19,
+          "text": "re",
+          "word": "reply",
+          "ipa": "ɹɪ.",
+          "wordIndex": 15,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 8256,
+          "timeMs": 10750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 20,
+          "text": "ply",
+          "word": "reply",
+          "ipa": "plˈa‍ɪ",
+          "wordIndex": 15,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 8448,
+          "timeMs": 11000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 21,
+          "text": "Ech",
+          "word": "echoing",
+          "ipa": "ˈɛ.",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 9216,
+          "timeMs": 12000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 22,
+          "text": "o",
+          "word": "echoing",
+          "ipa": "kə‍ʊ.",
+          "wordIndex": 16,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 9600,
+          "timeMs": 12500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 23,
+          "text": "ing",
+          "word": "echoing",
+          "ipa": "ɪŋ",
+          "wordIndex": 16,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 9984,
+          "timeMs": 13000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 24,
+          "text": "their",
+          "word": "their",
+          "ipa": "ðˈe‍ə",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 10368,
+          "timeMs": 13500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 25,
+          "text": "joy",
+          "word": "joyous",
+          "ipa": "dʒˈɔɪ..",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 10752,
+          "timeMs": 14000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 26,
+          "text": "ous",
+          "word": "joyous",
+          "ipa": "əs",
+          "wordIndex": 18,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 11328,
+          "timeMs": 14750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 27,
+          "text": "strains.",
+          "word": "strains",
+          "ipa": "stɹˈe‍ɪnz",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 11520,
+          "timeMs": 15000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 28,
+          "text": "Glo",
+          "word": "gloria",
+          "ipa": "ɡlˈɔ.r",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 12288,
+          "timeMs": 16000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 29,
+          "text": "ri",
+          "word": "gloria",
+          "ipa": "i.",
+          "wordIndex": 20,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 17472,
+          "timeMs": 22750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 30,
+          "text": "a",
+          "word": "gloria",
+          "ipa": "a",
+          "wordIndex": 20,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 17664,
+          "timeMs": 23000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 31,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 18432,
+          "timeMs": 24000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 32,
+          "text": "ex",
+          "word": "excelsis",
+          "ipa": "eksˈtʃ.",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 18816,
+          "timeMs": 24500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 33,
+          "text": "cel",
+          "word": "excelsis",
+          "ipa": "ɛl.",
+          "wordIndex": 22,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 19200,
+          "timeMs": 25000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 34,
+          "text": "sis",
+          "word": "excelsis",
+          "ipa": "sis",
+          "wordIndex": 22,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 19584,
+          "timeMs": 25500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 35,
+          "text": "De",
+          "word": "deo",
+          "ipa": "dˈɛ.",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 19968,
+          "timeMs": 26000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 36,
+          "text": "o!",
+          "word": "deo",
+          "ipa": "ɔ",
+          "wordIndex": 23,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 20736,
+          "timeMs": 27000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 37,
+          "text": "Glo",
+          "word": "gloria",
+          "ipa": "ɡlˈɔ.r",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 21504,
+          "timeMs": 28000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 38,
+          "text": "ri",
+          "word": "gloria",
+          "ipa": "i.",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 26688,
+          "timeMs": 34750,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 39,
+          "text": "a",
+          "word": "gloria",
+          "ipa": "a",
+          "wordIndex": 24,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 26880,
+          "timeMs": 35000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 40,
+          "text": "in",
+          "word": "in",
+          "ipa": "ˈɪn",
+          "wordIndex": 25,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "tick": 27648,
+          "timeMs": 36000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 41,
+          "text": "ex",
+          "word": "excelsis",
+          "ipa": "eksˈtʃ.",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "tick": 28032,
+          "timeMs": 36500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 42,
+          "text": "cel",
+          "word": "excelsis",
+          "ipa": "ɛl.",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "tick": 28416,
+          "timeMs": 37000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 43,
+          "text": "sis",
+          "word": "excelsis",
+          "ipa": "sis",
+          "wordIndex": 26,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "tick": 28800,
+          "timeMs": 37500,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 44,
+          "text": "De",
+          "word": "deo",
+          "ipa": "dˈɛ.",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "tick": 29184,
+          "timeMs": 38000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        },
+        {
+          "order": 45,
+          "text": "o!",
+          "word": "deo",
+          "ipa": "ɔ",
+          "wordIndex": 27,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "tick": 30720,
+          "timeMs": 40000,
+          "language": "en-gb",
+          "pronunciationSource": "explicit-underlay"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 500,
+          "note": 71
+        },
+        {
+          "startMs": 500,
+          "endMs": 1000,
+          "note": 71
+        },
+        {
+          "startMs": 1000,
+          "endMs": 1500,
+          "note": 71
+        },
+        {
+          "startMs": 1500,
+          "endMs": 2000,
+          "note": 74
+        },
+        {
+          "startMs": 2000,
+          "endMs": 2750,
+          "note": 74
+        },
+        {
+          "startMs": 2750,
+          "endMs": 3000,
+          "note": 72
+        },
+        {
+          "startMs": 3000,
+          "endMs": 4000,
+          "note": 71
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4500,
+          "note": 71
+        },
+        {
+          "startMs": 4500,
+          "endMs": 5000,
+          "note": 69
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5500,
+          "note": 71
+        },
+        {
+          "startMs": 5500,
+          "endMs": 6000,
+          "note": 74
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6750,
+          "note": 71
+        },
+        {
+          "startMs": 6750,
+          "endMs": 7000,
+          "note": 69
+        },
+        {
+          "startMs": 7000,
+          "endMs": 8000,
+          "note": 67
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8500,
+          "note": 71
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9000,
+          "note": 71
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9500,
+          "note": 71
+        },
+        {
+          "startMs": 9500,
+          "endMs": 10000,
+          "note": 74
+        },
+        {
+          "startMs": 10000,
+          "endMs": 10750,
+          "note": 74
+        },
+        {
+          "startMs": 10750,
+          "endMs": 11000,
+          "note": 72
+        },
+        {
+          "startMs": 11000,
+          "endMs": 12000,
+          "note": 71
+        },
+        {
+          "startMs": 12000,
+          "endMs": 12500,
+          "note": 71
+        },
+        {
+          "startMs": 12500,
+          "endMs": 13000,
+          "note": 69
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13500,
+          "note": 71
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14000,
+          "note": 74
+        },
+        {
+          "startMs": 14000,
+          "endMs": 14750,
+          "note": 71
+        },
+        {
+          "startMs": 14750,
+          "endMs": 15000,
+          "note": 69
+        },
+        {
+          "startMs": 15000,
+          "endMs": 16000,
+          "note": 67
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17000,
+          "note": 74
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17250,
+          "note": 76
+        },
+        {
+          "startMs": 17250,
+          "endMs": 17500,
+          "note": 74
+        },
+        {
+          "startMs": 17500,
+          "endMs": 17750,
+          "note": 72
+        },
+        {
+          "startMs": 17750,
+          "endMs": 18000,
+          "note": 71
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19000,
+          "note": 72
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19250,
+          "note": 74
+        },
+        {
+          "startMs": 19250,
+          "endMs": 19500,
+          "note": 72
+        },
+        {
+          "startMs": 19500,
+          "endMs": 19750,
+          "note": 71
+        },
+        {
+          "startMs": 19750,
+          "endMs": 20000,
+          "note": 69
+        },
+        {
+          "startMs": 20000,
+          "endMs": 21000,
+          "note": 71
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21250,
+          "note": 72
+        },
+        {
+          "startMs": 21250,
+          "endMs": 21500,
+          "note": 71
+        },
+        {
+          "startMs": 21500,
+          "endMs": 21750,
+          "note": 69
+        },
+        {
+          "startMs": 21750,
+          "endMs": 22000,
+          "note": 67
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22750,
+          "note": 69
+        },
+        {
+          "startMs": 22750,
+          "endMs": 23000,
+          "note": 62
+        },
+        {
+          "startMs": 23000,
+          "endMs": 24000,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24500,
+          "note": 67
+        },
+        {
+          "startMs": 24500,
+          "endMs": 25000,
+          "note": 69
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25500,
+          "note": 71
+        },
+        {
+          "startMs": 25500,
+          "endMs": 26000,
+          "note": 72
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27000,
+          "note": 71
+        },
+        {
+          "startMs": 27000,
+          "endMs": 28000,
+          "note": 69
+        },
+        {
+          "startMs": 28000,
+          "endMs": 29000,
+          "note": 74
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29250,
+          "note": 76
+        },
+        {
+          "startMs": 29250,
+          "endMs": 29500,
+          "note": 74
+        },
+        {
+          "startMs": 29500,
+          "endMs": 29750,
+          "note": 72
+        },
+        {
+          "startMs": 29750,
+          "endMs": 30000,
+          "note": 71
+        },
+        {
+          "startMs": 30000,
+          "endMs": 31000,
+          "note": 72
+        },
+        {
+          "startMs": 31000,
+          "endMs": 31250,
+          "note": 74
+        },
+        {
+          "startMs": 31250,
+          "endMs": 31500,
+          "note": 72
+        },
+        {
+          "startMs": 31500,
+          "endMs": 31750,
+          "note": 71
+        },
+        {
+          "startMs": 31750,
+          "endMs": 32000,
+          "note": 69
+        },
+        {
+          "startMs": 32000,
+          "endMs": 33000,
+          "note": 71
+        },
+        {
+          "startMs": 33000,
+          "endMs": 33250,
+          "note": 72
+        },
+        {
+          "startMs": 33250,
+          "endMs": 33500,
+          "note": 71
+        },
+        {
+          "startMs": 33500,
+          "endMs": 33750,
+          "note": 69
+        },
+        {
+          "startMs": 33750,
+          "endMs": 34000,
+          "note": 67
+        },
+        {
+          "startMs": 34000,
+          "endMs": 34750,
+          "note": 69
+        },
+        {
+          "startMs": 34750,
+          "endMs": 35000,
+          "note": 62
+        },
+        {
+          "startMs": 35000,
+          "endMs": 36000,
+          "note": 62
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36500,
+          "note": 67
+        },
+        {
+          "startMs": 36500,
+          "endMs": 37000,
+          "note": 69
+        },
+        {
+          "startMs": 37000,
+          "endMs": 37500,
+          "note": 71
+        },
+        {
+          "startMs": 37500,
+          "endMs": 38000,
+          "note": 72
+        },
+        {
+          "startMs": 38000,
+          "endMs": 39000,
+          "note": 71
+        },
+        {
+          "startMs": 39000,
+          "endMs": 40000,
+          "note": 69
+        },
+        {
+          "startMs": 40000,
+          "endMs": 41500,
+          "note": 67
+        }
+      ]
+    }
+  ]
+}

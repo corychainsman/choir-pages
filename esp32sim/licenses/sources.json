@@ -1,0 +1,10 @@
+{
+  "gnuspeech": {
+    "url": "https://raw.githubusercontent.com/mym-br/gnuspeech_sa/f62e8b88eeeb3fa7e51ac138d561c3061a4a415f/COPYING.txt",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  "esp32sim": {
+    "url": "https://github.com/mikroverk/esp32sim/blob/3d276edfd9bc31b4622c13015f04f61114e35315/LICENSE",
+    "sha256": "9de2fd8155bb09da4f50be6e5eb0688bfbcc4808e9a94f7713145a321d52a396"
+  }
+}

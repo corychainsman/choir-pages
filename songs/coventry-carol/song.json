@@ -1,0 +1,2481 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "d7d1b54b277cd1bcf1f9bd9be0d91bcc2fe11ce7ba59c2e050d56d33be72ff18",
+  "id": "coventry-carol",
+  "title": "Coventry Carol",
+  "durationMs": 32450,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/coventry-carol/song.cscore",
+  "displayScore": "/songs/coventry-carol/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v4",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 18,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 20
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 18,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 20
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 18,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 20
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 28,
+        "words": 18,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 20
+        }
+      }
+    ]
+  },
+  "performanceForm": {
+    "expanded": true,
+    "durationTicks": 18432,
+    "sequence": [
+      {
+        "section": "vocal-verse",
+        "label": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+        "lyricTrack": 6,
+        "startTick": 0,
+        "endTick": 18432,
+        "startMs": 0,
+        "endMs": 32000
+      }
+    ]
+  },
+  "sourceUrl": "https://acollectionofchristmascarols.com/",
+  "license": "Public domain",
+  "sequenceCredit": "Benjamin Bloomfield LilyPond transcription of Stainer; original 1878 carol 61 labels the excluded seven-bar instrumental introduction Symphony (to verse 1); retained scan songs/source-images/coventry-carol-stainer-1878.gif",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 2,
+      "lyricTrack": -5,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Lul",
+          "order": 0,
+          "timeMs": 0,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "lay,",
+          "order": 1,
+          "timeMs": 667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "Thou",
+          "order": 2,
+          "timeMs": 1333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "thou",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1152,
+          "text": "lit",
+          "order": 3,
+          "timeMs": 2000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "tle",
+          "order": 4,
+          "timeMs": 3333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "ti",
+          "order": 5,
+          "timeMs": 4000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "ny",
+          "order": 6,
+          "timeMs": 5333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "Child,",
+          "order": 7,
+          "timeMs": 6000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "child",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "By,",
+          "order": 8,
+          "timeMs": 8000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4992,
+          "text": "by,",
+          "order": 9,
+          "timeMs": 8667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5376,
+          "text": "lul",
+          "order": 10,
+          "timeMs": 9333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "ly,",
+          "order": 11,
+          "timeMs": 10000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "lul",
+          "order": 12,
+          "timeMs": 11333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "lay;",
+          "order": 13,
+          "timeMs": 12000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Lul",
+          "order": 14,
+          "timeMs": 15333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "lay,",
+          "order": 15,
+          "timeMs": 16000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "Thou",
+          "order": 16,
+          "timeMs": 17333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "thou",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10368,
+          "text": "lit",
+          "order": 17,
+          "timeMs": 18000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "tle",
+          "order": 18,
+          "timeMs": 19333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "ti",
+          "order": 19,
+          "timeMs": 20000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "ny",
+          "order": 20,
+          "timeMs": 21333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "child,",
+          "order": 21,
+          "timeMs": 22000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "child",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "By,",
+          "order": 22,
+          "timeMs": 24000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14208,
+          "text": "by,",
+          "order": 23,
+          "timeMs": 24667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14592,
+          "text": "lul",
+          "order": 24,
+          "timeMs": 25333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "ly,",
+          "order": 25,
+          "timeMs": 26000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "lul",
+          "order": 26,
+          "timeMs": 27333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "lay.",
+          "order": 27,
+          "timeMs": 28000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 667,
+          "note": 55
+        },
+        {
+          "startMs": 667,
+          "endMs": 1333,
+          "note": 55
+        },
+        {
+          "startMs": 1333,
+          "endMs": 2000,
+          "note": 50
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3333,
+          "note": 55
+        },
+        {
+          "startMs": 3333,
+          "endMs": 4000,
+          "note": 55
+        },
+        {
+          "startMs": 4000,
+          "endMs": 5333,
+          "note": 53
+        },
+        {
+          "startMs": 5333,
+          "endMs": 6000,
+          "note": 55
+        },
+        {
+          "startMs": 6000,
+          "endMs": 8000,
+          "note": 50
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8667,
+          "note": 55
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9333,
+          "note": 54
+        },
+        {
+          "startMs": 9333,
+          "endMs": 10000,
+          "note": 55
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11333,
+          "note": 48
+        },
+        {
+          "startMs": 11333,
+          "endMs": 12000,
+          "note": 50
+        },
+        {
+          "startMs": 12000,
+          "endMs": 15333,
+          "note": 55
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 46
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17333,
+          "note": 53
+        },
+        {
+          "startMs": 17333,
+          "endMs": 18000,
+          "note": 50
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19333,
+          "note": 53
+        },
+        {
+          "startMs": 19333,
+          "endMs": 20000,
+          "note": 46
+        },
+        {
+          "startMs": 20000,
+          "endMs": 21333,
+          "note": 48
+        },
+        {
+          "startMs": 21333,
+          "endMs": 22000,
+          "note": 51
+        },
+        {
+          "startMs": 22000,
+          "endMs": 24000,
+          "note": 50
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24667,
+          "note": 55
+        },
+        {
+          "startMs": 24667,
+          "endMs": 25333,
+          "note": 50
+        },
+        {
+          "startMs": 25333,
+          "endMs": 26000,
+          "note": 51
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27333,
+          "note": 48
+        },
+        {
+          "startMs": 27333,
+          "endMs": 28000,
+          "note": 50
+        },
+        {
+          "startMs": 28000,
+          "endMs": 32000,
+          "note": 43
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 2,
+      "lyricTrack": -5,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Lul",
+          "order": 0,
+          "timeMs": 0,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "lay,",
+          "order": 1,
+          "timeMs": 667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "Thou",
+          "order": 2,
+          "timeMs": 1333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "thou",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1152,
+          "text": "lit",
+          "order": 3,
+          "timeMs": 2000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "tle",
+          "order": 4,
+          "timeMs": 3333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "ti",
+          "order": 5,
+          "timeMs": 4000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "ny",
+          "order": 6,
+          "timeMs": 5333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "Child,",
+          "order": 7,
+          "timeMs": 6000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "child",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "By,",
+          "order": 8,
+          "timeMs": 8000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4992,
+          "text": "by,",
+          "order": 9,
+          "timeMs": 8667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5376,
+          "text": "lul",
+          "order": 10,
+          "timeMs": 9333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "ly,",
+          "order": 11,
+          "timeMs": 10000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "lul",
+          "order": 12,
+          "timeMs": 11333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "lay;",
+          "order": 13,
+          "timeMs": 12000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Lul",
+          "order": 14,
+          "timeMs": 15333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "lay,",
+          "order": 15,
+          "timeMs": 16000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "Thou",
+          "order": 16,
+          "timeMs": 17333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "thou",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10368,
+          "text": "lit",
+          "order": 17,
+          "timeMs": 18000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "tle",
+          "order": 18,
+          "timeMs": 19333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "ti",
+          "order": 19,
+          "timeMs": 20000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "ny",
+          "order": 20,
+          "timeMs": 21333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "child,",
+          "order": 21,
+          "timeMs": 22000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "child",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "By,",
+          "order": 22,
+          "timeMs": 24000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14208,
+          "text": "by,",
+          "order": 23,
+          "timeMs": 24667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14592,
+          "text": "lul",
+          "order": 24,
+          "timeMs": 25333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "ly,",
+          "order": 25,
+          "timeMs": 26000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "lul",
+          "order": 26,
+          "timeMs": 27333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "lay.",
+          "order": 27,
+          "timeMs": 28000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 667,
+          "note": 58
+        },
+        {
+          "startMs": 667,
+          "endMs": 1333,
+          "note": 58
+        },
+        {
+          "startMs": 1333,
+          "endMs": 2000,
+          "note": 57
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3333,
+          "note": 58
+        },
+        {
+          "startMs": 3333,
+          "endMs": 4000,
+          "note": 58
+        },
+        {
+          "startMs": 4000,
+          "endMs": 5333,
+          "note": 60
+        },
+        {
+          "startMs": 5333,
+          "endMs": 6000,
+          "note": 58
+        },
+        {
+          "startMs": 6000,
+          "endMs": 8000,
+          "note": 57
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8667,
+          "note": 58
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9333,
+          "note": 57
+        },
+        {
+          "startMs": 9333,
+          "endMs": 10000,
+          "note": 55
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11333,
+          "note": 55
+        },
+        {
+          "startMs": 11333,
+          "endMs": 12000,
+          "note": 54
+        },
+        {
+          "startMs": 12000,
+          "endMs": 15333,
+          "note": 58
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 58
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17333,
+          "note": 57
+        },
+        {
+          "startMs": 17333,
+          "endMs": 18000,
+          "note": 58
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19333,
+          "note": 60
+        },
+        {
+          "startMs": 19333,
+          "endMs": 20000,
+          "note": 62
+        },
+        {
+          "startMs": 20000,
+          "endMs": 21333,
+          "note": 60
+        },
+        {
+          "startMs": 21333,
+          "endMs": 22000,
+          "note": 55
+        },
+        {
+          "startMs": 22000,
+          "endMs": 24000,
+          "note": 57
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24667,
+          "note": 58
+        },
+        {
+          "startMs": 24667,
+          "endMs": 25333,
+          "note": 57
+        },
+        {
+          "startMs": 25333,
+          "endMs": 26000,
+          "note": 55
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27333,
+          "note": 55
+        },
+        {
+          "startMs": 27333,
+          "endMs": 28000,
+          "note": 54
+        },
+        {
+          "startMs": 28000,
+          "endMs": 32000,
+          "note": 55
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 1,
+      "lyricTrack": -5,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Lul",
+          "order": 0,
+          "timeMs": 0,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "lay,",
+          "order": 1,
+          "timeMs": 667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "Thou",
+          "order": 2,
+          "timeMs": 1333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "thou",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1152,
+          "text": "lit",
+          "order": 3,
+          "timeMs": 2000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "tle",
+          "order": 4,
+          "timeMs": 3333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "ti",
+          "order": 5,
+          "timeMs": 4000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "ny",
+          "order": 6,
+          "timeMs": 5333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "Child,",
+          "order": 7,
+          "timeMs": 6000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "child",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "By,",
+          "order": 8,
+          "timeMs": 8000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4992,
+          "text": "by,",
+          "order": 9,
+          "timeMs": 8667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5376,
+          "text": "lul",
+          "order": 10,
+          "timeMs": 9333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "ly,",
+          "order": 11,
+          "timeMs": 10000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "lul",
+          "order": 12,
+          "timeMs": 11333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "lay;",
+          "order": 13,
+          "timeMs": 12000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Lul",
+          "order": 14,
+          "timeMs": 15333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "lay,",
+          "order": 15,
+          "timeMs": 16000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "Thou",
+          "order": 16,
+          "timeMs": 17333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "thou",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10368,
+          "text": "lit",
+          "order": 17,
+          "timeMs": 18000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "tle",
+          "order": 18,
+          "timeMs": 19333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "ti",
+          "order": 19,
+          "timeMs": 20000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "ny",
+          "order": 20,
+          "timeMs": 21333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "child,",
+          "order": 21,
+          "timeMs": 22000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "child",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "By,",
+          "order": 22,
+          "timeMs": 24000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14208,
+          "text": "by,",
+          "order": 23,
+          "timeMs": 24667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14592,
+          "text": "lul",
+          "order": 24,
+          "timeMs": 25333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "ly,",
+          "order": 25,
+          "timeMs": 26000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "lul",
+          "order": 26,
+          "timeMs": 27333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "lay.",
+          "order": 27,
+          "timeMs": 28000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 667,
+          "note": 62
+        },
+        {
+          "startMs": 667,
+          "endMs": 1333,
+          "note": 62
+        },
+        {
+          "startMs": 1333,
+          "endMs": 2000,
+          "note": 62
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3333,
+          "note": 62
+        },
+        {
+          "startMs": 3333,
+          "endMs": 4000,
+          "note": 62
+        },
+        {
+          "startMs": 4000,
+          "endMs": 5333,
+          "note": 65
+        },
+        {
+          "startMs": 5333,
+          "endMs": 6000,
+          "note": 62
+        },
+        {
+          "startMs": 6000,
+          "endMs": 8000,
+          "note": 62
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8667,
+          "note": 62
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9333,
+          "note": 62
+        },
+        {
+          "startMs": 9333,
+          "endMs": 10000,
+          "note": 62
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11333,
+          "note": 63
+        },
+        {
+          "startMs": 11333,
+          "endMs": 12000,
+          "note": 62
+        },
+        {
+          "startMs": 12000,
+          "endMs": 15333,
+          "note": 62
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 65
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17333,
+          "note": 65
+        },
+        {
+          "startMs": 17333,
+          "endMs": 18000,
+          "note": 65
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19333,
+          "note": 65
+        },
+        {
+          "startMs": 19333,
+          "endMs": 20000,
+          "note": 67
+        },
+        {
+          "startMs": 20000,
+          "endMs": 21333,
+          "note": 63
+        },
+        {
+          "startMs": 21333,
+          "endMs": 22000,
+          "note": 60
+        },
+        {
+          "startMs": 22000,
+          "endMs": 24000,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24667,
+          "note": 62
+        },
+        {
+          "startMs": 24667,
+          "endMs": 25333,
+          "note": 62
+        },
+        {
+          "startMs": 25333,
+          "endMs": 26000,
+          "note": 58
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27333,
+          "note": 63
+        },
+        {
+          "startMs": 27333,
+          "endMs": 28000,
+          "note": 62
+        },
+        {
+          "startMs": 28000,
+          "endMs": 32000,
+          "note": 62
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": -5,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "Lul",
+          "order": 0,
+          "timeMs": 0,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 384,
+          "text": "lay,",
+          "order": 1,
+          "timeMs": 667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 0,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 768,
+          "text": "Thou",
+          "order": 2,
+          "timeMs": 1333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "thou",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 1152,
+          "text": "lit",
+          "order": 3,
+          "timeMs": 2000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1920,
+          "text": "tle",
+          "order": 4,
+          "timeMs": 3333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 3,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "ti",
+          "order": 5,
+          "timeMs": 4000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3072,
+          "text": "ny",
+          "order": 6,
+          "timeMs": 5333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 5,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "Child,",
+          "order": 7,
+          "timeMs": 6000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "child",
+          "wordIndex": 7,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4608,
+          "text": "By,",
+          "order": 8,
+          "timeMs": 8000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 8,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 4992,
+          "text": "by,",
+          "order": 9,
+          "timeMs": 8667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 5376,
+          "text": "lul",
+          "order": 10,
+          "timeMs": 9333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5760,
+          "text": "ly,",
+          "order": 11,
+          "timeMs": 10000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 10,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "lul",
+          "order": 12,
+          "timeMs": 11333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "lay;",
+          "order": 13,
+          "timeMs": 12000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 12,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Lul",
+          "order": 14,
+          "timeMs": 15333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "lay,",
+          "order": 15,
+          "timeMs": 16000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "Thou",
+          "order": 16,
+          "timeMs": 17333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "thou",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈa‍ʊ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 10368,
+          "text": "lit",
+          "order": 17,
+          "timeMs": 18000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "tle",
+          "order": 18,
+          "timeMs": 19333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "little",
+          "wordIndex": 17,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "tə‍l",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "ti",
+          "order": 19,
+          "timeMs": 20000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "tˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "ny",
+          "order": 20,
+          "timeMs": 21333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "tiny",
+          "wordIndex": 19,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ni",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "child,",
+          "order": 21,
+          "timeMs": 22000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "child",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "t‍ʃˈa‍ɪld",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 13824,
+          "text": "By,",
+          "order": 22,
+          "timeMs": 24000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 22,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14208,
+          "text": "by,",
+          "order": 23,
+          "timeMs": 24667,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "by",
+          "wordIndex": 23,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14592,
+          "text": "lul",
+          "order": 24,
+          "timeMs": 25333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "ly,",
+          "order": 25,
+          "timeMs": 26000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lully",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "li",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "lul",
+          "order": 26,
+          "timeMs": 27333,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "lˈʌ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "lay.",
+          "order": 27,
+          "timeMs": 28000,
+          "formSection": "vocal-verse",
+          "formLabel": "Verse 1; original engraving labels preceding seven bars Symphony (to verse 1)",
+          "sourceLyricTrack": 6,
+          "word": "lullay",
+          "wordIndex": 26,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "le‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 667,
+          "note": 67
+        },
+        {
+          "startMs": 667,
+          "endMs": 1333,
+          "note": 67
+        },
+        {
+          "startMs": 1333,
+          "endMs": 2000,
+          "note": 66
+        },
+        {
+          "startMs": 2000,
+          "endMs": 3333,
+          "note": 67
+        },
+        {
+          "startMs": 3333,
+          "endMs": 4000,
+          "note": 70
+        },
+        {
+          "startMs": 4000,
+          "endMs": 5333,
+          "note": 69
+        },
+        {
+          "startMs": 5333,
+          "endMs": 6000,
+          "note": 67
+        },
+        {
+          "startMs": 6000,
+          "endMs": 8000,
+          "note": 66
+        },
+        {
+          "startMs": 8000,
+          "endMs": 8667,
+          "note": 67
+        },
+        {
+          "startMs": 8667,
+          "endMs": 9333,
+          "note": 69
+        },
+        {
+          "startMs": 9333,
+          "endMs": 10000,
+          "note": 70
+        },
+        {
+          "startMs": 10000,
+          "endMs": 11333,
+          "note": 72
+        },
+        {
+          "startMs": 11333,
+          "endMs": 12000,
+          "note": 69
+        },
+        {
+          "startMs": 12000,
+          "endMs": 15333,
+          "note": 67
+        },
+        {
+          "startMs": 15333,
+          "endMs": 16000,
+          "note": 74
+        },
+        {
+          "startMs": 16000,
+          "endMs": 17333,
+          "note": 72
+        },
+        {
+          "startMs": 17333,
+          "endMs": 18000,
+          "note": 70
+        },
+        {
+          "startMs": 18000,
+          "endMs": 19333,
+          "note": 69
+        },
+        {
+          "startMs": 19333,
+          "endMs": 20000,
+          "note": 70
+        },
+        {
+          "startMs": 20000,
+          "endMs": 21333,
+          "note": 69
+        },
+        {
+          "startMs": 21333,
+          "endMs": 22000,
+          "note": 67
+        },
+        {
+          "startMs": 22000,
+          "endMs": 24000,
+          "note": 66
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24667,
+          "note": 67
+        },
+        {
+          "startMs": 24667,
+          "endMs": 25333,
+          "note": 66
+        },
+        {
+          "startMs": 25333,
+          "endMs": 26000,
+          "note": 67
+        },
+        {
+          "startMs": 26000,
+          "endMs": 27333,
+          "note": 72
+        },
+        {
+          "startMs": 27333,
+          "endMs": 28000,
+          "note": 69
+        },
+        {
+          "startMs": 28000,
+          "endMs": 32000,
+          "note": 71
+        }
+      ]
+    }
+  ]
+}

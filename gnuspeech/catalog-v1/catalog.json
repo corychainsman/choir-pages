@@ -1,0 +1,1405 @@
+{
+  "format": "choir-gnuspeech-playback-catalog",
+  "version": 1,
+  "sampleRate": 24000,
+  "installable": true,
+  "sourceCatalog": "catalog-v4",
+  "sourceCatalogSha256": "77c1e85c75bd5a937448ff651124bf98f334fb37dcd82e9890a803ff6ea0704b",
+  "inventory": {
+    "songs": 31,
+    "parts": 139
+  },
+  "songs": [
+    {
+      "id": "bogoroditse-devo-rachmaninoff",
+      "title": "Bogoroditse Devo (Rachmaninoff)",
+      "sourceHash": "8fbb1493d567bb6ae06f4cde9b5e55d68316207e883bd3f113715d54e81b54d5",
+      "durationSamples": 3111070,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/bogoroditse-devo-rachmaninoff-0.gnb",
+          "sha256": "4b5280385d484f31c54538915e3609a30d3cf328f5a0a057cbc4d7795a5bbf06",
+          "bytes": 3552
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/bogoroditse-devo-rachmaninoff-1.gnb",
+          "sha256": "ebc9f7308003468ef948af9349c7731e8ea09311a31c1bca2c669c3b8e696137",
+          "bytes": 4304
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/bogoroditse-devo-rachmaninoff-2.gnb",
+          "sha256": "3b259f96ba0f41f952f03217a47423b3d24c457664b987564aef3d93a81762d9",
+          "bytes": 5240
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/bogoroditse-devo-rachmaninoff-3.gnb",
+          "sha256": "adc1c522cd394fdfb73bb6092a28c50781fda97540f674e3c1557231b4173b20",
+          "bytes": 3744
+        }
+      ]
+    },
+    {
+      "id": "ave-maria-memley",
+      "title": "Ave Maria (Memley)",
+      "sourceHash": "295b90e36c7e88838006a4042da3cbd9cf539ed297a24c767351623b1c3d87b0",
+      "durationSamples": 5760000,
+      "entrySample": 103776,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass-2",
+          "path": "parts/ave-maria-memley-0.gnb",
+          "sha256": "7f0fd2020815d59fb8efba40ef84b9c0def0a9b2b79dd5690850ce954d34f1f8",
+          "bytes": 11400
+        },
+        {
+          "canonicalVoiceIndex": 0,
+          "sourcePartIndex": 1,
+          "role": "bass-1",
+          "path": "parts/ave-maria-memley-1.gnb",
+          "sha256": "c289bd3437dacd355752ca10b0941e89b51a3252e66ed3ef87427ab68232a6e9",
+          "bytes": 11400
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 2,
+          "role": "baritone",
+          "path": "parts/ave-maria-memley-2.gnb",
+          "sha256": "3396826f1f96e4107383de08071d20672026a82440bacb0a0ae4e7a1a2503af3",
+          "bytes": 15620
+        },
+        {
+          "canonicalVoiceIndex": 2,
+          "sourcePartIndex": 3,
+          "role": "tenor",
+          "path": "parts/ave-maria-memley-3.gnb",
+          "sha256": "ec9b20d92340187389d56245bff58b0859c66f275acc68a69f1b5f1e693aef5c",
+          "bytes": 15580
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 4,
+          "role": "alto",
+          "path": "parts/ave-maria-memley-4.gnb",
+          "sha256": "89e5704e9aaa33e69765bff184717469544312890e25333f1f381c82de49a741",
+          "bytes": 15076
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 5,
+          "role": "soprano-2",
+          "path": "parts/ave-maria-memley-5.gnb",
+          "sha256": "999a36d0efa0329ca8529ce44cb13077cae376b27b0993de65f5bb6ec58c753c",
+          "bytes": 18204
+        },
+        {
+          "canonicalVoiceIndex": 6,
+          "sourcePartIndex": 6,
+          "role": "soprano-1",
+          "path": "parts/ave-maria-memley-6.gnb",
+          "sha256": "1617e9fe9ef9bf750f9d56c3d06064ce7557640f8ddac080150354e2318e38e1",
+          "bytes": 16456
+        }
+      ]
+    },
+    {
+      "id": "shenandoah-erb",
+      "title": "Shenandoah (Erb)",
+      "sourceHash": "11994d07c08479ad57b0e37624c08212e6ba49ae41eea0b6472da119df1a70ba",
+      "durationSamples": 4593778,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass-2",
+          "path": "parts/shenandoah-erb-0.gnb",
+          "sha256": "ea647f6f35078633406c79d37c00da803a5c60979872d96b0133147b7fc8abbc",
+          "bytes": 5592
+        },
+        {
+          "canonicalVoiceIndex": 0,
+          "sourcePartIndex": 1,
+          "role": "bass-1",
+          "path": "parts/shenandoah-erb-1.gnb",
+          "sha256": "77132c938037da5d0122f4e11d0f2ed053e44fd320d27762b772d5d28c24b9ad",
+          "bytes": 5456
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 2,
+          "role": "baritone-2",
+          "path": "parts/shenandoah-erb-2.gnb",
+          "sha256": "acf8b0204afcf6106cff2e99276575ea76379b68714f22fd12d7c545dcbdc48c",
+          "bytes": 6132
+        },
+        {
+          "canonicalVoiceIndex": 2,
+          "sourcePartIndex": 3,
+          "role": "baritone-1",
+          "path": "parts/shenandoah-erb-3.gnb",
+          "sha256": "3db089cec8a0f0c6875e0dfee1066396e13b96357974e86a02ad04c9a58a924e",
+          "bytes": 6148
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 4,
+          "role": "alto-2",
+          "path": "parts/shenandoah-erb-4.gnb",
+          "sha256": "f84740c348d2a6edcd70f6d435c4edafca7c136751c17afe07ff3723ca1652af",
+          "bytes": 7264
+        },
+        {
+          "canonicalVoiceIndex": 4,
+          "sourcePartIndex": 5,
+          "role": "alto-1",
+          "path": "parts/shenandoah-erb-5.gnb",
+          "sha256": "869bab070b491a06385b63aa582c6f70910821dc34e5813a7854bc0860c0ae4c",
+          "bytes": 7216
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 6,
+          "role": "soprano-2",
+          "path": "parts/shenandoah-erb-6.gnb",
+          "sha256": "0c049e44787c4c4d9df51c5de43f66bd72b0d1e152ab4c62d27468d62af560a4",
+          "bytes": 7176
+        },
+        {
+          "canonicalVoiceIndex": 6,
+          "sourcePartIndex": 7,
+          "role": "soprano-1",
+          "path": "parts/shenandoah-erb-7.gnb",
+          "sha256": "6582d736a38db8f49456ec8be4014fe8264da3b0dbc53fe920036de61f9664b5",
+          "bytes": 7176
+        }
+      ]
+    },
+    {
+      "id": "happy-birthday",
+      "title": "Happy Birthday",
+      "sourceHash": "de3836a360e70427c93e385bea48d28b1efdc6f800d354b42b6c2d8574b0c4f7",
+      "durationSamples": 631632,
+      "entrySample": 33120,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/happy-birthday-0.gnb",
+          "sha256": "f4306eb0b6701131a6556da81fdf1b4e5c48118ea74c1265b0d37cb492970ee2",
+          "bytes": 1624
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/happy-birthday-1.gnb",
+          "sha256": "fbce007a7c19647c34e7f972b757885ba13ced8e543aa117edd7751e7e75c106",
+          "bytes": 1688
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/happy-birthday-2.gnb",
+          "sha256": "4e6a704a60724e9ba007778a9f4eabb20659746e42f79296cc2a5176b652a928",
+          "bytes": 1688
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/happy-birthday-3.gnb",
+          "sha256": "14dc664e586361955ba6ec9154b7425436a155a12133dc39a5e405f3ef5ec6a7",
+          "bytes": 1560
+        }
+      ]
+    },
+    {
+      "id": "sicut-cervus",
+      "title": "Sicut cervus",
+      "sourceHash": "9c52a4fb7fb43c696012c70068894b1c9751a0292fcd011fb9b2338cefdd7f67",
+      "durationSamples": 2784000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/sicut-cervus-0.gnb",
+          "sha256": "a6d852ad9876de7d8e558e4d458d14cf17fa74a347511e16ca8b0397dfb1e4e5",
+          "bytes": 5276
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/sicut-cervus-1.gnb",
+          "sha256": "a0cba4995fd25e5934623298408e4c11053c95e8e744ce406e05fdc5101dd3d7",
+          "bytes": 6076
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/sicut-cervus-2.gnb",
+          "sha256": "0e03aa751e99b8e9b3d1691c2f009e7a1d6638360a27ef95c1d619fd67000846",
+          "bytes": 5340
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/sicut-cervus-3.gnb",
+          "sha256": "76803e2304b28464b2c4ed203ae564d4cdac9e9684543fbb51bc42d3890e5203",
+          "bytes": 4444
+        }
+      ]
+    },
+    {
+      "id": "o-magnum-mysterium-lauridsen",
+      "title": "O Magnum Mysterium (Lauridsen)",
+      "sourceHash": "017c025eb4d02414526440a3a9c349d51a48477af157ec589127b003dd6f8d21",
+      "durationSamples": 8784472,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass-2",
+          "path": "parts/o-magnum-mysterium-lauridsen-0.gnb",
+          "sha256": "3874c3095435a946f61f6ef91695ffdbb0500a79b68a2cd015efc94b7603a006",
+          "bytes": 8620
+        },
+        {
+          "canonicalVoiceIndex": 0,
+          "sourcePartIndex": 1,
+          "role": "bass-1",
+          "path": "parts/o-magnum-mysterium-lauridsen-1.gnb",
+          "sha256": "2241c4acee69752c53ec3ac15e78bc631ff1103c8e9c75df64927fa1c651db73",
+          "bytes": 8708
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 2,
+          "role": "baritone-2",
+          "path": "parts/o-magnum-mysterium-lauridsen-2.gnb",
+          "sha256": "0b88dd4b5168835513b6f212ace786245cb3ae8607f8e34511e7340c211975b6",
+          "bytes": 8700
+        },
+        {
+          "canonicalVoiceIndex": 2,
+          "sourcePartIndex": 3,
+          "role": "baritone-1",
+          "path": "parts/o-magnum-mysterium-lauridsen-3.gnb",
+          "sha256": "9a537e7072e21f1e17481ac96b2a241b6a150292fbde4151f70292aeb5d26a91",
+          "bytes": 8828
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 4,
+          "role": "alto-2",
+          "path": "parts/o-magnum-mysterium-lauridsen-4.gnb",
+          "sha256": "97ad0edde81f8a5db82e43a2845517662844e2fcec22be98e3b7f97290e4d359",
+          "bytes": 10060
+        },
+        {
+          "canonicalVoiceIndex": 4,
+          "sourcePartIndex": 5,
+          "role": "alto-1",
+          "path": "parts/o-magnum-mysterium-lauridsen-5.gnb",
+          "sha256": "695f7633620a5f9593824afcfb53268b7e323c81eb8417cb20a311c062808a08",
+          "bytes": 9920
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 6,
+          "role": "soprano-2",
+          "path": "parts/o-magnum-mysterium-lauridsen-6.gnb",
+          "sha256": "6efdd98e862a1ea2975fcd30c4176bbac9127f3e7a30c7cb005adf0ee571dd04",
+          "bytes": 10064
+        },
+        {
+          "canonicalVoiceIndex": 6,
+          "sourcePartIndex": 7,
+          "role": "soprano-1",
+          "path": "parts/o-magnum-mysterium-lauridsen-7.gnb",
+          "sha256": "7cb99adb86684a711f0a78975f5f177ee618cc8357f98aa1611663e7d623ba3a",
+          "bytes": 10016
+        }
+      ]
+    },
+    {
+      "id": "silent-night",
+      "title": "Silent Night",
+      "sourceHash": "3b3d710b552c9976f1b6dfc9463a66c6d97d9e69cce113c6727062672bb68ee4",
+      "durationSamples": 1136000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/silent-night-0.gnb",
+          "sha256": "cdfa2c6efaa5cfcfc60d79f9a4e06dc7f34bc9522a2fd4f1886d1c184b220f2a",
+          "bytes": 2600
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/silent-night-1.gnb",
+          "sha256": "62642c9a6520ef3aa34163dbc88e3b525cb067e8654e45a75c9425efd8518218",
+          "bytes": 2660
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/silent-night-2.gnb",
+          "sha256": "fa60f6844d590b40bc746c0d853e2167cee543fb99452d07f4f11c8c30dd1b9c",
+          "bytes": 2772
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/silent-night-3.gnb",
+          "sha256": "526aba841746469bffe35e767f56b17a120ca7c500b67c447dd586689836e8dc",
+          "bytes": 2800
+        }
+      ]
+    },
+    {
+      "id": "hark-the-herald-angels-sing",
+      "title": "Hark! The Herald Angels Sing",
+      "sourceHash": "2c620b39cf5d8a846d760831e260b46cde922d6741b1b0fb3f56fd7fcb167e80",
+      "durationSamples": 1028571,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/hark-the-herald-angels-sing-0.gnb",
+          "sha256": "dd7d3a54c00d2cf265500a0a2d195436dcd988bd07e94658f706d3deb6c92895",
+          "bytes": 4380
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/hark-the-herald-angels-sing-1.gnb",
+          "sha256": "1692c1e9d5adb66855ca4352d1ef014b66c258ea2c6548085e67e8addda61986",
+          "bytes": 4332
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/hark-the-herald-angels-sing-2.gnb",
+          "sha256": "c63cee66696ec9d9aeda584d99139a20c864b180ce477f5beba3642382260929",
+          "bytes": 4408
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/hark-the-herald-angels-sing-3.gnb",
+          "sha256": "9c588124eb6c8e88d6f35c3d44ad148b96d53776563b83040d9dbf20542274e4",
+          "bytes": 4488
+        }
+      ]
+    },
+    {
+      "id": "o-little-town-of-bethlehem",
+      "title": "O Little Town of Bethlehem",
+      "sourceHash": "f66bbbcf4877b45e72cf6ad414f21493992acc093c9010496bb61c584dedf2f3",
+      "durationSamples": 970104,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/o-little-town-of-bethlehem-0.gnb",
+          "sha256": "3b14198b90cd4926a9a300d5b200a8bee1533d53c5d1c625a083e95d12c722dd",
+          "bytes": 3368
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/o-little-town-of-bethlehem-1.gnb",
+          "sha256": "7b13c4490c00aa3800c7bcd780643fed6316fe868182a7514baa4cd02d16ab70",
+          "bytes": 3452
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/o-little-town-of-bethlehem-2.gnb",
+          "sha256": "cbe217f49e53948b047b42c49ae052f0896076ab53141769f243f0fbb7ce1561",
+          "bytes": 3400
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/o-little-town-of-bethlehem-3.gnb",
+          "sha256": "68ef56f7b8959af151fd5154ed9d1f025954d90ce558abbb6c4ca3f44678f6e5",
+          "bytes": 3424
+        }
+      ]
+    },
+    {
+      "id": "o-come-all-ye-faithful",
+      "title": "O Come, All Ye Faithful",
+      "sourceHash": "a29f920a0caec182305bb6906f1b806adb8a8fd6a97623134afc8080992dd4e7",
+      "durationSamples": 1152000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/o-come-all-ye-faithful-0.gnb",
+          "sha256": "49e0962a8f5080c82e4e7a1b266b40308f63bf1b1af61c41ec549862bb4d64d9",
+          "bytes": 2764
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/o-come-all-ye-faithful-1.gnb",
+          "sha256": "a0725f35cc92336ca84bf1cdda369a13181009c70d288160d54d1c597dd5ef02",
+          "bytes": 3500
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/o-come-all-ye-faithful-2.gnb",
+          "sha256": "dd59a21ac8b7efcb67c45bbe9ca111a4b17aa7e756d436a5a49ba3c5bb4690c8",
+          "bytes": 3468
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/o-come-all-ye-faithful-3.gnb",
+          "sha256": "9eb5f48546295eade9500466e3b2148e91ffab4382929e9ef01ebc6dd69285aa",
+          "bytes": 3588
+        }
+      ]
+    },
+    {
+      "id": "joy-to-the-world",
+      "title": "Joy to the World",
+      "sourceHash": "eb9a2a9f8669925ab884693551d830027829c9bcfc4192fece12dc8ed221a283",
+      "durationSamples": 781714,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/joy-to-the-world-0.gnb",
+          "sha256": "df27443d569795c7c4bd0e1ae0f4cf976cf32555802ed0525202dc0399d271d0",
+          "bytes": 2512
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/joy-to-the-world-1.gnb",
+          "sha256": "21c2e0d5659abbc01d30c2a018841f7065e15697e951dba528e723a705a06b12",
+          "bytes": 2012
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/joy-to-the-world-2.gnb",
+          "sha256": "5cce89537fd9df5e267d42350bc61d27d9e2958e0faa5d624ed88a5623b34bdb",
+          "bytes": 3024
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/joy-to-the-world-3.gnb",
+          "sha256": "70aa5e3276b01c7cef0bf2deee2cca71d07f9d36e0056b0aad9203dadea41415",
+          "bytes": 3024
+        }
+      ]
+    },
+    {
+      "id": "the-first-noel",
+      "title": "The First Noel",
+      "sourceHash": "316a3e165c9becbc118248a230f8b518c5c321766b17088617a1c08d119c4a4d",
+      "durationSamples": 1151999,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/the-first-noel-0.gnb",
+          "sha256": "19a57fe961eb15ccbb049356c882fc3ea7a4861fbe1f22546783531f3cd862d1",
+          "bytes": 3748
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/the-first-noel-1.gnb",
+          "sha256": "97218d9f6da813c083710b83666f2bc384d5efd8c85a6e7a80927b4ed98629e9",
+          "bytes": 3760
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/the-first-noel-2.gnb",
+          "sha256": "6f71a3b80c627a7b92fdba5165889065961aa30aa5dc137f1f563446d8be24f5",
+          "bytes": 3496
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/the-first-noel-3.gnb",
+          "sha256": "4d00e027034cceeafc8fa48e798b2474385a3a27480b4eafe5e97c59ca786489",
+          "bytes": 3872
+        }
+      ]
+    },
+    {
+      "id": "angels-we-have-heard-on-high",
+      "title": "Angels We Have Heard on High",
+      "sourceHash": "9c6a91cb978fed94dd8e275397823e4d9ffe2e6b092d146b87987f97a9c7a0d3",
+      "durationSamples": 996000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/angels-we-have-heard-on-high-0.gnb",
+          "sha256": "6e5341e884ea768362b0593d7ff1c011ba6964052187fcac6432917f49521276",
+          "bytes": 3264
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/angels-we-have-heard-on-high-1.gnb",
+          "sha256": "ee99cac555961e18ac34a3ace05b889eedac53ce756be611a3a433ef22bd8dc0",
+          "bytes": 3168
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/angels-we-have-heard-on-high-2.gnb",
+          "sha256": "e9b31a5889ee0a66f8f2128b5733037ae8fe2c6b788a970b80843e6df6ecfac8",
+          "bytes": 3360
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/angels-we-have-heard-on-high-3.gnb",
+          "sha256": "79b6c66c02840c94ac493ae4475f08eba51186a0fcea7d2b3c7283e59f16de55",
+          "bytes": 3376
+        }
+      ]
+    },
+    {
+      "id": "we-three-kings",
+      "title": "We Three Kings",
+      "sourceHash": "256a833e0e0bf8374ec421fb38640f2eb9abac82246d4a99248721f15acc3caa",
+      "durationSamples": 864000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/we-three-kings-0.gnb",
+          "sha256": "3f06468eca2fc417a72f705091e6f7aa486e884a4ad43694b43e32ce3326d691",
+          "bytes": 3676
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/we-three-kings-1.gnb",
+          "sha256": "323cd625d38d9cc3fe8c2a57e9c2215fcbda58d7af90415c46a765bc949cee4d",
+          "bytes": 3704
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/we-three-kings-2.gnb",
+          "sha256": "79068e30ab24a4294d1b3c2307565fbaef1a4ba2be13c1b5fe4d2045a469f6bf",
+          "bytes": 3676
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/we-three-kings-3.gnb",
+          "sha256": "166026e2d4f2022374f0dc2fcdc64aa3873946f6defba19bf3c50e21191af53d",
+          "bytes": 3704
+        }
+      ]
+    },
+    {
+      "id": "we-wish-you-a-merry-christmas",
+      "title": "We Wish You a Merry Christmas",
+      "sourceHash": "5d556923170d1feaf26c83f385edf2f8bc2926800093518edc110508d2b32b93",
+      "durationSamples": 1612800,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/we-wish-you-a-merry-christmas-0.gnb",
+          "sha256": "396caa83273bc0fffc6b864c9241307dbe42a5a4617ba30fcbacac9589389ccf",
+          "bytes": 10684
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/we-wish-you-a-merry-christmas-1.gnb",
+          "sha256": "c8d3c1e1861bf6c9ee6c3482e47c9316fb955aa6bacc6ae645a23caba67c51f1",
+          "bytes": 10684
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/we-wish-you-a-merry-christmas-2.gnb",
+          "sha256": "fd9149a83221e2b76e807647edcc68bafbdaf64c77b2e9137fa8807da88a6030",
+          "bytes": 10684
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/we-wish-you-a-merry-christmas-3.gnb",
+          "sha256": "aa288cd0101a63dc06bb7308932bfd903146e163aed6caa56e99ff192447d479",
+          "bytes": 10684
+        }
+      ]
+    },
+    {
+      "id": "god-rest-you-merry",
+      "title": "God Rest You Merry, Gentlemen",
+      "sourceHash": "3023aa13adf174fb8b8cfae22b522305ceaf4fb8638cef56014946ebffa306e1",
+      "durationSamples": 1824000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/god-rest-you-merry-0.gnb",
+          "sha256": "89cd2cff54e0283337309f8a30097f583e6edb4923197a2413036c7870812e3c",
+          "bytes": 7824
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/god-rest-you-merry-1.gnb",
+          "sha256": "7ec20c81685df437b34e109274b357462292b96e8b2f00ce39aa478d91665b5f",
+          "bytes": 7876
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/god-rest-you-merry-2.gnb",
+          "sha256": "93b258d763dd687d11ae5b074ba37106abbc0368612970f01a8fbd7c4b02be42",
+          "bytes": 7712
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/god-rest-you-merry-3.gnb",
+          "sha256": "45da88f6947cab3629d36cc46f6ed53bbfe42fa9ee175047ba4e56b21b1248e0",
+          "bytes": 7768
+        }
+      ]
+    },
+    {
+      "id": "ding-dong-merrily",
+      "title": "Ding Dong! Merrily on High",
+      "sourceHash": "05cd1806d5bf12d6011315ff61269a3ae006baab5a8f66e7561f2dcd0d2e4dc0",
+      "durationSamples": 837818,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/ding-dong-merrily-0.gnb",
+          "sha256": "b08e0caf66b8660790908054b124ea7864424580863fba3b8cba46b643e878d3",
+          "bytes": 3500
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/ding-dong-merrily-1.gnb",
+          "sha256": "0677739bb478a1f28e5d3821d458e6eb9475fe7bec46f5e2dd43af2fc7e77076",
+          "bytes": 3404
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/ding-dong-merrily-2.gnb",
+          "sha256": "8d4b452bee6160dc1935447869ea9cfbc957e2da599e1912b68d2b285ba77274",
+          "bytes": 3756
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/ding-dong-merrily-3.gnb",
+          "sha256": "cf0cc22faeb4803c9fbf82f757af481d3f9eb121c71265a12e018ac035256955",
+          "bytes": 3852
+        }
+      ]
+    },
+    {
+      "id": "holly-and-the-ivy",
+      "title": "The Holly and the Ivy",
+      "sourceHash": "776177dffe30f5a58f25b49b7f33562b836cea66540f0617d4addaef1c09b87f",
+      "durationSamples": 576000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/holly-and-the-ivy-0.gnb",
+          "sha256": "cdfc4da1d4e3017401086ccc81a5016d5e59bf570885104dbf8b526c484cabac",
+          "bytes": 3492
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/holly-and-the-ivy-1.gnb",
+          "sha256": "937665dd0f37374bc492429ad5ad54548634f4ececff4166c7283698fe9417a6",
+          "bytes": 3520
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/holly-and-the-ivy-2.gnb",
+          "sha256": "3392cabd586b747ced94560fa21c0a764c878a335a361af10cb68c8bd457007c",
+          "bytes": 3544
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/holly-and-the-ivy-3.gnb",
+          "sha256": "31f05e8e4c60d211191a76f58ef7628290a818ee621f4b243821a03c84fed977",
+          "bytes": 3520
+        }
+      ]
+    },
+    {
+      "id": "coventry-carol",
+      "title": "Coventry Carol",
+      "sourceHash": "d7d1b54b277cd1bcf1f9bd9be0d91bcc2fe11ce7ba59c2e050d56d33be72ff18",
+      "durationSamples": 768000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/coventry-carol-0.gnb",
+          "sha256": "c6907e3ae67a19ab2a1128657e615e79eeb6f6a17c719624052bc6bebe37b773",
+          "bytes": 1752
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/coventry-carol-1.gnb",
+          "sha256": "7bc495e725c20d746dbb84035b018dcbcbce12bceee41f40dbdca41634a64422",
+          "bytes": 1752
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/coventry-carol-2.gnb",
+          "sha256": "5842a48cbf21e25af91590c7428a4f520b0e63e23243b2f2b5d7bb63c6594335",
+          "bytes": 1752
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/coventry-carol-3.gnb",
+          "sha256": "34bd793fd28e8f8143829f4a466bf3efc00f0075adb506eb64b9a9d1164cf6e4",
+          "bytes": 1752
+        }
+      ]
+    },
+    {
+      "id": "deck-the-hall",
+      "title": "Deck the Hall",
+      "sourceHash": "d057a559b2f34f24d9134e58fd18a1c191eba0d5eff52d6538d353c38f0ea5b9",
+      "durationSamples": 512000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/deck-the-hall-0.gnb",
+          "sha256": "182a91df8ac699ce9f0002432c9c65e27d99c2743ef0201ef0ba690c14130d9f",
+          "bytes": 3852
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/deck-the-hall-1.gnb",
+          "sha256": "273990e5ddba7fabe69fd191cd5e44b37cc33f459e8500e968579b11972770cd",
+          "bytes": 3852
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/deck-the-hall-2.gnb",
+          "sha256": "975a8e09d0a1eb15160d537e107e427dd07c7112a61d9ebf17f5c13921fe721a",
+          "bytes": 3852
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/deck-the-hall-3.gnb",
+          "sha256": "a1b0d0d1057c9940d188cd5e869e1af0dad3456b0e78bbeef10a308722591547",
+          "bytes": 3852
+        }
+      ]
+    },
+    {
+      "id": "gloucestershire-wassail",
+      "title": "Wassail (Vaughan-Williams)",
+      "sourceHash": "0cdb5d0fda4bd3a22d356ec070e24772c6ec31b3620c89662d131f4d43ee04ce",
+      "durationSamples": 4154579,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass-2",
+          "path": "parts/gloucestershire-wassail-0.gnb",
+          "sha256": "023fa2eac12bd68d9c7e568b309013b6ab6b001096bc41dfd13def4dad23d395",
+          "bytes": 15208
+        },
+        {
+          "canonicalVoiceIndex": 0,
+          "sourcePartIndex": 1,
+          "role": "bass-1",
+          "path": "parts/gloucestershire-wassail-1.gnb",
+          "sha256": "47c3424cb523a3d0fd3428d57a87a4402d125c808a62efd3eb4520bde9338d51",
+          "bytes": 15184
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 2,
+          "role": "baritone-2",
+          "path": "parts/gloucestershire-wassail-2.gnb",
+          "sha256": "e70992b82d8d25526afa945160f32f903175db6b2f5bd4bd73f67e6aa9f64cf4",
+          "bytes": 19112
+        },
+        {
+          "canonicalVoiceIndex": 2,
+          "sourcePartIndex": 3,
+          "role": "baritone-1",
+          "path": "parts/gloucestershire-wassail-3.gnb",
+          "sha256": "c3a5c5f0126b280cb1596603f70bc81a8e7f53fda56f7a5dabe4f01644ff9061",
+          "bytes": 19108
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 4,
+          "role": "alto-2",
+          "path": "parts/gloucestershire-wassail-4.gnb",
+          "sha256": "ded28af2221e12c29f7993f20b6566d865ea615171a950543683c1691c6b8bf7",
+          "bytes": 15756
+        },
+        {
+          "canonicalVoiceIndex": 4,
+          "sourcePartIndex": 5,
+          "role": "alto-1",
+          "path": "parts/gloucestershire-wassail-5.gnb",
+          "sha256": "4fd95b99100538760ca12acb30f6bb843e18429a50eb45eb78e16c4a5c6bb8b2",
+          "bytes": 15932
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 6,
+          "role": "soprano-2",
+          "path": "parts/gloucestershire-wassail-6.gnb",
+          "sha256": "1168c57e5e0e73ac99a2acfd842d0fa749bad2a6614be8f84c08e29f8bcfbef9",
+          "bytes": 15456
+        },
+        {
+          "canonicalVoiceIndex": 6,
+          "sourcePartIndex": 7,
+          "role": "soprano-1",
+          "path": "parts/gloucestershire-wassail-7.gnb",
+          "sha256": "1449697975e24a448d4b113812bf020acc11f16f2e708c3cbe8372d1d461d0ba",
+          "bytes": 15344
+        }
+      ]
+    },
+    {
+      "id": "the-wassail-song",
+      "title": "The Wassail Song",
+      "sourceHash": "4b6e1696219d2538c615959d1de856df533af6ddc9d761aca074aba0553f4e86",
+      "durationSamples": 716000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/the-wassail-song-0.gnb",
+          "sha256": "924c42be200a4073a3d1e2b1edfa4491229a5e0303f10c3f1f629d5849b238ad",
+          "bytes": 5196
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/the-wassail-song-1.gnb",
+          "sha256": "526f55fffcff6e4ad124c16c93fd7f0537b2a886c4c52ed89fc9303bf62546b7",
+          "bytes": 5204
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/the-wassail-song-2.gnb",
+          "sha256": "656260947a20015e378b6df77b0392121b676c904fecf62836f49955bd4151f8",
+          "bytes": 5224
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/the-wassail-song-3.gnb",
+          "sha256": "65e532a2adb6bef4737641e104ea6158007d266d879d8995042a58d9082c2ecd",
+          "bytes": 5272
+        }
+      ]
+    },
+    {
+      "id": "in-the-bleak-midwinter-holst",
+      "title": "In the Bleak Midwinter",
+      "sourceHash": "dd2dea6ce9235438dacfca1ee80c184facee44740efd5e63f4140f9530d8131c",
+      "durationSamples": 1023999,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/in-the-bleak-midwinter-holst-0.gnb",
+          "sha256": "e8ce0ae77e6fdaf2ff6b5816f0018998b5a86a919e7ed5c088d3dc13dedd9f24",
+          "bytes": 2848
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/in-the-bleak-midwinter-holst-1.gnb",
+          "sha256": "66a5ebfe569be9cc66c9ac8f26b258bde48de71c9e71e68c84769fa7573137cb",
+          "bytes": 2848
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/in-the-bleak-midwinter-holst-2.gnb",
+          "sha256": "1b49b0693719e24a10b062036e9daaeb314e4dd13abdea107cbd422b1e775267",
+          "bytes": 2832
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/in-the-bleak-midwinter-holst-3.gnb",
+          "sha256": "078403c55953afb6a68436fd7d787a3992507c6e8341621678fda16c8e98ed12",
+          "bytes": 2860
+        }
+      ]
+    },
+    {
+      "id": "good-king-wenceslas",
+      "title": "Good King Wenceslas",
+      "sourceHash": "179d5459af9bb7295e1b806f9e9424ee37876ffe721e8256b291477dc2942fda",
+      "durationSamples": 816000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/good-king-wenceslas-0.gnb",
+          "sha256": "e4a34656fec37da18da197b3ce04251432db64f6f9e116b8cbdc85bee84255e3",
+          "bytes": 3272
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/good-king-wenceslas-1.gnb",
+          "sha256": "6a005e964181ccf2f0eadb015aa77a5eb458013e55cf15b15e1f24a583ba107a",
+          "bytes": 3240
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/good-king-wenceslas-2.gnb",
+          "sha256": "6dac13c70323d803dcb66d1c277c051499b3118261876c1f29a48061938b7c19",
+          "bytes": 3272
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/good-king-wenceslas-3.gnb",
+          "sha256": "c79ab09bd84b324d3d336abe37d1580ee551005eb753d8a568a5406f7ade7890",
+          "bytes": 3272
+        }
+      ]
+    },
+    {
+      "id": "past-three-a-clock",
+      "title": "Past Three a Clock",
+      "sourceHash": "92fb488d2ce3824599ec5ce20aa768cdb1c2999829da78363fabbeb188d0f118",
+      "durationSamples": 768000,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/past-three-a-clock-0.gnb",
+          "sha256": "a2835e6c0520180286e5998193190e00a565b22b8e8add39f084c250fbf23367",
+          "bytes": 3716
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/past-three-a-clock-1.gnb",
+          "sha256": "c97ae4f6621cd3401bd8352074c3e09e074913dd46c42004d796a48b54ba1cfc",
+          "bytes": 3728
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/past-three-a-clock-2.gnb",
+          "sha256": "d86a7b2debbbbac651b38d762b4de22d26a7b9134afd5808d5056646f5f74eb5",
+          "bytes": 3756
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/past-three-a-clock-3.gnb",
+          "sha256": "b8d89d37c0070b220243651610801663d6d903b747c8a96fa221e97677804f91",
+          "bytes": 3832
+        }
+      ]
+    },
+    {
+      "id": "it-came-upon-the-midnight-clear",
+      "title": "It Came Upon the Midnight Clear",
+      "sourceHash": "642da19c95d0080b860c2e387144a552ce94d448aad81a8607fb62a72fdc6474",
+      "durationSamples": 1063384,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/it-came-upon-the-midnight-clear-0.gnb",
+          "sha256": "a3536b07b183c65cfd01e2a652f5099c1e02323dfeec0306a91b7f07bda0b18a",
+          "bytes": 3540
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/it-came-upon-the-midnight-clear-1.gnb",
+          "sha256": "0a35b4a823d7db019101940c8d3ae41b652231e71929dff969f78a2646328eb6",
+          "bytes": 3632
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/it-came-upon-the-midnight-clear-2.gnb",
+          "sha256": "f5ef3e6d6e8db429d5692563a14f655cca544467693ede8e87b5bce92e843052",
+          "bytes": 3536
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/it-came-upon-the-midnight-clear-3.gnb",
+          "sha256": "2c8fa713b86b29664e6994f6bfaebd3865f3899112b3bbe15b5c8a8e7d106c3a",
+          "bytes": 3780
+        }
+      ]
+    },
+    {
+      "id": "o-come-o-come-emmanuel",
+      "title": "O Come, O Come, Emmanuel",
+      "sourceHash": "7bc29af5c79cda11cf27d636f4fa3f5cd57fcfe8eca857808b4ebb15004e14ce",
+      "durationSamples": 1785600,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/o-come-o-come-emmanuel-0.gnb",
+          "sha256": "2f214f196d54c783bd6b4bb17003dc5e8e007e4512f69228e1ed7768c0066e47",
+          "bytes": 5264
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/o-come-o-come-emmanuel-1.gnb",
+          "sha256": "2afd74023f8fb92ef93e5a9e8bfebaf172170abef4d1c0f79b2da59613ed0e0d",
+          "bytes": 5148
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/o-come-o-come-emmanuel-2.gnb",
+          "sha256": "2eba0e45c4935f9964e2ab542f982a7204d7e84abda7343d17e412329f72da47",
+          "bytes": 5008
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/o-come-o-come-emmanuel-3.gnb",
+          "sha256": "265c13d10046f1d3b1b8ae8737b49c455d59151c539a789b377652abf37f5b6a",
+          "bytes": 5212
+        }
+      ]
+    },
+    {
+      "id": "in-dulci-jubilo-pearsall",
+      "title": "In dulci jubilo",
+      "sourceHash": "eb97180f1342ee1f900af2a71b0361bbe54e828172a5d6049798f5e339283e18",
+      "durationSamples": 1055999,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/in-dulci-jubilo-pearsall-0.gnb",
+          "sha256": "6367759f1b327f1bc16d9442a62ca013f15367d610eff96a21214603c66f2d0e",
+          "bytes": 3984
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/in-dulci-jubilo-pearsall-1.gnb",
+          "sha256": "12ed64eb7741f3f9454b442a25461ec85cb3ecf8b0abb0bf093d816a0df10cb0",
+          "bytes": 4188
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/in-dulci-jubilo-pearsall-2.gnb",
+          "sha256": "02a69ffbb7ef5a1c6f78f7f72165567f6a19801ed3114b3b3cae031a48ec3071",
+          "bytes": 4144
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/in-dulci-jubilo-pearsall-3.gnb",
+          "sha256": "318cc54dc92ba5e311e479e3a931fe7f7c82a5bd2f5175227f308a8ffbf555ee",
+          "bytes": 4076
+        }
+      ]
+    },
+    {
+      "id": "good-christian-men-rejoice",
+      "title": "Good Christian Men, Rejoice",
+      "sourceHash": "748e78feed58f034364787536ea37260080fcecc60ea70df8ce90c92bc613e63",
+      "durationSamples": 644571,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/good-christian-men-rejoice-0.gnb",
+          "sha256": "c528b90f64b999597fa62dd3df61138c9b9930a957da70f05091ce436ef230e3",
+          "bytes": 3268
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/good-christian-men-rejoice-1.gnb",
+          "sha256": "f772ac9894c48f29aedf3fd786a1b82db8cd4c70711e037919c2b39e5bf6eef9",
+          "bytes": 3344
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/good-christian-men-rejoice-2.gnb",
+          "sha256": "45427af5b3fcaf1530e521e6a83bb8ee5dbe9517b9e7dc954c695957b61e132a",
+          "bytes": 3352
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/good-christian-men-rejoice-3.gnb",
+          "sha256": "f995162e591660718a11db0c628dad23a516b1d57e9261fbd24f975d02b01448",
+          "bytes": 3300
+        }
+      ]
+    },
+    {
+      "id": "the-wexford-carol",
+      "title": "The Wexford Carol",
+      "sourceHash": "35c56764a2c3a0f6c92da87e0deea529fd09905b2c9099621a71cc5b35e5bf95",
+      "durationSamples": 2126768,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/the-wexford-carol-0.gnb",
+          "sha256": "a4d935fc516f16092c29df55e8d6cb60800b41b477d2fedbf0356463e9fae37f",
+          "bytes": 8316
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/the-wexford-carol-1.gnb",
+          "sha256": "0e16d02ed21edc5cf5abaa0b85ef5f486920d8f6e01e2a9c56541267b25fe933",
+          "bytes": 8360
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/the-wexford-carol-2.gnb",
+          "sha256": "078b3f904ebc6e23cefadecf9e39f49e1603c8f702cc4ce2cebedb56f6d75521",
+          "bytes": 8256
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/the-wexford-carol-3.gnb",
+          "sha256": "de2f645f80ed783758731c8dd57d11a58ec4363d92bf7ccb0fdba78d2620316d",
+          "bytes": 8296
+        }
+      ]
+    },
+    {
+      "id": "carol-of-the-bells",
+      "title": "Carol of the Bells",
+      "sourceHash": "2f3abc3452ebfbf52251f64e40fa9ffd1250d33eb4e55ec76c4d552739c5763e",
+      "durationSamples": 1778823,
+      "entrySample": 0,
+      "parts": [
+        {
+          "canonicalVoiceIndex": 1,
+          "sourcePartIndex": 0,
+          "role": "bass",
+          "path": "parts/carol-of-the-bells-0.gnb",
+          "sha256": "6327c54083d84091631d8f6d79a8f92805cf18717ff044795ce25f0ec53c35cd",
+          "bytes": 7380
+        },
+        {
+          "canonicalVoiceIndex": 3,
+          "sourcePartIndex": 1,
+          "role": "baritone",
+          "path": "parts/carol-of-the-bells-1.gnb",
+          "sha256": "7996dd5d71c5e0eb263d0f4a48281673f75500014a4eff5ecd2d0dd7dfad8353",
+          "bytes": 10088
+        },
+        {
+          "canonicalVoiceIndex": 5,
+          "sourcePartIndex": 2,
+          "role": "alto",
+          "path": "parts/carol-of-the-bells-2.gnb",
+          "sha256": "08be4c58914f94e200045cfee02bb41c4a2e2bb5ddf426edb7c91fff75b6a742",
+          "bytes": 9000
+        },
+        {
+          "canonicalVoiceIndex": 7,
+          "sourcePartIndex": 3,
+          "role": "soprano",
+          "path": "parts/carol-of-the-bells-3.gnb",
+          "sha256": "fe13c3e489730ae7629be7859f9677c12095f59b5217fefe6aa483b131c5c0e3",
+          "bytes": 16352
+        }
+      ]
+    }
+  ]
+}

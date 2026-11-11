@@ -1,0 +1,4645 @@
+{
+  "format": "choir-song",
+  "version": 3,
+  "sourceHash": "6c4c1693a1b74952fc3821dd32702adf587c552c04b79eee56f575de92aa697a",
+  "id": "if-ye-love-me",
+  "title": "If ye love me",
+  "durationMs": 91307,
+  "entryMs": 0,
+  "sampleRate": 24000,
+  "encoding": "TGSpeechBox acoustic frames",
+  "score": "/songs/if-ye-love-me/song.cscore",
+  "displayScore": "/songs/if-ye-love-me/song.dscore",
+  "displayScoreEncoding": "DSC1",
+  "displayScoreEngraver": "Verovio 6.3.0",
+  "scoreEncoding": "tgspeechbox-score-v3",
+  "articulationPolicy": "choir-articulation-v2",
+  "renderer": "TGSpeechBox DSP 8 · eSpeak NG pronunciation",
+  "language": "en-gb",
+  "pronunciationAudit": {
+    "contract": "one-score-syllable-one-ipa-nucleus-v1",
+    "unresolved": 0,
+    "voices": [
+      {
+        "role": "bass",
+        "language": "en-gb",
+        "syllables": 68,
+        "words": 57,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 9,
+          "lexicon": 52,
+          "sung-form": 7
+        }
+      },
+      {
+        "role": "baritone",
+        "language": "en-gb",
+        "syllables": 62,
+        "words": 51,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 8,
+          "lexicon": 48,
+          "sung-form": 6
+        }
+      },
+      {
+        "role": "alto",
+        "language": "en-gb",
+        "syllables": 62,
+        "words": 51,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 6,
+          "lexicon": 48,
+          "sung-form": 8
+        }
+      },
+      {
+        "role": "soprano",
+        "language": "en-gb",
+        "syllables": 52,
+        "words": 43,
+        "unresolved": 0,
+        "sources": {
+          "complete-token": 5,
+          "lexicon": 41,
+          "sung-form": 6
+        }
+      }
+    ]
+  },
+  "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=412",
+  "license": "Public domain source",
+  "sequenceCredit": "",
+  "voices": [
+    {
+      "role": "bass",
+      "noteTrack": 4,
+      "lyricTrack": 8,
+      "singer": "Grounded TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "If",
+          "order": 0,
+          "timeMs": 0,
+          "word": "if",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪf",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "ye",
+          "order": 1,
+          "timeMs": 2571,
+          "word": "ye",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1536,
+          "text": "love",
+          "order": 2,
+          "timeMs": 3429,
+          "word": "love",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈʌv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "me,",
+          "order": 3,
+          "timeMs": 5143,
+          "word": "me",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "keep",
+          "order": 4,
+          "timeMs": 7714,
+          "word": "keep",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kˈiːp",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "my",
+          "order": 5,
+          "timeMs": 8571,
+          "word": "my",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "com-",
+          "order": 6,
+          "timeMs": 9429,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "mand-",
+          "order": 7,
+          "timeMs": 10286,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "mˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "ments,",
+          "order": 8,
+          "timeMs": 12000,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mənts",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "and",
+          "order": 9,
+          "timeMs": 22286,
+          "word": "and",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "I",
+          "order": 10,
+          "timeMs": 24000,
+          "word": "i",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11136,
+          "text": "will",
+          "order": 11,
+          "timeMs": 24857,
+          "word": "will",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "pray",
+          "order": 12,
+          "timeMs": 25714,
+          "word": "pray",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pɹˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12096,
+          "text": "the",
+          "order": 13,
+          "timeMs": 27000,
+          "word": "the",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12288,
+          "text": "Fa",
+          "order": 14,
+          "timeMs": 27429,
+          "word": "father",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɑːð",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "ther,",
+          "order": 15,
+          "timeMs": 29143,
+          "word": "father",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14208,
+          "text": "and",
+          "order": 16,
+          "timeMs": 31714,
+          "word": "and",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "He",
+          "order": 17,
+          "timeMs": 32571,
+          "word": "he",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14976,
+          "text": "shall",
+          "order": 18,
+          "timeMs": 33429,
+          "word": "shall",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15360,
+          "text": "give",
+          "order": 19,
+          "timeMs": 34286,
+          "word": "give",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈɪv",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 16128,
+          "text": "you",
+          "order": 20,
+          "timeMs": 36000,
+          "word": "you",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "a-",
+          "order": 21,
+          "timeMs": 36857,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɐ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "no-",
+          "order": 22,
+          "timeMs": 37714,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈʌð",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "ther",
+          "order": 23,
+          "timeMs": 38571,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "com-",
+          "order": 24,
+          "timeMs": 39429,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kˈʌm",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "fort-",
+          "order": 25,
+          "timeMs": 40286,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "er,",
+          "order": 26,
+          "timeMs": 41143,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19200,
+          "text": "that",
+          "order": 27,
+          "timeMs": 42857,
+          "word": "that",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈat",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 19968,
+          "text": "He",
+          "order": 28,
+          "timeMs": 44571,
+          "word": "he",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21120,
+          "text": "may",
+          "order": 29,
+          "timeMs": 47143,
+          "word": "may",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21504,
+          "text": "bide",
+          "order": 30,
+          "timeMs": 48000,
+          "word": "bide",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21888,
+          "text": "with",
+          "order": 31,
+          "timeMs": 48857,
+          "word": "with",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪð",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22272,
+          "text": "you",
+          "order": 32,
+          "timeMs": 49714,
+          "word": "you",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22656,
+          "text": "for",
+          "order": 33,
+          "timeMs": 50571,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23040,
+          "text": "ev-",
+          "order": 34,
+          "timeMs": 51429,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ɹˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "er,",
+          "order": 35,
+          "timeMs": 53143,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24192,
+          "text": "that",
+          "order": 36,
+          "timeMs": 54000,
+          "word": "that",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈat",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 24576,
+          "text": "He",
+          "order": 37,
+          "timeMs": 54857,
+          "word": "he",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24960,
+          "text": "may",
+          "order": 38,
+          "timeMs": 55714,
+          "word": "may",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25344,
+          "text": "bide",
+          "order": 39,
+          "timeMs": 56571,
+          "word": "bide",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25728,
+          "text": "with",
+          "order": 40,
+          "timeMs": 57429,
+          "word": "with",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪð",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 26112,
+          "text": "you",
+          "order": 41,
+          "timeMs": 58286,
+          "word": "you",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26496,
+          "text": "for",
+          "order": 42,
+          "timeMs": 59143,
+          "word": "forever",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ev-",
+          "order": 43,
+          "timeMs": 60000,
+          "word": "forever",
+          "wordIndex": 42,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ɹˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "er:",
+          "order": 44,
+          "timeMs": 61714,
+          "word": "forever",
+          "wordIndex": 42,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28032,
+          "text": "Ev'n",
+          "order": 45,
+          "timeMs": 62571,
+          "word": "even",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 28800,
+          "text": "the",
+          "order": 46,
+          "timeMs": 64286,
+          "word": "the",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29184,
+          "text": "Sp'rit",
+          "order": 47,
+          "timeMs": 65143,
+          "word": "spirit",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 29568,
+          "text": "of",
+          "order": 48,
+          "timeMs": 66000,
+          "word": "of",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29952,
+          "text": "truth,",
+          "order": 49,
+          "timeMs": 66857,
+          "word": "truth",
+          "wordIndex": 49,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30336,
+          "text": "the",
+          "order": 50,
+          "timeMs": 67714,
+          "word": "the",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "Sp'rit",
+          "order": 51,
+          "timeMs": 68571,
+          "word": "spirit",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 32256,
+          "text": "of",
+          "order": 52,
+          "timeMs": 72000,
+          "word": "of",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 32640,
+          "text": "truth,",
+          "order": 53,
+          "timeMs": 72857,
+          "word": "truth",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33408,
+          "text": "ev'n",
+          "order": 54,
+          "timeMs": 74571,
+          "word": "even",
+          "wordIndex": 54,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 34176,
+          "text": "the",
+          "order": 55,
+          "timeMs": 76286,
+          "word": "the",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 34560,
+          "text": "Sp'rit",
+          "order": 56,
+          "timeMs": 77143,
+          "word": "spirit",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 34944,
+          "text": "of",
+          "order": 57,
+          "timeMs": 78000,
+          "word": "of",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35328,
+          "text": "truth,",
+          "order": 58,
+          "timeMs": 78857,
+          "word": "truth",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35712,
+          "text": "the",
+          "order": 59,
+          "timeMs": 79714,
+          "word": "the",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36096,
+          "text": "Sp'rit",
+          "order": 60,
+          "timeMs": 80571,
+          "word": "spirit",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 36480,
+          "text": "of",
+          "order": 61,
+          "timeMs": 81428,
+          "word": "of",
+          "wordIndex": 61,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "truth,",
+          "order": 62,
+          "timeMs": 82286,
+          "word": "truth",
+          "wordIndex": 62,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37248,
+          "text": "the",
+          "order": 63,
+          "timeMs": 83143,
+          "word": "the",
+          "wordIndex": 63,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37632,
+          "text": "Sp'rit",
+          "order": 64,
+          "timeMs": 84000,
+          "word": "spirit",
+          "wordIndex": 64,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 38016,
+          "text": "of",
+          "order": 65,
+          "timeMs": 84857,
+          "word": "of",
+          "wordIndex": 65,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "truth,",
+          "order": 66,
+          "timeMs": 85714,
+          "word": "truth",
+          "wordIndex": 66,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39168,
+          "text": "truth.",
+          "order": 67,
+          "timeMs": 87428,
+          "word": "truth",
+          "wordIndex": 67,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 2571,
+          "note": 53
+        },
+        {
+          "startMs": 2571,
+          "endMs": 3429,
+          "note": 50
+        },
+        {
+          "startMs": 3429,
+          "endMs": 5143,
+          "note": 48
+        },
+        {
+          "startMs": 5143,
+          "endMs": 6857,
+          "note": 53
+        },
+        {
+          "startMs": 6857,
+          "endMs": 7714,
+          "note": 53
+        },
+        {
+          "startMs": 7714,
+          "endMs": 8571,
+          "note": 53
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9429,
+          "note": 48
+        },
+        {
+          "startMs": 9429,
+          "endMs": 10286,
+          "note": 50
+        },
+        {
+          "startMs": 10286,
+          "endMs": 12000,
+          "note": 46
+        },
+        {
+          "startMs": 12000,
+          "endMs": 13714,
+          "note": 53
+        },
+        {
+          "startMs": 13714,
+          "endMs": 17143,
+          "note": 53
+        },
+        {
+          "startMs": 22286,
+          "endMs": 24000,
+          "note": 50
+        },
+        {
+          "startMs": 24000,
+          "endMs": 24857,
+          "note": 50
+        },
+        {
+          "startMs": 24857,
+          "endMs": 25714,
+          "note": 50
+        },
+        {
+          "startMs": 25714,
+          "endMs": 27000,
+          "note": 55
+        },
+        {
+          "startMs": 27000,
+          "endMs": 27429,
+          "note": 53
+        },
+        {
+          "startMs": 27429,
+          "endMs": 29143,
+          "note": 52
+        },
+        {
+          "startMs": 29143,
+          "endMs": 30857,
+          "note": 50
+        },
+        {
+          "startMs": 31714,
+          "endMs": 32571,
+          "note": 55
+        },
+        {
+          "startMs": 32571,
+          "endMs": 33429,
+          "note": 50
+        },
+        {
+          "startMs": 33429,
+          "endMs": 34286,
+          "note": 50
+        },
+        {
+          "startMs": 34286,
+          "endMs": 36000,
+          "note": 53
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36857,
+          "note": 53
+        },
+        {
+          "startMs": 36857,
+          "endMs": 37714,
+          "note": 48
+        },
+        {
+          "startMs": 37714,
+          "endMs": 38571,
+          "note": 50
+        },
+        {
+          "startMs": 38571,
+          "endMs": 39429,
+          "note": 50
+        },
+        {
+          "startMs": 39429,
+          "endMs": 40286,
+          "note": 48
+        },
+        {
+          "startMs": 40286,
+          "endMs": 41143,
+          "note": 48
+        },
+        {
+          "startMs": 41143,
+          "endMs": 42857,
+          "note": 53
+        },
+        {
+          "startMs": 42857,
+          "endMs": 44571,
+          "note": 48
+        },
+        {
+          "startMs": 44571,
+          "endMs": 47143,
+          "note": 53
+        },
+        {
+          "startMs": 47143,
+          "endMs": 48000,
+          "note": 52
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48857,
+          "note": 50
+        },
+        {
+          "startMs": 48857,
+          "endMs": 49714,
+          "note": 48
+        },
+        {
+          "startMs": 49714,
+          "endMs": 50571,
+          "note": 46
+        },
+        {
+          "startMs": 50571,
+          "endMs": 51429,
+          "note": 48
+        },
+        {
+          "startMs": 51429,
+          "endMs": 52286,
+          "note": 48
+        },
+        {
+          "startMs": 52286,
+          "endMs": 53143,
+          "note": 45
+        },
+        {
+          "startMs": 53143,
+          "endMs": 54000,
+          "note": 43
+        },
+        {
+          "startMs": 54000,
+          "endMs": 54857,
+          "note": 43
+        },
+        {
+          "startMs": 54857,
+          "endMs": 55714,
+          "note": 45
+        },
+        {
+          "startMs": 55714,
+          "endMs": 56571,
+          "note": 50
+        },
+        {
+          "startMs": 56571,
+          "endMs": 57429,
+          "note": 48
+        },
+        {
+          "startMs": 57429,
+          "endMs": 58286,
+          "note": 43
+        },
+        {
+          "startMs": 58286,
+          "endMs": 59143,
+          "note": 45
+        },
+        {
+          "startMs": 59143,
+          "endMs": 60000,
+          "note": 45
+        },
+        {
+          "startMs": 60000,
+          "endMs": 61714,
+          "note": 47
+        },
+        {
+          "startMs": 61714,
+          "endMs": 62571,
+          "note": 48
+        },
+        {
+          "startMs": 62571,
+          "endMs": 64286,
+          "note": 55
+        },
+        {
+          "startMs": 64286,
+          "endMs": 65143,
+          "note": 48
+        },
+        {
+          "startMs": 65143,
+          "endMs": 66000,
+          "note": 55
+        },
+        {
+          "startMs": 66000,
+          "endMs": 66857,
+          "note": 53
+        },
+        {
+          "startMs": 66857,
+          "endMs": 67714,
+          "note": 52
+        },
+        {
+          "startMs": 67714,
+          "endMs": 68571,
+          "note": 50
+        },
+        {
+          "startMs": 68571,
+          "endMs": 72000,
+          "note": 48
+        },
+        {
+          "startMs": 72000,
+          "endMs": 72857,
+          "note": 45
+        },
+        {
+          "startMs": 72857,
+          "endMs": 74571,
+          "note": 50
+        },
+        {
+          "startMs": 74571,
+          "endMs": 75428,
+          "note": 48
+        },
+        {
+          "startMs": 75428,
+          "endMs": 76286,
+          "note": 48
+        },
+        {
+          "startMs": 76286,
+          "endMs": 77143,
+          "note": 50
+        },
+        {
+          "startMs": 77143,
+          "endMs": 78000,
+          "note": 48
+        },
+        {
+          "startMs": 78000,
+          "endMs": 78857,
+          "note": 46
+        },
+        {
+          "startMs": 78857,
+          "endMs": 79714,
+          "note": 45
+        },
+        {
+          "startMs": 79714,
+          "endMs": 80571,
+          "note": 50
+        },
+        {
+          "startMs": 80571,
+          "endMs": 81428,
+          "note": 48
+        },
+        {
+          "startMs": 81428,
+          "endMs": 82286,
+          "note": 52
+        },
+        {
+          "startMs": 82286,
+          "endMs": 83143,
+          "note": 46
+        },
+        {
+          "startMs": 83143,
+          "endMs": 84000,
+          "note": 53
+        },
+        {
+          "startMs": 84000,
+          "endMs": 84857,
+          "note": 55
+        },
+        {
+          "startMs": 84857,
+          "endMs": 85714,
+          "note": 55
+        },
+        {
+          "startMs": 85714,
+          "endMs": 87428,
+          "note": 53
+        },
+        {
+          "startMs": 87428,
+          "endMs": 90857,
+          "note": 53
+        }
+      ]
+    },
+    {
+      "role": "baritone",
+      "noteTrack": 3,
+      "lyricTrack": 7,
+      "singer": "Wry TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "If",
+          "order": 0,
+          "timeMs": 0,
+          "word": "if",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪf",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "ye",
+          "order": 1,
+          "timeMs": 2571,
+          "word": "ye",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1536,
+          "text": "love",
+          "order": 2,
+          "timeMs": 3429,
+          "word": "love",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈʌv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "me,",
+          "order": 3,
+          "timeMs": 5143,
+          "word": "me",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "keep",
+          "order": 4,
+          "timeMs": 7714,
+          "word": "keep",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kˈiːp",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "my",
+          "order": 5,
+          "timeMs": 8571,
+          "word": "my",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "com-",
+          "order": 6,
+          "timeMs": 9429,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "mand-",
+          "order": 7,
+          "timeMs": 10286,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "mˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "ments,",
+          "order": 8,
+          "timeMs": 12000,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mənts",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "and",
+          "order": 9,
+          "timeMs": 16286,
+          "word": "and",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "I",
+          "order": 10,
+          "timeMs": 17143,
+          "word": "i",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8064,
+          "text": "will",
+          "order": 11,
+          "timeMs": 18000,
+          "word": "will",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "pray",
+          "order": 12,
+          "timeMs": 18857,
+          "word": "pray",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pɹˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9024,
+          "text": "the",
+          "order": 13,
+          "timeMs": 20143,
+          "word": "the",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9216,
+          "text": "Fa",
+          "order": 14,
+          "timeMs": 20571,
+          "word": "father",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɑːð",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "ther,",
+          "order": 15,
+          "timeMs": 22286,
+          "word": "father",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "and",
+          "order": 16,
+          "timeMs": 30000,
+          "word": "and",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "He",
+          "order": 17,
+          "timeMs": 30857,
+          "word": "he",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14208,
+          "text": "shall",
+          "order": 18,
+          "timeMs": 31714,
+          "word": "shall",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "give",
+          "order": 19,
+          "timeMs": 32571,
+          "word": "give",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈɪv",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "you",
+          "order": 20,
+          "timeMs": 34286,
+          "word": "you",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "a-",
+          "order": 21,
+          "timeMs": 35143,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɐ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "no-",
+          "order": 22,
+          "timeMs": 36000,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈʌð",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "ther",
+          "order": 23,
+          "timeMs": 38571,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17664,
+          "text": "com-",
+          "order": 24,
+          "timeMs": 39429,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kˈʌm",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "fort-",
+          "order": 25,
+          "timeMs": 40714,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "er,",
+          "order": 26,
+          "timeMs": 41143,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 19968,
+          "text": "that",
+          "order": 27,
+          "timeMs": 44571,
+          "word": "that",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈat",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 20736,
+          "text": "He",
+          "order": 28,
+          "timeMs": 46286,
+          "word": "he",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 21888,
+          "text": "may",
+          "order": 29,
+          "timeMs": 48857,
+          "word": "may",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22272,
+          "text": "bide",
+          "order": 30,
+          "timeMs": 49714,
+          "word": "bide",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 22656,
+          "text": "with",
+          "order": 31,
+          "timeMs": 50571,
+          "word": "with",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪð",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23040,
+          "text": "you",
+          "order": 32,
+          "timeMs": 51429,
+          "word": "you",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "for",
+          "order": 33,
+          "timeMs": 52286,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23808,
+          "text": "ev-",
+          "order": 34,
+          "timeMs": 53143,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ɹˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24576,
+          "text": "er,",
+          "order": 35,
+          "timeMs": 54857,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24960,
+          "text": "may",
+          "order": 36,
+          "timeMs": 55714,
+          "word": "may",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25344,
+          "text": "bide",
+          "order": 37,
+          "timeMs": 56571,
+          "word": "bide",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25728,
+          "text": "with",
+          "order": 38,
+          "timeMs": 57429,
+          "word": "with",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪð",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 26112,
+          "text": "you",
+          "order": 39,
+          "timeMs": 58286,
+          "word": "you",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26496,
+          "text": "for",
+          "order": 40,
+          "timeMs": 59143,
+          "word": "forever",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ev-",
+          "order": 41,
+          "timeMs": 60000,
+          "word": "forever",
+          "wordIndex": 40,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ɹˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "er:",
+          "order": 42,
+          "timeMs": 61714,
+          "word": "forever",
+          "wordIndex": 40,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28800,
+          "text": "Ev'n",
+          "order": 43,
+          "timeMs": 64286,
+          "word": "even",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 29568,
+          "text": "the",
+          "order": 44,
+          "timeMs": 66000,
+          "word": "the",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29952,
+          "text": "Sp'rit",
+          "order": 45,
+          "timeMs": 66857,
+          "word": "spirit",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 30336,
+          "text": "of",
+          "order": 46,
+          "timeMs": 67714,
+          "word": "of",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 30720,
+          "text": "truth,",
+          "order": 47,
+          "timeMs": 68571,
+          "word": "truth",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31488,
+          "text": "the",
+          "order": 48,
+          "timeMs": 70286,
+          "word": "the",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31872,
+          "text": "Sp'rit",
+          "order": 49,
+          "timeMs": 71143,
+          "word": "spirit",
+          "wordIndex": 49,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 32448,
+          "text": "of",
+          "order": 50,
+          "timeMs": 72428,
+          "word": "of",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33024,
+          "text": "truth,",
+          "order": 51,
+          "timeMs": 73714,
+          "word": "truth",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 34944,
+          "text": "ev'n",
+          "order": 52,
+          "timeMs": 78000,
+          "word": "even",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 35712,
+          "text": "the",
+          "order": 53,
+          "timeMs": 79714,
+          "word": "the",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36096,
+          "text": "Sp'rit",
+          "order": 54,
+          "timeMs": 80571,
+          "word": "spirit",
+          "wordIndex": 54,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 36480,
+          "text": "of",
+          "order": 55,
+          "timeMs": 81428,
+          "word": "of",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "truth,",
+          "order": 56,
+          "timeMs": 82286,
+          "word": "truth",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37248,
+          "text": "the",
+          "order": 57,
+          "timeMs": 83143,
+          "word": "the",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37632,
+          "text": "Sp'rit",
+          "order": 58,
+          "timeMs": 84000,
+          "word": "spirit",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 38016,
+          "text": "of",
+          "order": 59,
+          "timeMs": 84857,
+          "word": "of",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "truth,",
+          "order": 60,
+          "timeMs": 85714,
+          "word": "truth",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39168,
+          "text": "truth.",
+          "order": 61,
+          "timeMs": 87428,
+          "word": "truth",
+          "wordIndex": 61,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 2571,
+          "note": 57
+        },
+        {
+          "startMs": 2571,
+          "endMs": 3429,
+          "note": 53
+        },
+        {
+          "startMs": 3429,
+          "endMs": 5143,
+          "note": 60
+        },
+        {
+          "startMs": 5143,
+          "endMs": 6857,
+          "note": 60
+        },
+        {
+          "startMs": 6857,
+          "endMs": 7714,
+          "note": 60
+        },
+        {
+          "startMs": 7714,
+          "endMs": 8571,
+          "note": 60
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9429,
+          "note": 60
+        },
+        {
+          "startMs": 9429,
+          "endMs": 10286,
+          "note": 57
+        },
+        {
+          "startMs": 10286,
+          "endMs": 12000,
+          "note": 62
+        },
+        {
+          "startMs": 12000,
+          "endMs": 13714,
+          "note": 60
+        },
+        {
+          "startMs": 13714,
+          "endMs": 15429,
+          "note": 60
+        },
+        {
+          "startMs": 16286,
+          "endMs": 17143,
+          "note": 57
+        },
+        {
+          "startMs": 17143,
+          "endMs": 18000,
+          "note": 57
+        },
+        {
+          "startMs": 18000,
+          "endMs": 18857,
+          "note": 57
+        },
+        {
+          "startMs": 18857,
+          "endMs": 20143,
+          "note": 62
+        },
+        {
+          "startMs": 20143,
+          "endMs": 20571,
+          "note": 60
+        },
+        {
+          "startMs": 20571,
+          "endMs": 22286,
+          "note": 58
+        },
+        {
+          "startMs": 22286,
+          "endMs": 24000,
+          "note": 57
+        },
+        {
+          "startMs": 24000,
+          "endMs": 25714,
+          "note": 57
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30857,
+          "note": 58
+        },
+        {
+          "startMs": 30857,
+          "endMs": 31714,
+          "note": 55
+        },
+        {
+          "startMs": 31714,
+          "endMs": 32571,
+          "note": 55
+        },
+        {
+          "startMs": 32571,
+          "endMs": 34286,
+          "note": 50
+        },
+        {
+          "startMs": 34286,
+          "endMs": 35143,
+          "note": 60
+        },
+        {
+          "startMs": 35143,
+          "endMs": 36000,
+          "note": 57
+        },
+        {
+          "startMs": 36000,
+          "endMs": 37714,
+          "note": 60
+        },
+        {
+          "startMs": 37714,
+          "endMs": 38143,
+          "note": 58
+        },
+        {
+          "startMs": 38143,
+          "endMs": 38571,
+          "note": 57
+        },
+        {
+          "startMs": 38571,
+          "endMs": 39429,
+          "note": 53
+        },
+        {
+          "startMs": 39429,
+          "endMs": 40714,
+          "note": 55
+        },
+        {
+          "startMs": 40714,
+          "endMs": 41143,
+          "note": 55
+        },
+        {
+          "startMs": 41143,
+          "endMs": 42857,
+          "note": 53
+        },
+        {
+          "startMs": 44571,
+          "endMs": 46286,
+          "note": 53
+        },
+        {
+          "startMs": 46286,
+          "endMs": 48000,
+          "note": 58
+        },
+        {
+          "startMs": 48000,
+          "endMs": 48857,
+          "note": 58
+        },
+        {
+          "startMs": 48857,
+          "endMs": 49714,
+          "note": 57
+        },
+        {
+          "startMs": 49714,
+          "endMs": 50571,
+          "note": 55
+        },
+        {
+          "startMs": 50571,
+          "endMs": 51429,
+          "note": 53
+        },
+        {
+          "startMs": 51429,
+          "endMs": 52286,
+          "note": 52
+        },
+        {
+          "startMs": 52286,
+          "endMs": 53143,
+          "note": 53
+        },
+        {
+          "startMs": 53143,
+          "endMs": 54857,
+          "note": 60
+        },
+        {
+          "startMs": 54857,
+          "endMs": 55714,
+          "note": 53
+        },
+        {
+          "startMs": 55714,
+          "endMs": 56571,
+          "note": 53
+        },
+        {
+          "startMs": 56571,
+          "endMs": 57429,
+          "note": 53
+        },
+        {
+          "startMs": 57429,
+          "endMs": 58286,
+          "note": 52
+        },
+        {
+          "startMs": 58286,
+          "endMs": 59143,
+          "note": 50
+        },
+        {
+          "startMs": 59143,
+          "endMs": 60000,
+          "note": 50
+        },
+        {
+          "startMs": 60000,
+          "endMs": 61714,
+          "note": 55
+        },
+        {
+          "startMs": 61714,
+          "endMs": 63429,
+          "note": 48
+        },
+        {
+          "startMs": 64286,
+          "endMs": 65143,
+          "note": 60
+        },
+        {
+          "startMs": 65143,
+          "endMs": 66000,
+          "note": 60
+        },
+        {
+          "startMs": 66000,
+          "endMs": 66857,
+          "note": 53
+        },
+        {
+          "startMs": 66857,
+          "endMs": 67714,
+          "note": 60
+        },
+        {
+          "startMs": 67714,
+          "endMs": 68571,
+          "note": 58
+        },
+        {
+          "startMs": 68571,
+          "endMs": 70286,
+          "note": 57
+        },
+        {
+          "startMs": 70286,
+          "endMs": 71143,
+          "note": 53
+        },
+        {
+          "startMs": 71143,
+          "endMs": 72428,
+          "note": 57
+        },
+        {
+          "startMs": 72428,
+          "endMs": 72857,
+          "note": 53
+        },
+        {
+          "startMs": 72857,
+          "endMs": 73714,
+          "note": 55
+        },
+        {
+          "startMs": 73714,
+          "endMs": 75428,
+          "note": 53
+        },
+        {
+          "startMs": 78000,
+          "endMs": 78857,
+          "note": 53
+        },
+        {
+          "startMs": 78857,
+          "endMs": 79714,
+          "note": 53
+        },
+        {
+          "startMs": 79714,
+          "endMs": 80571,
+          "note": 58
+        },
+        {
+          "startMs": 80571,
+          "endMs": 81428,
+          "note": 53
+        },
+        {
+          "startMs": 81428,
+          "endMs": 82286,
+          "note": 55
+        },
+        {
+          "startMs": 82286,
+          "endMs": 83143,
+          "note": 58
+        },
+        {
+          "startMs": 83143,
+          "endMs": 84000,
+          "note": 60
+        },
+        {
+          "startMs": 84000,
+          "endMs": 84857,
+          "note": 60
+        },
+        {
+          "startMs": 84857,
+          "endMs": 85714,
+          "note": 60
+        },
+        {
+          "startMs": 85714,
+          "endMs": 87428,
+          "note": 57
+        },
+        {
+          "startMs": 87428,
+          "endMs": 90857,
+          "note": 57
+        }
+      ]
+    },
+    {
+      "role": "alto",
+      "noteTrack": 2,
+      "lyricTrack": 6,
+      "singer": "Attentive TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "If",
+          "order": 0,
+          "timeMs": 0,
+          "word": "if",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪf",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "ye",
+          "order": 1,
+          "timeMs": 2571,
+          "word": "ye",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1536,
+          "text": "love",
+          "order": 2,
+          "timeMs": 3429,
+          "word": "love",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈʌv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "me,",
+          "order": 3,
+          "timeMs": 5143,
+          "word": "me",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "keep",
+          "order": 4,
+          "timeMs": 7714,
+          "word": "keep",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kˈiːp",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "my",
+          "order": 5,
+          "timeMs": 8571,
+          "word": "my",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "com-",
+          "order": 6,
+          "timeMs": 9429,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "mand-",
+          "order": 7,
+          "timeMs": 10286,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "mˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "ments,",
+          "order": 8,
+          "timeMs": 12000,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mənts",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9600,
+          "text": "and",
+          "order": 9,
+          "timeMs": 21429,
+          "word": "and",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "I",
+          "order": 10,
+          "timeMs": 22286,
+          "word": "i",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10368,
+          "text": "will",
+          "order": 11,
+          "timeMs": 23143,
+          "word": "will",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 10752,
+          "text": "pray",
+          "order": 12,
+          "timeMs": 24000,
+          "word": "pray",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pɹˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11520,
+          "text": "the",
+          "order": 13,
+          "timeMs": 25714,
+          "word": "the",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 11904,
+          "text": "Fa",
+          "order": 14,
+          "timeMs": 26571,
+          "word": "father",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɑːð",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "ther,",
+          "order": 15,
+          "timeMs": 29143,
+          "word": "father",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "and",
+          "order": 16,
+          "timeMs": 30000,
+          "word": "and",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "He",
+          "order": 17,
+          "timeMs": 30857,
+          "word": "he",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14208,
+          "text": "shall",
+          "order": 18,
+          "timeMs": 31714,
+          "word": "shall",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 14592,
+          "text": "give",
+          "order": 19,
+          "timeMs": 32571,
+          "word": "give",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈɪv",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 15360,
+          "text": "you",
+          "order": 20,
+          "timeMs": 34286,
+          "word": "you",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "a-",
+          "order": 21,
+          "timeMs": 35143,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɐ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "no-",
+          "order": 22,
+          "timeMs": 36000,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈʌð",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "ther",
+          "order": 23,
+          "timeMs": 36857,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16896,
+          "text": "com-",
+          "order": 24,
+          "timeMs": 37714,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kˈʌm",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18240,
+          "text": "fort-",
+          "order": 25,
+          "timeMs": 40714,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "er,",
+          "order": 26,
+          "timeMs": 41143,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 20736,
+          "text": "that",
+          "order": 27,
+          "timeMs": 46286,
+          "word": "that",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈat",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 21504,
+          "text": "He",
+          "order": 28,
+          "timeMs": 48000,
+          "word": "he",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 22656,
+          "text": "may",
+          "order": 29,
+          "timeMs": 50571,
+          "word": "may",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23040,
+          "text": "bide",
+          "order": 30,
+          "timeMs": 51429,
+          "word": "bide",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23424,
+          "text": "with",
+          "order": 31,
+          "timeMs": 52286,
+          "word": "with",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪð",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23808,
+          "text": "you",
+          "order": 32,
+          "timeMs": 53143,
+          "word": "you",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24192,
+          "text": "for",
+          "order": 33,
+          "timeMs": 54000,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24576,
+          "text": "ev-",
+          "order": 34,
+          "timeMs": 54857,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ɹˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25344,
+          "text": "er,",
+          "order": 35,
+          "timeMs": 56571,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 25728,
+          "text": "with",
+          "order": 36,
+          "timeMs": 57429,
+          "word": "with",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪð",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 26112,
+          "text": "you",
+          "order": 37,
+          "timeMs": 58286,
+          "word": "you",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26496,
+          "text": "for",
+          "order": 38,
+          "timeMs": 59143,
+          "word": "forever",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ev-",
+          "order": 39,
+          "timeMs": 60000,
+          "word": "forever",
+          "wordIndex": 38,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ɹˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "er:",
+          "order": 40,
+          "timeMs": 61714,
+          "word": "forever",
+          "wordIndex": 38,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 28416,
+          "text": "Ev'n",
+          "order": 41,
+          "timeMs": 63429,
+          "word": "even",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 29184,
+          "text": "the",
+          "order": 42,
+          "timeMs": 65143,
+          "word": "the",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 29568,
+          "text": "Sp'rit",
+          "order": 43,
+          "timeMs": 66000,
+          "word": "spirit",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 30336,
+          "text": "of",
+          "order": 44,
+          "timeMs": 67714,
+          "word": "of",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31104,
+          "text": "truth,",
+          "order": 45,
+          "timeMs": 69429,
+          "word": "truth",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31872,
+          "text": "ev'n",
+          "order": 46,
+          "timeMs": 71143,
+          "word": "even",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 32640,
+          "text": "the",
+          "order": 47,
+          "timeMs": 72857,
+          "word": "the",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33024,
+          "text": "Sp'rit",
+          "order": 48,
+          "timeMs": 73714,
+          "word": "spirit",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 33408,
+          "text": "of",
+          "order": 49,
+          "timeMs": 74571,
+          "word": "of",
+          "wordIndex": 49,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33792,
+          "text": "truth,",
+          "order": 50,
+          "timeMs": 75428,
+          "word": "truth",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 34176,
+          "text": "ev'n",
+          "order": 51,
+          "timeMs": 76286,
+          "word": "even",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 34944,
+          "text": "the",
+          "order": 52,
+          "timeMs": 78000,
+          "word": "the",
+          "wordIndex": 52,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35328,
+          "text": "Sp'rit",
+          "order": 53,
+          "timeMs": 78857,
+          "word": "spirit",
+          "wordIndex": 53,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 35712,
+          "text": "of",
+          "order": 54,
+          "timeMs": 79714,
+          "word": "of",
+          "wordIndex": 54,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36096,
+          "text": "truth,",
+          "order": 55,
+          "timeMs": 80571,
+          "word": "truth",
+          "wordIndex": 55,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36480,
+          "text": "ev'n",
+          "order": 56,
+          "timeMs": 81428,
+          "word": "even",
+          "wordIndex": 56,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 37056,
+          "text": "the",
+          "order": 57,
+          "timeMs": 82714,
+          "word": "the",
+          "wordIndex": 57,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 37248,
+          "text": "Sp'rit",
+          "order": 58,
+          "timeMs": 83143,
+          "word": "spirit",
+          "wordIndex": 58,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 38016,
+          "text": "of",
+          "order": 59,
+          "timeMs": 84857,
+          "word": "of",
+          "wordIndex": 59,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "truth,",
+          "order": 60,
+          "timeMs": 85714,
+          "word": "truth",
+          "wordIndex": 60,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39168,
+          "text": "truth.",
+          "order": 61,
+          "timeMs": 87428,
+          "word": "truth",
+          "wordIndex": 61,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 2571,
+          "note": 60
+        },
+        {
+          "startMs": 2571,
+          "endMs": 3429,
+          "note": 62
+        },
+        {
+          "startMs": 3429,
+          "endMs": 5143,
+          "note": 64
+        },
+        {
+          "startMs": 5143,
+          "endMs": 6857,
+          "note": 65
+        },
+        {
+          "startMs": 6857,
+          "endMs": 7714,
+          "note": 65
+        },
+        {
+          "startMs": 7714,
+          "endMs": 8571,
+          "note": 65
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9429,
+          "note": 64
+        },
+        {
+          "startMs": 9429,
+          "endMs": 10286,
+          "note": 62
+        },
+        {
+          "startMs": 10286,
+          "endMs": 12000,
+          "note": 65
+        },
+        {
+          "startMs": 12000,
+          "endMs": 13714,
+          "note": 65
+        },
+        {
+          "startMs": 13714,
+          "endMs": 15429,
+          "note": 65
+        },
+        {
+          "startMs": 21429,
+          "endMs": 22286,
+          "note": 62
+        },
+        {
+          "startMs": 22286,
+          "endMs": 23143,
+          "note": 62
+        },
+        {
+          "startMs": 23143,
+          "endMs": 24000,
+          "note": 62
+        },
+        {
+          "startMs": 24000,
+          "endMs": 25714,
+          "note": 65
+        },
+        {
+          "startMs": 25714,
+          "endMs": 26571,
+          "note": 64
+        },
+        {
+          "startMs": 26571,
+          "endMs": 28286,
+          "note": 62
+        },
+        {
+          "startMs": 28286,
+          "endMs": 29143,
+          "note": 60
+        },
+        {
+          "startMs": 29143,
+          "endMs": 30000,
+          "note": 62
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30857,
+          "note": 62
+        },
+        {
+          "startMs": 30857,
+          "endMs": 31714,
+          "note": 58
+        },
+        {
+          "startMs": 31714,
+          "endMs": 32571,
+          "note": 58
+        },
+        {
+          "startMs": 32571,
+          "endMs": 34286,
+          "note": 65
+        },
+        {
+          "startMs": 34286,
+          "endMs": 35143,
+          "note": 65
+        },
+        {
+          "startMs": 35143,
+          "endMs": 36000,
+          "note": 60
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36857,
+          "note": 65
+        },
+        {
+          "startMs": 36857,
+          "endMs": 37714,
+          "note": 64
+        },
+        {
+          "startMs": 37714,
+          "endMs": 38571,
+          "note": 62
+        },
+        {
+          "startMs": 38571,
+          "endMs": 39429,
+          "note": 58
+        },
+        {
+          "startMs": 39429,
+          "endMs": 40714,
+          "note": 60
+        },
+        {
+          "startMs": 40714,
+          "endMs": 41143,
+          "note": 60
+        },
+        {
+          "startMs": 41143,
+          "endMs": 42857,
+          "note": 60
+        },
+        {
+          "startMs": 46286,
+          "endMs": 48000,
+          "note": 65
+        },
+        {
+          "startMs": 48000,
+          "endMs": 50571,
+          "note": 70
+        },
+        {
+          "startMs": 50571,
+          "endMs": 51429,
+          "note": 69
+        },
+        {
+          "startMs": 51429,
+          "endMs": 52286,
+          "note": 67
+        },
+        {
+          "startMs": 52286,
+          "endMs": 53143,
+          "note": 65
+        },
+        {
+          "startMs": 53143,
+          "endMs": 54000,
+          "note": 65
+        },
+        {
+          "startMs": 54000,
+          "endMs": 54857,
+          "note": 64
+        },
+        {
+          "startMs": 54857,
+          "endMs": 56571,
+          "note": 65
+        },
+        {
+          "startMs": 56571,
+          "endMs": 57429,
+          "note": 65
+        },
+        {
+          "startMs": 57429,
+          "endMs": 58286,
+          "note": 60
+        },
+        {
+          "startMs": 58286,
+          "endMs": 59143,
+          "note": 62
+        },
+        {
+          "startMs": 59143,
+          "endMs": 60000,
+          "note": 62
+        },
+        {
+          "startMs": 60000,
+          "endMs": 61714,
+          "note": 62
+        },
+        {
+          "startMs": 61714,
+          "endMs": 63429,
+          "note": 64
+        },
+        {
+          "startMs": 63429,
+          "endMs": 65143,
+          "note": 64
+        },
+        {
+          "startMs": 65143,
+          "endMs": 66000,
+          "note": 64
+        },
+        {
+          "startMs": 66000,
+          "endMs": 67714,
+          "note": 69
+        },
+        {
+          "startMs": 67714,
+          "endMs": 69000,
+          "note": 67
+        },
+        {
+          "startMs": 69000,
+          "endMs": 69429,
+          "note": 65
+        },
+        {
+          "startMs": 69429,
+          "endMs": 70286,
+          "note": 65
+        },
+        {
+          "startMs": 71143,
+          "endMs": 72000,
+          "note": 65
+        },
+        {
+          "startMs": 72000,
+          "endMs": 72857,
+          "note": 65
+        },
+        {
+          "startMs": 72857,
+          "endMs": 73714,
+          "note": 58
+        },
+        {
+          "startMs": 73714,
+          "endMs": 74571,
+          "note": 65
+        },
+        {
+          "startMs": 74571,
+          "endMs": 75428,
+          "note": 65
+        },
+        {
+          "startMs": 75428,
+          "endMs": 76286,
+          "note": 64
+        },
+        {
+          "startMs": 76286,
+          "endMs": 78000,
+          "note": 72
+        },
+        {
+          "startMs": 78000,
+          "endMs": 78857,
+          "note": 65
+        },
+        {
+          "startMs": 78857,
+          "endMs": 79714,
+          "note": 72
+        },
+        {
+          "startMs": 79714,
+          "endMs": 80571,
+          "note": 70
+        },
+        {
+          "startMs": 80571,
+          "endMs": 81428,
+          "note": 69
+        },
+        {
+          "startMs": 81428,
+          "endMs": 82714,
+          "note": 67
+        },
+        {
+          "startMs": 82714,
+          "endMs": 83143,
+          "note": 65
+        },
+        {
+          "startMs": 83143,
+          "endMs": 84857,
+          "note": 65
+        },
+        {
+          "startMs": 84857,
+          "endMs": 85714,
+          "note": 64
+        },
+        {
+          "startMs": 85714,
+          "endMs": 87428,
+          "note": 65
+        },
+        {
+          "startMs": 87428,
+          "endMs": 90857,
+          "note": 65
+        }
+      ]
+    },
+    {
+      "role": "soprano",
+      "noteTrack": 1,
+      "lyricTrack": 5,
+      "singer": "Bright TG voice",
+      "lyrics": [
+        {
+          "tick": 0,
+          "text": "If",
+          "order": 0,
+          "timeMs": 0,
+          "word": "if",
+          "wordIndex": 0,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɪf",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1152,
+          "text": "ye",
+          "order": 1,
+          "timeMs": 2571,
+          "word": "ye",
+          "wordIndex": 1,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 1536,
+          "text": "love",
+          "order": 2,
+          "timeMs": 3429,
+          "word": "love",
+          "wordIndex": 2,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "lˈʌv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 2304,
+          "text": "me,",
+          "order": 3,
+          "timeMs": 5143,
+          "word": "me",
+          "wordIndex": 3,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3456,
+          "text": "keep",
+          "order": 4,
+          "timeMs": 7714,
+          "word": "keep",
+          "wordIndex": 4,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "kˈiːp",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 3840,
+          "text": "my",
+          "order": 5,
+          "timeMs": 8571,
+          "word": "my",
+          "wordIndex": 5,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4224,
+          "text": "com-",
+          "order": 6,
+          "timeMs": 9429,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 4608,
+          "text": "mand-",
+          "order": 7,
+          "timeMs": 10286,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "mˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 5376,
+          "text": "ments,",
+          "order": 8,
+          "timeMs": 12000,
+          "word": "commandments",
+          "wordIndex": 6,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "mənts",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6528,
+          "text": "and",
+          "order": 9,
+          "timeMs": 14571,
+          "word": "and",
+          "wordIndex": 9,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 6912,
+          "text": "I",
+          "order": 10,
+          "timeMs": 15429,
+          "word": "i",
+          "wordIndex": 10,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈa‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7296,
+          "text": "will",
+          "order": 11,
+          "timeMs": 16286,
+          "word": "will",
+          "wordIndex": 11,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪl",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 7680,
+          "text": "pray",
+          "order": 12,
+          "timeMs": 17143,
+          "word": "pray",
+          "wordIndex": 12,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "pɹˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8448,
+          "text": "the",
+          "order": 13,
+          "timeMs": 18857,
+          "word": "the",
+          "wordIndex": 13,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 8832,
+          "text": "Fa",
+          "order": 14,
+          "timeMs": 19714,
+          "word": "father",
+          "wordIndex": 14,
+          "syllableIndex": 0,
+          "syllableCount": 2,
+          "ipa": "fˈɑːð",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 9984,
+          "text": "ther,",
+          "order": 15,
+          "timeMs": 22286,
+          "word": "father",
+          "wordIndex": 14,
+          "syllableIndex": 1,
+          "syllableCount": 2,
+          "ipa": "ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 12672,
+          "text": "and",
+          "order": 16,
+          "timeMs": 28286,
+          "word": "and",
+          "wordIndex": 16,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈand",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13056,
+          "text": "He",
+          "order": 17,
+          "timeMs": 29143,
+          "word": "he",
+          "wordIndex": 17,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13440,
+          "text": "shall",
+          "order": 18,
+          "timeMs": 30000,
+          "word": "shall",
+          "wordIndex": 18,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ʃˈal",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 13824,
+          "text": "give",
+          "order": 19,
+          "timeMs": 30857,
+          "word": "give",
+          "wordIndex": 19,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ɡˈɪv",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 14976,
+          "text": "you",
+          "order": 20,
+          "timeMs": 33429,
+          "word": "you",
+          "wordIndex": 20,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 15744,
+          "text": "a-",
+          "order": 21,
+          "timeMs": 35143,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "ɐ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16128,
+          "text": "no-",
+          "order": 22,
+          "timeMs": 36000,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "nˈʌð",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 16512,
+          "text": "ther",
+          "order": 23,
+          "timeMs": 36857,
+          "word": "another",
+          "wordIndex": 21,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "ə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 17280,
+          "text": "com-",
+          "order": 24,
+          "timeMs": 38571,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "kˈʌm",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18048,
+          "text": "fort-",
+          "order": 25,
+          "timeMs": 40286,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 18432,
+          "text": "er,",
+          "order": 26,
+          "timeMs": 41143,
+          "word": "comforter",
+          "wordIndex": 24,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "tə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 23424,
+          "text": "that",
+          "order": 27,
+          "timeMs": 52286,
+          "word": "that",
+          "wordIndex": 27,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈat",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 23808,
+          "text": "He",
+          "order": 28,
+          "timeMs": 53143,
+          "word": "he",
+          "wordIndex": 28,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "hˈiː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 24960,
+          "text": "may",
+          "order": 29,
+          "timeMs": 55714,
+          "word": "may",
+          "wordIndex": 29,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "mˈe‍ɪ",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25344,
+          "text": "bide",
+          "order": 30,
+          "timeMs": 56571,
+          "word": "bide",
+          "wordIndex": 30,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "bˈa‍ɪd",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 25728,
+          "text": "with",
+          "order": 31,
+          "timeMs": 57429,
+          "word": "with",
+          "wordIndex": 31,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "wˈɪð",
+          "language": "en-gb",
+          "pronunciationSource": "complete-token"
+        },
+        {
+          "tick": 26112,
+          "text": "you",
+          "order": 32,
+          "timeMs": 58286,
+          "word": "you",
+          "wordIndex": 32,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "jˈuː",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26496,
+          "text": "for",
+          "order": 33,
+          "timeMs": 59143,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 0,
+          "syllableCount": 3,
+          "ipa": "fə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 26880,
+          "text": "ev-",
+          "order": 34,
+          "timeMs": 60000,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 1,
+          "syllableCount": 3,
+          "ipa": "ɹˈɛ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 27648,
+          "text": "er:",
+          "order": 35,
+          "timeMs": 61714,
+          "word": "forever",
+          "wordIndex": 33,
+          "syllableIndex": 2,
+          "syllableCount": 3,
+          "ipa": "və",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 31104,
+          "text": "Ev'n",
+          "order": 36,
+          "timeMs": 69429,
+          "word": "even",
+          "wordIndex": 36,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 31872,
+          "text": "the",
+          "order": 37,
+          "timeMs": 71143,
+          "word": "the",
+          "wordIndex": 37,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 32256,
+          "text": "Sp'rit",
+          "order": 38,
+          "timeMs": 72000,
+          "word": "spirit",
+          "wordIndex": 38,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 32640,
+          "text": "of",
+          "order": 39,
+          "timeMs": 72857,
+          "word": "of",
+          "wordIndex": 39,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33024,
+          "text": "truth,",
+          "order": 40,
+          "timeMs": 73714,
+          "word": "truth",
+          "wordIndex": 40,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 33792,
+          "text": "ev'n",
+          "order": 41,
+          "timeMs": 75428,
+          "word": "even",
+          "wordIndex": 41,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 34176,
+          "text": "the",
+          "order": 42,
+          "timeMs": 76286,
+          "word": "the",
+          "wordIndex": 42,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 34560,
+          "text": "Sp'rit",
+          "order": 43,
+          "timeMs": 77143,
+          "word": "spirit",
+          "wordIndex": 43,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 34944,
+          "text": "of",
+          "order": 44,
+          "timeMs": 78000,
+          "word": "of",
+          "wordIndex": 44,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35328,
+          "text": "truth,",
+          "order": 45,
+          "timeMs": 78857,
+          "word": "truth",
+          "wordIndex": 45,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 35712,
+          "text": "ev'n",
+          "order": 46,
+          "timeMs": 79714,
+          "word": "even",
+          "wordIndex": 46,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "iːn",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 36480,
+          "text": "the",
+          "order": 47,
+          "timeMs": 81428,
+          "word": "the",
+          "wordIndex": 47,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ðˈə",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 36864,
+          "text": "Sp'rit",
+          "order": 48,
+          "timeMs": 82286,
+          "word": "spirit",
+          "wordIndex": 48,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "spɹɪt",
+          "language": "en-gb",
+          "pronunciationSource": "sung-form"
+        },
+        {
+          "tick": 37248,
+          "text": "of",
+          "order": 49,
+          "timeMs": 83143,
+          "word": "of",
+          "wordIndex": 49,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "ˈɒv",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 38400,
+          "text": "truth,",
+          "order": 50,
+          "timeMs": 85714,
+          "word": "truth",
+          "wordIndex": 50,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        },
+        {
+          "tick": 39168,
+          "text": "truth.",
+          "order": 51,
+          "timeMs": 87428,
+          "word": "truth",
+          "wordIndex": 51,
+          "syllableIndex": 0,
+          "syllableCount": 1,
+          "ipa": "tɹˈuːθ",
+          "language": "en-gb",
+          "pronunciationSource": "lexicon"
+        }
+      ],
+      "notes": [
+        {
+          "startMs": 0,
+          "endMs": 2571,
+          "note": 65
+        },
+        {
+          "startMs": 2571,
+          "endMs": 3429,
+          "note": 65
+        },
+        {
+          "startMs": 3429,
+          "endMs": 5143,
+          "note": 67
+        },
+        {
+          "startMs": 5143,
+          "endMs": 6857,
+          "note": 69
+        },
+        {
+          "startMs": 6857,
+          "endMs": 7714,
+          "note": 69
+        },
+        {
+          "startMs": 7714,
+          "endMs": 8571,
+          "note": 69
+        },
+        {
+          "startMs": 8571,
+          "endMs": 9429,
+          "note": 67
+        },
+        {
+          "startMs": 9429,
+          "endMs": 10286,
+          "note": 65
+        },
+        {
+          "startMs": 10286,
+          "endMs": 12000,
+          "note": 70
+        },
+        {
+          "startMs": 12000,
+          "endMs": 13714,
+          "note": 69
+        },
+        {
+          "startMs": 14571,
+          "endMs": 15429,
+          "note": 69
+        },
+        {
+          "startMs": 15429,
+          "endMs": 16286,
+          "note": 69
+        },
+        {
+          "startMs": 16286,
+          "endMs": 17143,
+          "note": 69
+        },
+        {
+          "startMs": 17143,
+          "endMs": 18857,
+          "note": 72
+        },
+        {
+          "startMs": 18857,
+          "endMs": 19714,
+          "note": 70
+        },
+        {
+          "startMs": 19714,
+          "endMs": 21000,
+          "note": 69
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21429,
+          "note": 70
+        },
+        {
+          "startMs": 21429,
+          "endMs": 22286,
+          "note": 67
+        },
+        {
+          "startMs": 22286,
+          "endMs": 24000,
+          "note": 69
+        },
+        {
+          "startMs": 28286,
+          "endMs": 29143,
+          "note": 67
+        },
+        {
+          "startMs": 29143,
+          "endMs": 30000,
+          "note": 65
+        },
+        {
+          "startMs": 30000,
+          "endMs": 30857,
+          "note": 65
+        },
+        {
+          "startMs": 30857,
+          "endMs": 33429,
+          "note": 70
+        },
+        {
+          "startMs": 33429,
+          "endMs": 34286,
+          "note": 69
+        },
+        {
+          "startMs": 34286,
+          "endMs": 35143,
+          "note": 69
+        },
+        {
+          "startMs": 35143,
+          "endMs": 36000,
+          "note": 65
+        },
+        {
+          "startMs": 36000,
+          "endMs": 36857,
+          "note": 69
+        },
+        {
+          "startMs": 36857,
+          "endMs": 37714,
+          "note": 67
+        },
+        {
+          "startMs": 37714,
+          "endMs": 38571,
+          "note": 67
+        },
+        {
+          "startMs": 38571,
+          "endMs": 40286,
+          "note": 65
+        },
+        {
+          "startMs": 40286,
+          "endMs": 41143,
+          "note": 64
+        },
+        {
+          "startMs": 41143,
+          "endMs": 42857,
+          "note": 65
+        },
+        {
+          "startMs": 52286,
+          "endMs": 53143,
+          "note": 65
+        },
+        {
+          "startMs": 53143,
+          "endMs": 54857,
+          "note": 72
+        },
+        {
+          "startMs": 54857,
+          "endMs": 55714,
+          "note": 72
+        },
+        {
+          "startMs": 55714,
+          "endMs": 56571,
+          "note": 70
+        },
+        {
+          "startMs": 56571,
+          "endMs": 57429,
+          "note": 69
+        },
+        {
+          "startMs": 57429,
+          "endMs": 58286,
+          "note": 67
+        },
+        {
+          "startMs": 58286,
+          "endMs": 59143,
+          "note": 65
+        },
+        {
+          "startMs": 59143,
+          "endMs": 60000,
+          "note": 69
+        },
+        {
+          "startMs": 60000,
+          "endMs": 61714,
+          "note": 67
+        },
+        {
+          "startMs": 61714,
+          "endMs": 63429,
+          "note": 67
+        },
+        {
+          "startMs": 69429,
+          "endMs": 71143,
+          "note": 72
+        },
+        {
+          "startMs": 71143,
+          "endMs": 72000,
+          "note": 65
+        },
+        {
+          "startMs": 72000,
+          "endMs": 72857,
+          "note": 72
+        },
+        {
+          "startMs": 72857,
+          "endMs": 73714,
+          "note": 70
+        },
+        {
+          "startMs": 73714,
+          "endMs": 75428,
+          "note": 69
+        },
+        {
+          "startMs": 75428,
+          "endMs": 76286,
+          "note": 67
+        },
+        {
+          "startMs": 76286,
+          "endMs": 77143,
+          "note": 65
+        },
+        {
+          "startMs": 77143,
+          "endMs": 78000,
+          "note": 64
+        },
+        {
+          "startMs": 78000,
+          "endMs": 78857,
+          "note": 62
+        },
+        {
+          "startMs": 78857,
+          "endMs": 79714,
+          "note": 60
+        },
+        {
+          "startMs": 79714,
+          "endMs": 81428,
+          "note": 65
+        },
+        {
+          "startMs": 81428,
+          "endMs": 82286,
+          "note": 72
+        },
+        {
+          "startMs": 82286,
+          "endMs": 83143,
+          "note": 74
+        },
+        {
+          "startMs": 83143,
+          "endMs": 84000,
+          "note": 70
+        },
+        {
+          "startMs": 84000,
+          "endMs": 85714,
+          "note": 72
+        },
+        {
+          "startMs": 85714,
+          "endMs": 87428,
+          "note": 72
+        },
+        {
+          "startMs": 87428,
+          "endMs": 90857,
+          "note": 72
+        }
+      ]
+    }
+  ]
+}

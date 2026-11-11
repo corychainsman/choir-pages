@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "engine": "gnuspeech",
+  "firmwareProtocol": "generic",
+  "boardModel": "waveshare-esp32-s3-touch-amoled-2.06",
+  "emulator": {
+    "boardName": "waveshare-amoled206",
+    "flashMb": 32,
+    "psramMb": 8,
+    "voiceNvsPartition": {
+      "offset": 36864,
+      "byteLength": 24576
+    },
+    "source": {
+      "repository": "https://github.com/mikroverk/esp32sim",
+      "revision": "3d276edfd9bc31b4622c13015f04f61114e35315",
+      "patch": {
+        "path": "tools/esp32sim/patches/0001-waveshare-amoled206.patch",
+        "sha256": "9073ffade9a6b4a7b3bccbbb0b90cdb65d17e31f8f315054eb88ef3467207d33"
+      },
+      "additionalPatches": [
+        {
+          "path": "tools/esp32sim/patches/0002-ble-midi-peripheral.patch",
+          "sha256": "045f7f95a2c0dbafa031cae34b96fbdb69945971a21a242bce89f4e9a5117c24"
+        }
+      ]
+    },
+    "ble": "virtual",
+    "radio": "esp-now"
+  },
+  "assets": {
+    "wasm": {
+      "path": "esp32sim.wasm",
+      "sha256": "358f46c2026ea2234e7a31e9041cc2106700188ca9b6e0f8a4a26238c61720d1",
+      "byteLength": 3994492
+    },
+    "jitModule": {
+      "path": "jit.mjs",
+      "sha256": "a759ae4a3d1ca6ddd91259ede39e34ebda45ff7ccb9c4ceeff0d1423f44ac294",
+      "byteLength": 1793
+    },
+    "rom": {
+      "path": "esp32s3_rev0_rom.elf",
+      "sha256": "c0ce0f338d1de1bdc6efbef1591779a2a42c1ab7d759d3c6ae8ae63a7dd34cfd",
+      "byteLength": 949552
+    },
+    "flashImage": {
+      "path": "choir_gnu.bin",
+      "sha256": "b5195b6f14bfb1830586ec87eb698b75fc64614511b125896a9fa29910a586e2",
+      "byteLength": 23076864
+    },
+    "voiceNvs0": {
+      "path": "role-nvs-0.bin",
+      "sha256": "c23eefd53cc6a1cc9be695cd604495680804e7d2f49f973ecac45a149daa67aa",
+      "byteLength": 24576
+    },
+    "voiceNvs1": {
+      "path": "role-nvs-1.bin",
+      "sha256": "4e1f4cea3095ff92cd694f8d4e75a43a27afcc81cb5ca24758ea3a1f40132b96",
+      "byteLength": 24576
+    },
+    "voiceNvs2": {
+      "path": "role-nvs-2.bin",
+      "sha256": "dde2fa36313eb9cc1e56ec2c7701973dbd291558c017b92dc4e369034b340315",
+      "byteLength": 24576
+    },
+    "voiceNvs3": {
+      "path": "role-nvs-3.bin",
+      "sha256": "50969f104e268edcb5dd648cf0eccce098419313d174c21aa9fbf6e409749743",
+      "byteLength": 24576
+    },
+    "voiceNvs4": {
+      "path": "role-nvs-4.bin",
+      "sha256": "9da74625e15308bac5ad82c24d4ddf69f9f0f1918cdcc7d493f9d7eadb7d0610",
+      "byteLength": 24576
+    },
+    "voiceNvs5": {
+      "path": "role-nvs-5.bin",
+      "sha256": "fd43b546446bea1acf9752a9ce7deec238dd1f4abe2c679d9cde4988aef7e099",
+      "byteLength": 24576
+    },
+    "voiceNvs6": {
+      "path": "role-nvs-6.bin",
+      "sha256": "7e161663de078550edea41925eda6819732795ccbc2aa60a312483e65fc5c40e",
+      "byteLength": 24576
+    },
+    "voiceNvs7": {
+      "path": "role-nvs-7.bin",
+      "sha256": "a2b4c339c2966d2440891123d3249049c8c4ce9b9bd32901043c9a1ba92dc5ac",
+      "byteLength": 24576
+    },
+    "appElf": {
+      "path": "choir_singer.elf",
+      "sha256": "3f1b2fb0991b417df90034d65d772615065f841db1d0c25aa8847ff05104bc8b",
+      "byteLength": 5305219
+    },
+    "firmwareElf": {
+      "path": "firmware.elf",
+      "sha256": "3f1b2fb0991b417df90034d65d772615065f841db1d0c25aa8847ff05104bc8b",
+      "byteLength": 5305219
+    }
+  },
+  "provenance": {
+    "firmwareElf": {
+      "fullSha256": "5085e8818d643191a32a99fede411aecbfde4cc1f17d645334bc3bc2bbb52690",
+      "compactMethod": "ELF32 section-payload compaction; PT_LOAD and symbols preserved"
+    }
+  }
+}

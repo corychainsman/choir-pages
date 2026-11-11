@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "id": "waveshare-esp32-s3-touch-amoled-2.06",
+  "name": "Waveshare ESP32-S3-Touch-AMOLED-2.06",
+  "status": "source-backed-provisional-emulation-target",
+  "soc": {
+    "part": "ESP32-S3R8",
+    "architecture": "Xtensa LX7",
+    "cores": 2,
+    "cpu_mhz": 240,
+    "flash_bytes": 33554432,
+    "psram_bytes": 8388608,
+    "flash_configuration_status": "product-spec; vendor factory sdkconfig selects 16 MiB and must be reconciled"
+  },
+  "display": {
+    "controller": "CO5300",
+    "vendor_driver_name": "SH8601 QSPI driver; command stream identity needs validation",
+    "width": 410,
+    "height": 502,
+    "pixel_format": "RGB565",
+    "bus": "QSPI",
+    "pins": {
+      "cs": 12,
+      "clock": 11,
+      "data": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "reset": 8,
+      "te": 13
+    },
+    "window_gap": {
+      "x": 22,
+      "y": 0,
+      "meaning": "controller address-window offset, not visible framebuffer stride"
+    },
+    "mask": {
+      "shape": "rounded-rectangle",
+      "radius_px": 33,
+      "status": "provisional; physical aperture radius unmeasured"
+    }
+  },
+  "touch": {
+    "controller": "FT3168",
+    "address_7bit": 56,
+    "pins": {
+      "sda": 15,
+      "scl": 14,
+      "irq": 38,
+      "reset": 9
+    },
+    "status": "hardware-source-backed; physical bus is GPIO15/14; emulator attaches shared-state FT3168 endpoint to I2C0/I2C1 aliases filtered by SDA/SCL routing; product build selects host 1; electrical line timing is not modeled",
+    "i2c_controller_hosts": [
+      0,
+      1
+    ]
+  },
+  "i2c": {
+    "controller_hosts": [
+      0,
+      1
+    ],
+    "pins": {
+      "sda": 15,
+      "scl": 14
+    },
+    "product_build_host": 1,
+    "routing_status": "product BSP sdkconfig selects I2C1 and routes GPIO15/14; emulator attaches shared-state endpoints on host0/host1 and checks GPIO-matrix SDA/SCL pin pair; analog line/electrical timing is not modeled"
+  },
+  "peripherals": [
+    {
+      "id": "pmu",
+      "part": "AXP2101",
+      "bus": "shared-gpio15-14-host0-or-1",
+      "address_7bit": 52,
+      "status": "esp32sim register initialization stub only",
+      "functions": [
+        "power-rails",
+        "battery",
+        "charging",
+        "usb-status",
+        "shutdown"
+      ]
+    },
+    {
+      "id": "rtc",
+      "part": "PCF85063ATL",
+      "bus": "shared-gpio15-14-host0-or-1",
+      "address_7bit": 81,
+      "irq_gpio": 39,
+      "status": "esp32sim register initialization stub only",
+      "functions": [
+        "calendar",
+        "alarm",
+        "clock-stop"
+      ]
+    },
+    {
+      "id": "imu",
+      "part": "QMI8658C",
+      "bus": "shared-gpio15-14-host0-or-1",
+      "address_7bit": 107,
+      "irq_gpio": 21,
+      "status": "esp32sim has synthetic QMI8658 motion adapter; board IRQ and axes unverified",
+      "functions": [
+        "accelerometer",
+        "gyroscope"
+      ]
+    },
+    {
+      "id": "playback-codec",
+      "part": "ES8311",
+      "bus": "shared-gpio15-14-host0-or-1",
+      "address_7bit": 24,
+      "status": "board source-backed; codec register model absent"
+    },
+    {
+      "id": "microphone-adc",
+      "part": "ES7210",
+      "bus": "shared-gpio15-14-host0-or-1",
+      "address_7bit": null,
+      "address_status": "source uses ES7210_CODEC_DEFAULT_ADDR macro; resolved numeric value not verified in pinned board source",
+      "status": "not modeled",
+      "channels": 2
+    },
+    {
+      "id": "speaker-amplifier",
+      "part": "NS4150B",
+      "enable_gpio": 46,
+      "status": "enable pin source-backed; amplifier/audio response not modeled"
+    }
+  ],
+  "audio": {
+    "i2s_controller": "I2S0 or I2S1; factory Kconfig selectable",
+    "pins": {
+      "mclk": 16,
+      "bclk": 41,
+      "lrclk": 45,
+      "dout": 40,
+      "din": 42
+    },
+    "status": "S3 I2S register/DMA path exists upstream; exact board wiring and codec behavior require integration"
+  },
+  "other_pins": {
+    "boot_button": {
+      "gpio": 0,
+      "active_level": 0
+    },
+    "power_signal": {
+      "gpio": 10,
+      "active_level": 1,
+      "shutdown_hold_seconds": 6,
+      "status": "vendor product behavior; timing not electrically validated"
+    },
+    "tf_card": {
+      "official_spi_aliases": {
+        "mosi": 1,
+        "clock": 2,
+        "miso": 3,
+        "cs": 17
+      },
+      "factory_bsp_mode": "one-bit SDMMC",
+      "factory_bsp_pins": {
+        "cmd": 1,
+        "clock": 2,
+        "data0": 3
+      },
+      "status": "official docs expose SPI pin aliases including CS17; factory BSP selects one-bit SDMMC on shared CMD/CLK/D0 pins"
+    },
+    "usb": {
+      "dm": 19,
+      "dp": 20
+    },
+    "uart": {
+      "tx": 43,
+      "rx": 44
+    }
+  },
+  "battery": {
+    "connector": "MX1.25",
+    "nominal_voltage_v": 3.7,
+    "capacity_mah": null,
+    "polarity": null,
+    "status": "connector and nominal voltage are user-specified; installed cell capacity and connector polarity are unverified"
+  },
+  "mechanical": {
+    "body_mm": [
+      42.0,
+      50.8
+    ],
+    "depth_mm": {
+      "body": 12.9,
+      "maximum": 13.6
+    },
+    "active_display_mm": null,
+    "status": "enclosure dimensions from vendor drawing; active aperture dimensions are not established"
+  },
+  "emulator_capabilities": {
+    "cpu": {
+      "status": "implemented",
+      "evidence": "esp32sim commit implements Xtensa LX7 FPU decoder/interpreter/JIT and S3 two-core control; performance is unmeasured"
+    },
+    "flash_psram": {
+      "status": "capacity-configurable",
+      "evidence": "Wasm ABI accepts up to 32 MiB each for flash and PSRAM; target 32+8 MiB fits the stated individual caps"
+    },
+    "co5300_display": {
+      "status": "reusable-model-needs-board-extension",
+      "evidence": "CO5300 panel model exists; current 1.8-inch board config is 368x448 and x-offset 16"
+    },
+    "ft3168_touch": {
+      "status": "compatible-point-register-subset",
+      "evidence": "Waveshare FT3x68 driver identifies FT3168 as 0x03 at A0 and reads finger count 0x02 plus X/Y records from 0x03/0x05; board model exposes that map at I2C 0x38, injects active-low GPIO38 IRQ, and clears contacts on active-low GPIO9 reset. Gesture and power-mode behavior remain unmodeled."
+    },
+    "qmi8658_imu": {
+      "status": "partial-synthetic",
+      "evidence": "QMI8658 adapter exposes injected motion, not sensor register/IRQ fidelity"
+    },
+    "pmu_rtc": {
+      "status": "register-stubs",
+      "evidence": "current 1.8 board uses Reg8 initialization stubs for AXP2101 and PCF85063"
+    },
+    "i2s": {
+      "status": "controller-and-dma-path",
+      "evidence": "S3 models I2S/GDMA streams; board codec and amplifier are not thereby modeled"
+    },
+    "es8311_es7210": {
+      "status": "unsupported-codec-model",
+      "evidence": "no board-specific ES8311 playback or ES7210 capture device found"
+    },
+    "rf_battery_thermal": {
+      "status": "not-modeled",
+      "evidence": "not inferred from SoC emulation"
+    }
+  },
+  "sources": {
+    "esp32sim": {
+      "url": "https://github.com/mikroverk/esp32sim",
+      "revision": "3d276edfd9bc31b4622c13015f04f61114e35315"
+    },
+    "waveshare": {
+      "url": "https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-2.06",
+      "revision": "30f3b23b3d4bb38d32f7d0cddffb66759668a855"
+    },
+    "specification": "https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-2.06",
+    "mechanical_drawing": "https://files.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-2.06/Esp32-s3-touch-amoled-2_06_dimensions.pdf"
+  }
+}
